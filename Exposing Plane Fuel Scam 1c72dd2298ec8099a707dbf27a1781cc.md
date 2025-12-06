@@ -1,0 +1,31 @@
+# Exposing Plane Fuel Scam
+
+Favourite: No
+Date Created: 16/10/2024
+Last Edited: November 29, 2025 7:16 PM
+Type: Normal
+Age Rating: SFW
+Main Emotion: Surprise
+Locations: Desert, Secondary School
+Characters: Business Person, Students, Teachers
+Influences: Shark Tank (2009)
+
+# Description
+
+At my secondary school, everyone forwarded to an assembly in a small canyon-themed seating area featuring wooden benches, sand, boulders, and a few blackbrush bushes scattered around. A conman was invited to showcase his fake invention at the front podium using a projector presentation. He claimed that through advanced scientific methods he had honed over the years, he patented a unique design that could convert various substances into fuel for his private jet parked nearby.
+
+A sceptical teacher overseeing the event dismissed the claim as impossible, but the presenter countered by inviting them to compare the fuel levels before the presentation and after when the conversion process was completed. While remaining seated during lunch break as most students moved to another room, I watched the presenter open Wikipedia articles to copy paragraphs onto his slides. I discretely captured low-angle photos from behind my school bag, ensuring the screen and presenter were featured as irrefutable evidence. Upon informing the head teacher about the incident, he assured me that when everyone returns, he will start with general questions, then I could inquire about the copied text.
+
+# Interpretations
+
+## Influences
+
+- I was watching an online video of a Shark Tank pitch from Minus Cal where the owner tried to claim they had an advanced scientific process to block fat and had the data to back it up [https://youtu.be/pwf1UmbjQho?si=vQgT651dJwAqruW6&t=252](https://youtu.be/pwf1UmbjQho?si=vQgT651dJwAqruW6&t=252).
+
+## Symbols
+
+- N/A.
+
+## Lessons
+
+- Advertisements can promise anything but what matters is whether they deliver.
