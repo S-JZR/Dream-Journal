@@ -1,0 +1,33 @@
+# Winning A MrBeast Gameshow
+
+Favourite: No
+Date Created: 15/06/2024
+Last Edited: November 28, 2025 5:09 PM
+Type: Normal
+Age Rating: SFW
+Main Emotion: Happy
+Locations: Virtual World
+Characters: Misc People, MrBeast
+Influences: Online Videos
+
+# Description
+
+I found myself invited to a Mr Beast competition in Roblox, where I had to design a map out of blocks for other contestants to compete in through multiple challenges. Eventually, I created a basic blocky plane interior, featuring stud surfaces, multiple sections, and four columns of seats with aisles on both sides of the middle two. All contestants tried sitting down, but I forgot to add the seating parts, causing them to fall over, so I quickly copied them in.
+
+In challenge one players played object avoidance and the front of the plane vanished, revealing various 2D 2x10 pieces spanning from the floor to the ceiling, sliding through the entire plane without collisions as everyone tried to avoid touching them.
+
+In challenge two the remaining players played prop hunt and disguised themselves as different items around the aircraft. When Mr. Beast entered to hunt the players, he investigated each room with a flamethrower, setting entire areas on fire. Ultimately, I was the last player left, disguised as a gecko hanging on a square pole and walking around it to avoid being seen. I gave a hint that I hid "where it all started" and Mr. Beast caught a glimpse of my legs pulling back.
+
+# Interpretations
+
+## Influences
+
+- I used to play Roblox a lot.
+
+## Symbols
+
+- MrBeast: probably the subconscious desire to be in a MrBeast video.
+
+## Lessons
+
+- Think outside the box.
