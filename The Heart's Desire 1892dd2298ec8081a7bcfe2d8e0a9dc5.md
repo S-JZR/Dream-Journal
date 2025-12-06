@@ -1,0 +1,32 @@
+# The Heart's Desire
+
+Favourite: Yes
+Date Created: 29/12/2024
+Last Edited: November 28, 2025 9:17 PM
+Type: Normal
+Age Rating: SFW
+Main Emotion: Surprise
+Locations: City
+Characters: Disembodied Voice, Misc People
+Influences: Christian Bible
+
+# Description
+
+I was ascending the stairs of a skyscraper without windows except for the top floor which led into an empty room with a giant red 3D love heart at the centre. During the journey, a disembodied voice explained that many people are distracted by the symptoms of societal problems, overlooking the root cause which lies in the desires of one's heart.
+
+While crossing the minor road of a T-junction at 68 Manning Street in South Brisbane, a homeless man went across the main road to punch a bearded bald man in the face as he walked alongside his friends. After briefly wrestling, the bearded man knocked him out with a punch to the forehead as he collapsed motionless on the ground. I initially pulled out my phone but hesitated to call for an ambulance, wondering if he would do it himself as he fiddled with his phone before finally doing it.
+
+# Interpretations
+
+## Influences
+
+- I hear Christian teachings all the time and it reminds me of Proverbs 4:23.
+
+## Symbols
+
+- Heart: the inner self.
+- Homeless man: I see this as meaning jealously and anger for what others have that you don’t.
+
+## Lessons
+
+- Address the root cause of problems not the symptoms.
