@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/08/2025
-Last Edited: November 27, 2025 11:32 PM
+Last Edited: December 6, 2025 4:28 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -11,7 +11,7 @@ Characters: Alex Jones, News Reporters
 
 # Description
 
-I was watching the news on TV when a male anchor presented breaking news that Alex Jones had died at age 60 from a heart attack that was complicated by excessive drinking and smoking. Footage showed him talking while seated behind a curved desk on his show when he suddenly clenched his chest in pain and winced as he leaned forward.
+I was seated on the sofa in the lounge room watching the news on TV when a male news anchor presented breaking news that Alex Jones had died at age 60 from a heart attack that was complicated by excessive drinking and smoking. Footage showed him talking while seated behind a curved desk on his show when he suddenly clenched his chest in pain and winced as he leaned forward.
 
 # Interpretations
 

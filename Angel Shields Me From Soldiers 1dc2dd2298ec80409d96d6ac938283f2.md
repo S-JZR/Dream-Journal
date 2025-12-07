@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: November 27, 2025 11:20 PM
+Last Edited: December 5, 2025 2:57 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: Christian Bible
 
 # Description
 
-I walked past the car park in my unit complex to other side when a squad of soldiers shot at me with machine guns. A barely visible translucent orange angel with its wings stretched out levitated in front of me, facing them, and absorbed all their bullets.
+I was walking to the other side of the carpark in my unit complex as an almost invisible orange angel with outstretched wings levitated in front of me and faced a distant line of soldiers equipped with machine guns. The soldiers opened fire but I was unharmed as the bullets instantly disappeared when hitting the angel.
 
 # Interpretations
 

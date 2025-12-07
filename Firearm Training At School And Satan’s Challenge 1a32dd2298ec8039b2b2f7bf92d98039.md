@@ -2,17 +2,17 @@
 
 Favourite: No
 Date Created: 11/02/2025
-Last Edited: November 28, 2025 9:33 PM
+Last Edited: December 6, 2025 2:20 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Primary School, Studio
 Characters: Demons, Donald Trump, Satan, Students, Teachers
-Influences: Online Videos, Personal Thoughts
+Influences: News, Online Videos, Personal Thoughts
 
 # Description
 
-As an initiative to increase national defences and prevent school shootings, Donald Trump trailed a program to teach an entire primary school how to operate firearms. Each student received an empty Glock pistol at their desk which I was unsure where to point with others so close together. The instructor asked everyone what four key things someone should know about handling firearms. A few students gave answers like “make sure it’s fully loaded” and “clean it often”. The instructor remained positive but wanted to hear the safety rules.
+As an initiative to increase national defences and prevent school shootings, Donald Trump trialled a program to teach an entire primary school how to operate firearms. Each student received an empty Glock pistol at their desk which I was unsure where to point with others so close together. The instructor asked everyone what four key things someone should know about handling firearms. A few students gave answers like “make sure it’s fully loaded” and “clean it often”. The instructor remained positive but wanted to hear the safety rules.
 
 During recess while overhearing a religious discussion by a few other students in a room, I said that if a central god responsible for managing everything died then order would devolve as control is fought by individuals in a war of the gods.
 

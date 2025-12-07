@@ -2,17 +2,17 @@
 
 Favourite: No
 Date Created: 05/03/2025
-Last Edited: November 28, 2025 10:36 PM
+Last Edited: December 6, 2025 2:40 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: Carpark, Water Theme Park
-Characters: Family (Fake), Misc People
+Characters: Family, Family (Fake), Misc People
 Influences: Personal Experiences
 
 # Description
 
-I was with my family and another fictional child at a water theme park, floating in a small central circular wave pool.
+I was floating in a a small central circular wave pool in a water theme park with my family and a fictional younger brother.
 
 Eventually, the child entered a separate building where people were already seated at a row of customer service counters with glass shields and seating on both sides. He took a seat as a staff member discussed aspects of a strategy game involving graph theory, but when he questioned part of the diagram, he was scolded for being naïve. After the unexpected incident, he returned to me as we were both shaken, so I told him not to let one bad moment ruin the day just because someone else wasn't behaving well.
 

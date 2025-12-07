@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2014
-Last Edited: November 27, 2025 11:21 PM
+Last Edited: December 2, 2025 5:28 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -11,7 +11,7 @@ Influences: Personal Experiences
 
 # Description
 
-While standing in the backyard of my red brick unit complex, the row of units on the right transformed into sleek dark grey modern houses with exteriors mainly comprising tall glass windows.
+I was standing in the backyard of my unit, which was part of a row of red/brown brick units, when another row of similar units to the right transformed into smooth black modern houses with exteriors mainly comprising tall glass windows.
 
 # Interpretations
 

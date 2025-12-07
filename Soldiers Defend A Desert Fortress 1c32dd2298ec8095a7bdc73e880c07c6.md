@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2016
-Last Edited: November 27, 2025 11:22 PM
+Last Edited: December 5, 2025 4:24 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,9 +12,9 @@ Influences: Team Fortress 2 (2007)
 
 # Description
 
-I was with a squad of soldiers in the desert lying prone with rifles about 100 metres away from our walled concrete fortress. An enemy squad was also lying prone in the distance. With each shot exchanged, we gradually adjusted our aim for greater accuracy as puffs of sand erupted around nearby from incoming bullets.
+I was one of many soldiers lying prone in the desert in front of a fortress engaged in a firefight with distant soldiers. Everyone was equipped with rifles. We gradually adjusted our aim after each shot and puffs of sand erupted nearby from incoming bullets.
 
-Eventually, a radio transmission from HQ ordered us to retreat into the fortress due to an impending enemy invasion. As we stood on the parapet walkway, a black enemy tank approached to burst through the front gate and advance further down the streets.
+Eventually, a radio transmission from HQ ordered us to retreat into the fortress due to an imminent enemy invasion. As we stood on the parapet walkway, a black enemy tank burst through the front gate and travelled through the streets.
 
 # Interpretations
 

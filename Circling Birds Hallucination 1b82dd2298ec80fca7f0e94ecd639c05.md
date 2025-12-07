@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2008
-Last Edited: November 28, 2025 9:23 PM
+Last Edited: December 1, 2025 5:44 PM
 Type: Half-Asleep
 Age Rating: SFW
 Main Emotion: Surprise
@@ -12,7 +12,7 @@ Influences: Looney Toons (1930)
 
 # Description
 
-As I was trying to fall asleep, I hallucinated cartoon blue birds flying in a circle and they kept moving toward the spot I was staring at.
+I was trying to fall asleep in real life when I hallucinated 2D cartoon bluebirds flying in a circle which moved to wherever I was looking.
 
 # Interpretations
 

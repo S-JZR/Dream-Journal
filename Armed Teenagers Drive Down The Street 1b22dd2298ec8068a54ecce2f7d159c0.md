@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: November 27, 2025 11:23 PM
+Last Edited: December 7, 2025 2:32 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-I was standing on the footpath outside of my unit complex at night when a group of mischievous male and female teenagers in a brown-red Toyota drove past. They leaned outside all four side door windows, holding raised machine guns and yelling like lunatics to amuse themselves, so I fled back inside.
+I was standing on the footpath outside of my unit complex at night when a group of mischievous teenagers in a brown-red Toyota drove past. They leaned outside all four side door windows, holding raised machine guns and yelling like lunatics to amuse themselves, so I fled back inside.
 
 # Interpretations
 

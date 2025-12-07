@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 08/11/2025
-Last Edited: November 22, 2025 2:45 AM
+Last Edited: December 5, 2025 2:34 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -11,7 +11,7 @@ Characters: Misc People
 
 # Description
 
-I was standing in the carpark of my unit complex when I saw and heard loud parties from two distant units to the left of mine and across the road which I found strange since it’s usually quiet. 20 strangers were walking down the street and a few entered my complex. I grabbed the hose beside unit 6, which turned out to be high pressure and was fitted with a spray gun nozzle, to briefly squirt them. However, they weren’t bothered and kept moving forward so I instantly drenched them until they looked disgusted and stopped. While returning the hose, I took the opportunity to instantly water the surrounding gardens outside my unit. I hid inside my garage via the back entrance as a precaution to prevent anyone from discovering where I lived and retaliating.
+I was standing in the carpark of my unit complex when I heard loud music and saw dancing silhouettes of people with disco lights in the windows of two distant units to the left of mine and across the road. I found this strange since it’s usually quiet. 20 strangers were walking down the street and a few entered my complex. I grabbed the hose beside unit 6, which turned out to be high pressure and was fitted with a spray gun nozzle, to briefly squirt them. However, they weren’t bothered and kept moving forward so I instantly drenched them until they looked disgusted and stopped. While returning the hose, I took the opportunity to instantly water the surrounding gardens outside my unit. I hid inside my garage via the back entrance as a precaution to prevent anyone from discovering where I lived and retaliating.
 
 # Interpretations
 

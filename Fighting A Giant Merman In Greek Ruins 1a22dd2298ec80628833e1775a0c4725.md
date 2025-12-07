@@ -2,27 +2,31 @@
 
 Favourite: No
 Date Created: 17/10/2024
-Last Edited: November 27, 2025 11:27 PM
+Last Edited: December 7, 2025 5:35 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Greece, Ruins
+Locations: Greece, Ruins, Virtual/Videogame
 Characters: Giants, Merman, Romans
 Influences: Mythology (2011) (Sakisa)
 
 # Description
 
-I played as a Greek warrior in a PS1-style game set in a square grassy landscape featuring:
+I was in a PS1-style videogame playing as a Greek warrior in a square environment:
 
 - Left:
     - Dirt path running across the entire left side with a central fork leading to the bridge.
 - Centre:
     - Grey brick bridge crossing a moat to a small island.
     - Tall tower, resembling the Tower of Pisa, with floors without interiors, stairs, and a waterfall on the top flowing down onto the ground and into the moat.
-- Everywhere:
-    - Scattered boulders, vegetations, and crumbling Greek pillars.
+- Decorations:
+    - Scattered boulders.
+    - Vegetation.
+    - Crumbling Greek pillars.
+- Floor:
+    - Grass.
 - Perimeter:
-    - Tall mountains.
+    - Mountains.
 
 Upon approaching the tower, a hostile giant merman, four-storeys tall with a cyan body and dark green scaly legs, emerged from the door, wielding a trident as he slowly trudged down the pathway, driven by a primitive AI with poor detection and responsiveness to nearby players.
 

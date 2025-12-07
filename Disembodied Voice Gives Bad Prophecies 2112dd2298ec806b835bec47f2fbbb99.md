@@ -1,20 +1,23 @@
 # Disembodied Voice Gives Bad Prophecies
 
-Favourite: No
+Favourite: Yes
 Date Created: 01/01/2014
-Last Edited: December 6, 2025 4:51 PM
+Last Edited: December 6, 2025 4:52 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Trenches
-Characters: Ghosts, Misc People
+Characters: Disembodied Voice, Misc People
 Influences: Personal Thoughts
 
 # Description
 
-I was with a middle-age man and woman standing inside empty trenches when a disembodied male voice started prophesying over us. It told the man that he was an imbecile who wouldn't amount to anything significant in life. After hearing this, I worried about what it would say about me, and it declared that I would become the leader of a great British army that would inevitably fail.
+I was standing inside trenches with a middle-age man and woman when a disembodied adult male voice started giving bad prophecies over us and we each feared what it would say.
 
-I don’t remember what was said to the woman.
+> **Male voice**: (to man) you’re an imbecile who will never amount to anything in life.
+**Male voice**: (to woman) you’re too afraid to take risks and will never achieve anything.
+**Male voice**: (to me) you will become the leader of a great British army that will inevitably fail.
+> 
 
 # Interpretations
 
@@ -25,8 +28,8 @@ I don’t remember what was said to the woman.
 ## Symbols
 
 - Trenches: the mind can be a warzone where we battle self-criticism and external judgements.
-- Bad prophecies: my inner critic doubts I will be successful and labels me incompetent, foolish, not good enough, overly ambitious, and disorganized.
+- Bad prophecies: the belief that I will not be successful because I’m too stupid, too cautious, and not good enough.
 
 ## Lessons
 
-- Don’t internalize external judgments or they can become self-fulfilling prophecies.
+- Don’t internalize negative thoughts and external judgments or they can become self-fulfilling prophecies.

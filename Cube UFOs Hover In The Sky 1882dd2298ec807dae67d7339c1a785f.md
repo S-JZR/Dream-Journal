@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: November 27, 2025 11:22 PM
+Last Edited: December 2, 2025 10:48 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -11,7 +11,7 @@ Characters: Aliens
 
 # Description
 
-I was sitting on the sofa in the living room when I peeked through the blinds to see multiple giant grey cube spaceships bobbing slowly in the sky that were only visible from specific angles.
+I was sitting on the sofa in the lounge room when I peeked through the blinds to see multiple giant grey cube spaceships bobbing slowly in the sky that were only visible from specific angles.
 
 I forgot the rest of the dream but it involved a werewolf coming down to Earth.
 

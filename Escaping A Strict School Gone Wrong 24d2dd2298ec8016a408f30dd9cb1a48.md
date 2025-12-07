@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2018
-Last Edited: November 28, 2025 5:11 PM
+Last Edited: December 2, 2025 11:19 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Robots, Students, Teachers
 
 # Description
 
-I was in the hallway of a strange strict secondary school with students seated in classrooms on both sides. I fled out the front door to escape, which transitioned to the front of my unit. A trapdoor in the wall of the farthest unit opened and a robot on a monowheel started chasing me. I got into a car and drove through my neighbourhood as it followed close behind.
+I was standing in the hallway of a strange strict secondary school looking through the windows of classrooms at students seated at desks. I fled out the front door to escape, which transitioned to the front of my unit. A trapdoor in the wall of the farthest unit opened and a robot on a monowheel started chasing me. I got into a car and drove through my neighbourhood as it followed close behind.
 
 # Interpretations
 

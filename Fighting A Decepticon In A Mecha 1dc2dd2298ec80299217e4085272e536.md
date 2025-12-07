@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 14/04/2025
-Last Edited: November 27, 2025 11:30 PM
+Last Edited: December 4, 2025 9:50 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -12,7 +12,7 @@ Influences: Pacific Rim (2013), Transformers (1986)
 
 # Description
 
-I was in a large mecha at a harbour, engaged in close combat with a Decepticon Transformer, throwing a series of punches at it.
+I was seated in a large mecha at a harbour punching a Decepticon.
 
 # Interpretations
 

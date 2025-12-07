@@ -2,19 +2,44 @@
 
 Favourite: No
 Date Created: 01/01/2005
-Last Edited: December 6, 2025 4:45 PM
+Last Edited: December 7, 2025 5:32 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Digital Environment, Lab
-Characters: Carnivorous Plant Creature
+Locations: Lab, Virtual/Videogame
+Characters: Carnivorous Plant, Scientists
 
 # Description
 
-I was in a fictional first-person 2D horror video game as a female lab staff member who entered a hallway to confront a giant carnivorous plant swaying in an idle animation. Male colleagues urgently advised her over the radio to flee from the creature. However, she hesitated for a few seconds as it ruthlessly lunged at her without warning, causing everything to instantly fade to black.
+The dream resembled an 8-bit first-person point-and-click adventure video game.
+
+A female lab staff member entered a hallway and confronted a giant carnivorous plant swaying in an idle animation.
+
+> **Male Colleague (Radio)**: What are you doing? Get out of there!
+**Woman**: …
+> 
+
+She hesitated for a few seconds and the plant lunged at her without warning.
+
+> **Woman**: Ahh!
+> 
+
+Everything instantly faded to black and silence.
 
 # Interpretations
 
-- Carnivorous Plant:
-    - Don't linger near active threats.
-    - Knowledge can be used for good to help others or for evil to cause harm and play god.
+## Influences
+
+- N/A.
+
+## Symbols
+
+- N/A.
+
+## Lessons
+
+- Don’t linger near active threats even if they seem harmless.
+
+# Post Dream
+
+- I jolted awake in fear.

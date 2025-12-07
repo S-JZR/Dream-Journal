@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: November 29, 2025 7:06 PM
+Last Edited: December 2, 2025 6:08 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Surprise
@@ -11,7 +11,7 @@ Characters: ? Mico's Mum, Mico
 
 # Description
 
-While outside my unit, I noticed one of my teenage neighbours, Mico, sitting silently on a tricycle. He looked exhausted with pale skin as he stared blankly at me. His mother tugged on a rope wrapped around the handle, attempting to provide him with some form of amusement as she slowly dragged him across the parking lot.
+I was standing in the carpark of my unit complex when Mico, my neighbour, was seated on a tricycle with a rope tied around the handle as his mum slowly pulled him forward. He had pale skin and stared at me with an exhausted expression as he leaned forward on the handle.
 
 # Interpretations
 

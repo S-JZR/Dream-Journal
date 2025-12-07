@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 28/05/2024
-Last Edited: November 30, 2025 1:24 AM
+Last Edited: December 5, 2025 10:05 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -12,7 +12,7 @@ Influences: Cart Ride (2008) (Roblox)
 
 # Description
 
-While travelling with my family on a long car trip to a honey factory, I noticed a tree outdoors and recalled a festival where a miniature cart ride carried people around. Upon returning home, we planned to go next year, this time opting for a faster train journey.
+I was seated in my mum's car with my family being driven by my mum to a honey factory and noticed a tree beside it that reminded me of a festival where a minecart carried people around a track. Upon returning home, we planned to go next year, this time opting for a faster train journey.
 
 Onboard the passenger carriage, the room was nearly empty except for a dark blue carpet and a row of multi-purpose metal seats to one side that also served as toilets connected by a long pipe at the back. Upon reaching the destination, a festival was underway, so I partook in a looping cart ride that sharply arced over a tree before descending back to the ground.
 

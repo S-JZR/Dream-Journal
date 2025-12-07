@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 26/08/2025
-Last Edited: November 29, 2025 11:28 PM
+Last Edited: December 7, 2025 5:15 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -12,7 +12,7 @@ Influences: Minecraft (2009), Team Fortress 2 (2007)
 
 # Description
 
-I was with my family attending an outdoor family obstacle course with a concrete path that led through a series of obstacles.
+I was attending an outdoor family friendly obstacle course with my family as we followed a footpath through a series of obstacles.
 
 During the first obstacle we walked down a path and I noticed a red lazer tripwire between two cylindrical posts on the floor. I tried warning my family not to touch it but my dad nearly triggered it by stepping over it and my brother triggered it by passing through. Glass walls lifted to trap my brother in a small rectangular area as two white robot arms holding rubber knives were lowered inside. They randomly moved around and alternated between spinning and stabbing motions. My brother ran into the corner to hide but eventually got hit in the side of his torso.
 

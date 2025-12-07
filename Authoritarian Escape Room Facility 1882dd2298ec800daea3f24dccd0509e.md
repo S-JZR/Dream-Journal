@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 24/10/2023
-Last Edited: November 28, 2025 6:39 PM
+Last Edited: December 5, 2025 5:48 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,9 +12,9 @@ Influences: Christian Bible, People Playground (2019), Personal Experiences, The
 
 # Description
 
-In a towering concrete facility prisoners were forced to navigate a myriad of escape rooms adorned with different themes to earn their freedom. Each participant had only five minutes to solve incredibly cryptic puzzles before a mentally unstable mutant monster was unleashed to slaughter them. However, it was possible to defeat the monsters since each had a hidden weakness.
+In a towering concrete facility, prisoners were forced to solve cryptic puzzles in themed escape rooms within five minutes otherwise a mentally unstable mutant monster would be released to kill them. Each monster could also be defeated by discovering their weakness.
 
-While standing with other prisoners in orange jumpsuits, rumours circulated that a fictional person I knew had achieved the rare feat of defeating a monster by uncovering their weakness and beat them to death over the head with a baseball bat.
+I was one of many prisoners wearing orange jumpsuits standing in columns in a waiting area. Rumours spread that a fictional person I knew had achieved the rare feat of defeating a monster by uncovering their weakness and beat them to death over the head with a baseball bat.
 
 The first room resembled a dusty rural outback featuring:
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2005
-Last Edited: November 27, 2025 11:19 PM
+Last Edited: December 5, 2025 2:38 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -20,7 +20,9 @@ Influences: The Incredible Shrinking Man (1957)
 
 # Description
 
-In the style of a greyscale horror film, a nude woman was taking a shower in an alcove tub with white curtains when suddenly she was struck by lightning bolts emitted from the showerhead, shrinking her to 1 inch tall. Different shots showed her moving down the drain from a high-angle close-up of the hole and an external side view of the pipe. She was in a falling pose on her back with one arm raised and the other down. The shot was overlaid with an eerie waving title with the text “Down The Drain”.
+The dream resembled an old greyscale horror film.
+
+A nude woman was taking a shower in a white alcove bathtub with white curtains when suddenly she was struck by lightning bolts emitted from the showerhead, shrinking her to 1 inch tall. Different shots showed her moving down the drain from a high-angle close-up of the hole and an external side view of the pipe. She was in a falling pose on her back with one arm raised and the other down. The shot was overlaid with the eerie waving title “Down The Drain”.
 
 # Interpretations
 

@@ -7,7 +7,7 @@ Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Planet, Space, Warehouse
-Characters: Astronauts, Carter, Creepers, Criminals, Misc People, Robots
+Characters: Astronauts, Carter, Chris Tucker, Creepers, Criminals, Misc People, Robots
 Influences: Star Wars (1987), Thunderbirds (1965)
 
 # Description

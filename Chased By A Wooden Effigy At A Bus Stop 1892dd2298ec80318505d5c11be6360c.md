@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/03/2024
-Last Edited: November 28, 2025 6:54 PM
+Last Edited: December 7, 2025 2:59 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Effigy Creature, Misc People
 
 # Description
 
-While waiting at the bus stop with another young adult man in an urban suburb during the night, a wooden effigy monster appeared on the streets from afar, turning to walk towards us as its red eyes brightly shined. What initially started off as sluggish steps gradually accelerated until it began sprinting towards us. Instinctively, we scurried up concrete stairs from behind towards a set of 2x2 yellow plastic wheelie bins beside a brick building. The other man attempted to hide inside one, but his legs were halfway out by the time the creature reached him and dragged him out to assault him.
+I was waiting at a bus stop in a suburb at night with an adult man when a wooden effigy monster with glowing red eyes appeared in the distance. What initially started off as sluggish steps gradually accelerated until it began sprinting towards us. Instinctively, we scurried up concrete stairs from behind towards a set of 2x2 yellow plastic wheelie bins beside a brick building. The other man attempted to hide inside one, but his legs were halfway out by the time the creature reached him and dragged him out to assault him.
 
 # Interpretations
 

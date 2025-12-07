@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 04/10/2025
-Last Edited: November 29, 2025 1:59 AM
+Last Edited: December 5, 2025 2:16 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Criminals, Family, Misc People
 
 # Description
 
-During the night, I was walking toward my family who were standing around my mum’s car in the driveway outside the garage about to travel somewhere. A strange situation unfolded as:
+I was walking toward my family who were standing around my mum’s car in the driveway outside the garage in my unit complex about to travel somewhere at night when a strange situation unfolded:
 
 - A black car was parked in front of ours and blocked the exit.
 - A dark blue car driven by an adult male Asian was trying to illegally park in our garage while a crazy woman leaned on the front and groaned.

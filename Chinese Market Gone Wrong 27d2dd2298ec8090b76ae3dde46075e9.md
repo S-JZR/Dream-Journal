@@ -2,16 +2,17 @@
 
 Favourite: No
 Date Created: 22/09/2025
-Last Edited: November 29, 2025 1:58 AM
+Last Edited: December 6, 2025 4:38 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
 Locations: Street Market
 Characters: Cashiers, Family, Misc People
+Influences: News
 
 # Description
 
-I was with my family and a large crowd in a Chinese market stalls setup on a closed road beside my local shopping mall. While walking through the markets my mother bought us fried chicken covered in a white sauce in a transparent plastic container. I took a few bites and could taste the sauce which was delicious.
+I was standing amongst Chinese market stalls setup on a closed road beside my local shopping mall with my family and a large crowd. While walking through the markets my mother bought us fried chicken covered in a white sauce in a transparent plastic container. I took a few bites and could taste the sauce which was delicious.
 
 After getting multiple fruit boxes, we walked over to the checkouts in a concrete area where the roads previously were. My mother recognised the male cashier who was the only one present and he greeted her and prioritized us first. A few other Asian women behind us were annoyed because he was taking a long time counting each piece of fruit on the counter.
 

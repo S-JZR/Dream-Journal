@@ -2,16 +2,17 @@
 
 Favourite: No
 Date Created: 04/04/2024
-Last Edited: November 27, 2025 11:26 PM
+Last Edited: December 5, 2025 9:55 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: Island
 Characters: TV Presenters
+Influences: News
 
 # Description
 
-Near the coast with TV presenters on a small circular flat sandbank, we began shifting sand to expand it into a c-shape decorated with furniture. Eventually, everyone began discussing a recent sex scandal involving one of the members. After propagating the gossip on a talk show elsewhere, it was eventually revealed to be a misunderstanding, with the stories being unrelated to the same individual.
+I was standing on a small sandbank near the coast with TV presenters when we reshaped it into a large C-shaped island and decorated it with furniture. Eventually, everyone began discussing a recent sex scandal involving one of the members. After propagating the gossip on a talk show elsewhere, it was eventually revealed to be a misunderstanding, with the stories being unrelated to the same individual.
 
 # Interpretations
 

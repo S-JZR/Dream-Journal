@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/04/2024
-Last Edited: November 29, 2025 11:19 PM
+Last Edited: December 5, 2025 8:05 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Influences: Personal Thoughts
 
 # Description
 
-While sorting various cluttered objects on the floor to store away upstairs in my unit, I uncovered a backpack with a mixture of obscure items in the side and main compartments like toys and print photographs, making me realize the need to scan them to preserve an indestructible digital copy.
+I was sorting various cluttered objects on the carpet in my room in my unit when I uncovered a backpack containing a mixture of obscure items in the side and main compartments including toys and print photographs. I felt afraid of losing them forever and realized I needed to create a permanent backup by digitizing them (e.g., taking photos and scanning).
 
 # Interpretations
 

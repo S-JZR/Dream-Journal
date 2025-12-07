@@ -2,17 +2,17 @@
 
 Favourite: No
 Date Created: 04/04/2025
-Last Edited: November 28, 2025 10:52 PM
+Last Edited: December 7, 2025 6:55 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Beach, Cave, City, Room, Virtual World
+Locations: Beach, Cave, City, Room, Virtual/Videogame
 Characters: Dogs, Fishes, Nazis, Robots, Security Guards, Vanoss Crew, Werewolf
 Influences: Online Videos, Team Fortress 2 (2007)
 
 # Description
 
-I was with the Vanoss Crew immersed in a hardcore video game featuring a series of levels with diverse content from different games.
+I was in a hardcore videogame with the Vanoss Crew, featuring multiple levels with content from diverse videogames.
 
 The first level was set during the night on a flat roof of a tall concrete building with a perimeter slab. We played as scouts and engineers from Team Fortress 2 as monsters gradually spawned in a corner that we had to defeat. The engineers, one of which was me, climbed up tall two layers of thick brown pipes to the side and built two dispensers and a level 1 sentry gun on top of them. A strong werewolf spawned, so I shot at it from a moderate distance with my pistol while my sentry gun did the same. However, it eventually approached me, standing below the pipes where it was outside the sentry’s detection range and began jumping up, swiping at me, so I shot at it with my shotgun and pistol.
 

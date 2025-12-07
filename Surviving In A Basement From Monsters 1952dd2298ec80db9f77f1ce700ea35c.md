@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 07/02/2025
-Last Edited: November 27, 2025 11:28 PM
+Last Edited: December 4, 2025 6:50 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: FNAF (2014), Monsterum (2015), Zathura (2005)
 
 # Description
 
-I was in an upstairs room of a random house with many fictional children and a middle-aged woman when a Zorgon spaceship from Zathura flew past the window and revealed cannons primed to fire. We quickly huddled into the dumbwaiter which slowly descended to the basement to avoid being injured by cannon balls penetrating the house and flying debris.
+I was standing in the upstairs room of a random house with many fictional children and a middle-aged woman when a Zorgon spaceship from Zathura flew past the window and revealed cannons primed to fire. We quickly huddled into the dumbwaiter which slowly descended to the basement to avoid being injured by cannon balls penetrating the house and flying debris.
 
 Upon reaching the basement, we exited into an office room with a VHS player and a few tapes so I inserted them and said to the woman "it's been a long time since I've used this device". The first tape showed pre-recorded CCTV footage of the hallway outside the room, resembling something from Monsterum, where a green monster roamed. A narrator explained that we needed to keep track of wandering threats and navigate stealthily between rooms. The second tape contained irrelevant information so I fast forwarded at x8 speed.
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/04/2024
-Last Edited: November 29, 2025 7:13 PM
+Last Edited: December 5, 2025 9:56 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-While seated in physics class next to Patrick, a top student, the teacher illustrated various mathematical equations on the whiteboard with diverse symbols like theta, without any reasoning, leaving me stumped. Thinking this was a mere one-off occurrence, I attended another lesson, now hosted in the art room, but it was still confusing, as even Brooke, another top student, thought it was counterproductive, so we left halfway through.
+I was seated in physics class at my secondary school next to Patrick, a top student, when the teacher illustrated various mathematical equations on the whiteboard without any reasoning, leaving me stumped. Thinking this was a mere one-off occurrence, I attended another lesson, now hosted in the art room, but it was still confusing, as even Brooke, another top student, thought it was counterproductive, so we left halfway through.
 
 # Interpretations
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: November 28, 2025 4:36 PM
+Last Edited: December 7, 2025 6:07 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-My cat, Jayba, ran far away from home. I desperately searched for her by driving through a few suburbs until finding her in a shopping mall parking lot.
+I was standing in my unit when I discovered Jayba, my cat, who had been left outside ran away from home. I drove through multiple suburbs until finding her sitting in the middle of a shopping mall carpark.
 
 # Interpretations
 

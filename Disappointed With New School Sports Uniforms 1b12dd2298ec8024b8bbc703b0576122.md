@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 08/03/2025
-Last Edited: November 29, 2025 7:21 PM
+Last Edited: December 6, 2025 2:42 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-I was at my secondary school during a school assembly in the hall as Mrs Itsikson, a staff member, announced new sports uniforms featuring the new minimalist animal sports team shield icons on solid colour uniforms. The students were displeased with the uniforms and I discussed with Levi’s brother why it was a bad design.
+I was one of many students seated in the hall of my secondary school for an assembly as Mrs Itsikson, a staff member, announced new sports uniforms featuring the new minimalist animal sports team shield icons on solid colour uniforms. The students were displeased with the uniforms and I discussed with Levi’s brother why it was a bad design.
 
 In the middle of the drop off zone, I waited on a wooden bench beside someone for the bus to arrive when I fell asleep. After waking up, I asked if the bus had arrived and they explained it has been parked for five minutes so I rushed over to board it with a few other students. The bus driver, a nonchalant Black man, briefly exited to talk with another driver in a bus further down the road. We grew bored and started rocking the bus side to side by leaning against the interior walls, which amused him when he returned.
 

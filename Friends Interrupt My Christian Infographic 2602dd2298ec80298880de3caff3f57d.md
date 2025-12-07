@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 29/08/2025
-Last Edited: November 23, 2025 3:45 AM
+Last Edited: December 5, 2025 2:06 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -12,7 +12,7 @@ Influences: Personal Thoughts
 
 # Description
 
-I was initially in my room working on drawing a high level plan of a bible infographic to efficiently showcase events, themes, and insights like:
+I was seated at my desk in my unit working on drawing a high level plan of a bible infographic to efficiently showcase events, themes, and insights like:
 
 - The three realms: heaven is light, earth is half light and darkness, and hell is darkness.
 - A third of the angels rebelled and fell from heaven.

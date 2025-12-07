@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: November 28, 2025 4:53 PM
+Last Edited: December 7, 2025 3:24 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Disembodied Voice, Misc People, Police
 
 # Description
 
-While in my unit's upstairs bathroom, the radio on the shelf beside the toilet played music until a distorted voice interrupted, prompting me to quickly deactivate it out of discomfort. Later, as I descended the stairs to the front door, a groaning, deranged man threw himself against the diamond metal frame, wrapping his fingers around it to press into the flyscreen mesh before collapsing on his side. After calling the police, they arrived to escort him away while he silently stared at me over his shoulder.
+I was standing in the upstairs bathroom of my unit when the radio playing music on the shelf to the left of the toilet was interrupted by a distorted voice, prompting me to quickly deactivate it in discomfort. Later, as I descended the stairs to the front door, a groaning, deranged man threw himself against the diamond metal frame, wrapping his fingers around it to press into the flyscreen mesh before collapsing on his side. After calling the police, they arrived to escort him away while he silently stared at me over his shoulder.
 
 # Interpretations
 

@@ -2,16 +2,16 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: November 28, 2025 5:09 PM
+Last Edited: December 7, 2025 5:32 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Virtual World
+Locations: Virtual/Videogame
 Influences: Minecraft Xbox Edition (2012)
 
 # Description
 
-I was immersed in a Minecraft version that someone ported to the PS1 where all block textures had a simple 8x8 resolution.
+I was in a version of Minecraft that someone ported to the PS1 that seemed to only feature blocks with a simple 8x8 resolution.
 
 # Interpretations
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: November 27, 2025 11:20 PM
+Last Edited: December 5, 2025 2:54 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -19,7 +19,7 @@ Characters: Aliens, Misc People
 
 # Description
 
-I was standing with various people scattered throughout a bank when a UFO bored a hole in the ceiling with a wide flexible black tube which stayed outside. Everyone instinctively knew they had to remain still otherwise they would be abducted. One person moved slightly and was rapidly sucked up the tube as their flesh transformed into green goo and they yelled silently while shaking their head side to side.
+I was standing in a bank with various people scattered around when a UFO hovered above the roof and bored a hole through the ceiling to lower a wide flexible black tube inside. Everyone instinctively knew they had to remain still otherwise they would be abducted. One person moved slightly and was rapidly sucked up the tube as their flesh transformed into green goo and they yelled silently while shaking their head side to side.
 
 # Interpretations
 

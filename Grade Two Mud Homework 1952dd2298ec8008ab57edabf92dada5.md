@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2008
-Last Edited: November 27, 2025 11:20 PM
+Last Edited: December 5, 2025 2:44 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-In my grade two homeroom, the teacher, Mrs Wardle, assigned a homework task to understand the cycle of how mud forms with rain.
+I was seated at my desk in my grade two classroom when Mrs Wardle, the teacher, assigned a homework task to understand the cycle of how mud is formed by rain.
 
 # Interpretations
 

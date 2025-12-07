@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 08/02/2025
-Last Edited: November 29, 2025 7:19 PM
+Last Edited: December 6, 2025 2:19 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Deformed Creature, Dogs, Family, Misc People
 
 # Description
 
-I was walking to my unit complex from the street when I noticed a deformed white fluffy creature laying down on its belly in front of my garage. It began to stand up upon noticing me and initially resembled a camel pulling its long crossed legs out from loose floor gutters but morphed into a dog with an abnormally long and wide black nose as it walked towards me. As it tried to sniff me, I pushed it away with my foot.
+I was walking into my unit complex when I noticed a deformed white fluffy creature laying down on its belly in front of my garage. It began to stand up upon noticing me and initially resembled a camel pulling its long crossed legs out from loose floor gutters but morphed into a dog with an abnormally long and wide black nose as it walked towards me. As it tried to sniff me, I pushed it away with my foot.
 
 Soon an elderly woman with white hair appeared, recognising my brother and I had been actors in the dream and invited us back to a hub where others from various shows were being reunited for a special event. When I asked who sent this request, she said the actors from Friends were thrilled about seeing us. Realizing I had no associations with them, I expressed my distrust, but she commanded the creature to attack which pinned me down by wrapping its claws around my legs and trying to bite me as struggled to push its head away.
 

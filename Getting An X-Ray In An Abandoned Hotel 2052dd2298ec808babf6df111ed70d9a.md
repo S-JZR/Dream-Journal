@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 29/05/2025
-Last Edited: November 29, 2025 12:59 AM
+Last Edited: December 7, 2025 6:18 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-I was on a white tour bus with various people ascending a somewhat abandoned ten-storey concrete carpark with an elevator, graffiti, and trash piled in a few spots. Upon arriving at the top, we dismounted into a hotel where I went into a room with my mum. The room featured a warm industrial theme with earth colours, a brown table with a rectangular dental kit on it, creamy walls, and a brick wall at the front with a black plasma TV mounted on it.
+I was one of many passengers seated on a white tour bus ascending a somewhat abandoned ten-storey carpark with an elevator, graffiti, and trash piled in a few spots. Upon arriving at the top, we dismounted into a hotel where I went into a room with my mum. The room featured a warm industrial theme with earth colours, a brown table with a rectangular dental kit on it, creamy walls, and a brick wall at the front with a black plasma TV mounted on it.
 
 I opened the dental kit to find a thick forest-green toothbrush with a translucent handle and timer, and skimmed the instruction manual. It mentioned the room could capture X-rays but I wasn’t sure if it was done by the toothbrush or the camera hole beside the TV. When activating the toothbrush, it audibly started counting down from 10 seconds and the handle flashed yellow then red, so I switched it off, afraid of being exposed to radiation.
 

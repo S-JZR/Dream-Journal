@@ -2,16 +2,17 @@
 
 Favourite: No
 Date Created: 10/01/2023
-Last Edited: November 29, 2025 7:11 PM
+Last Edited: December 5, 2025 5:28 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
 Locations: City, House, Theatre
 Characters: Criminals, Family (Fake), Misc People, Witch
+Influences: Star Wars Battlefront II (2017)
 
 # Description
 
-A city square hosted a dynamic Star Wars laser tag game spanning the entire location as I actively participated armed with a machine gun featuring a substantial magazine. Amid the thrill, Michael, a socially introverted autistic teenager who later became part of my fictional dream family, requested a turn before eventually wandering off. In a three-story modern glass building my fictional family deliberated on Michael's disappearance since yesterday, noting that he had left the laser gun at home. Aware of his tendency to visit neighbours and special places, I embarked on a quest to find him, knocking on doors along the street and asking questions without success. After finding no sign of him, I returned home, inexplicably gaining the superpower to jump atop two fences simultaneously while effortlessly balancing on them. Deciding to return the laser gun from the previous event, I walked towards the city square using straight stairs nestled between neighbours on the hill. However, upon arriving, I discovered a professional 6v6 tournament taking place in a small grass square. Deciding to postpone the task, perhaps to avoid being on camera, I skilfully navigated over fences on my way back home.
+I was one of many people running through a city square playing a Star Wars laser tag game. Everyone was armed with lazer machine guns. Michael, a socially introverted autistic teenager who was part of my fictional family, requested a turn before eventually wandering off. In a three-story modern glass building my fictional family deliberated on Michael's disappearance since yesterday, noting that he had left the laser gun at home. Aware of his tendency to visit neighbours and special places, I embarked on a quest to find him, knocking on doors along the street and asking questions without success. After finding no sign of him, I returned home, inexplicably gaining the superpower to jump atop two fences simultaneously while effortlessly balancing on them. Deciding to return the laser gun from the previous event, I walked towards the city square using straight stairs nestled between neighbours on the hill. However, upon arriving, I discovered a professional 6v6 tournament taking place in a small grass square. Deciding to postpone the task, perhaps to avoid being on camera, I skilfully navigated over fences on my way back home.
 
 A figure resembling an ex-prisoner with a bald head and a distinctive anchor tattoo overlaying their right eyelid, abruptly emerged from around tall hedges near the corner of a garden. Without warning, they drew a handful of throwing knives and began hurling them in my direction, prompting a swift retreat to the safety of my home. Inside the house, I took refuge under a table on the second floor, away from the glass windows, cautioning my fictional family not to open the door for that individual. After a brief knock, they departed when their calls went unanswered.
 
@@ -21,7 +22,7 @@ We discovered that Michael had strategically planned his whereabouts using hidde
 
 ## Influences
 
-- N/A.
+- Star Wars Battlefront II: I watched some online gameplay.
 
 ## Symbols
 

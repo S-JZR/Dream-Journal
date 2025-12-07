@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: November 28, 2025 5:10 PM
+Last Edited: December 7, 2025 10:16 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Surprise
@@ -12,7 +12,7 @@ Influences: Christian Bible, Personal Experiences, Personal Thoughts
 
 # Description
 
-I was with my family and a few other Christian outside of a church when were instantly raptured to a dystopian heaven:
+I was standing outside a church with my family and other Christians when we were instantly raptured to a dystopian heaven:
 
 - Sky:
     - Overcast and raining.

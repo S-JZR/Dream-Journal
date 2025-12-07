@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/01/2024
-Last Edited: November 27, 2025 11:25 PM
+Last Edited: December 3, 2025 5:14 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -20,7 +20,7 @@ Characters: Jackie Chan, Refugees, Soldiers
 
 # Description
 
-I was with a group of refugees in a city under military control near a harbour, evading hostile soldiers in close pursuit. Arriving at a cluster of small two-story square buildings within a desert biome, we ascended a square staircase winding around the interior, eventually finding concealment behind a wall in an upstairs room. Peering through a rectangular opening in the left side of the wall, I spotted a military figure climbing the staircase to investigate. Instinctively, I maneuvererd through a square window on the left side, descending from awnings with the refugees following suit. Eventually, we reached a border crossing managed by the same military group connected to the harbour. After presenting our identification, we were promptly granted entry.
+I was one of many refugees fleeing soldiers invading a city towards a harbour they controlled. Arriving at a cluster of small two-story square buildings within a desert biome, we ascended a square staircase winding around the interior, eventually finding concealment behind a wall in an upstairs room. Peering through a rectangular opening in the left side of the wall, I spotted a military figure climbing the staircase to investigate. Instinctively, I maneuvererd through a square window on the left side, descending from awnings with the refugees following suit. Eventually, we reached a border crossing managed by the same military group connected to the harbour. After presenting our identification, we were promptly granted entry.
 
 Navigating a metal detection area ahead, a guard unexpectedly offered their firearm. Suspicion crept in, prompting me to survey the surroundings. Questioning their motive, they casually explained it as a gift for regional safety. Capitalizing on the moment, I grabbed the firearm and attempted to discharge it on him, only to find it was unloaded. Realizing their intentional ploy, Jackie Chan's tearful face materialized, exclaiming, "Now I understand, you were testing if I was a rebel."
 

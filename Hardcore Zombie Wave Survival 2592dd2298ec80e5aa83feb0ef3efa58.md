@@ -1,18 +1,18 @@
-# Hardcore Zombie Wave Survival Videogame
+# Hardcore Zombie Wave Survival
 
 Favourite: No
 Date Created: 24/08/2025
-Last Edited: November 28, 2025 11:16 PM
+Last Edited: December 7, 2025 5:37 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Building, Field
+Locations: Building, Field, Virtual/Videogame
 Characters: Misc People, Zombies
 Influences: Fortnite (2017), Team Fortress 2 (2007)
 
 # Description
 
-I was with a group of adult survivors immersed in a hardcore wave-based zombie survival video game. Everyone could choose to level up different skillsets and many structures could be upgraded by hitting them multiple times with wrenches.
+I was one of many survivors in a hardcore wave-based zombie survival videogame. Everyone could choose to level up different skillsets and many structures could be upgraded by hitting them multiple times with wrenches.
 
 In wave one everyone was in a remote field beside a large building with an exterior c-shaped skywalk on stilts that looped back into it and had a chain-linked fenced and metal awning on top. Initially everyone explored the building to look for supplies but I left early to prepare for the next wave.
 

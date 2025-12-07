@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2010
-Last Edited: November 27, 2025 11:20 PM
+Last Edited: December 5, 2025 2:49 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Spiders
 
 # Description
 
-While descending the stairs of my unit, I noticed a hand-sized rock resting on the middle step. Intrigued, I bent down to pick it up, but when starting to tilt it, an oversized spider larger than the rock itself emerged, jolting me awake.
+I was descending the stairs in my unit when I noticed a 10 cm rock resting on the middle step. I bent down to pick it up but when starting to tilt it a giant spider larger than the rock crawled out from beneath it.
 
 # Interpretations
 
@@ -26,3 +26,7 @@ While descending the stairs of my unit, I noticed a hand-sized rock resting on t
 ## Lessons
 
 - N/A.
+
+# Post Dream
+
+- I jolted awake in fear.

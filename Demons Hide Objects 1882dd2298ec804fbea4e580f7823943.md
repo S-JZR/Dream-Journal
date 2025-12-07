@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2021
-Last Edited: November 27, 2025 11:24 PM
+Last Edited: December 5, 2025 5:10 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Demons
 
 # Description
 
-Within my unit, invisible demons tormented me by sneaking up from behind in the shadows and hiding important objects. Discovering a Bible, I rebuked them in the name of Jesus Christ, prompting every object to materialize as various clouds of mist swiftly rushed to swing open the front and back door, leaving them unlocked.
+I was walking through my unit when invisible demons tormented me by sneaking up from behind and hiding different objects. Discovering a Bible, I rebuked them in the name of Jesus Christ, prompting every object to materialize as various clouds of mist swiftly rushed to swing open the front and back door, leaving them unlocked.
 
 # Interpretations
 

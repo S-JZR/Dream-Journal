@@ -1,21 +1,21 @@
-# Courthouse RTS Videogame
+# Courthouse RTS
 
 Favourite: No
 Date Created: 02/07/2025
-Last Edited: November 27, 2025 11:31 PM
+Last Edited: December 7, 2025 5:41 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Courthouse
+Locations: Courthouse, Virtual/Videogame
 Characters: Bowler Hat Guy, Doris, Misc People
 Influences: FNAF: Secret Of The Mimic (2025), Mad God (2021), Meet The Robinsons (2007), Minecraft (2009), The Conquerors 3 (2009) (Roblox)
 
 # Description
 
-I was immersed in an RTS videogame loosely resembling The Conquerors 3, where 4 players were in courthouses with shallow staircase, all facing each other in a square area. Inside each building was a square pool of water that killed on contact, surrounded by two paths that led into side mazes. A trail of levitating candy would periodically spawn on the paths which players could collect and return to the centre of their base for money. There were two types of red glowing NPC enemies that killed on contact:
+I was in an RTS videogame loosely resembling The Conquerors 3, where four players were in courthouses with shallow staircase, all facing each other in a square area. Inside each building was a square pool of water that killed on contact, surrounded by two paths that led into side mazes. A trail of levitating candy would periodically spawn on the paths which players could collect and return to the centre of their base for money. There were two types of red glowing NPC enemies that killed on contact:
 
-- Standard: randomly followed preset paths.
-- Slime: roamed freely and slowly hopped towards me.
+- Standard: randomly followed predefined paths.
+- Slime: slowly hopped towards me.
 
 At the start of the round, I quickly built a giant destroyer and drove it across land to an enemy base where I fired a stream of 2 bullets from the hull to annihilate all their buildings. However, they kept trying to rebuild a barracks so I felt bad and left.
 

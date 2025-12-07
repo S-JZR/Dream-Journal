@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/06/2025
-Last Edited: November 29, 2025 1:00 AM
+Last Edited: December 4, 2025 11:05 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Cats, Ghosts
 
 # Description
 
-I was walking into an abandoned black gothic haunted mansion to document any paranormal activity on a handheld camcorder. Inside was an open space featuring:
+I was walking into an abandoned black gothic haunted mansion to document any paranormal activity on a handheld camcorder:
 
 - Front:
     - Red carpet runner that stretched forward and ascended a bifurcated staircase.

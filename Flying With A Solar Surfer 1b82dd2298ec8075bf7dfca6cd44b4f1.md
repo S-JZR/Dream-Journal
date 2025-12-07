@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2016
-Last Edited: November 28, 2025 5:01 PM
+Last Edited: December 2, 2025 11:31 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -11,18 +11,17 @@ Influences: Personal Thoughts, Treasure Planet (2002)
 
 # Description
 
-Outside of my unit, a Solar Surfer from Treasure Planet was leaning against the wall of another unit. I hopped on it and flew slowly in the sky along an oval trajectory, ascending and descending, feeling the wind against my skin intensify as I accelerated downward.
+I was standing outside my unit when I noticed a Solar Surfer from Treasure Planet on the grass leaning against the wall of unit six. I hopped on it and flew slowly in the sky along an oval trajectory, ascending and descending, feeling the wind against my skin intensify as I accelerated downward.
 
 # Interpretations
 
 ## Influences
 
 - I liked the Treasure Planet film.
-- I probably had a subconscious desire to fly.
 
 ## Symbols
 
-- N/A.
+- Flying: I probably had a subconscious desire to fly.
 
 ## Lessons
 

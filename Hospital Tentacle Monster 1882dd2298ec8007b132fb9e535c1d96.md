@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 07/05/2021
-Last Edited: November 28, 2025 7:11 PM
+Last Edited: December 7, 2025 7:22 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: Tomorrow When The War Began (2010), Would I Lie To You? (2007)
 
 # Description
 
-I was in the middle of a game show resembling "Would I Lie To You?" sharing a personal story as other participants guessed whether it was fake. I shared a tale about getting shot in the leg while working on a farm but realized I'd strayed far from the host's recommended scenario card received earlier, so I stuck with it to seem authentic.
+I was one of many contestants on a game show resembling "Would I Lie To You?" sharing a personal story as other participants guessed whether it was real or fake. I shared a tale about getting shot in the leg while working on a farm but realized I'd strayed far from the host's recommended scenario card received earlier, so I stuck with it to seem authentic.
 
 Suddenly, I was transported into a vivid re-enactment, seated on a tractor beside a highway, urgently driving to the nearest hospital as blood flowed from my injured leg. A group of fictional friends tended to the wound while I drove since nobody had experience using manual gears. The tractor unexpectedly halted, flinging us through the front windshield onto shards of glass scattered across the road. The experience shifted into a cinematic view, where I warned my mother not to watch as the tractor regained momentum and flattened anyone in its path. However, everyone was unharmed, and we continued on foot. Eventually, we arrived at a desolate hospital featuring partially illuminated halls with random pitch-black areas and non-functional elevators. The absence of alarms made us suspect they were deactivated. Fearing someone had terrorized the place, we debated whether it was better to search for supplies elsewhere. After reasoning that time was running out to save me and that this might not be a localized event, we decided to quickly check rooms for supplies before leaving.
 
@@ -22,7 +22,7 @@ Upon reaching the fifth floor, echoes of shuffling filled the stairwell, but the
 
 ## Influences
 
-- My mother is sensitive to gore and swearing so I need to be mindful of what I watch with her to avoid making her uncomfortable.
+- My mother is sensitive to gore and swearing so I need to be mindful of what I watch with her to avoid making her feel uncomfortable.
 
 ## Symbols
 
