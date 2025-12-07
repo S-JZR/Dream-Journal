@@ -2,17 +2,17 @@
 
 Favourite: No
 Date Created: 21/02/2025
-Last Edited: November 28, 2025 5:09 PM
+Last Edited: December 7, 2025 5:31 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Egypt, Obstacle Course, Virtual World
+Locations: Obstacle Course, Virtual/Videogame
 Characters: Misc People
 Influences: Personal Experiences
 
 # Description
 
-After watching two men in a YouTube video build a pyramid in Minecraft, I decided to create my own with a hollow design that layered stairs facing outward. Those who entered had to complete 11 self-contained obstacle courses stacked vertically beneath the map that each consecutively teleported to the next upon completion.
+I was seated at my computer in my unit watching two men in a YouTube video build a pyramid in Minecraft. I decided to create my own version that was an obstacle course with a hollow exterior and 11 rooms stacked under the map that teleport to the next in order.
 
 # Interpretations
 

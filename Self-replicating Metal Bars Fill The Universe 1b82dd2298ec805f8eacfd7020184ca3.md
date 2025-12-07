@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2017
-Last Edited: November 27, 2025 11:23 PM
+Last Edited: December 2, 2025 11:12 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: Personal Thoughts
 
 # Description
 
-An overview shot of Earth showed self-replicating metal bars extending in all directions from the ground into space. They continued travelling to the edge of the universe where they were trapped in invisible boundaries and gradually consumed all remaining space to form a cube then I jolted awake unsettled.
+An overview shot of Earth showed self-replicating metal bars extending in all directions from the ground into space. They continued travelling to the edge of the universe where they were trapped in invisible boundaries and gradually consumed all remaining space to form a cube.
 
 # Interpretations
 
@@ -23,8 +23,13 @@ An overview shot of Earth showed self-replicating metal bars extending in all di
 
 ## Symbols
 
+- Metal bars: the exploration of possibilities.
 - Universe’s edge: the fear of being confined to a finite cycle of experiences.
 
 ## Lessons
 
 - N/A.
+
+# Post Dream
+
+- I jolted awake in fear.

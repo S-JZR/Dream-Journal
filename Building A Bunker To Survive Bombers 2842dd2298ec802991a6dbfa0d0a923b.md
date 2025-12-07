@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 06/10/2025
-Last Edited: November 23, 2025 4:28 AM
+Last Edited: December 5, 2025 2:18 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Family
 
 # Description
 
-I was with my family in the lounge room when we overhead bomber planes carpet bombing outside as each explosion gradually got closer until it became deafeningly loud. I saw the units in the backyard explode and knew we were about to be hit next. I considered hiding beneath the stairs and other places but realized there was nowhere suitable as all the walls would be too thin and soft to offer protection.
+I was standing in the lounge room with my family when I overhead bomber planes carpet bombing outside as each explosion gradually got closer until it became deafeningly loud. I saw the units in the backyard explode and knew we were about to be hit next. I considered hiding beneath the stairs and other places but realized there was nowhere suitable as all the walls would be too thin and soft to offer protection.
 
 I travelled back in time to quickly start preparing a bunker top-down by digging a square hole in front of the TV using a shovel and tossing the dirt onto the carpet. I repeatedly asked my family for help but nobody did so I worked alone. Eventually, I lowered concrete rings for the hatch entrance but realized I needed more space for the main area and would have to add them later so they wouldn’t get in the way.
 

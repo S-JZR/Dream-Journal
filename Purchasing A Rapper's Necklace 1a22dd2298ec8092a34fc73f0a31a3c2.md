@@ -2,16 +2,17 @@
 
 Favourite: No
 Date Created: 04/04/2024
-Last Edited: November 29, 2025 7:13 PM
+Last Edited: December 7, 2025 10:14 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: Primary School
 Characters: Misc People, Musicians
+Influences: Online Videos
 
 # Description
 
-I was at the drop-off zone of my primary school with the fence removed during an era around the 1980s when a group of kids sat on the left side of the seating area on a strip of yellowing cut grass, watching passing cars. While riding a miniature light-green tractor towards them, a black student expressed annoyance, explaining it reminded him of his ancestors forced to work on plantations and told me to stop riding it. After apologizing, I turned to drive away but he remained infuriated that I continued despite acknowledging his concerns.
+I was standing at the drop-off zone of my primary school with the fences removed during an era around the 1980s when a group of kids sat on the left side of the seating area on a strip of yellowing cut grass, watching passing cars. While riding a miniature light-green tractor towards them, a black student expressed annoyance, explaining it reminded him of his ancestors forced to work on plantations and told me to stop riding it. After apologizing, I turned to drive away but he remained infuriated that I continued despite acknowledging his concerns.
 
 Suddenly, I was friends with a fictional aspiring black rapper called Syske, renowned for wearing a gold chain with an enormous rectangular prism pendant engraved with intricate patterns. After bargaining with him, he let me purchase his previous one at a discounted price. Another student at the drop-off zone, holding a smaller silver one, noticed it and asked if I could collaborate with his father to trade.
 

@@ -2,22 +2,25 @@
 
 Favourite: No
 Date Created: 01/01/2021
-Last Edited: November 29, 2025 3:25 AM
+Last Edited: December 5, 2025 5:16 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: City
 Characters: Arthropleura, Misc People, Velociraptor
-Influences: Christian Bible, Online Videos
+Influences: A Quiet Place (2018), Christian Bible, Online Videos
 
 # Description
 
-In an apocalyptic world various prehistoric creatures roamed around attacking those nearby or any illuminated object. Inside a safehouse connected to an underground parking lot, a team discussed an escape route to another location. Upon descending downstairs and peeling back the newspapers covering the door windows, I shone a flashlight outside. An Arthropleura twisted around ceiling pipes, while a white velociraptor, resembling an animal seen through night vision, aggressively approached to peer inside. Eventually, another individual put back the newspapers and instructed me to refrain from looking outside again.
+The world fell into an apocalypse because it was overrun by prehistoric creatures that attacked any light source.
+
+I was standing in a safehouse connected to an underground carpark with other survivors as they discussed an escape route. I went downstairs to a door with a window leading to the carpark and peeled back newspapers covering it to shine a flashlight outside where I saw an Arthropleura twisting around ceiling pipes and a white velociraptor, resembling an animal seen through night vision. The velociraptor aggressively approached the door to peer inside and a black man behind me sprinted to put back the newspapers and warned me to refrain from looking outside again.
 
 # Interpretations
 
 ## Influences
 
+- A Quiet Place: monsters attack any noise source.
 - I have always thought that animals look creepy on night vision footage.
 - I hear Christian teachings all the time and it’s possibly influenced by John 3:20.
 

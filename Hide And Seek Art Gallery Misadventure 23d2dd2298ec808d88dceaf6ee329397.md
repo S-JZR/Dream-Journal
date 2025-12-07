@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/07/2025
-Last Edited: November 29, 2025 7:26 PM
+Last Edited: December 7, 2025 7:19 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -11,14 +11,16 @@ Characters: ? Co Art Teacher, ? Indian Student, Students
 
 # Description
 
-I was playing hide and seek with various people in my secondary school when I considered hiding on a roof since it would be a less obvious spot due to inaccessibility. However, I skipped the roof of a major building since it would attract attention and proceeded further to a metal staircase leading to a higher floor with an awning. I didn’t climb the exterior since there was a long drop. I kept searching upstairs and encountered a spacious art gallery with grey walls, a wooden floor, and a few paintings on the walls.
+I was one of many secondary students playing hide and seek in the school when I considered hiding on a roof since it would be less obvious due to being inaccessible. However, I skipped the roof of a major building since it would attract too much attention and proceeded further to a metal staircase leading to a higher floor with an awning. I didn’t climb the exterior since there was a long drop. I kept searching upstairs and encountered a spacious art gallery with grey walls, a wooden floor, and a few paintings on the walls.
 
-A carpeted back room featured:
+I travelled to a carpeted back room:
 
-- Centre: row of flannel dividers.
-- Right: row of computers.
+- Centre:
+    - Row of flannel dividers.
+- Right:
+    - Row of computers.
 
-The co female art teacher was tearing up photocopies of people’s artwork, including mine, and panting over them to create a new art piece pinned to the flannel dividers. An Indian student from primary school said that I still had their file called “Apollo” and I realized earlier they meant a document and not the god.
+The co female art teacher was tearing up photocopies of people’s artwork, including mine, and painting over them to create a new art piece pinned to the flannel dividers. An Indian student from primary school said that I still had their file called “Apollo” and I realized earlier they meant a document and not the god.
 
 I sat at a computer and plugged in my USB as the teacher sat left of me overlooking everything. I soon realized the system was infected with a virus that displayed random memes and bizarre images across the screen. I told her to ignore it since I wasn’t responsible and loaded the computer in safe mode. I opened a file database GUI but couldn’t locate the file.
 

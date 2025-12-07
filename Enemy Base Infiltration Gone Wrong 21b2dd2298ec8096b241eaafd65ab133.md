@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 20/06/2025
-Last Edited: November 27, 2025 11:31 PM
+Last Edited: December 6, 2025 4:18 AM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Fear
@@ -20,7 +20,7 @@ Influences: Ratchet And Clank 3 (2004)
 
 # Description
 
-I was with a group of adult spies wearing yellow rubber water suits as we exited the ocean onto a circular platform to infiltrate an enemy sea base connected to an island. After opening a manhole on the platform, we descended into the basement and encountered a deadly obstacle course inside a long tunnel.
+I was one of a few spies wearing yellow wetsuits exiting the ocean onto a circular concrete platform to infiltrate an enemy sea base connected to an island. After opening a manhole, we descended into the basement and encountered a deadly obstacle course inside a long tunnel.
 
 Obstacle one comprised a series of rectangular platforms moving side by side in alternating directions. All we had to do was move across the middle as their offset created a continuous path.
 

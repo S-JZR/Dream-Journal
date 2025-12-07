@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/07/2025
-Last Edited: November 27, 2025 11:31 PM
+Last Edited: December 4, 2025 11:33 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: Online Videos
 
 # Description
 
-I was part of one of two teams of adults, each equipped with machine guns, in an empty industrial square room, about to engage in a death match. One team had two elite members and other had six casual members.
+I was one of six casual players preparing to fight two elite players in a deathmatch inside an empty industrial square room. Everyone was equipped with machine guns.
 
 In round one the elite members were positioned on the left and right side of the room and started by deploying smoke grenades to conceal themselves. However, as my team members provided cover fire, I advanced forward in a series of sprints and paused each time to fire bursts at the opponent on the left. My team cheered me on. The elite members were quickly eliminated.
 

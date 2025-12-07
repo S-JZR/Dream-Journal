@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: November 27, 2025 11:21 PM
+Last Edited: December 5, 2025 4:21 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -20,7 +20,7 @@ Influences: Personal Thoughts
 
 # Description
 
-I was in a room with various elderly people as we all laid in sleeping bags arranged in a ring. The woman to my left contentedly said, "I have lived a good life," as her flesh rapidly disintegrated into nothing until only a skeleton remained.
+I was with many elderly people in a room lying in sleeping bags in a ring formation. The woman to my left said, "I have lived a good life," as her flesh rapidly disintegrated into nothing until only a skeleton remained.
 
 # Interpretations
 

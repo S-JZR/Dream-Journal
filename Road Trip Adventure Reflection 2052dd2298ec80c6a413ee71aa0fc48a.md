@@ -1,17 +1,17 @@
-# Road Trip Adventure Videogame Reflection
+# Road Trip Adventure Reflection
 
 Favourite: Yes
 Date Created: 27/05/2025
-Last Edited: November 28, 2025 5:09 PM
+Last Edited: December 7, 2025 5:36 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Virtual World
+Locations: Virtual/Videogame
 Influences: Personal Thoughts, Road Trip Adventure (2002)
 
 # Description
 
-I was at home and decided to get nostalgic by emulating one of my favourite video games, Road Trip Adventure, on PC with a save file. While exploring the world, I found various candid screenshots on my computer showing the locations of secret treasure chests in different terrain. However, I realized my childhood efforts were a waste of time as it lacked spatial context and would have been better documented on something like a Fandom map, allowing everyone to easily find each point.
+I was seated at my computer in my unit and emulated Road Trip Adventure, one of my favourite childhood videogames. While exploring the world, I found various candid screenshots on my computer showing the locations of secret treasure chests in different terrain. However, I realized my childhood efforts were a waste of time as it lacked spatial context and would have been better documented on something like a Fandom map, allowing everyone to easily find each point.
 
 After digging through the code, I toggled different developer flags that unlocked all buildings in My City. I reflected on how:
 

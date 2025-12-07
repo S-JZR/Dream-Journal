@@ -2,17 +2,17 @@
 
 Favourite: No
 Date Created: 13/01/2025
-Last Edited: November 28, 2025 5:09 PM
+Last Edited: December 7, 2025 5:35 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Earth, Virtual World
+Locations: Earth, Virtual/Videogame
 Characters: Misc People, Soldiers
 Influences: Mini Empires (2022) (Roblox)
 
 # Description
 
-I was immersed in an RTS video game, walking in-person to command armies to fight on a 2D world map divided into hexagon tiles each featuring outlines, buildings, and terrain. While trying to eliminate international threats like China by capturing all their territories, my army camped some distance away as a series of rockets was launched towards us but after running out of fuel they landed in front of our tile.
+I was in an RTS videogame walking across a world map and commanding armies to attack. The map comprised hexagon tiles with outlines, mini buildings, and mini terrain. While trying to eliminate international threats like China by capturing all their territories, my army camped some distance away as a series of rockets was launched towards us but after running out of fuel they landed in front of our tile.
 
 Eventually, a few yellow naval vessels were sent around mountains on the adjacent coast to attack our docks on the other side of the world so I travelled back to radio the defending squads to prepare for the imminent attack. However, as they hurried to form a firing line they began shooting at every civilian boat already in view that were white with coloured stripes or coloured so I instructed them to wait for the enemy to arrive and how to properly identify them.
 

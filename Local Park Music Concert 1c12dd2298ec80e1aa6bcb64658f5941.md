@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: November 28, 2025 3:56 PM
+Last Edited: December 7, 2025 7:41 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -11,7 +11,16 @@ Characters: Misc People, Musicians
 
 # Description
 
-During the night, a concert took place in the same spot as the public playground down the street from my unit complex. A crowd repeatedly jumped on the spot in front of a wide red and black stage, illuminated by a large screen in the back and countless LEDs on the walls, as loud music played.
+I was walking to a music concert in the park down the street at night, beside the playground, to investigate the loud music when I saw a crowd repeatedly jumped in place in front of the stage:
+
+- Parts:
+    - Main stage.
+    - Wide side walls.
+- Colours:
+    - Red and black.
+- Lights:
+    - Large screen on the main stage.
+    - LEDs on the walls.
 
 # Interpretations
 

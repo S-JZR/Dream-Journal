@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/12/2024
-Last Edited: November 27, 2025 11:28 PM
+Last Edited: December 7, 2025 11:16 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -11,7 +11,7 @@ Characters: Students, Teachers
 
 # Description
 
-I attended a workshop where various students learned construction skills both inside a large building and on the outdoor semi-circle deck which was surrounded by a swamp with distant tiny monorail tracks and hills following the perimeter. The lessons were simple like tightening bolts on a metal beam. During lunch breaks most students stayed on the deck to eat and nobody was allowed to work or they would be scolded from afar by the instructor. In our own time we had to complete a 2D platformer video game on a Windows 7 laptop that taught different lessons throughout the journey. To avoid being noticed, I turned down the volume and neared completion, which inspired a few nearby students to do the same.
+I was one of many students attending a workshop to learn construction skills in a large building with an outdoor semi-circle deck surrounded by a swamp with distant tiny monorail tracks and hills following the perimeter. The lessons were simple like tightening bolts on a metal beam. During lunch breaks most students stayed on the deck to eat and nobody was allowed to work or they would be scolded from afar by the instructor. In our own time we had to complete a 2D platformer video game on a Windows 7 laptop that taught different lessons throughout the journey. To avoid being noticed, I turned down the volume and neared completion, which inspired a few nearby students to do the same.
 
 For the capstone project students were tasked with defending miniature boats containing figurines from giant metallic crocodiles with balloon heads that pursued from behind as they all moved along the rails. Teams of three students were assigned to each session: two operated machine guns on opposite sides of the deck and one coordinate attacks and operated a walkie talkie to request air support from miniature attack helicopters. As a radio operator, I directed my teammates to target crocodiles gaining on the boats but felt no need to request air support since it was too easy.
 

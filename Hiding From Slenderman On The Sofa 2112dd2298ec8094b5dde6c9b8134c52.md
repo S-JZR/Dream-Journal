@@ -2,16 +2,17 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: November 27, 2025 11:21 PM
+Last Edited: December 8, 2025 12:48 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Home
 Characters: Slenderman
+Influences: Slender: The Eight Pages (2012)
 
 # Description
 
-I was sitting on the sofa with the vertical blinds shut when Slenderman approached from outside, emitting a deep vibration that grew louder as he got closer. Fearing for my safety, I laid flat and motionless to avoid being seen, waiting in silence for a few minutes until he finally left.
+I was sitting on the sofa with the vertical blinds shut when the silhouette of Slenderman approached from outside and emitted a deep vibration that grew louder as he got closer. I laid down flat and motionless for a few minutes until he finally left.
 
 # Interpretations
 
@@ -29,4 +30,4 @@ I was sitting on the sofa with the vertical blinds shut when Slenderman approach
 
 # Post Dream
 
-- I remember sharing this dream with Jace and Levi’s brother at school.
+- I remember sharing this dream with Jace and Levi’s brother at primary school.

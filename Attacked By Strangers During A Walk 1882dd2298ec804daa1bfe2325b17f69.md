@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/09/2023
-Last Edited: November 27, 2025 11:25 PM
+Last Edited: December 3, 2025 4:17 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-I was with a group of fictional friends outside a large house parallel to my unit complex. Concerned for everyone's safety, we decided to walk each person back to their home as the sun began to set. However, while traversing a dirt path surrounded by dense shrubbery, I heard voices and noticed silhouettes. Rushing to the illuminated porch of the friend’s house, I turned back to catch glimpses of them. Instructing my friends to hurry over, I asked if they had seen any strangers, to which they responded affirmatively, mentioning that there were robbers attempting to snatch our belongings.
+I was walking with a group of fictional friends outside the large house opposite my unit complex. Concerned for everyone's safety, we decided to walk each person back to their home as the sun began to set. However, while traversing a dirt path surrounded by dense shrubbery, I heard voices and noticed silhouettes. Rushing to the illuminated porch of the friend’s house, I turned back to catch glimpses of them. Instructing my friends to hurry over, I asked if they had seen any strangers, to which they responded affirmatively, mentioning that there were robbers attempting to snatch our belongings.
 
 Returning to investigate the same street outside the big house, we observed figures shining flashlights at us from further down the slanted road. Equipped with a focusable flashlight, I illuminated multiple people in the dark. One of the younger girls with us attempted to dial the police, but strangely was trying to do it through a web search on my old phone. Recognizing the urgency, I retrieved my new phone to call myself. However, it transformed into a small pink device with a tiny screen and the voice of the first responder sounded rough like a radio transmission. After relaying the entire situation, they promptly dispatched police to the area.
 

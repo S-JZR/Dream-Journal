@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/09/2023
-Last Edited: November 28, 2025 6:37 PM
+Last Edited: December 5, 2025 5:30 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -12,7 +12,9 @@ Influences: Commercials
 
 # Description
 
-While filming a Burger King commercial about scientists conducting an independent investigation to ascertain whether the burgers were truly superior to other brands. Through obtaining samples and gathering data, it concluded that 7 out of 10 people preferred Burger King. The visual style of the footage adopted a vlog-style approach, featuring various shots zooming in on the store from afar, capturing diverse customers walking in. However, while continuing production onsite, a genuine realization struck us that we were inadvertently filming at the wrong location revealed to be McDonald's.
+The commercial used a vlog style and featured various shots zooming in on the store from afar and capturing diverse customers walking in.
+
+I was one of many actors portraying scientists in a burger king commercial where we conducted a secret investigation to determine whether the burgers were truly better than other brands. We gathered samples and concluded that 7 out of 10 people preferred Burger King. However, we soon realized we had been accidentally filming at a McDonald's.
 
 # Interpretations
 

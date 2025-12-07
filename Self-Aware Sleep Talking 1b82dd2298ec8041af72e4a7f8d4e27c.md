@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2010
-Last Edited: November 27, 2025 11:20 PM
+Last Edited: December 1, 2025 6:13 PM
 Type: Half-Asleep
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,9 +11,7 @@ Characters: Family
 
 # Description
 
-On one occasion, I was semi-consciously sleep talking with mumbled cries as my eyes were still open, yet I was aware of the phenomenon in third-person as if I were another entity inside my body observing its responses.
-
-Overhearing the commotion, my mother tapped my shoulder, reassuring me that everything was alright and that I was merely dreaming, without waking me up, as I pondered why my body was mumbling independently.
+I was half-asleep with my eyes open when I began mumbling cries. I felt confused because I was aware of my body seemingly acting independently and I could still think clearly as I wondered what it was doing. My mum overhead the commotion and tapped my shoulder without waking me up to reassure me that everything was alright and I was merely dreaming but I knew that I was still awake. She didn’t know my eyes were open because it was dark.
 
 # Interpretations
 
@@ -31,4 +29,8 @@ Overhearing the commotion, my mother tapped my shoulder, reassuring me that ever
 
 # Pre Dream
 
-- For an entire month, I occasionally panicked in my sleep for no apparent reason and I don’t know why.
+- For an entire month, I went through a phase of occasionally panicking in my sleep for no apparent reason and I don’t know why.
+
+# Post Dream
+
+- After the strange experience which unsettled me a bit, I started to consider whether we actually have a soul and a body that can operate independently.

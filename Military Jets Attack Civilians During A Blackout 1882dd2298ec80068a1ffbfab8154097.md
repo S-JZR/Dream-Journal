@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 02/12/2022
-Last Edited: November 28, 2025 6:01 PM
+Last Edited: December 5, 2025 5:25 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Cashiers, Misc People, Soldiers
 
 # Description
 
-I was shopping at a Coles supermarket nestled within a retail strip. While waiting in line at the checkout, an unexpected blackout plunged the store into darkness. Prompted by curiosity, I suggested to the cashier that she should check if the neighbouring ALDI was also affected. In agreement, she walked out the front door to investigate, along with me shortly afterwards.
+I was waiting in line at the checkouts in a Coles supermarket within a retail strip when an unexpected blackout occurred. I suggested to the cashier that she should check if the neighbouring ALDI was also affected and she walked out the front door to investigate but took a long time so I left the store.
 
 A riot erupted outside, drawing a multitude of people to the carpark, which gradually transformed into a grassy field. Suddenly, a military jet soared overhead, circling before nose-diving toward the crowd, unleashing a torrent of bullets from its side Vulcan guns. Fearing being struck in the head, I barely managed to flee beneath a nearby awning extending across all stores when a series of loud thuds reverberated, impacting miscellaneous areas of terrain.
 

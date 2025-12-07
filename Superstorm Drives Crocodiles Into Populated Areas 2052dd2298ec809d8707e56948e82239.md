@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 27/05/2025
-Last Edited: November 29, 2025 7:23 PM
+Last Edited: December 7, 2025 11:14 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,9 @@ Characters: Crocodiles, Deers, Men In Black, Misc People
 
 # Description
 
-A superstorm passed over Queensland, Australia during the night, causing various wild animals to move into populated areas. The next day, I walked onto the grass oval at my secondary school to witness three gigantic 10 meter long crocodiles laying idle on their bellies beside each other with a gap between them. Red and white hazard tape formed a rectangular perimeter around them with padding inside. One had wandered slightly outside the taped area.
+A superstorm passed over Queensland during the night, causing various wild animals to move into populated areas.
+
+I was walking onto the grass oval at my secondary school the next day and saw three thick 10 meter long crocodiles lying idle on their bellies beside each other. Red and white hazard tape formed a rectangular perimeter around them with padding inside. One had wandered slightly outside the taped area.
 
 When returning to my unit at night, I was worried about my dad trying to get into his card to drive to nightshift work with wild animals around and considered leaving a warning on a note. While scrolling through social media on my phone, I saw various night-time videos, including AI generated monster clips that I skipped, and different people documenting large crocodiles on their properties. One showed someone opening their second storey water-textured sliding glass window to film a crocodile on the grass when it suddenly darted towards them, trying to climb the exterior wall to get inside, so they instinctively slammed the window shut to keep it out.
 

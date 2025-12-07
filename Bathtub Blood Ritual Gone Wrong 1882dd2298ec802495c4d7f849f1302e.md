@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: November 27, 2025 11:21 PM
+Last Edited: December 7, 2025 2:46 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,14 @@ Influences: Freemasonry
 
 # Description
 
-I was in a dimly lit bathroom with flickering candles, participating in a ritual with a fictional teenage friend in front of a white cast iron bathtub filled with blood. A miniature obelisk model stood on a rectangular soap tray atop the opposite end of the bathtub. As we began chanting an unknown phrase the bloody water bubbled as a female human hand emerged, pulling me closer as a disembodied voice threatened us never to disclose the incident or we would die. After descending back down, my friend and I exchanged startled glances and silently departed the room without speaking.
+I was standing in a dimly lit bathroom with a fictional teenage friend as we performed a ritual by:
+
+- Lighting candles.
+- Filling a white cast iron bathtub with blood.
+- Placing a miniature obelisk on a soap tray on the opposite side of the bathtub.
+- Chanting an unknown phrase.
+
+The bloody water bubbled as a female human hand emerged, pulling me closer as a disembodied voice threatened us never to disclose the incident or we would die. After descending back down, my friend and I exchanged startled glances and silently departed the room without speaking.
 
 # Interpretations
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 29/11/2023
-Last Edited: November 28, 2025 6:45 PM
+Last Edited: December 5, 2025 7:49 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,13 +12,13 @@ Influences: Lethal Company (2023)
 
 # Description
 
-I was with a crew of five scavengers on a square flat-top cargo spaceship comprising:
+I was one of five scavengers on a square cargo spaceship with a flat top:
 
-- Perimeter: wooden stockade fence.
 - Left: rectangular barbecue.
 - Centre: LED paper lantern.
 - Right: work desk and a half-sized dumpster.
 - Front: steering wheel.
+- Perimeter: wooden stockade fence.
 
 Our descent led to a snowy underground facility with three entrances forming a C-formation, where we began collecting various pieces of cardboard and aluminium cans. A pack of ravenous wolves ambushed the location, attempting to breach it. Extending a javelin deterred one wolf, understanding that approaching would result in injury as it brushed against the tip, prompting its retreat as I sealed the front door. While moving towards the left door, covered by a chain-linked fence, another wolf burst through abruptly, attempting to bite my arm. Employing the same tactic, we sealed off that entrance and deployed sentries at each door to prevent further breaches while we continued working.
 
@@ -32,7 +32,7 @@ Returning to the ship at midnight, the central lantern illuminated the space as 
 
 ## Influences
 
-- I was watching online gameplay of Lethal Company.
+- I was watching online gameplay of Lethal Company with lots of different types of monsters and you can purchase decorations for the cargo ship.
 
 ## Symbols
 
