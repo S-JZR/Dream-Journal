@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/06/2025
-Last Edited: November 29, 2025 1:32 AM
+Last Edited: December 6, 2025 4:17 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,11 +12,14 @@ Influences: Personal Experiences
 
 # Description
 
-I was standing with a group of teenage students and a female teacher supervising us as we learned to swim in a rectangular grey concrete room featuring:
+I was one of many secondary school students learning to swim in a rectangular grey concrete room while being supervised by a female teacher:
 
-- Left: wide platform.
-- Middle: 3 metre deep pool.
-- Right: narrow platform with a central rectangular tank and side glass window.
+- Left:
+    - Wide platform.
+- Middle:
+    - Pool.
+- Right:
+    - Narrow platform with a central rectangular tank and side glass window.
 
 During the first activity everyone was tasked with crossing the pool that periodically and rapidly filled and drained, with a few floating foam platforms loosely arranged in a line on the surface. Some students quickly swam to the other side before the water drained. Julien clung to a rectangular hovercraft with four side fans as he slid across the ceiling to the other side, where it abruptly dropped and landed on him, prompting nearby students to lift it off his body.
 

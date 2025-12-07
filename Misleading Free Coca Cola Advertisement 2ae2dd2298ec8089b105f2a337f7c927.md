@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 10/07/2020
-Last Edited: November 27, 2025 9:28 PM
+Last Edited: December 3, 2025 12:18 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -11,7 +11,7 @@ Characters: Cashiers, Julien C, Misc People
 
 # Description
 
-I was with Julien, my friend from school, in a shopping mall hallway as we noticed a stall with a sign reading "Free Coca-Cola!" Eager for a drink, he approached the female vendor, only to discover that the offer required completing a survey. He was disappointed and bought two cans for both of us anyway and we left.
+I was walking through a shopping mall hallway with Julien, my friend from school, when we noticed a stall with a sign reading "Free Coca-Cola!" Eager for a drink, he approached the female vendor, only to discover that the offer required completing a survey. He was disappointed and bought two cans for both of us anyway and we left.
 
 # Interpretations
 

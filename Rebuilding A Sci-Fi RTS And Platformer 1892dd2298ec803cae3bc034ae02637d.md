@@ -1,17 +1,17 @@
-# Rebuilding A Sci-Fi RTS And Platformer Videogame
+# Rebuilding A Sci-Fi RTS And Platformer
 
 Favourite: No
 Date Created: 17/10/2024
-Last Edited: November 28, 2025 9:13 PM
+Last Edited: December 7, 2025 5:37 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Egypt, Planet
+Locations: Planet, Virtual/Videogame
 Influences: Agar.io (2015), Battleship Forever (2007), Planetoid 3 (2009) (GameMaker)
 
 # Description
 
-I decided to finish developing a 2D RTS about capturing planets in the universe abandoned by the original developer. Various multi-coloured nebular mists were distributed throughout the background and each planet featured an icon depicting terrain features like craters. Players could build various structures on the perimeter and produce troops to attack others. While invading a planet, I sent a transport spaceship to deploy tanks but debated how to render their perspective as it would look strange if units travelled across the diameter while facing horizontally when compared to building placements, so I settled on following the perimeter.
+I was in a 2D RTS videogame that involved capturing planets. The game was abandoned by the original developer and I decided to finish developing it. Various multi-coloured nebular mists were distributed throughout the background and each planet featured an icon depicting terrain features like craters. Players could build various structures on the perimeter and produce troops to attack others. While invading a planet, I sent a transport spaceship to deploy tanks but debated how to render their perspective as it would look strange if units travelled across the diameter while facing horizontally when compared to building placements, so I settled on following the perimeter.
 
 Another feature allowed players to switch into a 3D platformer ground view of planets. For instance, I navigated through an Egyptian themed landscape with sandstone bricks in the foreground and walls, pyramids, and obelisks, in the background. Eventually, after struggling to make progress building the game, I read an internet post of someone explaining that the developer quit because they considered it an awful game and merely an experiment, prompting me to follow suit as the charm faded.
 

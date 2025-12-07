@@ -2,17 +2,17 @@
 
 Favourite: Yes
 Date Created: 01/01/2017
-Last Edited: November 29, 2025 7:44 PM
+Last Edited: December 2, 2025 10:32 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: City, Heaven
-Characters: Abrahamic God, Demons, Misc People
+Characters: Abrahamic God, Dejan C, Demons, Michael C, Misc People
 Influences: Personal Thoughts
 
 # Description
 
-While strolling in the countryside during the day with some secondary school friends, an explosion suddenly erupted in the distance, engulfing the sky in a wave of flames until it was completely black. Uncertain about what had occurred, we returned to the city only to find it monitored by a towering black obelisk with a small red eye protruding from a diamond-shaped block at its apex. It scanned the streets with a spotlight and forced crowds to perform forced labour.
+I was walking through the countryside with Michael and Dejan, friends from secondary school, when a distant explosion occurred that engulfed the entire sky in a wave of flames until everything became pitch black. Uncertain about what had occurred, we returned to the city only to find it monitored by a towering black obelisk with a small red eye protruding from a diamond-shaped block at its apex. It scanned the streets with a spotlight and forced crowds to perform forced labour.
 
 Beyond distant buildings, a dimensional rift lay open, revealing God seated on a throne, illuminated by a golden aurora, with a giant stationary clock beside him. The clock held him in a time stasis, allowing demonic entities to rule the world indefinitely.
 

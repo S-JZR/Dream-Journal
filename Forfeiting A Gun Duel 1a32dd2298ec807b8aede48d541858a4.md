@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 14/01/2025
-Last Edited: November 28, 2025 9:18 PM
+Last Edited: December 7, 2025 6:16 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Misc People
 
 # Description
 
-While standing outside the empty garage of my unit complex engaged in a gun duel with a man inside, we wore bulletproof vests and could choose to use and upgrade different weapons. However, after they chose to focus on upgrading a sniper rifle to level 6, I decided to forfeit, not wanting to risk dying by it piercing through my vest.
+I was standing outside my empty garage engaged in a gun duel with a man inside. We both wore bulletproof vests, started with pistols, and could choose what equipment to unlock and upgrade over time. However, after they chose to focus on upgrading a sniper rifle to level six, I decided to forfeit, not wanting to risk dying by it piercing through my vest.
 
 # Interpretations
 

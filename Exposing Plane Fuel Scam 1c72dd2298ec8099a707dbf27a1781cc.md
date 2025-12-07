@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/10/2024
-Last Edited: November 29, 2025 7:16 PM
+Last Edited: December 6, 2025 1:50 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -12,7 +12,20 @@ Influences: Shark Tank (2009)
 
 # Description
 
-At my secondary school, everyone forwarded to an assembly in a small canyon-themed seating area featuring wooden benches, sand, boulders, and a few blackbrush bushes scattered around. A conman was invited to showcase his fake invention at the front podium using a projector presentation. He claimed that through advanced scientific methods he had honed over the years, he patented a unique design that could convert various substances into fuel for his private jet parked nearby.
+I was one of many students at my secondary school that attended an assembly in a small canyon-themed seating area:
+
+- Front:
+    - Whiteboard and projector.
+    - Canteen.
+- Centre:
+    - Wooden benches.
+- Decorations:
+    - Boulders.
+    - Scattered blackbrush bushes.
+- Floor:
+    - Sand.
+
+A conman was invited to showcase his fake invention at the front podium using a projector presentation. He claimed that through advanced scientific methods he had honed over the years, he patented a unique design that could convert various substances into fuel for his private jet parked nearby.
 
 A sceptical teacher overseeing the event dismissed the claim as impossible, but the presenter countered by inviting them to compare the fuel levels before the presentation and after when the conversion process was completed. While remaining seated during lunch break as most students moved to another room, I watched the presenter open Wikipedia articles to copy paragraphs onto his slides. I discretely captured low-angle photos from behind my school bag, ensuring the screen and presenter were featured as irrefutable evidence. Upon informing the head teacher about the incident, he assured me that when everyone returns, he will start with general questions, then I could inquire about the copied text.
 

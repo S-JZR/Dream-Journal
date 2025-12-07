@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: November 29, 2025 7:43 PM
+Last Edited: December 5, 2025 3:11 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anticipation
@@ -12,9 +12,7 @@ Influences: Christian Bible
 
 # Description
 
-I was with a crowd who were standing and sitting on a hill beside a city, patiently awaiting God’s second coming in silence. Those driving through the city peered into the sky from their car windows.
-
-The dream ended before anything occurred.
+I was standing on a hill overlooking Brisbane City with a large crowd patiently awaiting God’s second coming in silence. Those driving through the city looked up at the sky through their car windows.
 
 # Interpretations
 
@@ -29,3 +27,7 @@ The dream ended before anything occurred.
 ## Lessons
 
 - N/A.
+
+# Post Dream
+
+- The dream ended before anything occurred.

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 02/05/2025
-Last Edited: November 27, 2025 11:31 PM
+Last Edited: December 7, 2025 11:37 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -12,11 +12,16 @@ Influences: Fred Claus (2007), Minecraft (2025)
 
 # Description
 
-My brother and I were in the city near a cinema, so we decided to sneak into one of the auditoriums to try freely viewing the end parts or catch a glimpse of the Chicken Jockey trend. The room featured:
+I was walking down the street in the city with my brother when we realized we were near the cinema and decided to sneak into an auditorium to see if we could catch a glimpse of people doing the Chicken Jockey trend for the Minecraft movie:
 
-- Centre: two columns of tip-up seating.
-- Perimeter: c-shaped seating with pine green tufted cushions.
-- Wall: red bricks.
+- Front:
+    - Cinema screen.
+- Centre:
+    - Two columns of tip-up seating.
+- Left, Back, And Right:
+    - Pine green tufted cushioned seating.
+- Wall:
+    - Red/brown bricks.
 
 It was completely packed with diverse teenage and adult people, so we split up to find spare seats. My brother went right down the aisles, and I went left along the back row, repeatedly saying “excuse me” as I brushed past people’s legs while some pulled them back to make space. However, when sitting down between two groups of women, everyone to the right of me started moving out, and I realized the film had finished and was now showing behind the scenes footage of the cast discussing how the film was made. Another scene showed people dressed as Minecraft mobs in a room who played the roles instead of CGI, exiting through a door and going offscreen, and some viewers criticized the graphics as unrealistic. Eventually, everyone else started leaving, and I wasn't sure if my brother had left or not, so I checked the aisles and outside, but to no avail.
 

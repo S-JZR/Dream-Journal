@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/06/2024
-Last Edited: November 29, 2025 7:51 PM
+Last Edited: December 4, 2025 1:20 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-In my unit complex, I was awoken by my mother at 10:00 am for sleeping in late on my secondary school's end-of-year sports day. She asked what time I needed to be dropped off, so I pulled out a multi-coloured schedule indicating that various student groups were asked to arrive at different times. I suddenly realized that the Year 12 slot was the only one running throughout the entire day, meaning I should have arrived earlier.
+I was sleeping in my unit when my mum woke me up at 10:00 am for sleeping in and being late for the end-of-year sports day at my secondary school. She asked what time I needed to be dropped off, so I pulled out a multi-coloured schedule indicating that various student groups were asked to arrive at different times. I suddenly realized that the Year 12 slot was the only one running throughout the entire day, meaning I should have arrived earlier.
 
 Upon entering the school, I stood by the large tree on the oval and started lightly tugging my chin beard as large clumps tore off unexpectedly, revealing patches of skin.
 

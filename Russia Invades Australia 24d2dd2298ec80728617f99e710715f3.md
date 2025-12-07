@@ -2,16 +2,17 @@
 
 Favourite: No
 Date Created: 12/08/2025
-Last Edited: November 27, 2025 11:32 PM
+Last Edited: December 7, 2025 10:55 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: City, River
 Characters: Misc People
+Influences: News
 
 # Description
 
-I was in Brisbane City when word spread that Russia was invading Australia. Multiple illuminated missile flew through the sky and exploded as they were shot down by aerial defences. The missiles temporarily stopped as both countries discussed a peace treaty but they failed to reach an agreement as the attacks continued. The defences weren’t strong enough to eliminate all missiles and some struck buildings. Concerned for my safety, I fled deeper into the city and entered a smaller side building to the left of a central skyscraper that was being targeted to cause maximum casualties as rubble fell from various holes.
+I was walking through Brisbane City when word spread that Russia was invading Australia. Multiple illuminated missiles flew through the sky and exploded as they were intercepted by aerial defences. The missiles temporarily stopped as both countries discussed a peace treaty but they failed to reach an agreement as the attacks continued. The defences weren’t strong enough to eliminate all missiles and some struck buildings. Concerned for my safety, I fled deeper into the city and entered a smaller side building to the left of a central skyscraper that was being targeted to cause maximum casualties as rubble fell from various holes.
 
 A large crowd and I evacuated further back as we approached the Roman Colosseum beside the river. I told everyone to swim to the other side of the city as I jumped in first and everyone followed. However, I quickly became exhausted and realised the distance might be too far. I advised everyone to float on their backs to rest if necessary and redirected them towards a stone building to the right with submerged steps. I tried warning everyone not to bump their heads on the steps but some people still did. We continued crossing the river towards the other side.
 
@@ -19,7 +20,7 @@ A large crowd and I evacuated further back as we approached the Roman Colosseum 
 
 ## Influences
 
-- News: the Russia-Ukraine war is still going.
+- News: the Russia-Ukraine war is still going. Russia constantly declines peace treaty deals.
 
 ## Symbols
 

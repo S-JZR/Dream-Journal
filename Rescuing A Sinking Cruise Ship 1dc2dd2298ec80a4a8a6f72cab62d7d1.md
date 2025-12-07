@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/04/2025
-Last Edited: November 28, 2025 11:06 PM
+Last Edited: December 7, 2025 10:22 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -12,7 +12,9 @@ Influences: MacGyver (1985)
 
 # Description
 
-A distress call was received from a cruise ship in the middle of the ocean that was slowly sinking each day with 70% already submerged. I was dispatched on a black helicopter with MacGyver and a few other individuals to rescue any remaining survivors. After landing, we noticed everything was desolate and navigated through floors overlooking flooded staircases and rooms below. After travelling through a large metal sewage pipe to a T-intersection, we overheard two crew members on the left talking to each other as they stood beside an illuminated camping lantern on the floor. We realized most passengers had resorted to cannibalism and joined different factions to hunt others down.
+An international rescue agency received a distress call from a cruise ship slowly sinking in the middle of ocean that was already 70% submerged.
+
+I was one of five rescue workers, including MacGyver, dispatched on a black helicopter to rescue any remaining survivors. After landing, we noticed everything was desolate and navigated through floors overlooking flooded staircases and rooms below. After travelling through a large metal sewage pipe to a T-intersection, we overheard two crew members on the left talking to each other as they stood beside an illuminated camping lantern on the floor. We realized most passengers had resorted to cannibalism and joined different factions to hunt others down.
 
 We stealthily moved past them until we found a way into a dark control room dimly lit by red lights with computer terminals, servers, and machinery in the back. A one-eyed engineer robot with a unicycle leg was activated by our arrival and introduced itself. A woman jokingly asked it to repair everything but it said that was impractical given the limited time and urgent circumstances. A man asked it to reroute power to a specific zero-gravity component to lift the entire ship out of the ocean.
 

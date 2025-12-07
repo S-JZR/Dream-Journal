@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2008
-Last Edited: November 27, 2025 11:20 PM
+Last Edited: December 1, 2025 5:46 PM
 Type: Half-Asleep
 Age Rating: SFW
 Main Emotion: Surprise
@@ -11,7 +11,7 @@ Characters: Gorillas
 
 # Description
 
-While trying to fall asleep, I hallucinated the face of a gorilla covering an entire shelf in the room that stayed in the same position no matter where I looked as if it were really there.
+I was trying to sleep in real life when I hallucinated the face of a gorilla covering an entire shelf in the room that stayed in the same spot no matter where I looked.
 
 # Interpretations
 

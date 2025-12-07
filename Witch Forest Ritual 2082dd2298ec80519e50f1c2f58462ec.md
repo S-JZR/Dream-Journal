@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: November 28, 2025 5:07 PM
+Last Edited: December 2, 2025 11:45 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -11,7 +11,7 @@ Characters: Witch
 
 # Description
 
-I was walking along a dirt path at night when I noticed the faint glow of a bonfire beside a forest. As I approached a level area with a brick wall, I caught a glimpse of a witch in a purple dress and pointed hat standing on a half-illuminated shipping container behind it to the right, likely engaged in a ritual.
+I was walking along a dirt path beside a forest at night when I noticed the faint glow of a bonfire in a dirt area behind a red/brown brick wall. As I approached the wall, I saw a witch wearing a purple dress and pointed hat standing on a shipping container to the right likely engaged in a ritual.
 
 # Interpretations
 
@@ -21,7 +21,8 @@ I was walking along a dirt path at night when I noticed the faint glow of a bonf
 
 ## Symbols
 
-- N/A.
+- Witch: sin and corruption.
+- Purple: mysterious and evil.
 
 ## Lessons
 

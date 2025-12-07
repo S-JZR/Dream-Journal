@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 12/09/2025
-Last Edited: November 29, 2025 1:54 AM
+Last Edited: December 5, 2025 2:13 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: 99 Nights In The Forest (2025) (Roblox), The Outlast Trials (2023)
 
 # Description
 
-I was standing with a woman in a small parking lot when she asked me to recall my experiences in a depraved village. She asked a few questions as I spoke and I told her it was like The Outlasts Trials run by various psychopaths. Nobody was supposed to be outside during the night as they risked being shot and attacked by anthropomorphic nocturnal mutant deer guards that sluggishly roamed on two legs and held rifles.
+I was standing in a small carpark when a woman asked me to recall my experiences in a depraved village. I told her it was like The Outlasts Trials run by various psychopaths. Nobody was supposed to be outside during the night as they risked being shot and attacked by anthropomorphic nocturnal mutant deer guards that sluggishly roamed on two legs and held rifles.
 
 A few months ago, I was a a poor man in the same parking lot at night when I noticed a pink piggy bank on the ground. I held it up in both hands as everything faded to white and I was teleported to a remote village containing rundown modern buildings and a forest surrounding the perimeter. I stood outside a few two-storey buildings at the edge of the location and upstairs in a dark messy abandoned industrial room with smashed windows I noticed a woman walking right and disappearing.
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2005
-Last Edited: November 27, 2025 11:20 PM
+Last Edited: December 1, 2025 5:38 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -11,7 +11,7 @@ Influences: Christian Bible
 
 # Description
 
-White sans serif text on a black background stated "Do not fall into the hands of Satan.”
+I was spectating a black void when white sans-serif text appeared stating "Do not fall into the hands of Satan.”
 
 # Interpretations
 

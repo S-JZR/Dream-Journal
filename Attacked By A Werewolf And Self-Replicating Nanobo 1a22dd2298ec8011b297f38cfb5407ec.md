@@ -1,20 +1,34 @@
 # Attacked By A Werewolf And Self-Replicating Nanobots
 
-Favourite: No
+Favourite: Yes
 Date Created: 02/12/2022
-Last Edited: November 27, 2025 11:24 PM
+Last Edited: December 8, 2025 1:26 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Arcade, Forest
 Characters: MatPat, Nanobots, Werewolf
-Influences: Personal Thoughts, Rick And Morty (2013), The Game Theorists
+Influences: Online Videos, Personal Thoughts, Rick And Morty (2013)
 
 # Description
 
-I entered a forest that opened to reveal a large, steep valley on its right side, illuminated by various scattered lights and buildings. The tranquillity shattered as leaves rustled underfoot, and turning around revealed a werewolf charging at me. In self-defence, I discharged all firearms on hand, making it retreat. However, as I sprinted across a bridge on the left side of the valley, the werewolf resumed its pursuit.
+I was walking through a complex long rectangular environment:
 
-When reaching flat terrain on the other side, green neon lights approached atop the mountains, revealed to be a wave of self-replicating nanobots assimilating anything in their path. Fearing for my life, I descended into the valley to evade the converging threats before climbing up the other side. While navigating through, I overheard a fictional discussion by MatPat about a Rick and Morty episode where Rick carelessly constructs a self-replicating machine for an experiment that seeks to consume matter across all dimensions.
+- Left:
+    - Forest.
+    - Flat terrain.
+- Middle:
+    - Valley.
+    - Wooden bridge to the left.
+    - Scattered log buildings and lights.
+- Right:
+    - Flat terrain.
+- Perimeter:
+    - Mountains.
+
+Hearing the rustling of leaves underfoot made me turn around to see a werewolf emerging from the forest to charge at me. In self-defence, I discharged all firearms on hand, making it retreat. However, as I sprinted across the bridge the werewolf resumed its pursuit.
+
+When reaching the other side of the valley, green neon lights approached atop the mountains, revealed to be a wave of self-replicating nanobots assimilating anything in their path. Fearing for my life, I descended into the valley to evade the converging threats before climbing up the other side. While navigating through, I overheard a fictional discussion by MatPat about a Rick and Morty episode where Rick carelessly constructs a self-replicating machine for an experiment but it turns evil and consumes all space and matter across all dimensions. The machine gradually becomes like everyone it consumes and once there’s nothing else left it becomes lonely and feels remorseful so it simulates all dimensions as they once were.
 
 After exiting the forest, I was transported to an almost vacant arcade with cabinets displaying default title sequences. As I reached the opposite side, a single machine exhibited a glitched green screen, prompting me to flee the premises.
 

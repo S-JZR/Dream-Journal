@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 05/04/2025
-Last Edited: November 28, 2025 10:56 PM
+Last Edited: December 4, 2025 9:28 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-I was with various secondary school students on an excursion detouring to a shopping mall to buy food. I thought the prices at a Subway on the first level in the food court were too expensive at $18 per person. However, when I went to another one on the top floor they charged up to $80 person so I returned and told the staff, which shocked them. When I tried to order, they claimed they had just closed and the teachers said time was up. Everyone moved back to the buses to return to school. I figured my only option was to eat at a store on campus when we got back.
+I was one of many secondary school students on an excursion that detoured to a shopping mall to buy lunch. I thought the prices at a Subway on the first level in the food court were too expensive at $18 per person. However, when I went to another one on the top floor they charged up to $80 person so I returned and told the staff, which shocked them. When I tried to order, they claimed they had just closed and the teachers said time was up. Everyone moved back to the buses to return to school. I figured my only option was to eat at a store on campus when we got back.
 
 When boarding a black bus, I slid open a chain-link fence on the side, revealing a square compartment with five female students, one of which was Rhiannon, sitting on the floor at either side and various dogs roaming around. I sat with them as we returned to school.
 

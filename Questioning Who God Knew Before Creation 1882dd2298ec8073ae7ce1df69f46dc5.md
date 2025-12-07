@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: December 6, 2025 4:55 PM
+Last Edited: December 6, 2025 4:56 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -12,7 +12,11 @@ Influences: Personal Thoughts
 
 # Description
 
-I questioned God, "Who did you know before the foundation of the world when nobody else existed?" His response was, "I knew Jesus.”
+I was spectating a black void when I questioned God who answered with a disembodied voice.
+
+> **Me**: Who did you know before the foundation of the world when nobody else existed?
+**God**: I knew Jesus.
+> 
 
 # Interpretations
 

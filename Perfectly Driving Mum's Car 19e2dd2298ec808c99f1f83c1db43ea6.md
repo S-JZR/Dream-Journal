@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: November 28, 2025 4:05 PM
+Last Edited: December 5, 2025 3:12 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-I was in the passenger seat of my mother's automatic car as I shifted the gear stick and pressed the pedals to perfectly reverse out of the garage and drive around the neighbourhood.
+I was seated in the driver’s seat of my mother's car as I shifted the gear stick and pressed the pedals to perfectly reverse out of the garage and drive around the neighbourhood.
 
 # Interpretations
 
