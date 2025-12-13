@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 02/07/2025
-Last Edited: December 7, 2025 5:41 PM
+Last Edited: December 12, 2025 2:01 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -25,14 +25,15 @@ Eventually, someone was standing at the front entrance of my base entrance. I tr
 
 ## Influences
 
-- Mad God: some characters or threats are highlighted in red.
-- FNAF: Secret Of The Mimic: references Nurse Dollie following random paths on the hospital floor.
-- Minecraft: references slimes.
+- Mad God:
+    - References some characters or threats are highlighted in red.
+- FNAF: Secret Of The Mimic:
+    - References Nurse Dollie following random paths on the hospital floor.
+- Minecraft:
+    - References slimes.
 - The Conquerors 3:
     - Starting with a strong naval unit can shutdown the enemy on water maps.
-    - During FFA when you leave your base an enemy will typically try to capture yours.
-- I often show grace to new noob players in RTS video games.
-- Roblox: the destroyer references random glitches that may occur in the games.
+    - During FFA, if you leave your base an enemy will typically try to capture it.
 
 ## Symbols
 

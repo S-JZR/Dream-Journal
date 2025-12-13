@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 02/12/2022
-Last Edited: December 8, 2025 1:26 AM
+Last Edited: December 12, 2025 10:19 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -36,13 +36,15 @@ After exiting the forest, I was transported to an almost vacant arcade with cabi
 
 ## Influences
 
-- I fear the existential risks posed by AI and robots.
-- I used to watch The Game Theorists a lot as a teenager when MatPat still owned the YouTube channel.
-- I’ve barely watched Rick And Morty but I understand the premise of the show.
+- Online Videos:
+    - References The Film Theorists recently releasing a Rick And Morty episode.
+- Rick And Morty:
+    - References Rick doing crazy things like destroying entire universes.
 
 ## Symbols
 
-- Nanobots: existential dread.
+- Nanobots:
+    - The fear of existential risks posed by AI and robots.
 
 ## Lessons
 

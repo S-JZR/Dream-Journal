@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 22/09/2025
-Last Edited: December 6, 2025 4:38 AM
+Last Edited: December 12, 2025 4:08 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -22,7 +22,8 @@ The line grew to over 1000 people over time so I grabbed the loudspeaker walkie 
 
 ## Influences
 
-- News: we planned to visit the Taiwan Night Market at UQ Forgan Smith Lawn on the 27th September.
+- News:
+    - We planned to visit the Taiwan Night Market at UQ on the 27th of September.
 
 ## Symbols
 

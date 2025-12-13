@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/02/2024
-Last Edited: December 3, 2025 5:21 PM
+Last Edited: December 12, 2025 10:28 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
@@ -21,9 +21,11 @@ I was a poltergeist inside someone's home as two women discussed how some people
 
 ## Symbols
 
-- Poltergeist/TV: corruption and harmful influences in the world.
-- Baby: innocence.
+- Poltergeist/TV:
+    - Corruption and harmful influences in the world.
+- Baby:
+    - Innocence.
 
 ## Lessons
 
-- There are corrupt people that seek to harm the innocent.
+- N/A.

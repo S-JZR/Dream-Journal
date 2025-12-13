@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 06/08/2025
-Last Edited: December 8, 2025 12:07 AM
+Last Edited: December 13, 2025 4:03 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Surprise
@@ -18,7 +18,8 @@ I was walking in a remote area with my family when we saw multiple lines of peop
 
 ## Influences
 
-- Mad God: references a cyborg dictator oppressing synthetic grey workers which to me feels like the equivalent of Nazism.
+- Mad God:
+    - References a cyborg dictator oppressing synthetic grey workers. I feel it’s like Nazism.
 
 ## Symbols
 

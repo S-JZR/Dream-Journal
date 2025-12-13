@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2005
-Last Edited: December 6, 2025 4:36 PM
+Last Edited: December 12, 2025 5:05 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -25,8 +25,10 @@ Shortly afterwards we walked into the store with our parents.
 
 ## Influences
 
-- During primary school my family regularly visited Video Ezy to rent movies and PS2 video games.
-- I played Ratchet And Clank 3 a lot as a child and the spaceship's interior design resembled the Galactic Rangers dropship.
+- Personal Experiences:
+    - During primary school, my family regularly visited Video Ezy to rent movies and PS2 videogames.
+- Ratchet And Clank 3:
+    - The spaceship's interior resembles the Galactic Rangers dropship.
 
 ## Symbols
 

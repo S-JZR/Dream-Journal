@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/07/2025
-Last Edited: December 4, 2025 11:53 PM
+Last Edited: December 12, 2025 2:08 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -18,7 +18,8 @@ I was standing on a grassy field beside the road to my primary school, with cow 
 
 ## Influences
 
-- I consider ways robots could have a positive impact on the world.
+- Personal Thoughts:
+    - I’ve been thinking about ways robots could have a positive impact on the world.
 
 ## Symbols
 

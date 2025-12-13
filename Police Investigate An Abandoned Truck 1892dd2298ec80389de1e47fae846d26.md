@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 04/10/2024
-Last Edited: December 4, 2025 5:19 PM
+Last Edited: December 13, 2025 12:57 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -21,9 +21,11 @@ I was walking down the sidewalk near my unit complex when I encountered a grey t
 
 ## Symbols
 
-- Police: being followed by the police always makes me feel nervous.
-- Neighbours: the fear of being misperceived by others.
+- Police:
+    - Being followed by the police always makes me feel nervous.
+- Neighbours:
+    - The fear of being misperceived.
 
 ## Lessons
 
-- If you haven't done any crime then you have nothing to fear.
+- If you're innocent then you have nothing to fear.

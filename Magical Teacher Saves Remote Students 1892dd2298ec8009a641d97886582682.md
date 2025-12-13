@@ -2,13 +2,12 @@
 
 Favourite: No
 Date Created: 30/09/2024
-Last Edited: December 4, 2025 5:06 PM
+Last Edited: December 11, 2025 9:46 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
 Locations: Airport, Cave, Forest, Primary School
 Characters: Jodie Whittaker, Students, Teachers
-Influences: News
 
 # Description
 

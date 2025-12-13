@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 28/05/2024
-Last Edited: December 5, 2025 10:05 PM
+Last Edited: December 13, 2025 12:34 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -20,7 +20,8 @@ Onboard the passenger carriage, the room was nearly empty except for a dark blue
 
 ## Influences
 
-- I used to play Roblox a lot and this reminds me of old ride a cart games.
+- Cart Ride:
+    - Likely references the old ride a cart games.
 
 ## Symbols
 

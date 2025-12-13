@@ -2,13 +2,12 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: December 5, 2025 4:43 PM
+Last Edited: December 11, 2025 9:48 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Home, Neighbourhood
 Characters: Police
-Influences: Personal Thoughts
 
 # Description
 
@@ -18,11 +17,12 @@ I was standing in the lounge room of my unit when police started ramming the fro
 
 ## Influences
 
-- I always feel nervous being around police.
+- N/A.
 
 ## Symbols
 
-- Escape: the fear of police or being falsely accused.
+- Police:
+    - I always feel nervous being around police.
 
 ## Lessons
 

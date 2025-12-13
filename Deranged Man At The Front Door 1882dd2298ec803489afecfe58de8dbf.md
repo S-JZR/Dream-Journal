@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: December 7, 2025 3:24 AM
+Last Edited: December 12, 2025 6:20 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -21,7 +21,8 @@ I was standing in the upstairs bathroom of my unit when the radio playing music 
 
 ## Symbols
 
-- Radio/deranged man: unrecognised inner turmoil.
+- Radio/Deranged Man:
+    - Inner turmoil.
 
 ## Lessons
 

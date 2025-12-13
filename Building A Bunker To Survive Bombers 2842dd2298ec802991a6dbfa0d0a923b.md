@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 06/10/2025
-Last Edited: December 5, 2025 2:18 AM
+Last Edited: December 12, 2025 4:09 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -25,8 +25,10 @@ I asked my family to sit beneath the dining table to test whether a bunker that 
 
 ## Symbols
 
-- Bombings: the fear of being helpless.
-- Alone: the fear that nobody worries about the same existential things I do.
+- Bombings:
+    - The fear of going to war.
+- Alone:
+    - The fear that nobody worries about the same things I do.
 
 ## Lessons
 

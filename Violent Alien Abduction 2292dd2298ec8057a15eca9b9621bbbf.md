@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: December 5, 2025 2:54 AM
+Last Edited: December 10, 2025 1:17 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -29,7 +29,8 @@ I was standing in a bank with various people scattered around when a UFO hovered
 
 ## Symbols
 
-- UFO: the fear of being helpless.
+- UFO:
+    - The fear of being helpless.
 
 ## Lessons
 

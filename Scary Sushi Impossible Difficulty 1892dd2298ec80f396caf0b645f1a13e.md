@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 09/07/2024
-Last Edited: December 8, 2025 12:25 AM
+Last Edited: December 13, 2025 12:45 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -25,7 +25,8 @@ I was in the Scary Sushi videogame on a fictional impossible difficulty with the
 
 ## Influences
 
-- I played Scary Sushi recently and didn’t attempt the hard mode but I wondered what it would be like.
+- Scary Sushi:
+    - I played it recently and didn’t attempt the hard difficulty but wondered what it would be like.
 
 ## Symbols
 

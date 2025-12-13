@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: December 7, 2025 2:32 AM
+Last Edited: December 12, 2025 8:36 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,11 +18,13 @@ I was standing on the footpath outside of my unit complex at night when a group 
 
 ## Influences
 
-- We live in a neighbourhood with a lot of government housing units and are wary of people.
+- Personal Experiences:
+    - We live in a neighbourhood with a lot of government housing and are wary of people.
 
 ## Symbols
 
-- Teenagers: rebellion against authority and trying to show off.
+- Teenagers:
+    - Rebelliousness.
 
 ## Lessons
 

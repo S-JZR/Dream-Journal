@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 12/08/2025
-Last Edited: December 7, 2025 10:55 PM
+Last Edited: December 12, 2025 4:09 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,11 +20,15 @@ A large crowd and I evacuated further back as we approached the Roman Colosseum 
 
 ## Influences
 
-- News: the Russia-Ukraine war is still going. Russia constantly declines peace treaty deals.
+- News:
+    - The Russia-Ukraine war is still going: [https://en.wikipedia.org/wiki/Russo-Ukrainian_war](https://en.wikipedia.org/wiki/Russo-Ukrainian_war). Russia has rejected all Western peace treaty proposals.
 
 ## Symbols
 
-- Bombing: the fear of being helpless.
+- Bombing:
+    - The fear of going to war.
+- Colosseum:
+    - Authoritarianism.
 
 ## Lessons
 

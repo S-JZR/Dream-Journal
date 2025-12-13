@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2020
-Last Edited: December 7, 2025 7:02 PM
+Last Edited: December 12, 2025 8:43 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -32,11 +32,13 @@ While walking along the red carpet towards the coffin, all the ghosts turned the
 
 ## Influences
 
-- Recently my family has been attending a heritage Greek Evangelical Church.
+- Personal Experiences:
+    - Recently my family has been attending the Greek Evangelical Church.
 
 ## Symbols
 
-- Empty coffin: the fear of death and that I will inevitably end up in a coffin.
+- Empty Coffin:
+    - The fear of death.
 
 ## Lessons
 

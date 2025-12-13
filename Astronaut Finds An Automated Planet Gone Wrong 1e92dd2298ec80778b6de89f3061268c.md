@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 29/04/2025
-Last Edited: November 28, 2025 11:50 PM
+Last Edited: December 13, 2025 3:02 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -26,9 +26,12 @@ As the astronaut and survivor descended the stairs to cross a large flat outdoor
 
 ## Influences
 
-- Thunderbirds: reminds me of international rescue flying to places and rescuing people.
-- Star Wars: references the dark side and dark jedi.
-- Rush Hour: references Carter who is the comedic relief character.
+- Thunderbirds:
+    - References Thunderbird 3.
+- Star Wars:
+    - References the dark side.
+- Rush Hour:
+    - References Carter who is the comedic relief character.
 
 ## Symbols
 

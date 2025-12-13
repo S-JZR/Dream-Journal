@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/04/2024
-Last Edited: November 29, 2025 11:45 PM
+Last Edited: December 11, 2025 6:56 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -18,7 +18,8 @@ I was walking upstairs in a fancy building to a university class banquet where m
 
 ## Influences
 
-- I once accidentally showed up a day early to secondary school when juniors and seniors were scheduled to start on different days.
+- Personal Experiences:
+    - I once accidentally showed up a day early to secondary school when juniors and seniors were scheduled to start on different days.
 
 ## Symbols
 

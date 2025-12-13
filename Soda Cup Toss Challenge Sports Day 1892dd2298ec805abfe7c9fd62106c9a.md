@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/06/2024
-Last Edited: December 4, 2025 1:20 AM
+Last Edited: December 11, 2025 7:13 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -22,11 +22,13 @@ To conclude the day, everyone was invited into the hall for the final activity d
 
 ## Influences
 
-- I formed a bad habit of sleeping in during the final years of secondary school.
+- Personal Experiences:
+    - I formed a bad habit of sleeping in during the final years of secondary school.
 
 ## Symbols
 
-- Beard falling out: awareness that I need to shave.
+- Beard Falling Out:
+    - Acknowledging that I need to shave.
 
 ## Lessons
 

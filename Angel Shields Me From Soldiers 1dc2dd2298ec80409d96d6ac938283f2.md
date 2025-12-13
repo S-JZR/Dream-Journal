@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: December 5, 2025 2:57 AM
+Last Edited: December 12, 2025 5:17 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Home
 Characters: Angels, Soldiers
-Influences: Christian Bible
+Influences: Christianity
 
 # Description
 
@@ -18,7 +18,8 @@ I was walking to the other side of the carpark in my unit complex as an almost i
 
 ## Influences
 
-- I hear Christian teachings all the time and it could of been inspired by verses about angels being sent to protect God’s followers.
+- Christianity:
+    - References angels being sent to protect God’s followers.
 
 ## Symbols
 

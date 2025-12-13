@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2016
-Last Edited: December 2, 2025 6:17 PM
+Last Edited: December 10, 2025 2:25 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,7 +18,8 @@ I was standing in a clinical trial room with a group of teenagers and supervisin
 
 ## Influences
 
-- I trimmed my fingernails and saw gunk that disgusted me.
+- Personal Experiences:
+    - I trimmed my fingernails and saw gunk that disgusted me.
 
 ## Symbols
 

@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 15/02/2025
-Last Edited: December 6, 2025 2:22 AM
+Last Edited: December 13, 2025 1:41 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -18,11 +18,13 @@ I was walking through a shopping mall hallway with my parents when a middle-age 
 
 ## Influences
 
-- I think about my parents dying all the time.
+- Personal Thoughts:
+    - I worry about my parents dying all the time.
 
 ## Symbols
 
-- Grey hair: the fear of old age.
+- Grey Hair:
+    - The fear of losing my parents.
 
 ## Lessons
 

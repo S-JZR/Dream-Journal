@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 11/02/2025
-Last Edited: December 6, 2025 2:20 AM
+Last Edited: December 13, 2025 4:57 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Primary School, Studio
 Characters: Demons, Donald Trump, Satan, Students, Teachers
-Influences: News, Online Videos, Personal Thoughts
+Influences: News, Online Videos
 
 # Description
 
@@ -24,13 +24,15 @@ After entering the open garage of a log building with a triangle roof, showcasin
 
 ## Influences
 
-- News: references the USA debate about arming teachers in schools but shifts the role to students: [https://www.nea.org/nea-today/all-news-articles/arming-teachers-still-terrible-idea](https://www.nea.org/nea-today/all-news-articles/arming-teachers-still-terrible-idea).
-- Online videos: references a video on Poland’s mandatory firearm training for students: [https://youtu.be/QO_NRejn6dU?si=5LBOerOAmOdpZvVF](https://youtu.be/QO_NRejn6dU?si=5LBOerOAmOdpZvVF).
-- I often think about how technology could cause problems in the future if it gave everyone god-like abilities.
+- News:
+    - References the USA debate about arming teachers in schools: [https://www.nea.org/nea-today/all-news-articles/arming-teachers-still-terrible-idea](https://www.nea.org/nea-today/all-news-articles/arming-teachers-still-terrible-idea).
+- Online Videos:
+    - References Poland’s mandatory firearm training for students: [https://youtu.be/QO_NRejn6dU?si=5LBOerOAmOdpZvVF](https://youtu.be/QO_NRejn6dU?si=5LBOerOAmOdpZvVF).
 
 ## Symbols
 
-- War of the gods: fear of everyone playing god.
+- War Of The Gods:
+    - The fear of everyone playing god.
 
 ## Lessons
 

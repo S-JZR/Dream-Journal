@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 12/02/2014
-Last Edited: December 2, 2025 6:11 PM
+Last Edited: December 13, 2025 6:48 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
 Locations: Planet
 Characters: Glitch
-Influences: Damo And Darren 1 (2014), Metal Arms Glitch In The System (2003)
+Influences: Metal Arms Glitch In The System (2003), Online Videos
 
 # Description
 
@@ -18,8 +18,10 @@ A gameover screen in Metal Arms Glitch In The System showed a 2D animation of Gl
 
 ## Influences
 
-- I used to play Metal Arms Glitch In The System a lot as a child.
-- The walking animation could have been influenced by a demo animatic or Damo and Darren 1 (NSFW) which was featured on YouTube’s home page: [https://youtu.be/vmL72sgVdAQ?si=4OpKqpNbqSqilyke&t=143](https://youtu.be/vmL72sgVdAQ?si=4OpKqpNbqSqilyke&t=143).
+- Metal Arms Glitch In The System:
+    - References Glitch.
+- Online Videos:
+    - The walking animation likely references a demo animatic or Damo and Darren 1 (NSFW) that was featured on YouTube’s home page: [https://youtu.be/vmL72sgVdAQ?si=4OpKqpNbqSqilyke&t=143](https://youtu.be/vmL72sgVdAQ?si=4OpKqpNbqSqilyke&t=143).
 
 ## Symbols
 

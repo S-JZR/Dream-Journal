@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 22/01/2024
-Last Edited: December 3, 2025 5:18 PM
+Last Edited: December 12, 2025 10:25 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,11 +20,13 @@ Pressing both power buttons, the machines hummed to life, setting the train in r
 
 ## Influences
 
-- I used to play Team Fortress 2 all the time and Heavy is a character from it.
+- Team Fortress 2:
+    - References the Heavy.
 
 ## Symbols
 
-- Oval track: feeling like I’m going in circles and making no progress.
+- Oval Track:
+    - Feeling like I’m stuck in a loop and not making progress.
 
 ## Lessons
 

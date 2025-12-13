@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 05/04/2025
-Last Edited: December 4, 2025 9:28 PM
+Last Edited: December 13, 2025 2:49 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -20,13 +20,13 @@ When boarding a black bus, I slid open a chain-link fence on the side, revealing
 
 ## Influences
 
-- Reference to experience:
-
-[Rushed IKEA Excursion](https://www.notion.so/Rushed-IKEA-Excursion-1b82dd2298ec80acb0bbe1d05c4fad99?pvs=21)
+- Personal Experiences:
+    - During a secondary school Graphics excursion to IKEA we spent too much time exploring and skipped eating hotdogs halfway through to get back on the bus.
 
 ## Symbols
 
-- Overpriced food: I probably subconsciously feel that fast food is getting more expensive.
+- Overpriced Food:
+    - The fear that fast food prices won’t stop rising.
 
 ## Lessons
 

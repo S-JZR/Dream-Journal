@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 17/10/2024
-Last Edited: December 6, 2025 1:52 AM
+Last Edited: December 11, 2025 10:02 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -20,7 +20,8 @@ My brother sat at the back, while my mother and I went to the left side of the c
 
 ## Influences
 
-- My dad can be a rough driver at times.
+- Personal Experiences:
+    - My dad can be a rough driver at times.
 
 ## Symbols
 

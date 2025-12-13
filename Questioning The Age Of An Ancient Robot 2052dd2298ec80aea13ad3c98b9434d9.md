@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 26/05/2025
-Last Edited: December 6, 2025 4:02 AM
+Last Edited: December 12, 2025 1:08 AM
 Type: Half-Asleep
 Age Rating: SFW
 Main Emotion: Surprise
@@ -17,7 +17,7 @@ I was standing in the large basement of a building, with a giant robot head with
 
 ## Influences
 
-- Thinking about how technology is deeply embedded throughout the world and how our creations can outlive us.
+- N/A.
 
 ## Symbols
 

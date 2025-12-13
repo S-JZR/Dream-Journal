@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: December 5, 2025 3:12 AM
+Last Edited: December 12, 2025 5:25 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -18,11 +18,13 @@ I was seated in the driver’s seat of my mother's car as I shifted the gear sti
 
 ## Influences
 
-- While being driven to school, I always looked at my parents driving or the environment, etc. I didn’t have a mobile phone.
+- Personal Experiences:
+    - When my parents drove me to primary school I always watched them driving and the environment because I didn’t have a mobile phone.
 
 ## Symbols
 
-- Driving: I was probably looking forward to growing up and being able to drive myself.
+- Driving:
+    - I was likely looking forward to growing up and being able to drive myself.
 
 ## Lessons
 

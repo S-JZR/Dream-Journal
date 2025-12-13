@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 15/01/2025
-Last Edited: December 4, 2025 6:46 PM
+Last Edited: December 13, 2025 1:25 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
@@ -21,7 +21,8 @@ I was a construction worker standing beside the road, trying to drive a sign int
 
 ## Symbols
 
-- Rogue worker: the shadow self and rebelliousness.
+- Rogue Worker:
+    - The shadow self being a trickster.
 
 ## Lessons
 

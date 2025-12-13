@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2017
-Last Edited: November 28, 2025 5:06 PM
+Last Edited: December 11, 2025 3:18 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,7 +20,8 @@ It gradually gained knowledge of everything over time, transforming its innocent
 
 ## Influences
 
-- It has the same plot as the title sequence of Steam Punks!
+- Steam Punks!:
+    - References the title sequence where a discarded experimental robot grows underground.
 
 ## Symbols
 

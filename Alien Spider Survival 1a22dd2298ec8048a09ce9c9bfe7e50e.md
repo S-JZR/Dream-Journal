@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 10/07/2020
-Last Edited: December 7, 2025 5:33 PM
+Last Edited: December 13, 2025 4:46 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -23,13 +23,17 @@ Realizing survivors were constantly being overrun, I isolated myself to experime
 
 ## Influences
 
-- Swinging between buildings references Spiderman films I’ve watched.
-- I used to play Team Fortress 2 a lot and it likely influenced the grappling hooks and zombie gamemode where players defend different positions.
+- Spiderman:
+    - References swinging between buildings.
+- Team Fortress 2:
+    - References grappling hooks.
+    - References the zombie gamemode where players defend different positions.
 
 ## Symbols
 
-- Alien spiders: the fear of spiders.
+- Alien Spiders:
+    - The fear of spiders.
 
 ## Lessons
 
-- If you follow the crowd then you will fail the same way they do.
+- Don't repeat the same mistakes and expect different results.

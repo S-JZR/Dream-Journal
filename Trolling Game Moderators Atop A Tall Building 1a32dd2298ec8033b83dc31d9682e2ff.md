@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/04/2024
-Last Edited: December 7, 2025 5:31 PM
+Last Edited: December 12, 2025 10:58 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -29,9 +29,10 @@ The entities continuously spawning caused severe server lag. Tired of playing, I
 
 ## Influences
 
-- I used to be afraid of swimming in primary school due to having a few bad experiences.
-- I tend to troll and find ways to exploit video games.
-- I used to play Roblox a lot.
+- Personal Experiences:
+    - I used to be afraid of swimming in primary school due to having a few bad experiences.
+- Roblox:
+    - I tend to find ways to break games.
 
 ## Symbols
 
@@ -39,4 +40,4 @@ The entities continuously spawning caused severe server lag. Tired of playing, I
 
 ## Lessons
 
-- Ensure your own safety first before trying to rescue others.
+- Ensure your own safety before trying to rescue others.

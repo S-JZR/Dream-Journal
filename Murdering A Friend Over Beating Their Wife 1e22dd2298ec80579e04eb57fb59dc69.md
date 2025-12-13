@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 26/04/2025
-Last Edited: December 6, 2025 3:12 AM
+Last Edited: December 13, 2025 2:59 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Sad
@@ -36,10 +36,10 @@ After walking further down the street, I encountered Jesus at an indoor banquet 
 
 ## Symbols
 
-- Murder: subconscious anger towards domestic abuse.
-- Dating: the fear that women won’t want to date me.
-- Marijuana: the fear of losing the capacity to think if I were to do drugs.
-- Jesus: the fear of letting others know my problems and being treated differently.
+- Murder:
+    - Subconscious anger towards domestic abuse.
+- Banquet:
+    - The fear of letting others know my problems and being treated differently.
 
 ## Lessons
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2018
-Last Edited: December 7, 2025 11:56 PM
+Last Edited: December 12, 2025 10:08 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -21,9 +21,10 @@ I was walking in a wide red/brown brick sewer with a group of fictional friends 
 
 ## Symbols
 
-- Witch: sin and corruption.
-- Purple: mysterious and evil.
-- Sewers: an unclean place where evil grows in the dark.
+- Witch:
+    - Sin and corruption.
+- Sewers:
+    - An unclean place where evil grows in the dark.
 
 ## Lessons
 

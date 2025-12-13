@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/02/2025
-Last Edited: December 4, 2025 6:51 PM
+Last Edited: December 13, 2025 6:57 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -23,8 +23,9 @@ After the battle concluded, we travelled to Logan Paul’s house located in unit
 
 ## Symbols
 
-- Mr Beast: probably the subconscious desire to meet him.
+- MrBeast:
+    - Likely the subconscious desire to meet him.
 
 ## Lessons
 
-- Keep your finger off the trigger until ready to shoot (basic gun safety).
+- Keep your finger off the trigger until you are ready to fire.

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/04/2024
-Last Edited: December 3, 2025 11:52 PM
+Last Edited: December 11, 2025 7:03 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -17,7 +17,7 @@ I was standing in the kitchen of my unit when I noticed a tall rectangular glass
 
 ## Influences
 
-- I’ve never really drunk alcohol before.
+- N/A.
 
 ## Symbols
 

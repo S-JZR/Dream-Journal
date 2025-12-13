@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 06/07/2024
-Last Edited: December 5, 2025 10:08 PM
+Last Edited: December 11, 2025 7:20 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -21,7 +21,8 @@ I was seated in my mum's car with my family being driven by my mum towards my se
 
 ## Symbols
 
-- Fire: a problem in life.
+- Fire:
+    - A problem in life.
 
 ## Lessons
 

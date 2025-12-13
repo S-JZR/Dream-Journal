@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 29/03/2025
-Last Edited: December 4, 2025 9:12 PM
+Last Edited: December 13, 2025 2:46 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,7 +20,8 @@ With few options left, I built a shipyard on the island’s left side, prompting
 
 ## Influences
 
-- I used to play The Conquerors 3 a lot and this references some of the gameplay.
+- The Conquerors 3:
+    - References the gameplay.
 
 ## Symbols
 

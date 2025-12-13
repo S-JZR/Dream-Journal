@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: December 7, 2025 5:08 PM
+Last Edited: December 10, 2025 1:41 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -23,7 +23,8 @@ As he emerged from the building and neared the boat, the engine roared to life. 
 
 ## Symbols
 
-- Criminal: the fear of being held against my will.
+- Criminal:
+    - The fear of being held against my will.
 
 ## Lessons
 

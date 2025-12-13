@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 24/10/2023
-Last Edited: December 5, 2025 5:48 PM
+Last Edited: December 13, 2025 4:48 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Escape Rooms, Facility
 Characters: Family, Gothic Creature, Prisoners, Soldiers
-Influences: Christian Bible, People Playground (2019), Personal Experiences, The Outlast Trials (2023)
+Influences: Christianity, People Playground (2019), Personal Experiences, The Outlast Trials (2023)
 
 # Description
 
@@ -41,15 +41,20 @@ I was reunited with my family in a private office featuring a long table and rec
 
 ## Influences
 
-- I watched online gameplay footage of The Outlast Trials and various scientists are observing the player through windows to study their actions during experiments.
-- I watch an online video about the creepy ambient sounds coming through walls in People Playground.
-- I’m afraid of being a bad programmer and forgetting things.
-- I hear Christian teachings all the time and “Cain class personnel” is probably a distortion of Genesis 4:15 where the dictatorship marked unfavoured groups for death.
+- The Outlast Trials:
+    - References scientists studying the player through windows during experiments.
+    - References doing crazy trials to escape.
+- People Playground:
+    - References creepy ambient sounds coming through walls.
+- Christianity:
+    - References Genesis 4:15 but it’s distorted here as a mark for death.
 
 ## Symbols
 
-- Prisoners: the fear of being held against my will.
-- Finding the weakness: the desire to overcome difficult challenges.
+- Prisoners:
+    - The fear of being held against my will.
+- Programming Book:
+    - The fear of being a bad programmer and forgetting things.
 
 ## Lessons
 

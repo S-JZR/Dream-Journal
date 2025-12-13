@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 17/07/2025
-Last Edited: December 4, 2025 11:36 PM
+Last Edited: December 12, 2025 2:06 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -18,10 +18,8 @@ I was one of many primary school students on an excursion to a western themed li
 
 ## Influences
 
-- Western excursion:
-    
-    [Gold Rush Excursion](https://www.notion.so/Gold-Rush-Excursion-1be2dd2298ec801090d4f2b3a2d1102d?pvs=21)
-    
+- Personal Experiences:
+    - References a gold rush excursion in primary school with a bandit actor.
 
 ## Symbols
 

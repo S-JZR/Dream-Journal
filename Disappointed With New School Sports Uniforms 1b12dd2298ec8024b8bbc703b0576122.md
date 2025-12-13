@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 08/03/2025
-Last Edited: December 6, 2025 2:42 AM
+Last Edited: December 13, 2025 2:36 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -22,8 +22,9 @@ Upon arriving at my primary school, students were packing the leftover belonging
 
 ## Influences
 
-- In secondary school students disliked the new new minimalist sports team logos that replaced the previous intricate indigenous patterns.
-- Before leaving secondary school I made sure to transfer all my data from my personal school drive.
+- Personal Experiences:
+    - Students in secondary school disliked the new minimalist sports team logos because they replaced the previous intricate indigenous patterns.
+    - Before leaving secondary school I made sure to retrieve all my data from my personal drive.
 
 ## Symbols
 
@@ -31,4 +32,4 @@ Upon arriving at my primary school, students were packing the leftover belonging
 
 ## Lessons
 
-- Before graduating, don’t forget to take all your belongings and data with you.
+- Don’t forget to take all your belongings and data before you graduate.

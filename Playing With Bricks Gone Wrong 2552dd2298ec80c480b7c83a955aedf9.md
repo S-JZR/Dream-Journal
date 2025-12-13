@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 20/08/2025
-Last Edited: November 27, 2025 11:32 PM
+Last Edited: December 12, 2025 3:21 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -23,8 +23,9 @@ Eventually, his parents parked beside the footpath to pick him up and without he
 
 ## Symbols
 
-- STEM: the fear of wasting time and being unproductive.
+- Bricks:
+    - The fear of wasting time and being unproductive.
 
 ## Lessons
 
-- N/A.
+- Focus your time on meaningful and productive activities.

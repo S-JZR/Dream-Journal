@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 20/03/2025
-Last Edited: December 7, 2025 11:06 PM
+Last Edited: December 11, 2025 11:45 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -24,7 +24,8 @@ As various hostile helicopters flew past, a woman urged me to board a black airc
 
 ## Symbols
 
-- Army: the desire to stop evil from harming anyone.
+- Army:
+    - The desire to stop evil from harming anyone.
 
 ## Lessons
 

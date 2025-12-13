@@ -2,13 +2,12 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: November 27, 2025 11:20 PM
+Last Edited: December 13, 2025 6:47 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
 Locations: Room
 Characters: Giants, Misc People
-Influences: Online Videos
 
 # Description
 
@@ -22,7 +21,8 @@ A tiny couple stood on a small wooden desk when a giant approached and reached o
 
 ## Symbols
 
-- Giant: the fear of being helpless.
+- Giant:
+    - The fear of being helpless.
 
 ## Lessons
 

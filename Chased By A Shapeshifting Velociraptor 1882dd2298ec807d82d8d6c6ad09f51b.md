@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 23/11/2020
-Last Edited: November 29, 2025 3:24 AM
+Last Edited: December 12, 2025 9:00 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,7 +18,8 @@ I was standing at the front door of my unit when I overheard teenagers excitedly
 
 ## Influences
 
-- I saw the Jerry Andrus’s dragon illusion a long time ago and thought it was fascinating but the dragon’s design was creepy.
+- Jerry Andrus’s Dragon Illusion:
+    - References the dragon’s design.
 
 ## Symbols
 

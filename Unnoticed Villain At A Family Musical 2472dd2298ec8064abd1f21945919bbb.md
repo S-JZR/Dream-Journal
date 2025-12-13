@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 06/08/2025
-Last Edited: December 6, 2025 4:29 AM
+Last Edited: December 12, 2025 2:41 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -18,9 +18,11 @@ I was standing in a church service for a Christmas family musical with my family
 
 ## Influences
 
-- Reference leaving halfway through a Christmas musical at Citipointe Church Brisbane because it focused on secular music about Santa and Reindeer instead of Jesus.
-- I make jokes sometimes about going to IKEA.
-- Too Many Cooks: reference to a serial killer being in every scene and attacking people later.
+- Personal Experiences:
+    - My family once left halfway through a Christmas church musical because the music focused on Santa and Reindeer over Jesus.
+    - I make jokes sometimes about going to IKEA.
+- Too Many Cooks:
+    - References the serial killer being in every scene and attacking people at the end.
 
 ## Symbols
 

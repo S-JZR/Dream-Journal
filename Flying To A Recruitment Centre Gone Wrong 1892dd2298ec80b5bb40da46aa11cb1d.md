@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/07/2024
-Last Edited: December 7, 2025 6:09 PM
+Last Edited: December 13, 2025 6:50 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,8 +22,10 @@ Upon finally arriving at the recruitment centre in the rental car, I entered a r
 
 ## Influences
 
-- In primary school before excursions teachers used to warn, “If you don’t behave, I’ll drive you there myself.”
-- I watched an online video where they mentioned that the US military has 5 year contracts and you can’t quit freely.
+- Personal Experiences:
+    - Before excursions in primary school teachers used to say warnings like, “If you don’t behave, I’ll drive you there myself.”
+- Online Videos:
+    - References someone saying the US military has 5 year contracts and you can’t quit freely.
 
 ## Symbols
 

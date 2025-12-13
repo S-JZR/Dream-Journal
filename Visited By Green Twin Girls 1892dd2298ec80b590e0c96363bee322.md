@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 14/03/2024
-Last Edited: December 5, 2025 7:53 PM
+Last Edited: December 12, 2025 10:36 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Home
 Characters: Family, Misc People, Tentacle Creature
-Influences: The Shining (1980)
+Influences: Christianity, The Shining (1980)
 
 # Description
 
@@ -20,19 +20,24 @@ Upon returning to the unit complex entrance, a sign appeared with a live prefere
 
 ## Influences
 
-- I have watched snippets of The Shinning and know that the twins were murdered by their father.
-- I hear Christian teachings all the time and it reminds me of 1 Peter 5:8 and that God is gentle and patient but Satan is aggressive and actively tempts.
+- The Shinning:
+    - References the twins murdered by their father.
+- Christianity:
+    - Reminds me of 1 Peter 5:8.
 
 ## Symbols
 
-- The Twins: represents how evil can infiltrate and destroy innocence.
-- Devil biscuits: humanity is inclined to follow sinful lusts over God.
-- Monsters: God and Satan fighting for people’s allegiance.
+- The Twins:
+    - Represents how evil can infiltrate and destroy innocence.
+- Devil Biscuits:
+    - Humanity is inclined to follow sinful lusts over God.
+- Monsters:
+    - God and Satan fighting over people.
 
 ## Lessons
 
-- Society promotes sin as fun and harmless.
+- Evil often hides behind what seems fun and innocent.
 
 # Post Dream
 
-- From what I’m aware, nothing notable occurred on the same day a year later.
+- Nothing occurred the same day next year from what i'm aware.

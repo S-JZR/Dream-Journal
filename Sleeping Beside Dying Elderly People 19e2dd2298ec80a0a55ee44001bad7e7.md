@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: December 5, 2025 4:21 PM
+Last Edited: December 12, 2025 6:00 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
 Locations: Room
 Characters: Misc People
-Influences: Personal Thoughts
+Influences: Personal Thoughts, The Goodies (1970)
 
 <aside>
 ⚠️
@@ -26,13 +26,18 @@ I was with many elderly people in a room lying in sleeping bags in a ring format
 
 ## Influences
 
-- I constantly worry about not reaching my full potential.
-- I dislike people who accept living mundane lives.
+- The Goodies:
+    - Likely references “The End” episode where Tim, Graeme, and Bill are trapped in their office for decades and Bill lies under an orange blanket beside their skeletons.
+- Personal Thoughts:
+    - I constantly worry about not reaching my full potential.
+    - I dislike people who accept living mundane lives.
 
 ## Symbols
 
-- Elderly Woman: the fear of living a mundane life and not achieving anything significant.
-- Death: the fear of death.
+- Elderly Woman:
+    - The fear of living a mundane life.
+- Death:
+    - The fear of death.
 
 ## Lessons
 

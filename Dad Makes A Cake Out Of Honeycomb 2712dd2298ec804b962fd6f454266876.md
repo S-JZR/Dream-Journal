@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/09/2025
-Last Edited: December 6, 2025 4:38 AM
+Last Edited: December 12, 2025 4:06 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Disgust
@@ -29,7 +29,8 @@ I was standing in the woods beside a lake with my family when my dad collected s
 
 ## Symbols
 
-- Bees boiled: I try to avoid harming insects.
+- Bees Boiled:
+    - I try to avoid harming insects.
 
 ## Lessons
 

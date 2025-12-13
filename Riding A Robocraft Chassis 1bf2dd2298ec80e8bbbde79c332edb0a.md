@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 23/03/2025
-Last Edited: December 7, 2025 5:31 PM
+Last Edited: December 13, 2025 2:45 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -20,11 +20,14 @@ To avoid colliding with oncoming traffic, we utilized the extra space in pedestr
 
 ## Influences
 
-- I used to play Robocraft a lot before it was ruined by the developers.
+- Robocraft:
+    - References building combat vehicles.
+    - The developers shut it down recently.
 
 ## Symbols
 
-- Driving: nostalgia.
+- Driving:
+    - Nostalgia.
 
 ## Lessons
 

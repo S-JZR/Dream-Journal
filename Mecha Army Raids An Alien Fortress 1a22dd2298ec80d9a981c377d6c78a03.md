@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 20/02/2024
-Last Edited: December 7, 2025 5:42 PM
+Last Edited: December 12, 2025 10:29 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Fortress, Rural, Virtual/Videogame
 Characters: Aliens, Leon Kennedy, Soldiers, Zombies
-Influences: Resident Evil 2 (2019), StarCraft II (2010)
+Influences: Resident Evil Village (2021), StarCraft II (2010)
 
 # Description
 
@@ -20,8 +20,10 @@ The next scene transitioned to an interior perspective, with Leon Kennedy from R
 
 ## Influences
 
-- StarCraft 2: I watched some online gameplay a long time ago.
-- Resident Evil 2: I watched online gameplay of the entire game a long time ago.
+- StarCraft 2:
+    - References humans vs aliens gameplay.
+- Resident Evil Village:
+    - References Leon Kennedy and gameplay.
 
 ## Symbols
 

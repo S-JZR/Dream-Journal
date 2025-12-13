@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/09/2020
-Last Edited: December 7, 2025 7:11 PM
+Last Edited: December 11, 2025 3:35 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -25,8 +25,10 @@ Suddenly, one of the younger children in the home began questioning what they we
 
 ## Symbols
 
-- Held hostage: the fear of being held against my will.
-- Witch: sin and corruption.
+- Held Hostage:
+    - The fear of being held against my will.
+- Witch:
+    - Sin and corruption.
 
 ## Lessons
 

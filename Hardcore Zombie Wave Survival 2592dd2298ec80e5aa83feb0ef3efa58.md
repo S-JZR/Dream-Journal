@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 24/08/2025
-Last Edited: December 7, 2025 5:37 PM
+Last Edited: December 12, 2025 3:30 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -24,8 +24,10 @@ In wave three a dense purple fog and a few special zombies were introduced. Seei
 
 ## Influences
 
-- Team Fortress 2: reference to upgrading equipment by hitting it with a wrench.
-- Fortnite: reference to the purple fog and zombie.
+- Team Fortress 2:
+    - References upgrading engineer buildings by hitting them with a wrench.
+- Fortnite:
+    - References the purple fog and cube monsters.
 
 ## Symbols
 

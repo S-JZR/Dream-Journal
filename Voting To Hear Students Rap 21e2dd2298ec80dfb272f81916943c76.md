@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 26/06/2025
-Last Edited: December 4, 2025 11:20 PM
+Last Edited: December 13, 2025 3:46 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
 Locations: Hall
 Characters: Students, Teachers
+Influences: Personal Experiences
 
 # Description
 
@@ -19,8 +20,9 @@ An indoor television displayed all the students onstage and as the camera transi
 
 ## Influences
 
-- I discovered lots of loose change and bank notes around my secondary school.
-- I feel detached from activities that feel non-productive and superficial.
+- Personal Experiences:
+    - I found lots of loose change around my secondary school.
+    - I feel detached from activities that feel non-productive and superficial.
 
 ## Symbols
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 02/05/2025
-Last Edited: December 7, 2025 11:37 PM
+Last Edited: December 13, 2025 3:26 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -41,8 +41,10 @@ I asked if there was a shower here, but he said no, so I guided him to all the s
 
 ## Influences
 
-- Minecraft: reference to the Chicken Jockey trend [https://simple.wikipedia.org/wiki/A_Minecraft_Movie](https://simple.wikipedia.org/wiki/A_Minecraft_Movie).
-- Fred Claus: the messy slurpy store reminds me of Santa and Claude, the inspector, in Fred Claus who are shocked that the elves stopped working to dance, made a mess, and were told to get back to work.
+- Minecraft:
+    - Reference the Chicken Jockey trend that was popular and people threw around food in cinemas: [https://simple.wikipedia.org/wiki/A_Minecraft_Movie](https://simple.wikipedia.org/wiki/A_Minecraft_Movie).
+- Fred Claus:
+    - The messy slurpy store reminds me of the scene where Santa and Clyde are shocked that the elves stopped working and restore order: [https://youtu.be/nR2MtdrHCEs?si=-tkEbUUoCfTHEclR&t=88](https://youtu.be/nR2MtdrHCEs?si=-tkEbUUoCfTHEclR&t=88).
 
 ## Symbols
 

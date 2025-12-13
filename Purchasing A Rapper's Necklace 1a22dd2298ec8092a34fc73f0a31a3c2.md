@@ -2,13 +2,12 @@
 
 Favourite: No
 Date Created: 04/04/2024
-Last Edited: December 7, 2025 10:14 PM
+Last Edited: December 12, 2025 10:43 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: Primary School
 Characters: Misc People, Musicians
-Influences: Online Videos
 
 # Description
 
@@ -22,7 +21,7 @@ While agreeing and travelling along the drop-off zone cobblestone wall, another 
 
 ## Influences
 
-- It’s a stereotype that rappers wear gold necklaces.
+- N/A.
 
 ## Symbols
 

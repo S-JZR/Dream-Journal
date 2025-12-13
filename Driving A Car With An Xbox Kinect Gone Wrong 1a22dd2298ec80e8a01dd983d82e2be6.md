@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/09/2020
-Last Edited: December 3, 2025 1:03 PM
+Last Edited: December 12, 2025 10:10 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Embarrassment
@@ -18,7 +18,8 @@ I was standing in a car without seats and drove it using an Xbox Kinect. The dif
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - I played with an Xbox Kinect in a store a long time ago.
 
 ## Symbols
 

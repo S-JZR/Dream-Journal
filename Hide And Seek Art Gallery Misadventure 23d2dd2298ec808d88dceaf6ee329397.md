@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 19/07/2025
-Last Edited: December 7, 2025 7:19 PM
+Last Edited: December 12, 2025 2:24 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: Art Gallery, Secondary School
 Characters: ? Co Art Teacher, ? Indian Student, Students
+Influences: Personal Experiences
 
 # Description
 
@@ -28,7 +29,8 @@ I sat at a computer and plugged in my USB as the teacher sat left of me overlook
 
 ## Influences
 
-- During secondary school the art teachers taped decorative black paper borders to our drawings without consent for the Art Galas and I feared removing them would tear the drawings.
+- Personal Experiences:
+    - During secondary school, the art teachers taped decorative black paper borders to our art without asking for the school art gala.
 
 ## Symbols
 

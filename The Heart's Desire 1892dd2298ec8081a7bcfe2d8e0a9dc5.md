@@ -2,13 +2,13 @@
 
 Favourite: Yes
 Date Created: 29/12/2024
-Last Edited: November 28, 2025 9:17 PM
+Last Edited: December 13, 2025 1:17 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: City
 Characters: Disembodied Voice, Misc People
-Influences: Christian Bible
+Influences: Christianity
 
 # Description
 
@@ -20,13 +20,16 @@ While crossing the minor road of a T-junction at 68 Manning Street in South Bris
 
 ## Influences
 
-- I hear Christian teachings all the time and it reminds me of Proverbs 4:23.
+- Christianity:
+    - Reminds me of Proverbs 4:23.
 
 ## Symbols
 
-- Heart: the inner self.
-- Homeless man: I see this as meaning jealously and anger for what others have that you don’t.
+- Heart:
+    - The inner self.
+- Homeless Man:
+    - Jealously and anger for what others have that you don’t.
 
 ## Lessons
 
-- Address the root cause of problems not the symptoms.
+- Your thoughts shape your actions.

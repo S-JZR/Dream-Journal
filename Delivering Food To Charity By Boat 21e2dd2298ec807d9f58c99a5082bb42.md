@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 26/06/2025
-Last Edited: December 7, 2025 3:11 AM
+Last Edited: December 12, 2025 1:52 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -21,7 +21,8 @@ I was one of three secondary school students in a small empty garage preparing i
 
 ## Symbols
 
-- Charity: the desire to help others and contribute to something greater.
+- Charity:
+    - The desire to help others and contribute to something greater.
 
 ## Lessons
 

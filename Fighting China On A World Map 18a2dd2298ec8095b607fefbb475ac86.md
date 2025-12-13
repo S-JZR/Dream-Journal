@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 13/01/2025
-Last Edited: December 7, 2025 5:35 PM
+Last Edited: December 13, 2025 1:19 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -20,7 +20,9 @@ Eventually, a few yellow naval vessels were sent around mountains on the adjacen
 
 ## Influences
 
-- I used to play Roblox a lot and it reminds me of the tile system, terrain, and units sharing your team colour in Mini Empires.
+- Mini Empires:
+    - I played it a while ago.
+    - References the tile system and units sharing your team colour.
 
 ## Symbols
 

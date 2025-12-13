@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/10/2024
-Last Edited: December 6, 2025 1:50 AM
+Last Edited: December 13, 2025 1:00 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -33,7 +33,8 @@ A sceptical teacher overseeing the event dismissed the claim as impossible, but 
 
 ## Influences
 
-- I was watching an online video of a Shark Tank pitch from Minus Cal where the owner tried to claim they had an advanced scientific process to block fat and had the data to back it up [https://youtu.be/pwf1UmbjQho?si=vQgT651dJwAqruW6&t=252](https://youtu.be/pwf1UmbjQho?si=vQgT651dJwAqruW6&t=252).
+- Shark Tank:
+    - References a pitch from the owner of Minus Cal who claimed they had an advanced scientific process to block fat and the data to back it up: [https://youtu.be/pwf1UmbjQho?si=vQgT651dJwAqruW6&t=252](https://youtu.be/pwf1UmbjQho?si=vQgT651dJwAqruW6&t=252).
 
 ## Symbols
 

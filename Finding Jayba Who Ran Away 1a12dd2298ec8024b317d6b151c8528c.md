@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: December 7, 2025 6:07 PM
+Last Edited: December 10, 2025 1:42 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -18,11 +18,13 @@ I was standing in my unit when I discovered Jayba, my cat, who had been left out
 
 ## Influences
 
-- We often let Jayba outside the front of our unit and she has occasionally wandered far away.
+- Personal Experiences:
+    - We often let Jayba outside the front of our unit and she occasionally wandered far away.
 
 ## Symbols
 
-- Lost: the fear of losing Jayba.
+- Lost:
+    - The fear of losing Jayba.
 
 ## Lessons
 

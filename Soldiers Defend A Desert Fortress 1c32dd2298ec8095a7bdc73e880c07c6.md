@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2016
-Last Edited: December 5, 2025 4:24 PM
+Last Edited: December 12, 2025 6:33 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,7 +20,8 @@ Eventually, a radio transmission from HQ ordered us to retreat into the fortress
 
 ## Influences
 
-- I used to play Team Fortress 2 a lot and this likely references the Mann Vs Machine gamemode where a tank rams through wooden gates.
+- Team Fortress 2:
+    - References the Mann Vs Machine gamemode where a tank rams through gates.
 
 ## Symbols
 

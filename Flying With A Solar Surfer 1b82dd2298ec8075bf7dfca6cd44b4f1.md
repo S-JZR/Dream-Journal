@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2016
-Last Edited: December 2, 2025 11:31 PM
+Last Edited: December 12, 2025 6:34 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -17,11 +17,13 @@ I was standing outside my unit when I noticed a Solar Surfer from Treasure Plane
 
 ## Influences
 
-- I liked the Treasure Planet film.
+- Treasure Planet:
+    - References the Solar Surfer.
 
 ## Symbols
 
-- Flying: I probably had a subconscious desire to fly.
+- Flying:
+    - I probably had a subconscious desire to fly.
 
 ## Lessons
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 09/07/2025
-Last Edited: December 6, 2025 4:21 AM
+Last Edited: December 13, 2025 3:49 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -25,4 +25,4 @@ I was standing at the drop-off zone of my primary school waiting for my mum to a
 
 ## Lessons
 
-- Prepare for the next day the night before.
+- Prepare the night before.

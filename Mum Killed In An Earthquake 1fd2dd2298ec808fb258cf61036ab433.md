@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: December 2, 2025 4:13 PM
+Last Edited: December 12, 2025 5:26 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -21,7 +21,8 @@ I was standing in the city with my mum when a powerful earthquake caused buildin
 
 ## Symbols
 
-- Death: the fear of losing my parents in a tragic accident.
+- Death:
+    - The fear of losing my parents.
 
 ## Lessons
 

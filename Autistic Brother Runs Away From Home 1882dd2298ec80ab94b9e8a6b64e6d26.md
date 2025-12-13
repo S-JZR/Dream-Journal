@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 10/01/2023
-Last Edited: December 5, 2025 5:28 PM
+Last Edited: December 12, 2025 9:47 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,13 +22,18 @@ We discovered that Michael had strategically planned his whereabouts using hidde
 
 ## Influences
 
-- Star Wars Battlefront II: I watched some online gameplay.
+- Star Wars Battlefront II:
+    - References the gameplay.
 
 ## Symbols
 
-- Camera shy: I’m introverted and afraid of everyone remembering my mistakes forever.
-- Criminal/witch: sin and evil.
-- Crumbling clock tower: overcoming death.
+- Camera Shy:
+    - I’m introverted.
+    - The fear of everyone remembering my mistakes forever.
+- Criminal/Witch:
+    - Sin and corruption.
+- Crumbling Clock Tower:
+    - Overcoming death.
 
 ## Lessons
 

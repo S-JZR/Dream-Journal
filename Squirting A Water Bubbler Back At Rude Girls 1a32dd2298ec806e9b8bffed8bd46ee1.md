@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 05/10/2024
-Last Edited: December 4, 2025 5:20 PM
+Last Edited: December 13, 2025 12:59 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
 Locations: Primary School
 Characters: ? Indian Student, Students, Teachers
+Influences: Personal Experiences
 
 # Description
 
@@ -19,12 +20,17 @@ I attended a parade in the old hall when I spoke to a young Indian student outsi
 
 ## Influences
 
-- In primary school, students would often spray water everywhere from the water bubblers by pressing their thumbs over the nozzle.
+- Personal Experiences:
+    - In primary school, students often sprayed water everywhere from the water bubblers by blocking the nozzle with their thumbs.
 
 ## Symbols
 
-- Indian student: an old friend from primary school who I had not considered in a while. I briefly questioned whether they were real but I know they are.
+- N/A.
 
 ## Lessons
 
 - We forget more information than we realize.
+
+# Post Dream
+
+- The Indian student was an old friend from primary school who I had not considered for a long time. I briefly questioned whether they were real but I know they are.

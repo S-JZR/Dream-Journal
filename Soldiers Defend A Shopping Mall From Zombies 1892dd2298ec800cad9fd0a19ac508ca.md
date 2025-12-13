@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 07/05/2024
-Last Edited: December 4, 2025 1:08 AM
+Last Edited: December 13, 2025 12:31 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -27,4 +27,4 @@ In the wide white hallway of a single-storey shopping mall with an elevated ceil
 
 ## Lessons
 
-- Ensure your own safety first before trying to rescue others.
+- Ensure your own safety before trying to rescue others.

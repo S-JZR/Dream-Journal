@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 14/04/2025
-Last Edited: December 7, 2025 6:04 PM
+Last Edited: December 13, 2025 2:56 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -26,8 +26,10 @@ A swarm of small egg-shaped aliens descended a nearby side wall so I threw a Mol
 
 ## Influences
 
-- Left 4 Dead 2: features surviving against different classes of zombies.
-- Shadow The Hedgehog: features the Death Leeches.
+- Left 4 Dead 2:
+    - References surviving different classes of zombies.
+- Shadow The Hedgehog:
+    - References the Black Arms and Death Leeches.
 
 ## Symbols
 

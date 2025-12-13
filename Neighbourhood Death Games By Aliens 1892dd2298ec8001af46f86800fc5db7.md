@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 17/03/2024
-Last Edited: December 3, 2025 11:15 PM
+Last Edited: December 12, 2025 10:42 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,13 +22,16 @@ The second challenge involved me entering a room to stand on a cylindrical podiu
 
 ## Influences
 
-- I watched an online recap video of The Gods Will where gods hosted various death games. The Daruma doll only allows one student to live at the end of the game.
-- I watched online snippets of Squid Game and some contestants hid behind others to avoid being shot in Red Light, Green Light.
+- As The Gods Will:
+    - References gods hosting death games and The Daruma doll only allowing one student to live.
+- Squid Game:
+    - References contestants hiding behind others to avoid being shot in Red Light, Green Light.
 
 ## Symbols
 
-- Aliens: the fear of being helpless.
+- Aliens:
+    - The fear of being helpless.
 
 ## Lessons
 
-- Hiding behind others is a possible strategy in Red Light, Green Light to avoid detection.
+- N/A.

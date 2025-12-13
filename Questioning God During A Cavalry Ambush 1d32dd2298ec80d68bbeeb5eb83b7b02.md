@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 12/04/2025
-Last Edited: December 4, 2025 9:44 PM
+Last Edited: December 12, 2025 12:34 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -25,8 +25,7 @@ I couldn't believe that God allowed our lives to be like this and I was forced t
 ## Symbols
 
 - War:
-    - The fear of being conscripted.
-    - The fear of being shot.
+    - The fear of going to war.
 
 ## Lessons
 

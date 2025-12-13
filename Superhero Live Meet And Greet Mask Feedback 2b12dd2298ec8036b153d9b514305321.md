@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/04/2024
-Last Edited: December 5, 2025 7:56 PM
+Last Edited: December 11, 2025 6:56 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -18,7 +18,8 @@ I was walking into a foyer dressed as a superhero about to do a live meet and gr
 
 ## Influences
 
-- I watched the Spiderman films a long time ago.
+- Spiderman:
+    - References Willem Dafoe.
 
 ## Symbols
 

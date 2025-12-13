@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 05/06/2025
-Last Edited: December 6, 2025 4:12 AM
+Last Edited: December 13, 2025 3:39 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
 Locations: Hydroelectric Power Plant
 Characters: Workers
+Influences: Personal Experiences
 
 # Description
 
@@ -27,7 +28,8 @@ A male supervisor in a high visibility vest approached me to hand over a clipboa
 
 ## Influences
 
-- I tend to do too many things myself.
+- Personal Experiences:
+    - I tend to do too many things myself.
 
 ## Symbols
 
@@ -35,5 +37,4 @@ A male supervisor in a high visibility vest approached me to hand over a clipboa
 
 ## Lessons
 
-- Know your limits.
 - Delegate tasks instead of doing everything yourself.

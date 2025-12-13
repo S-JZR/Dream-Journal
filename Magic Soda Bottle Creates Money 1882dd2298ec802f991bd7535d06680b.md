@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2010
-Last Edited: December 7, 2025 7:50 PM
+Last Edited: December 10, 2025 1:15 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -20,7 +20,8 @@ I was walking through a bank and picked up an empty 1.25-litre plastic soda bott
 
 ## Symbols
 
-- Money: I probably wanted more money so I could buy things.
+- Money:
+    - I likely wanted more money to buy things.
 
 ## Lessons
 

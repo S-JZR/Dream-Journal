@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/09/2023
-Last Edited: December 5, 2025 5:39 PM
+Last Edited: December 11, 2025 5:25 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,7 +18,8 @@ I was seated at a table in a dark room beside a demon, performing an elite fortu
 
 ## Influences
 
-- I was digitizing my childhood drawings at the time.
+- Personal Experiences:
+    - I was recently digitizing my childhood drawings.
 
 ## Symbols
 

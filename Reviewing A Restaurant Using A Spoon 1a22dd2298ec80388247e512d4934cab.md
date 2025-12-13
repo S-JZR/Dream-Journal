@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 17/03/2024
-Last Edited: December 3, 2025 10:24 PM
+Last Edited: December 12, 2025 10:40 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: Restaurant
 Characters: Misc People, Waiter
+Influences: Personal Experiences
 
 # Description
 
@@ -17,7 +18,8 @@ I was seated at a round table covered in a white silk cloth in a fancy restauran
 
 ## Influences
 
-- I visited a hotel last year and they tend to sell their own overpriced merchandise for basic needs.
+- Personal Experiences:
+    - I visited a hotel last year that sold a lot of its own overpriced merchandise.
 
 ## Symbols
 
@@ -25,4 +27,4 @@ I was seated at a round table covered in a white silk cloth in a fancy restauran
 
 ## Lessons
 
-- Avoid buying anything from hotels because it's usually overpriced.
+- Avoid buying things from hotels because it's usually overpriced.

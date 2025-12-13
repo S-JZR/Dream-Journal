@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 25/11/2021
-Last Edited: December 6, 2025 5:23 PM
+Last Edited: December 12, 2025 9:28 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -25,10 +25,13 @@ Two duffle bags were filled when I returned to Japan, and the welcome team direc
 
 ## Symbols
 
-- Impatient driver: always feeling rushed and I don’t have enough time to finish things.
-- Garage: fear of losing sentimental things and the past.
-- Church staff: trying to do everything myself too much.
+- Impatient Driver:
+    - I always feel rushed and don’t have enough time to finish things.
+- Garage:
+    - Fear of losing sentimental things and the past.
+- Church Staff:
+    - Trying to do everything myself too much.
 
 ## Lessons
 
-- Plan ahead to avoid unexpected obstacles.
+- Plan ahead.

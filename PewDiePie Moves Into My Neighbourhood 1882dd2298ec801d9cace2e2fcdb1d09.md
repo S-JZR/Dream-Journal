@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 09/12/2020
-Last Edited: December 3, 2025 1:18 PM
+Last Edited: December 13, 2025 6:49 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Embarrassment
@@ -22,12 +22,15 @@ As the event moved outside along the street, everything seemed normal until I no
 
 ## Influences
 
-- I used to watch PewDiePie a lot as a teenager.
+- Online Videos:
+    - References watching PewDiePie a lot in the past.
 
 ## Symbols
 
-- PewDiePie: I probably had a subconscious desire to meet PewDiePie.
-- Candy: I have social anxiety and a fear of being misperceived.
+- PewDiePie:
+    - I likely had a subconscious desire to meet him.
+- Candy:
+    - The fear of being misperceived.
 
 ## Lessons
 

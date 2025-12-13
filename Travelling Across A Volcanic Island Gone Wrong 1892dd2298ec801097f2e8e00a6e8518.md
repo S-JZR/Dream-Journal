@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 17/08/2024
-Last Edited: December 7, 2025 11:21 PM
+Last Edited: December 13, 2025 12:51 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,7 +22,9 @@ Eventually, after navigating through buildings to avoid being followed, we proce
 
 ## Influences
 
-- I played the Lost Rooms recently and it references gameplay that involves hunting a monster in areas that can resemble the backrooms. The monster can struggle to pathfind around a wall and it can also reference bad AI that is typical in Roblox games.
+- Lost Rooms:
+    - References hunting monsters in the backrooms.
+    - References AI pathfinding in Roblox being bad at times.
 
 ## Symbols
 

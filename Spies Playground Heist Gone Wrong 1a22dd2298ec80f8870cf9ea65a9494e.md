@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 10/01/2023
-Last Edited: December 7, 2025 11:10 PM
+Last Edited: December 11, 2025 5:16 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -22,11 +22,12 @@ After exiting through the front door, we encountered various police officers lin
 
 ## Influences
 
-- N/A.
+- The Bad Guys:
+    - References the characters.
 
 ## Symbols
 
-- Train: video games promoting childishness and escapism.
+- N/A.
 
 ## Lessons
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 07/05/2024
-Last Edited: December 7, 2025 5:34 PM
+Last Edited: December 11, 2025 7:11 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -18,7 +18,8 @@ I was in an RTS videogame where each player was given a hovering spaceship that 
 
 ## Influences
 
-- I played a little bit of Beyond All Reason.
+- Beyond All Reason:
+    - I recently played a little bit of it.
 
 ## Symbols
 

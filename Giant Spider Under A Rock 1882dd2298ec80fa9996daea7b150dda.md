@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2010
-Last Edited: December 5, 2025 2:49 AM
+Last Edited: December 12, 2025 5:15 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -21,7 +21,8 @@ I was descending the stairs in my unit when I noticed a 10 cm rock resting on th
 
 ## Symbols
 
-- Spider: I was super afraid of spiders.
+- Spider:
+    - The fear of spiders.
 
 ## Lessons
 

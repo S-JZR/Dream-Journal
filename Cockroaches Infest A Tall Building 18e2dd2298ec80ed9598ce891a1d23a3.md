@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 14/01/2025
-Last Edited: November 28, 2025 10:53 PM
+Last Edited: December 13, 2025 1:23 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,7 +22,8 @@ Eventually, after hearing rumours that this entire incident was an experiment go
 
 ## Influences
 
-- I watched Men In Black a while ago and the evolved cockroaches resemble Annelid aliens in the kitchen.
+- Men In Black:
+    - Likely references the Annelid aliens in the kitchen.
 
 ## Symbols
 
@@ -30,4 +31,4 @@ Eventually, after hearing rumours that this entire incident was an experiment go
 
 ## Lessons
 
-- Don’t blindly follow the crowd into harm.
+- Don’t blindly follow the crowd.

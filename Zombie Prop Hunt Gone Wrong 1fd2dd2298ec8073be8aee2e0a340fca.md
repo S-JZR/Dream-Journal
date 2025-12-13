@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 22/05/2025
-Last Edited: December 7, 2025 5:36 PM
+Last Edited: December 13, 2025 3:30 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -23,8 +23,8 @@ I followed the female player across a series of elevated indoor catwalks over wa
 ## Influences
 
 - Team Fortress 2:
-    - Features the Medic Vs Engineer zombie gamemode where it becomes impossible for players to survive once almost everyone is infected.
-    - Features sticky jumping with the Demoman to travel great distances.
+    - References the Medic Vs Engineer zombie gamemode.
+    - References Demoman sticky jumping.
 
 ## Symbols
 
@@ -32,7 +32,7 @@ I followed the female player across a series of elevated indoor catwalks over wa
 
 ## Lessons
 
-- Don’t follow the crowd otherwise you will fail like everyone else.
+- Don't repeat the same mistakes and expect different results.
 - Be willing to take risks if it gives a greater reward.
 
 # Post Dream

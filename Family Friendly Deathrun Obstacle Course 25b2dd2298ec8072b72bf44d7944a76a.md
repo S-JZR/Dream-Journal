@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 26/08/2025
-Last Edited: December 7, 2025 5:15 PM
+Last Edited: December 12, 2025 3:33 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -32,8 +32,10 @@ My family entered a room in a nearby hotel at the complex to stay for the night.
 
 ## Influences
 
-- Team Fortress 2: reference to playing death run on community servers.
-- Minecraft: reference to mining blocks.
+- Team Fortress 2:
+    - References the death run gamemode.
+- Minecraft:
+    - References mining blocks.
 
 ## Symbols
 

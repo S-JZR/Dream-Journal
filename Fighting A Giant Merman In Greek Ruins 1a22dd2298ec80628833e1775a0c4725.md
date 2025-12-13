@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 17/10/2024
-Last Edited: December 7, 2025 5:35 PM
+Last Edited: December 13, 2025 1:01 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -36,8 +36,8 @@ I attempted to slash their ankles with my sword, but despite my character barely
 
 ## Influences
 
-- I stayed up late playing old GameMaker Sandbox games like Battleship Forever and lji.
-- I’ve been wanting to play Mythology for a while which probably influenced the Greek mythology theme.
+- Mythology:
+    - I’ve been wanting to play Mythology for a while which likely influenced the Greek theme.
 
 ## Symbols
 
@@ -46,3 +46,7 @@ I attempted to slash their ankles with my sword, but despite my character barely
 ## Lessons
 
 - N/A.
+
+# Pre Dream
+
+- I stayed up late playing old GameMaker Sandbox games like Battleship Forever and lji.

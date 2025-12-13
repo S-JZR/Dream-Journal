@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/01/2024
-Last Edited: November 27, 2025 11:25 PM
+Last Edited: December 11, 2025 6:16 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,7 +18,8 @@ A tiny man in a shrunken submarine navigated through another man’s body and ex
 
 ## Influences
 
-- I have watched Innerspace in the past and it references the plot.
+- Innerspace:
+    - References the plot.
 
 ## Symbols
 

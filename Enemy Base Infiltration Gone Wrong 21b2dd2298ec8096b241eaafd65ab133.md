@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 20/06/2025
-Last Edited: December 6, 2025 4:18 AM
+Last Edited: December 12, 2025 1:36 AM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Fear
@@ -34,7 +34,8 @@ We proceeded forward into a large room on the top floor of a crowded football st
 
 ## Influences
 
-- Ratchet And Clank 3: features floating spinning obstacles with spikes and fire.
+- Ratchet And Clank 3:
+    - Features floating spinning obstacles with spikes and fire.
 
 ## Symbols
 

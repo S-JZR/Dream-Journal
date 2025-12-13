@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 05/03/2025
-Last Edited: December 6, 2025 2:40 AM
+Last Edited: December 13, 2025 2:33 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -22,7 +22,8 @@ While driving around an underground car park in another location looking for a v
 
 ## Influences
 
-- My brother is still learning to drive and used to get too close to cars parked beside the curb in neighbourhoods.
+- Personal Experiences:
+    - My brother is still learning to drive and sometimes gets too close to cars parked at the curb.
 
 ## Symbols
 
