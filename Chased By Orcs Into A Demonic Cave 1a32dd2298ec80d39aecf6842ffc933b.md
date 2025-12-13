@@ -1,0 +1,29 @@
+# Chased By Orcs Into A Demonic Cave
+
+Favourite: No
+Date Created: 02/11/2020
+Last Edited: December 14, 2025 1:29 AM
+Type: Nightmare
+Age Rating: SFW
+Main Emotion: Fear
+Locations: Cave
+Characters: Orcs
+Influences: TY The Tasmanian Tiger 2 (2004), World Of Warcraft (2004)
+
+# Description
+
+I was in a fantasy role-playing game as a human adventurer when a group of tall orcs ambushed me outside a village, relentlessly attacking until my health hit a critical level. I fled through an arch-shaped dirt bridge and descended a U-shaped path into a cave. TY The Tasmanian Tiger was grinding rails to collect rings and performing homing attacks to gather flying opals. Eventually, a cut scene unfolded with an earthquake shaking the cave, causing a glowing pentagram to slowly emerge from the ground and I immediately shutoff the game due to personal convictions.
+
+# Interpretations
+
+## Influences
+
+- N/A.
+
+## Symbols
+
+- N/A.
+
+## Lessons
+
+- N/A.
