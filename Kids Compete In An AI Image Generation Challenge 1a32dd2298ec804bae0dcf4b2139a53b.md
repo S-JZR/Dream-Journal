@@ -1,8 +1,8 @@
-# Kids Compete In An AI Image Creation Challenge
+# Kids Compete In An AI Image Generation Challenge
 
 Favourite: No
 Date Created: 16/12/2024
-Last Edited: December 6, 2025 2:03 AM
+Last Edited: December 13, 2025 1:09 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -18,7 +18,8 @@ A boy and girl sat on the grass beside the pool at my primary school, on opposit
 
 ## Influences
 
-- AI Image generation has advanced rapidly and gained widespread popularity. I have wondered how future generations would use it.
+- News:
+    - AI Image and video generation has advanced rapidly and gained widespread popularity.
 
 ## Symbols
 

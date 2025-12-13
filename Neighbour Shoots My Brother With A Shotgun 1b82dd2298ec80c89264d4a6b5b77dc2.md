@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2016
-Last Edited: December 2, 2025 6:33 PM
+Last Edited: December 12, 2025 7:24 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,11 +18,13 @@ I was standing in the carpark of my unit complex when my brother climbed a large
 
 ## Influences
 
-- The neighbour at the time did suspicious things and we were warry.
+- Personal Experiences:
+    - One of our neighbours did suspicious things and we were warry.
 
 ## Symbols
 
-- Shotgun: fear of a potential threat.
+- Shotgun:
+    - The fear of hidden dangers.
 
 ## Lessons
 

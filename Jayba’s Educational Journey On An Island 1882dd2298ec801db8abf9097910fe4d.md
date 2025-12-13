@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 12/01/2016
-Last Edited: December 7, 2025 7:30 PM
+Last Edited: December 12, 2025 8:23 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -11,18 +11,20 @@ Characters: Family, Vultures
 
 # Description
 
-I was standing on a small grassy island with a path of connected circular GUI nodes travelling between mini mountains, with Jayba, my cat. I pushed Jayba on my knees along the path for a bit. Eventually, I explored the island and noticed vultures watching from afar.
+I was standing on a small grassy island with a connected GUI node path travelling between mini mountains, with Jayba, my cat. I pushed Jayba on my knees along the path for a bit. Eventually, I explored the island and noticed vultures watching from afar.
 
 # Interpretations
 
 ## Influences
 
-- The GUI path with nodes resembles a video game level progression menu.
+- The GUI node path resembles a videogame level progression menu.
 
 ## Symbols
 
-- Nodes: educational progress.
-- Vultures: the awareness of constant dangers in the world.
+- Nodes:
+    - Educational progress.
+- Vultures:
+    - Constant dangers in the world.
 
 ## Lessons
 
@@ -30,4 +32,4 @@ I was standing on a small grassy island with a path of connected circular GUI no
 
 # Post Dream
 
-- May have predicted the death of Jayba with distant vultures: [details too sensitive to share].
+- It may have predicted the death of Jayba with distant vultures: [details too sensitive to share].

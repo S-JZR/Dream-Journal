@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2021
-Last Edited: December 5, 2025 5:08 PM
+Last Edited: December 12, 2025 9:06 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,7 +20,7 @@ I was walking through the carpark of my unit complex when I heard the sound of e
 
 ## Symbols
 
-- Plane crash: the subconscious fear of not knowing if harmful objects are falling from the sky.
+- N/A.
 
 ## Lessons
 

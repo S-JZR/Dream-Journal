@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 07/05/2021
-Last Edited: December 7, 2025 7:22 PM
+Last Edited: December 12, 2025 9:27 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Highway, Hospital, TV Studio
 Characters: Misc People, Soldiers, Tentacle Creature
-Influences: Tomorrow When The War Began (2010), Would I Lie To You? (2007)
+Influences: Personal Experiences, Would I Lie To You? (2007)
 
 # Description
 
@@ -22,7 +22,10 @@ Upon reaching the fifth floor, echoes of shuffling filled the stairwell, but the
 
 ## Influences
 
-- My mother is sensitive to gore and swearing so I need to be mindful of what I watch with her to avoid making her feel uncomfortable.
+- Would I Lie To You?:
+    - References the gameshow.
+- Personal Experiences:
+    - My mother is sensitive to gore and swearing so I need to be mindful of what I show her.
 
 ## Symbols
 

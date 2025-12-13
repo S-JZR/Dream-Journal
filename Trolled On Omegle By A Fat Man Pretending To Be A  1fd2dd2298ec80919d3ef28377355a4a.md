@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 24/05/2025
-Last Edited: December 7, 2025 5:44 PM
+Last Edited: December 13, 2025 6:52 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,12 +18,14 @@ I was seated at my computer in my unit on a video chat on Omegle with someone wh
 
 ## Influences
 
-- I’ve watched online videos of people pranking others on Omegle by pretending to be women and heard about creeps.
+- Online Videos:
+    - References an Omegle prank about someone pretending to be a girl.
 
 ## Symbols
 
-- Parents: the fear of being misperceived.
+- Parents:
+    - The fear of being misperceived.
 
 ## Lessons
 
-- Be careful talking with strangers online who hide their identity.
+- You never know who you're talking to online.

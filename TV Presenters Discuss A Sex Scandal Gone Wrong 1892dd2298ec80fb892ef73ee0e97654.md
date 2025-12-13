@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 04/04/2024
-Last Edited: December 5, 2025 9:55 PM
+Last Edited: December 12, 2025 10:44 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -18,7 +18,8 @@ I was standing on a small sandbank near the coast with TV presenters when we res
 
 ## Influences
 
-- I frequently hear about sex scandals on the news.
+- News:
+    - There always seems to be a sex scandal on the news.
 
 ## Symbols
 

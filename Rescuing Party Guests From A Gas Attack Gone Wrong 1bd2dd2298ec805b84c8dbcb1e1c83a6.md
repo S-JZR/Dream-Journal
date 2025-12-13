@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 20/03/2025
-Last Edited: December 7, 2025 10:51 PM
+Last Edited: December 13, 2025 2:39 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,7 +22,8 @@ A masked villain, dressed in a dark green robe entered the room and began sprayi
 
 ## Influences
 
-- N/A.
+- Batman:
+    - References the Joker’s laughing gas.
 
 ## Symbols
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 04/04/2025
-Last Edited: December 7, 2025 6:55 PM
+Last Edited: December 13, 2025 6:52 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -26,8 +26,10 @@ In the fourth level we were spectating a shoreline with a sandy path and elevate
 
 ## Influences
 
-- I was watching a lot of Vanoss Crew gameplay for a month, specifically R.E.P.O. (2025).
-- Team Fortress 2: references the characters and gameplay on the roof.
+- Online Videos:
+    - References watching a lot of Vanoss Crew gameplay for a month, specifically R.E.P.O.
+- Team Fortress 2:
+    - References gameplay and rooftop maps.
 
 ## Symbols
 

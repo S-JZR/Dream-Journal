@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 08/08/2025
-Last Edited: December 6, 2025 4:31 AM
+Last Edited: December 12, 2025 3:08 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -29,7 +29,8 @@ I tried placing the paintings on the control panel to load a level but nothing o
 
 ## Symbols
 
-- Abandoned building: neglected memories at the back of my mind.
+- Abandoned Building:
+    - Neglected memories at the back of my mind.
 
 ## Lessons
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 02/11/2020
-Last Edited: December 7, 2025 2:19 AM
+Last Edited: December 12, 2025 8:59 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,7 +20,8 @@ After hearing screams and gunfire I travelled with the squad and a robot resembl
 
 ## Influences
 
-- I used to play Metal Arms Glitch In The System a lot as a child and it’s where Titans come from.
+- Metal Arms Glitch In The System:
+    - References Titans.
 
 ## Symbols
 
@@ -28,4 +29,4 @@ After hearing screams and gunfire I travelled with the squad and a robot resembl
 
 ## Lessons
 
-- The greatest threats are from within.
+- The greatest threats come from within.

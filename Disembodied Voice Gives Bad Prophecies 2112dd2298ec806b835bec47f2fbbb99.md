@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2014
-Last Edited: December 6, 2025 4:52 PM
+Last Edited: December 12, 2025 6:29 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -23,13 +23,16 @@ I was standing inside trenches with a middle-age man and woman when a disembodie
 
 ## Influences
 
-- I constantly criticise my short comings.
+- Personal Thoughts:
+    - I constantly criticise my shortcomings.
 
 ## Symbols
 
-- Trenches: the mind can be a warzone where we battle self-criticism and external judgements.
-- Bad prophecies: the belief that I will not be successful because I’m too stupid, too cautious, and not good enough.
+- Trenches:
+    - Battlefield of the mind.
+- Bad Prophecies:
+    - Feeling like I won’t be successful because I’m too stupid, too cautious, and not good enough.
 
 ## Lessons
 
-- Don’t internalize negative thoughts and external judgments or they can become self-fulfilling prophecies.
+- Don’t internalize negative thoughts and judgments or they can become self-fulfilling prophecies.

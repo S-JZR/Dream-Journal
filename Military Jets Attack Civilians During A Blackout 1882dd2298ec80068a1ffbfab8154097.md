@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 02/12/2022
-Last Edited: December 5, 2025 5:25 PM
+Last Edited: December 11, 2025 5:14 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -25,7 +25,8 @@ Determined to cease the unfolding tragedy, I traversed along the perimeter of a 
 
 ## Symbols
 
-- Jets: the fear of being helpless.
+- Jets:
+    - The fear of being helpless.
 
 ## Lessons
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 05/02/2025
-Last Edited: November 27, 2025 11:28 PM
+Last Edited: December 13, 2025 1:35 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -18,7 +18,8 @@ Blue humanoid aliens visited Earth to showcase their ability to control their mi
 
 ## Influences
 
-- Fantastic Planet: references the blue aliens.
+- Fantastic Planet:
+    - References the Draag aliens.
 
 ## Symbols
 

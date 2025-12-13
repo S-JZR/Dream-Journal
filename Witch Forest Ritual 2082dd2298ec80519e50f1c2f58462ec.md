@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: December 2, 2025 11:45 PM
+Last Edited: December 12, 2025 8:41 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -21,8 +21,8 @@ I was walking along a dirt path beside a forest at night when I noticed the fain
 
 ## Symbols
 
-- Witch: sin and corruption.
-- Purple: mysterious and evil.
+- Witch:
+    - Sin and corruption.
 
 ## Lessons
 

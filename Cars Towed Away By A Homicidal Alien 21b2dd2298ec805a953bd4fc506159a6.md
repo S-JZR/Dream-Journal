@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 21/06/2025
-Last Edited: November 29, 2025 7:25 PM
+Last Edited: December 13, 2025 3:45 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Bus Station, Secondary School
 Characters: Aliens, Family, Misc People, Police
-Influences: Christian Bible, Lilo And Stitch (2002)
+Influences: Christianity, Lilo And Stitch (2002)
 
 # Description
 
@@ -22,9 +22,10 @@ After calling the police to relay the situation, a policewoman dressed in red an
 
 ## Influences
 
-- Note the school parking lot layout doesn’t match reality.
-- Lilo And Stitch: the two alien police at the end remind me of Jumba and Pleakley trying to capture Stitch.
-- Christian Bible: the horse with many eyes resembles a biblical angel.
+- Lilo And Stitch:
+    - Likely references Jumba and Pleakley trying to capture Stitch.
+- Christianity:
+    - References biblical angels with many eyes.
 
 ## Symbols
 

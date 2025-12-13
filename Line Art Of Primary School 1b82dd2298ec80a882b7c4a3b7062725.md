@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 01/01/2023
-Last Edited: December 3, 2025 3:47 PM
+Last Edited: December 12, 2025 9:38 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: Primary School
 Characters: Students
+Influences: Personal Experiences
 
 # Description
 
@@ -17,11 +18,13 @@ I was standing in the art class of my secondary school when a fictional female s
 
 ## Influences
 
-- I was recently browsing online images of my primary school.
+- Personal Experiences:
+    - I was recently looking up online images of my primary school.
 
 ## Symbols
 
-- Art: nostalgia.
+- Art:
+    - Nostalgia.
 
 ## Lessons
 

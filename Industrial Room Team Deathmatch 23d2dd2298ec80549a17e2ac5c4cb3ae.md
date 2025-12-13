@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/07/2025
-Last Edited: December 4, 2025 11:33 PM
+Last Edited: December 12, 2025 2:03 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,9 +22,9 @@ In round two the centre of the room's left side was covered by a dividing wall m
 
 ## Influences
 
-- Online videos:
-    - References casuals vs pros in Team Fortress 2 [https://youtu.be/EuxyUhwx0oI?si=YBrQDSDeguq_I5Bx](https://youtu.be/EuxyUhwx0oI?si=YBrQDSDeguq_I5Bx).
-    - References a wall being exploited to cause many casualties in an airsoft battle royale [https://youtu.be/XZB9eG2wYow?si=Zo7p3MdR8yYg1Ee-&t=436](https://youtu.be/XZB9eG2wYow?si=Zo7p3MdR8yYg1Ee-&t=436).
+- Online Videos:
+    - References casuals vs pros in Team Fortress 2: [https://youtu.be/EuxyUhwx0oI?si=YBrQDSDeguq_I5Bx](https://youtu.be/EuxyUhwx0oI?si=YBrQDSDeguq_I5Bx).
+    - References fighting beside a wall gone wrong in an airsoft battle royale: [https://youtu.be/XZB9eG2wYow?si=Zo7p3MdR8yYg1Ee-&t=436](https://youtu.be/XZB9eG2wYow?si=Zo7p3MdR8yYg1Ee-&t=436).
 
 ## Symbols
 

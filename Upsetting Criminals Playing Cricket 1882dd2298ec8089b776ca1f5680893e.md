@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 07/01/2021
-Last Edited: December 7, 2025 1:12 AM
+Last Edited: December 13, 2025 6:50 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Fear
 Locations: City
 Characters: Aleksandr Orlov, Elves, Family, Mafia, Misc People, Mrs Claus, Santa, Sergei Orlov, Soldiers, Sullivan, Waiter, Workers
-Influences: Compare The Market (2006), Online Videos
+Influences: Commercials, Monsters Inc. (2001), Online Videos
 
 <aside>
 ⚠️
@@ -37,13 +37,18 @@ My family was already at the warehouse as a few people roamed around. As I exami
 
 ## Influences
 
-- I see Compare The Market commercials all the time with the meerkat mascots.
-- I watched a song about the NSA spying on people while dressed as Santa a long time ago [https://youtu.be/8pcWlyUu8U4?si=ARTFhn2dt-7MqtOx](https://youtu.be/8pcWlyUu8U4?si=ARTFhn2dt-7MqtOx).
+- Commercials:
+    - References Aleksandr and Sergei from Compare The Market.
+- Online Videos:
+    - References a song about NSA agents dressed as Santa spying on people: [https://youtu.be/8pcWlyUu8U4?si=ARTFhn2dt-7MqtOx](https://youtu.be/8pcWlyUu8U4?si=ARTFhn2dt-7MqtOx).
+- Monsters, Inc.:
+    - References Sullivan.
 
 ## Symbols
 
-- Killing criminals: the desire to bring justice to evil.
+- Killing Criminals:
+    - The desire to bring justice to evil.
 
 ## Lessons
 
-- Control your impulses before you cause unnecessary harm to others.
+- Control your impulses before you cause unnecessary problems.

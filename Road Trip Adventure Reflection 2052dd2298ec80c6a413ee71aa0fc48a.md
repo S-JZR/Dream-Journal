@@ -2,12 +2,12 @@
 
 Favourite: Yes
 Date Created: 27/05/2025
-Last Edited: December 7, 2025 5:36 PM
+Last Edited: December 13, 2025 3:38 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
 Locations: Virtual/Videogame
-Influences: Personal Thoughts, Road Trip Adventure (2002)
+Influences: Personal Experiences, Personal Thoughts, Road Trip Adventure (2002)
 
 # Description
 
@@ -26,16 +26,22 @@ After digging through the code, I toggled different developer flags that unlocke
 
 ## Influences
 
-- Road Trip Adventures featured Quick-Pic Shops everywhere not treasure chests.
-- I used to to take candid photos of computer monitors and TVs using a handheld camera as a child because I didn’t know how to take screenshots or record them directly.
-- I’ve grown to dislike videogames because I feel like they’re wasting our time and preventing us from developing real world skills.
-- I’ve been working on Fandom wikis recently and considered the most efficient way to express information.
+- Personal Experiences:
+    - I took candid photos of TVs/Monitors as a child because I didn’t know the proper way.
+    - I’ve started working on Fandom wikis again this year.
+- Personal Thoughts:
+    - I’ve grown to dislike videogames because I feel like they’re a waste of time and hinder skill development.
 
 ## Symbols
 
-- Gameplay: nostalgia.
+- Gameplay:
+    - Nostalgia.
 
 ## Lessons
 
 - Videogames are arbitrary constructs so be careful how much time you spend on them.
-- Undocumented experiences are forgotten.
+- Undocumented experiences are forgotten forever.
+
+# Notes
+
+- Road Trip Adventures featured Quick-Pic Shops everywhere not treasure chests.

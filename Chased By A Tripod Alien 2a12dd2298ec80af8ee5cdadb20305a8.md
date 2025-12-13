@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 04/11/2025
-Last Edited: December 5, 2025 2:24 AM
+Last Edited: December 12, 2025 4:10 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,7 +18,8 @@ I was walking through my neighbourhood during the morning when I encountered a t
 
 ## Influences
 
-- War Of The Worlds: references the tripod aliens.
+- War Of The Worlds:
+    - References the tripod aliens.
 
 ## Symbols
 

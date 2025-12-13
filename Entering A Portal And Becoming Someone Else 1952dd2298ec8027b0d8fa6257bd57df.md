@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: December 7, 2025 5:44 PM
+Last Edited: December 12, 2025 6:11 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -21,7 +21,8 @@ I was standing in a white room with portals in each corner when I was forced to 
 
 ## Symbols
 
-- Identity shift: the fear of losing the traits I value that define me and becoming someone who lives a mundane life, wastes time, acts foolishly, achieves little, and avoids deep or abstract thinking.
+- Identity Shift:
+    - The fear of being someone else who lives a mundane life, bad life, or avoids deep thoughts.
 
 ## Lessons
 

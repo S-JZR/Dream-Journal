@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 17/02/2025
-Last Edited: December 6, 2025 2:24 AM
+Last Edited: December 13, 2025 2:18 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -27,4 +27,4 @@ After deviating into a nearby carpark, we hurried down to find a way to reach hi
 
 ## Lessons
 
-- Think about the consequences of your actions.
+- Consider the consequences of your actions.

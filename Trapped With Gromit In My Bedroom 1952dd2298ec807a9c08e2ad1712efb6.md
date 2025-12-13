@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2005
-Last Edited: December 8, 2025 12:29 AM
+Last Edited: December 13, 2025 5:21 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,11 +18,13 @@ I was walking around in my brother’s bedroom doing miscellaneous things while 
 
 ## Influences
 
-- My brother and I watched the Wallace And Gromit: The Curse of the Were-Rabbit movie, played the videogame a lot when we were children, and my brother won a Gromit zip bag from a colouring-in competition.
+- Wallace And Gromit: The Curse Of The Were-Rabbit:
+    - My brother entered a colouring-in competition and won a Gromit zip bag.
 
 ## Symbols
 
-- Gromit: I probably wondered what it would be like if Gromit was alive.
+- Gromit:
+    - I probably wondered what it would be like if Gromit was alive.
 
 ## Lessons
 

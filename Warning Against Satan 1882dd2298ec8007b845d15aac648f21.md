@@ -2,12 +2,12 @@
 
 Favourite: No
 Date Created: 01/01/2005
-Last Edited: December 1, 2025 5:38 PM
+Last Edited: December 12, 2025 5:40 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: Void
-Influences: Christian Bible
+Influences: Christianity
 
 # Description
 
@@ -18,6 +18,8 @@ I was spectating a black void when white sans-serif text appeared stating "Do no
 ## Influences
 
 - I’ve always thought this was the first dream I’ve ever had but I’m not sure. I must have been old enough to understand Christian teachings.
+- Christianity:
+    - References a common biblical theme.
 
 ## Symbols
 
@@ -25,4 +27,4 @@ I was spectating a black void when white sans-serif text appeared stating "Do no
 
 ## Lessons
 
-- We must remain vigilant against Satan's constant schemes to control everyone through temptation and deception.
+- Stay vigilant against Satan's schemes to lead everyone astray with temptations and deception.

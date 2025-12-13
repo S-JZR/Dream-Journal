@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/07/2025
-Last Edited: November 27, 2025 11:32 PM
+Last Edited: December 13, 2025 3:55 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -18,8 +18,8 @@ A man standing in front of 7 adults on a footpath beside an elevated highway beg
 
 ## Influences
 
-- Mad God: probably influenced by the “Woken” song.
-- Christian bible: references the world being in a fallen spiritual state and needing redemption.
+- Mad God:
+    - Likely references the “Woken” song.
 
 ## Symbols
 
@@ -27,4 +27,4 @@ A man standing in front of 7 adults on a footpath beside an elevated highway beg
 
 ## Lessons
 
-- God calls us to awaken from our spiritual slumber, repent, and follow him.
+- N/A.

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/09/2023
-Last Edited: December 3, 2025 4:17 PM
+Last Edited: December 12, 2025 9:54 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,7 +22,8 @@ I joined my fictional friends sitting on an urban sidewalk, leaning against a sh
 
 ## Influences
 
-- We live in a neighbourhood with a lot of government housing units and are wary of people.
+- Personal Experiences:
+    - We live in a neighbourhood with a lot of government housing and are wary of people.
 
 ## Symbols
 
@@ -30,5 +31,4 @@ I joined my fictional friends sitting on an urban sidewalk, leaning against a sh
 
 ## Lessons
 
-- Stay vigilant at night for potential dangers.
-- Security cameras are everywhere and you never know who is watching.
+- Avoid walking alone at night.

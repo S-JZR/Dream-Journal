@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 27/05/2025
-Last Edited: December 7, 2025 11:14 PM
+Last Edited: December 13, 2025 3:36 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Home, Secondary School
 Characters: Crocodiles, Deers, Men In Black, Misc People
+Influences: Online Videos
 
 # Description
 
@@ -23,13 +24,15 @@ After putting my phone down, I scanned the surroundings outside with a flashligh
 
 ## Influences
 
-- I’ve seen videos of animals exhibiting strange behaviours.
-- The agent reminds me of the case of John Lang [https://youtu.be/wsFBeetiYMs?si=Vs1sqtWgHBt2aZcI&t=410](https://youtu.be/wsFBeetiYMs?si=Vs1sqtWgHBt2aZcI&t=410).
+- Online Videos:
+    - The agent reminds me of the case of John Lang: [https://youtu.be/wsFBeetiYMs?si=Vs1sqtWgHBt2aZcI&t=410](https://youtu.be/wsFBeetiYMs?si=Vs1sqtWgHBt2aZcI&t=410).
 
 ## Symbols
 
-- AI content: the fear of the truth being drowned out by fake AI content.
-- Female agent: the fear of losing privacy to invasive technologies.
+- AI:
+    - The fear of the truth being drowned out by AI.
+- Female Agent:
+    - The fear of losing privacy to invasive technologies.
 
 ## Lessons
 

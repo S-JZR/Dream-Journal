@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/02/2024
-Last Edited: December 3, 2025 5:46 PM
+Last Edited: December 11, 2025 6:19 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -29,7 +29,8 @@ I was walking on the footpath outside the drop-off zone fence of my secondary sc
 
 ## Symbols
 
-- Dog: the shadow self being a trickster.
+- Dog:
+    - The shadow self being a trickster.
 
 ## Lessons
 

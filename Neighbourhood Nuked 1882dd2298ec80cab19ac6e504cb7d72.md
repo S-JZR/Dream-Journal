@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: December 5, 2025 4:45 PM
+Last Edited: December 12, 2025 8:30 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Home
 Characters: Family
-Influences: Indiana Jones And The Kingdom Of The Crystal Skull (2008), Personal Thoughts
+Influences: Indiana Jones And The Kingdom Of The Crystal Skull (2008)
 
 # Description
 
@@ -18,12 +18,13 @@ I was lying on the bunk bed upstairs in my room in my unit, peeking through the 
 
 ## Influences
 
-- I was influenced by the nuke scene in Indiana Jones And The Kingdom Of The Crystal Skull to hide in a fridge to survive a nuke.
-- I have a lingering fear that nukes can destroy the world.
+- Indiana Jones And The Kingdom Of The Crystal Skull:
+    - References Indiana Jones surviving a nuke by climbing into a lead-lined fridge.
 
 ## Symbols
 
-- N/A.
+- Nuke:
+    - The fear of nukes destroying the world.
 
 ## Lessons
 

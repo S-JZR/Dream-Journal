@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: December 7, 2025 10:16 PM
+Last Edited: December 11, 2025 3:27 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: Heaven
 Characters: Family, Misc People
-Influences: Christian Bible, Personal Experiences, Personal Thoughts
+Influences: Christianity, Personal Experiences
 
 # Description
 
@@ -28,12 +28,13 @@ My dad worried about all the DVDs our family had collected over time, realizing 
 
 ## Influences
 
-- I used to fear whether heaven would truly be desirable and as promised.
-- My parents still buy and collect DVDs.
+- Personal Experiences:
+    - My parents still buy and collect DVDs.
 
 ## Symbols
 
-- N/A.
+- Dystopian Heaven:
+    - The fear that heaven won’t be desirable.
 
 ## Lessons
 

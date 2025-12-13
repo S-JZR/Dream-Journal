@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: December 5, 2025 3:31 AM
+Last Edited: December 12, 2025 5:57 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -25,4 +25,4 @@ I was standing on the footpath beside the park down the street with a few other 
 
 ## Lessons
 
-- Don't be blinded by greed and harm others.
+- Don't be blinded by greed.

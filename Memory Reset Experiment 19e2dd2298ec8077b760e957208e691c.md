@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2013
-Last Edited: December 2, 2025 4:06 PM
+Last Edited: December 10, 2025 1:28 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -21,7 +21,8 @@ Various people were seated in a room with long rectangular windows undergoing a 
 
 ## Symbols
 
-- Memory Reset: the fear of death, impermanence, and being forgotten.
+- Memory Reset:
+    - The fear of death, impermanence, and being forgotten.
 
 ## Lessons
 

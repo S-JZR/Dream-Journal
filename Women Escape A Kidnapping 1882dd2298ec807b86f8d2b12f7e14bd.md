@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2014
-Last Edited: November 29, 2025 11:10 PM
+Last Edited: December 12, 2025 6:15 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -32,12 +32,15 @@ Eventually, they discovered a mysterious book of knowledge in the attic, presuma
 
 ## Influences
 
-- We live in a neighbourhood with a lot of government housing units and are wary of people.
+- Personal Experiences:
+    - We live in a neighbourhood with a lot of government housing and are wary of people.
 
 ## Symbols
 
-- Slavery: the fear of being held against my will.
+- Slavery:
+    - The fear of being held against my will.
 
 ## Lessons
 
-- Knowledge is power and brings freedom but evil people want to keep others in the dark to control them.
+- Knowledge is power and brings freedom.
+- Evil people keep others ignorant to control them.

@@ -2,12 +2,12 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: December 7, 2025 4:43 PM
+Last Edited: December 12, 2025 8:25 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: Secondary School
-Influences: Personal Thoughts
+Influences: Personal Experiences
 
 # Description
 
@@ -17,11 +17,13 @@ I was seated on a stainless steel bench beside the hall of my secondary school, 
 
 ## Influences
 
-- During secondary school I have always wanted to draw anime but wasn’t skilled enough.
+- Personal Experiences:
+    - I always wanted to draw anime in secondary school but wasn’t skilled enough.
 
 ## Symbols
 
-- Art: the desire to clearly express my ideas on paper.
+- Art:
+    - The desire to clearly express my ideas.
 
 ## Lessons
 

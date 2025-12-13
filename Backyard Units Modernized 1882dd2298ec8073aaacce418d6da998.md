@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2014
-Last Edited: December 2, 2025 5:28 PM
+Last Edited: December 12, 2025 6:24 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -17,12 +17,14 @@ I was standing in the backyard of my unit, which was part of a row of red/brown 
 
 ## Influences
 
-- 2009: there used to be a single rundown house beside ours that was surrounded by dense shrubbery but it was demolished and replaced with modern red brick and white concrete units.
+- Personal Experiences:
+    - 2009: a rundown house surrounded by dense shrubbery beside our unit was replaced with modern red/brown brick and white concrete units.
 
 ## Symbols
 
-- Modern units: recognising the impermanence of the world and memories.
+- Modern Units:
+    - Impermanence of the world and memories.
 
 ## Lessons
 
-- Everything changes and what seems permeant can disappear suddenly or long after we’re gone.
+- Everything changes and what seems permanent can disappear suddenly or long after we’re gone.

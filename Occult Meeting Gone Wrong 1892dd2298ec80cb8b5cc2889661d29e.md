@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 25/09/2024
-Last Edited: December 6, 2025 1:49 AM
+Last Edited: December 11, 2025 9:44 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -23,7 +23,7 @@ As we passed through the castle with a modern interior featuring dark grey carpe
 
 ## Symbols
 
-- Flaunting: the danger of elitism.
+- N/A.
 
 ## Lessons
 

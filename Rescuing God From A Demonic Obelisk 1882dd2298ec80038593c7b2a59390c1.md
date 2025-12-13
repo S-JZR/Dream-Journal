@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2017
-Last Edited: December 2, 2025 10:32 PM
+Last Edited: December 12, 2025 8:29 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,12 +22,15 @@ Determined to rescue God, I navigated across an elevated highway, hiding behind 
 
 ## Influences
 
-- I hear people all the time accuse God of being evil for judging unrepentant locations by annihilating them and I’ve always wondered what would happen if he didn’t intervene and demons were allowed to rule the world.
-- I’ve always struggled with believing in God and feel like he’s absent.
+- Personal Thoughts:
+    - Atheists accuse God of being evil all the time for annihilating unrepentant locations as a judgement. I’ve always wondered what would happen if God never intervened to stop evil.
 
 ## Symbols
 
-- Obelisk: ancient idolatry and evil that is revived.
+- Obelisk:
+    - Ancient idolatry, sin, and corruption.
+- God Frozen:
+    - I’ve always struggled with believing in God and feel like he’s absent.
 
 ## Lessons
 

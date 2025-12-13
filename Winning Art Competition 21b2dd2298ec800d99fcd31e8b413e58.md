@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 21/06/2025
-Last Edited: December 7, 2025 11:52 PM
+Last Edited: December 13, 2025 3:43 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
 Locations: Secondary School
 Characters: Katherine P, Mrs Brown, Students, Teachers
-Influences: Personal Experiences, Personal Thoughts
+Influences: News, Personal Experiences
 
 # Description
 
@@ -22,13 +22,17 @@ Outside the classroom, I sat at an aluminium table with a middle-aged bearded ba
 
 ## Influences
 
-- 2018: I received the best artwork of year 12 award, a cultural award determined by public vote. My brother also did art and won awards. The school gave out gift cards for awards among other things.
-- At the end of classes in secondary school, I would maintain the laptops by ensuring they were all plugged in and forcing them off to save power and prevent damage. A few other students did the same but it was mostly me.
-- 2016: the government cut tech funding and the school adopted a BYOD model [https://www.abc.net.au/news/2016-12-16/queensland-schools-byod-laptop-program-a-burden-on-parents-qtu/8124588](https://www.abc.net.au/news/2016-12-16/queensland-schools-byod-laptop-program-a-burden-on-parents-qtu/8124588).
+- Personal Experiences:
+    - 2018: I received the best artwork of year 12 award by public vote. I didn’t expect to win at all.
+    - My brother also did art and won awards.
+    - Other students and I fixed up laptops in the trolley at the end of classes in secondary school.
+- News:
+    - 2016: the government cut computer funding and the school adopted BYOD: [https://www.abc.net.au/news/2016-12-16/queensland-schools-byod-laptop-program-a-burden-on-parents-qtu/8124588](https://www.abc.net.au/news/2016-12-16/queensland-schools-byod-laptop-program-a-burden-on-parents-qtu/8124588).
 
 ## Symbols
 
-- Creators block: the fear of running out of creative ideas.
+- Creators Block:
+    - The fear of running out of creative ideas.
 
 ## Lessons
 

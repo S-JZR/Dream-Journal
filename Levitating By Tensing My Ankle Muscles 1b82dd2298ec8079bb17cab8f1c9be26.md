@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2018
-Last Edited: December 2, 2025 11:30 PM
+Last Edited: December 11, 2025 3:28 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -20,7 +20,8 @@ I was standing on the upstairs landing in my unit when I instinctively knew that
 
 ## Symbols
 
-- Levitating: I probably had a subconscious desire to fly.
+- Levitating:
+    - I probably had a subconscious desire to fly.
 
 ## Lessons
 

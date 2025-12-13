@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/07/2025
-Last Edited: December 7, 2025 10:04 PM
+Last Edited: December 13, 2025 6:54 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -18,7 +18,8 @@ I was walking along a street with a pedestrian island crossing when an angry man
 
 ## Influences
 
-- I have seen online videos of insurance scammers a while ago and they act like you're the problem but flee once they realize you have a dashcam.
+- Online Videos:
+    - References insurance scammers playing the victim but fleeing when you have a dashcam.
 
 ## Symbols
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 29/07/2025
-Last Edited: November 27, 2025 11:32 PM
+Last Edited: December 13, 2025 6:55 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Surprise
@@ -26,8 +26,10 @@ I was seated beside my dad at the dining table with a large all-in-one computer 
 
 ## Influences
 
-- SpongeBob: sometimes my dad stops to watch children’s TV shows to see what they’re showing the next generation.
-- In the past I have reported two YouTube profiles and one Internet Archive profile that featured kids cartoons alongside porn. I don’t know if they were intentionally trying to corrupt the youth or hide content from moderators.
+- Personal Experiences:
+    - Sometimes my dad briefly watches children’s TV shows to see what they’re showing the next generation.
+- Online Videos:
+    - I have reported online accounts that have mixed children’s cartoons alongside porn.
 
 ## Symbols
 

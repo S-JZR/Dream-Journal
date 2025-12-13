@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/04/2025
-Last Edited: December 7, 2025 10:22 PM
+Last Edited: December 13, 2025 2:57 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -24,7 +24,8 @@ We were uncertain which direction to travel without a GPS, so we continued flyin
 
 ## Influences
 
-- MacGyver: I watched the entire series of MacGyver as a teenager.
+- MacGyver:
+    - References MacGyver.
 
 ## Symbols
 
@@ -33,4 +34,3 @@ We were uncertain which direction to travel without a GPS, so we continued flyin
 ## Lessons
 
 - Prioritize tasks with the greatest impact.
-- Don’t enter restricted airspaces.

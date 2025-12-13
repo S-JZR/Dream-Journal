@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 14/01/2025
-Last Edited: December 7, 2025 6:16 PM
+Last Edited: December 13, 2025 1:21 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -21,8 +21,9 @@ I was standing outside my empty garage engaged in a gun duel with a man inside. 
 
 ## Symbols
 
-- Forfeit: the fear of being shot.
+- Forfeit:
+    - The fear of being shot.
 
 ## Lessons
 
-- It makes sense to surrender when the odds are overwhelmingly against you.
+- Know when to quit.

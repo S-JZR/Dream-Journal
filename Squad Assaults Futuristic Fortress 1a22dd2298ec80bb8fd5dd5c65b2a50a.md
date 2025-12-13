@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 28/01/2021
-Last Edited: December 5, 2025 5:18 PM
+Last Edited: December 12, 2025 9:26 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -20,8 +20,10 @@ In my second attempt, returning to the square room, I sprinted down the hallway,
 
 ## Influences
 
-- I used to play Team Fortress 2 a lot and the Brass Beast and Gloves of Running Urgently are items from it.
-- I’ve seen Overwatch 2 trailers and the dream probably references Reinhardt with his giant hammer.
+- Team Fortress 2:
+    - References the Brass Beast and Gloves of Running Urgently.
+- Overwatch 2:
+    - References Reinhardt with a giant hammer.
 
 ## Symbols
 

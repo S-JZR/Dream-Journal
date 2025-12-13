@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 14/03/2024
-Last Edited: December 3, 2025 5:53 PM
+Last Edited: December 12, 2025 10:32 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -22,12 +22,14 @@ The second song was pessimistic showing various large white square markers repre
 
 ## Influences
 
-- I have thought about whether technology could become advanced enough the future that we can keep the universe alive forever.
+- Personal Thoughts:
+    - I have thought about whether technology in the future could keep the universe alive forever.
 
 ## Symbols
 
-- Eternal universe: staying optimistic about achieving immortality.
+- Eternal Universe:
+    - Staying optimistic and challenging the limits of reality.
 
 ## Lessons
 
-- N/A.
+- Our beliefs limit our perception of what is possible.

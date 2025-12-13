@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 21/02/2025
-Last Edited: December 7, 2025 5:31 PM
+Last Edited: December 13, 2025 2:29 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -18,11 +18,13 @@ I was seated at my computer in my unit watching two men in a YouTube video build
 
 ## Influences
 
-- I designed a few maps in Minecraft a long time ago.
+- Personal Experiences:
+    - I built a few maps in Minecraft a long time ago.
 
 ## Symbols
 
-- Map: reflecting on the technical aspects of the creation process.
+- Map:
+    - Reflecting on the technical aspects of the creation process.
 
 ## Lessons
 

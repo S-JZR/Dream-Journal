@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 07/02/2025
-Last Edited: December 4, 2025 6:50 PM
+Last Edited: December 13, 2025 2:17 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,9 +22,12 @@ In another downstairs room, I was near a vent when it began to rumble as a male 
 
 ## Influences
 
-- Zathura: references the house being attacked by Zorgons and escaping to the basement in a dumbwaiter.
-- Monsterum: references escaping monsters on a cargo ship and hallway designs.
-- FNAF: references watching monsters roam hallways on security cameras and vent locks.
+- Zathura:
+    - References being attacked by Zorgons and escaping to the basement in a dumbwaiter.
+- Monsterum:
+    - References escaping monsters on a cargo ship and hallway designs.
+- FNAF:
+    - References watching monsters roam hallways and vents on security cameras.
 
 ## Symbols
 

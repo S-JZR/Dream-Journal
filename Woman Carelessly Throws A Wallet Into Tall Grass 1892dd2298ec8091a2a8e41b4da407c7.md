@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 03/08/2024
-Last Edited: December 5, 2025 11:03 PM
+Last Edited: December 13, 2025 12:49 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -21,7 +21,8 @@ I was walking through a rural area and ascended stairs to enter the second floor
 
 ## Symbols
 
-- Maze: trying to navigate complexity in life.
+- Maze:
+    - Navigating complexity in life.
 
 ## Lessons
 

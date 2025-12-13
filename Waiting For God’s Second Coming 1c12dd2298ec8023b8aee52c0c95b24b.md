@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 01/01/2013
-Last Edited: December 5, 2025 3:11 AM
+Last Edited: December 13, 2025 6:28 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anticipation
 Locations: City
 Characters: Misc People
-Influences: Christian Bible
+Influences: Christianity
 
 # Description
 
@@ -18,11 +18,14 @@ I was standing on a hill overlooking Brisbane City with a large crowd patiently 
 
 ## Influences
 
-- I hear Christian teachings all the time and I probably wanted God to return and fix the world.
+- Christianity:
+    - References God's second coming.
 
 ## Symbols
 
-- N/A.
+- God’s Second Coming:
+    - Feeling the world is in a bad state.
+    - Wanting God to return and restore the world.
 
 ## Lessons
 

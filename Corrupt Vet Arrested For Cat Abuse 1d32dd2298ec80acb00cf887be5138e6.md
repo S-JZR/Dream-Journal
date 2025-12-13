@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/04/2025
-Last Edited: December 4, 2025 9:41 PM
+Last Edited: December 13, 2025 2:52 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Anger
@@ -31,11 +31,12 @@ The vet ascended a nearly pitch-black stairwell to enter a side office filled wi
 
 ## Influences
 
-- Mad God: reminds me of the surgeon silhouettes when the assassin is being prepared for surgery in the operating theatre.
+- Mad God:
+    - Likely references the surgeons’ silhouettes while preparing the assassin for surgery.
 
 ## Symbols
 
-- Corrupt vet: the fear of vets accidentally harming Coco, my cat, during surgery.
+- N/A.
 
 ## Lessons
 

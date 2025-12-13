@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: December 7, 2025 10:09 PM
+Last Edited: December 12, 2025 5:55 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -18,7 +18,9 @@ I was standing in the spawn of a small Minecraft Towny Server beside a giant woo
 
 ## Influences
 
-- I used to play on a specific Minecraft Towny Server a lot and thought about applying to be admin on various servers.
+- Minecraft:
+    - I built a few bases on the server and met different people.
+    - I was interested in applying to be an admin on different servers because it seemed cool.
 
 ## Symbols
 

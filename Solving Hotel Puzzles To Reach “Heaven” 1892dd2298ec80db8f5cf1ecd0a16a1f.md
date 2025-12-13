@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 05/07/2024
-Last Edited: December 4, 2025 1:48 AM
+Last Edited: December 13, 2025 12:38 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -22,14 +22,19 @@ After completing all objectives, we approached a large rectangular generator on 
 
 ## Influences
 
-- I read Pilgrim’s Progress which possibly introduced the theme of a difficult journey to reach heaven and staying focused on the straight path ahead.
+- The Pilgrim’s Progress:
+    - References a difficult journey to reach heaven and staying focused on the straight path.
 
 ## Symbols
 
-- Ghosts: wisdom.
-- Book: incomplete knowledge of how to navigate life.
-- Villain: temptations, evil, and Satan trying to sabotage the journey.
-- Mountains: challenging situations in life.
+- Female Ghosts:
+    - Wisdom.
+- Book:
+    - Incomplete knowledge of how to navigate life.
+- Villain:
+    - Temptations, evil, and Satan trying to sabotage the journey.
+- Mountains:
+    - Challenging situations in life.
 
 ## Lessons
 

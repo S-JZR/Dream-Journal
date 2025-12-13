@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 17/10/2024
-Last Edited: December 7, 2025 5:37 PM
+Last Edited: December 13, 2025 1:08 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -19,14 +19,23 @@ Another feature allowed players to switch into a 3D platformer ground view of pl
 
 ## Influences
 
-- I stayed up late playing old GameMaker Sandbox games like Battleship Forever and lji. I discovered Battleship Forever was left unfinished by its developer which left me feeling disappointed.
-- I played Planetoid 3 a while ago which references building on 2D planets.
-- I played Agar.io a while ago which references icons on player cells.
+- Battleships Forever:
+    - References the spaceship war aspect.
+- Planetoid 3:
+    - References building on 2D planetoids.
+- Agar.io:
+    - References player cell icons.
 
 ## Symbols
 
-- N/A.
+- Game Development:
+    - Wanting the game to be complete.
 
 ## Lessons
 
-- There is no obligation to finish a project abandoned by its developers.
+- N/A.
+
+# Pre Dream
+
+- I stayed up late playing old GameMaker Sandbox games like Battleship Forever and lji.
+- I was disappointed that the last level of Battleship Forever was left unfinished because it was a good game.

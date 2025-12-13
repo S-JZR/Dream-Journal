@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/04/2024
-Last Edited: December 7, 2025 7:08 PM
+Last Edited: December 12, 2025 11:00 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -18,11 +18,13 @@ I was standing outside the English block toilets at my secondary school and felt
 
 ## Influences
 
-- The toilets at secondary school were always dirty and unpleasant.
+- Personal Experiences:
+    - The toilets at secondary school were always dirty and unpleasant.
 
 ## Symbols
 
-- Cleaning: the desire for the toilets to be cleaner.
+- Cleaning:
+    - Wanting the toilets to be cleaner.
 
 ## Lessons
 

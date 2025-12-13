@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 07/07/2024
-Last Edited: December 4, 2025 2:06 AM
+Last Edited: December 13, 2025 12:43 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,8 +20,10 @@ In a city a group of adults dressed in tuxedos sat in grey folding metal chairs 
 
 ## Influences
 
-- I watched the Apple 1984 commercial a long time ago and it shows a crowd staring blankly at messages from the state.
-- I watched an online video about the The Library Of Babel. Some personal thoughts were mixed in.
+- Commercials:
+    - Likely references the Apple 1984 commercial where a crowd stares blankly at Big Brother.
+- Online Videos:
+    - References The Library Of Babel with books containing randomly generated text.
 
 ## Symbols
 

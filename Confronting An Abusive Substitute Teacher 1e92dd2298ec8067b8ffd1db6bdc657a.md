@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/05/2025
-Last Edited: December 6, 2025 5:13 PM
+Last Edited: December 13, 2025 3:05 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
@@ -46,14 +46,15 @@ I had enough and walked directly to the administration office to report the inci
 
 ## Influences
 
-- In primary school, teachers occasionally asked me to do errands.
-- Holding me back after class references Mrs Barnes asking me to write lines for shape Area.
-- I’ve reported students in secondary school and been immediately targeted as the suspect.
+- Personal Experiences:
+    - Teachers occasionally asked me to do errands in primary school.
+    - Mrs Barnes made me write lines after class for failing quiz questions.
+    - I’ve reported students in secondary school and been immediately targeted as the suspect.
 
 ## Symbols
 
-- Abusive teacher:
-    - Shadow self and inner critic accusing me of not being good enough and lazy.
+- Abusive Teacher:
+    - Inner critic accusing me of not being good enough and lazy.
     - Embodies the worst traits of different teachers.
 
 ## Lessons
