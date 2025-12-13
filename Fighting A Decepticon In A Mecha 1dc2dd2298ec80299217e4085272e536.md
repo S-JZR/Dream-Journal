@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 14/04/2025
-Last Edited: December 4, 2025 9:50 PM
+Last Edited: December 13, 2025 2:54 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -18,12 +18,15 @@ I was seated in a large mecha at a harbour punching a Decepticon.
 
 ## Influences
 
-- Transformers: self-explanatory.
-- Pacific Rim: reminds me of using mechas to fight monsters.
+- Transformers:
+    - References the Decepticons.
+- Pacific Rim:
+    - References using mechas to fight monsters.
 
 ## Symbols
 
-- Mecha: the desire to stop evil from harming anyone.
+- Mecha:
+    - The desire to stop evil from harming anyone.
 
 ## Lessons
 

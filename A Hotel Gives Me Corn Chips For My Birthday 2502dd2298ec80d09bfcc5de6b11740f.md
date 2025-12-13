@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2025
-Last Edited: December 6, 2025 2:13 AM
+Last Edited: December 13, 2025 1:18 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -18,8 +18,9 @@ I was standing at a hotel reception desk with my family as my mum booked a room.
 
 ## Influences
 
-- I like eating corn chips and salsa once a week.
-- My birthday was near.
+- Personal Experiences:
+    - I like eating corn chips and salsa once a week.
+    - My birthday is near.
 
 ## Symbols
 

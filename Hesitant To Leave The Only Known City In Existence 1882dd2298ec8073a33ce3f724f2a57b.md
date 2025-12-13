@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2017
-Last Edited: December 2, 2025 10:43 PM
+Last Edited: December 13, 2025 4:40 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -21,15 +21,19 @@ Upon entering a building, a group of children gathered around a woman showcasing
 ## Influences
 
 - I used to have a severe fear of infinity about things like:
-    - Is it possible to reach the end of the universe? Setting the expectation of trying to reach something potentially infinite felt impossible and made me fear being forever incomplete. However, I changed my perspective to consider that to achieve absolute completion we may not have to travel infinite space or experience everything natural in-person but instead understand the fundamental workings of reality and achieve all permutations of possibilities within a single point.
-    - Does true infinity exist? Can we effectively store store and retrieve infinite information in a timely manner or we are limited to a large finite cycle?
+    - Is it possible to reach the end of the universe? The expectation of trying to reach something potentially infinite felt impossible and made me feel forever trapped and incomplete. However, I changed my perspective to consider that achieving absolute completion may not involve travelling over space to experience everything natural in-person but instead understand the fundamental workings of reality and achieve all permutations of possibilities within a single point.
+    - Does true infinity exist? Will infinite information exist and can we effectively store and retrieve it in a timely manner or we are limited to a finite cycle?
 
 ## Symbols
 
-- Universe: the expectation that I must travel over infinite space to feel fulfilled.
-- City: the current progress of knowledge and permutations of ideas.
-- Turning back: the fear of never being able to experience what I already have again.
-- Microscopic barcode: pushing the limits of how many total combinations can be stored.
+- Universe:
+    - Feeling trapped and incomplete.
+- City:
+    - The current progress of knowledge and permutations of ideas.
+- Turning Back:
+    - The fear of losing what I already have.
+- Microscopic Barcode:
+    - Pushing the limits of what is possible.
 
 ## Lessons
 

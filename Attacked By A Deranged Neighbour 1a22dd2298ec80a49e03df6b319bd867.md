@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 09/12/2020
-Last Edited: December 3, 2025 1:17 PM
+Last Edited: December 12, 2025 9:03 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -21,7 +21,8 @@ I was standing at my front door when a fictional neighbour from unit four acted 
 
 ## Symbols
 
-- Crazy man: the shadow self being a trickster.
+- Crazy Man:
+    - The shadow self being a trickster.
 
 ## Lessons
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/04/2025
-Last Edited: December 7, 2025 7:33 PM
+Last Edited: December 12, 2025 1:35 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -22,15 +22,15 @@ After attempting to swim laps across the entire pool by weaving between densely 
 
 ## Influences
 
-- Personal experience: during primary school I was initially afraid to dive underwater and float on my back but learnt how to swim. Later I developed a fear of going underwater due to almost drowning twice at different locations and not swimming regularly.
-- Mr Bean: resembles being told to leave the children’s pool by a lifeguard: [https://youtu.be/FZoofVvPUC8?si=J7NteKkNRICHGztm&t=52](https://youtu.be/FZoofVvPUC8?si=J7NteKkNRICHGztm&t=52).
-    
-    [**Learning To Float On My Back With Extra K**ickboards](https://www.notion.so/Learning-To-Float-On-My-Back-With-Extra-Kickboards-18b2dd2298ec807e8d18e7bbae905d88?pvs=21)
-    
+- Personal experience:
+    - During primary school I was initially afraid to dive underwater and float on my back but learnt how to swim.
+- Mr Bean:
+    - Likely references Mr Bean being being told to leave the children’s pool by a lifeguard: [https://youtu.be/FZoofVvPUC8?si=J7NteKkNRICHGztm&t=52](https://youtu.be/FZoofVvPUC8?si=J7NteKkNRICHGztm&t=52).
 
 ## Symbols
 
-- Breathing in water: the fear of death.
+- Breathing In Water:
+    - The fear of drowning.
 
 ## Lessons
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 30/08/2025
-Last Edited: December 5, 2025 2:08 AM
+Last Edited: December 13, 2025 6:57 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,12 +20,15 @@ I was paranoid that she might have setup the wrong details to not receive the mo
 
 ## Influences
 
-- I watch MrBeast videos all the time.
+- Online Videos:
+    - References MrBeast hosting crazy challenges.
 
 ## Symbols
 
-- MrBeast: the subconscious desire to meet him.
-- Prize: the fear of not getting any share of prize money and that it will be consumed by debt.
+- MrBeast:
+    - Likely the subconscious desire to be in a MrBeast video.
+- Prize:
+    - The fear of not getting any share of prize money and losing it to debt.
 
 ## Lessons
 

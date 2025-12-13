@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 17/08/2024
-Last Edited: December 4, 2025 4:28 PM
+Last Edited: December 13, 2025 12:49 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,7 +18,8 @@ I was one of a few hunters dispatched to kill a white yeti in tall rocky terrain
 
 ## Influences
 
-- I played the Lost Rooms recently and it references gameplay that involves hunting a monster.
+- Lost Rooms:
+    - References hunting monsters in the backrooms.
 
 ## Symbols
 

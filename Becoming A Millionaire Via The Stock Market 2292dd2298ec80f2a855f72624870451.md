@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: November 27, 2025 11:21 PM
+Last Edited: December 12, 2025 5:56 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -17,7 +17,8 @@ I was seated at a computer in an office and due to being proficient at trading s
 
 ## Influences
 
-- At the time I was curious about investing in the stock market.
+- Personal Experiences:
+    - I was curious about investing in the stock market.
 
 ## Symbols
 

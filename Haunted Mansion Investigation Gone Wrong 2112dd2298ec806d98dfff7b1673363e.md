@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 11/06/2025
-Last Edited: December 4, 2025 11:05 PM
+Last Edited: December 12, 2025 1:30 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Mansion
 Characters: Cats, Ghosts
+Influences: Personal Experiences
 
 # Description
 
@@ -29,7 +30,8 @@ As the keys started to play by themselves, they repeatedly moved the kittens paw
 
 ## Influences
 
-- Coco, my cat, sometimes doesn’t mind being touched and usually doesn’t react when her paw is moved from under a blanket.
+- Personal Experiences:
+    - When Coco, my cat, is laying on a blanket she doesn’t react when I move her paws from beneath it.
 
 ## Symbols
 

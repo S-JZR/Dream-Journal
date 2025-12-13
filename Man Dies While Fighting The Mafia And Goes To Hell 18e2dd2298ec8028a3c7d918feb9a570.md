@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 15/01/2025
-Last Edited: November 29, 2025 7:17 PM
+Last Edited: December 13, 2025 1:26 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Surprise
@@ -22,7 +22,8 @@ Upon arriving at the next train station the train broke down, so he stealthily h
 
 ## Influences
 
-- I used to play Team Fortress 2 all the time and Saxton Hale is a character in it.
+- Team Fortress 2:
+    - References Saxton Hale.
 
 ## Symbols
 

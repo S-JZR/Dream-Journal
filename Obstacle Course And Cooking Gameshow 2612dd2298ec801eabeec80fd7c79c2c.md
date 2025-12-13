@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2016
-Last Edited: December 7, 2025 9:59 PM
+Last Edited: December 12, 2025 6:36 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -18,7 +18,8 @@ I was one of many contestants on a gameshow that involved racing to cook a dish 
 
 ## Influences
 
-- I used to watch Total Wipeout on TV sometimes after secondary school.
+- Total Wipeout:
+    - Likely references the creative obstacle courses.
 
 ## Symbols
 

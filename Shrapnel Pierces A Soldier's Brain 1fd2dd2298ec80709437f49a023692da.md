@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2016
-Last Edited: December 2, 2025 6:36 PM
+Last Edited: December 12, 2025 8:20 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,11 +18,13 @@ A timid male soldier was cowering among crates in a small shed missing its back 
 
 ## Influences
 
-- We were learning about WW2 in secondary school at the time. I remember my teacher discussing how soldiers were badly wounded from artillery shrapnel in beach landings that injured their bodies and faces.
+- Personal Experiences:
+    - I was learning about WW2 in secondary school and the teacher discussed how soldiers were badly wounded by artillery shrapnel in beach landings that injured their bodies and faces.
 
 ## Symbols
 
-- Shrapnel: the fear of being easily injured and killed in war.
+- Shrapnel:
+    - The fear of being easily injured and killed in war.
 
 ## Lessons
 

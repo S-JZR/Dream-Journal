@@ -2,12 +2,13 @@
 
 Favourite: Yes
 Date Created: 20/02/2025
-Last Edited: December 6, 2025 2:36 AM
+Last Edited: December 13, 2025 6:45 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: City, Hall, Sewers
 Characters: Family, Misc People
+Influences: Online Videos
 
 # Description
 
@@ -17,11 +18,13 @@ I was exploring the sewers with my family when we discovered a staircase illumin
 
 ## Influences
 
-- I watched an online video where someone claimed that an individual was a paid protestor which is an idea I’ve never considered before.
+- Online Videos:
+    - References someone claiming that an individual was a paid protestor which is something I’ve never heard of before.
 
 ## Symbols
 
-- Sewers: exploring things hidden from the light.
+- Sewers:
+    - Exploring things hidden from the light.
 
 ## Lessons
 

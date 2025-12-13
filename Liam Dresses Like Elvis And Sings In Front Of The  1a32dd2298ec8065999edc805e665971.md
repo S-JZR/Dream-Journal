@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 07/02/2025
-Last Edited: December 8, 2025 12:23 AM
+Last Edited: December 13, 2025 1:36 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -18,7 +18,8 @@ I was one of many students moving into the hall at my secondary school for a spe
 
 ## Influences
 
-- News: Kamilla Harris invited Beyoncé for a celebrity endorsement and promised she would sing but it didn’t happen and participants were upset: [https://www.usatoday.com/story/news/politics/elections/2024/10/25/beyonce-kamala-harris-kelly-rowland-tina-knowles/75848099007/](https://www.usatoday.com/story/news/politics/elections/2024/10/25/beyonce-kamala-harris-kelly-rowland-tina-knowles/75848099007/).
+- News:
+    - Kamilla Harris invited Beyoncé for a celebrity endorsement and it was rumoured she would perform but didn’t and guests got upset: [https://www.yahoo.com/entertainment/kamala-harris-mocked-beyonc-fails-200958782.html](https://www.yahoo.com/entertainment/kamala-harris-mocked-beyonc-fails-200958782.html)
 
 ## Symbols
 

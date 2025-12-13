@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2016
-Last Edited: December 5, 2025 4:29 PM
+Last Edited: December 12, 2025 8:22 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Embarrassment
@@ -26,11 +26,13 @@ I was one of many naked peopled standing in a dark room shoulder to shoulder aro
 
 ## Influences
 
-- I think we were learning about sexual education in secondary school at the time.
+- Personal Experiences:
+    - I think we were learning about sexual education in secondary school.
 
 ## Symbols
 
-- Nudity: the fear of being naked in public or discussing sex.
+- Nudity:
+    - Feeling vulnerable and uncomfortable discussing sex.
 
 ## Lessons
 

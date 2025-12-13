@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/01/2020
-Last Edited: December 5, 2025 4:56 PM
+Last Edited: December 12, 2025 8:47 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -21,8 +21,9 @@ I was the captain of a Roman galley, navigating around a mountain along the coas
 
 ## Symbols
 
-- Rocks: difficulty and danger.
+- Rocks:
+    - Difficult life experiences.
 
 ## Lessons
 
-- Everyone will face difficult situations at some point in their life.
+- Some outcomes are beyond our control.

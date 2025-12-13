@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 02/09/2024
-Last Edited: December 6, 2025 1:45 AM
+Last Edited: December 13, 2025 12:53 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Hotel
 Characters: Misc People, Statue Creature, Vine Creature
-Influences: Doors (2021) (Roblox), Lost Rooms (2022) (Roblox)
+Influences: Doors (2021) (Roblox), Lost Rooms (2022) (Roblox), Skibidi Toilet (2023)
 
 # Description
 
@@ -22,9 +22,13 @@ Half of the room opened to reveal a giant guru statue monster seated in a large 
 
 ## Influences
 
-- Saying Skibidi is a reference to the Skibidi Toilet trend that was popular at the time [https://en.wikipedia.org/wiki/Skibidi_Toilet](https://en.wikipedia.org/wiki/Skibidi_Toilet).
-- I played the Lost Rooms recently which references fighting monsters in the backrooms who come out at night. I craft the watch early to know when it will change to night.
-- I played Doors recently which references surviving monsters in a hotel.
+- Skibidi Toilet:
+    - References the Skibidi Toilet trend that was popular: [https://en.wikipedia.org/wiki/Skibidi_Toilet](https://en.wikipedia.org/wiki/Skibidi_Toilet).
+- Lost Rooms:
+    - References fighting monsters in the backrooms who come out at night.
+    - I craft the watch early to know when it will change to night.
+- Doors:
+    - References surviving monsters in a hotel.
 
 ## Symbols
 
@@ -33,4 +37,4 @@ Half of the room opened to reveal a giant guru statue monster seated in a large 
 ## Lessons
 
 - If you can’t defeat a threat then divert it away.
-- Don’t stay silent during debates because it invites negative assumptions.
+- Don’t stay silent during debates because it invites negative assumptions about you.

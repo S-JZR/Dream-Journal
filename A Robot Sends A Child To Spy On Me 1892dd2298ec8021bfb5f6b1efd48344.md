@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 16/12/2024
-Last Edited: December 4, 2025 6:14 PM
+Last Edited: December 13, 2025 6:33 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Home
 Characters: Family, Misc People, Robots
+Influences: News, Online Videos
 
 # Description
 
@@ -19,13 +20,16 @@ In the afternoon, a seemingly innocent young girl dressed in pink clothes with g
 
 ## Influences
 
-- I have seen online videos of Ameca interacting with people a while ago.
-- I have heard stories online of children being exploited to beg for money on behalf of others to elicit sympathy.
+- Online Videos:
+    - References Ameca interacting with people.
+- News:
+    - Likely references stories of children exploited for street begging on behalf of others.
 
 ## Symbols
 
-- Robot: the subconscious fear of humanlike robots.
+- Robot:
+    - The subconscious fear of humanlike robots.
 
 ## Lessons
 
-- Innocent people can be used as a front for corrupt people.
+- Corrupt people can use innocent people as a front.

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 29/05/2025
-Last Edited: December 7, 2025 6:18 PM
+Last Edited: December 12, 2025 1:21 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -24,8 +24,8 @@ As everyone boarded the bus again, it started descended the car park. However, h
 
 ## Influences
 
-- My mum constantly reminds us to check that we have everything before leaving places.
-- I’m squeamish about seeing the inside of body parts.
+- Personal Experiences:
+    - I’m squeamish about seeing the inside of body parts.
 
 ## Symbols
 

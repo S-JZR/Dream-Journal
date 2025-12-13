@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 29/11/2023
-Last Edited: December 5, 2025 7:49 PM
+Last Edited: December 12, 2025 10:14 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -32,7 +32,8 @@ Returning to the ship at midnight, the central lantern illuminated the space as 
 
 ## Influences
 
-- I was watching online gameplay of Lethal Company with lots of different types of monsters and you can purchase decorations for the cargo ship.
+- Lethal Company:
+    - References various types of monsters and purchasing decorations for the cargo ship.
 
 ## Symbols
 
@@ -40,4 +41,4 @@ Returning to the ship at midnight, the central lantern illuminated the space as 
 
 ## Lessons
 
-- Weigh risks vs rewards to avoid unnecessary harm.
+- Weigh risks vs rewards.

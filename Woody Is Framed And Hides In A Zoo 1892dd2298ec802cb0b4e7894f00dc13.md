@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 05/01/2024
-Last Edited: December 8, 2025 12:01 AM
+Last Edited: December 11, 2025 6:15 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Zoo
 Characters: Mrs Tweedy, Police, Woody
+Influences: Chicken Run (2000)
 
 # Description
 
@@ -17,12 +18,15 @@ I was Woody from Toy Story who was framed by Mrs Tweedy from Chicken Run and eva
 
 ## Influences
 
-- I have watched Chicken Run in the past and Mrs Tweedy is a shady controlling villain.
-- I have watched Toy Story in the past and Woody runs by flailing his body parts around.
+- Chicken Run:
+    - References Mrs Tweedy.
+- Toy Story:
+    - References Woody.
 
 ## Symbols
 
-- Framed: the fear of being falsely accused.
+- Framed:
+    - The fear of being falsely accused.
 
 ## Lessons
 

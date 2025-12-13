@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2008
-Last Edited: December 5, 2025 2:44 AM
+Last Edited: December 12, 2025 5:47 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -12,13 +12,14 @@ Influences: Personal Experiences
 
 # Description
 
-I was seated at my desk in my grade two classroom when Mrs Wardle, the teacher, assigned a homework task to understand the cycle of how mud is formed by rain.
+I was seated at my desk in my grade two classroom in my primary school when Mrs Wardle, the teacher, assigned a homework task to understand the cycle of how mud is formed by rain.
 
 # Interpretations
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - We were learning about the environment in class.
 
 ## Symbols
 
@@ -30,4 +31,4 @@ I was seated at my desk in my grade two classroom when Mrs Wardle, the teacher, 
 
 # Post Dream
 
-At the time were learning about the environment in class and I wasn’t sure whether the dream was real or not so I ask my mother before school to help me photocopy a scientific diagram of the rain cycle from our old collection of encyclopedias. However, when I showed it to Mrs Wardle, my teacher, she explained that the task was never assigned and I told her how the dream tricked me.
+- I wasn’t certain whether the dream was real so I asked my mother to help me photocopy a scientific diagram of the rain cycle from our old collection of encyclopedias before school. However, when I showed it to Mrs Wardle she explained that the task was never assigned and I told her how the dream tricked me.

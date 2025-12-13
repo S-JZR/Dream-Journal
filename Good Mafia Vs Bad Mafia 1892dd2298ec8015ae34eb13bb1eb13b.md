@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/12/2024
-Last Edited: December 6, 2025 2:02 AM
+Last Edited: December 13, 2025 1:08 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -21,7 +21,8 @@ I was one of many mafia members wearing black jackets who called themselves "the
 
 ## Symbols
 
-- Good mafia: the desire to stop evil before it harms anyone.
+- Good Mafia:
+    - The desire to stop evil before it harms anyone.
 
 ## Lessons
 

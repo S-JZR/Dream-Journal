@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 04/02/2025
-Last Edited: November 27, 2025 11:28 PM
+Last Edited: December 13, 2025 1:30 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -21,7 +21,8 @@ I was walking down a dirt path with some shrubbery on both sides, between suburb
 
 ## Symbols
 
-- Invasion: the fear of being helpless and war breaking out.
+- Invasion:
+    - The fear of going to war.
 
 ## Lessons
 

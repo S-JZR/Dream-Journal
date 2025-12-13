@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/09/2023
-Last Edited: December 5, 2025 5:30 PM
+Last Edited: December 12, 2025 9:49 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -20,7 +20,8 @@ I was one of many actors portraying scientists in a burger king commercial where
 
 ## Influences
 
-- I saw a Vanish Napisan commercial where scientists in lab coats were testing various cleaning products in a line of washing machines to show that Napisan was the best.
+- Commercials:
+    - References a Vanish Napisan commercial where scientists tested various cleaning products in a line of washing machines to show that Napisan was the best.
 
 ## Symbols
 
@@ -28,4 +29,4 @@ I was one of many actors portraying scientists in a burger king commercial where
 
 ## Lessons
 
-- Challenge assumptions and verify details early to prevent costly fixes later.
+- Verify details early to prevent costly fixes later.

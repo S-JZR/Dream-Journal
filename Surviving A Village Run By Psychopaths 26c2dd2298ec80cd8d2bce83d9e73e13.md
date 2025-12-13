@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 12/09/2025
-Last Edited: December 5, 2025 2:13 AM
+Last Edited: December 12, 2025 4:06 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -38,10 +38,11 @@ I repeated the scenario and immediately got the boy to help me board everything 
 
 ## Influences
 
-- 99 Nights In The Forest: probably influenced by seeing a wendigo in the thumbnail standing on two legs with long claws.
+- 99 Nights In The Forest:
+    - Likely references seeing a wendigo in the thumbnail standing on two legs with long claws.
 - The Outlast Trials:
-    - A poor individual enlists into a corrupt government program that experiments on them.
-    - Various psychopaths are obstacles in different trials.
+    - References a poor individual undergoing government experimentation.
+    - References various psychopaths as obstacles in different trials.
 
 ## Symbols
 

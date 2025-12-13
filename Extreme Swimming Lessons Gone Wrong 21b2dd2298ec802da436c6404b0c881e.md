@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/06/2025
-Last Edited: December 6, 2025 4:17 AM
+Last Edited: December 13, 2025 3:41 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -29,15 +29,19 @@ During the second activity everyone was tasked with swimming across the pool and
 
 ## Influences
 
-- I had a fear of swimming in primary school due to multiple bad experiences.
+- Personal Experiences:
+    - I had a fear of swimming in primary school due to multiple bad experiences.
 
 ## Symbols
 
-- Darkness/baby crocodile: fears and difficult challenges requiring discipline to overcome.
-- Hovercraft: shortcuts and reliance on AI.
-- Warning: the fear of not having the skills necessary for a job.
+- Darkness/Baby Crocodile:
+    - Fears and difficult challenges requiring discipline to overcome.
+- Hovercraft:
+    - Shortcuts with AI.
+- Warning:
+    - The fear of not having the skills necessary for a job.
 
 ## Lessons
 
-- True growth requires facing difficult challenges.
+- No pain, no gain.
 - Shortcuts and reliance on AI may work temporarily but will backfire long-term.

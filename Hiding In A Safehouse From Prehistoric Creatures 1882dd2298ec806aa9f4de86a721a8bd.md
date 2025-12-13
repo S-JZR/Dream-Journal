@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 01/01/2021
-Last Edited: December 5, 2025 5:16 PM
+Last Edited: December 13, 2025 6:49 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: City
 Characters: Arthropleura, Misc People, Velociraptor
-Influences: A Quiet Place (2018), Christian Bible, Online Videos
+Influences: A Quiet Place (2018), Online Videos
 
 # Description
 
@@ -20,13 +20,15 @@ I was standing in a safehouse connected to an underground carpark with other sur
 
 ## Influences
 
-- A Quiet Place: monsters attack any noise source.
-- I have always thought that animals look creepy on night vision footage.
-- I hear Christian teachings all the time and it’s possibly influenced by John 3:20.
+- A Quiet Place:
+    - References the Death Angels that attack any noise source.
+- Online Videos:
+    - Likely references night vision videos.
 
 ## Symbols
 
-- Prehistoric creatures: the old carnal nature of humanity.
+- Velociraptor:
+    - Feeling creeped out by animals on night vision.
 
 ## Lessons
 

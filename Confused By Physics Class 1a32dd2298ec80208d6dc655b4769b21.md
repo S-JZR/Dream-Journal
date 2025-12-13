@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/04/2024
-Last Edited: December 5, 2025 9:56 PM
+Last Edited: December 12, 2025 10:51 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -18,7 +18,8 @@ I was seated in physics class at my secondary school next to Patrick, a top stud
 
 ## Influences
 
-- I used to struggle a lot in physics class at secondary school because I didn’t study enough.
+- Personal Experiences:
+    - I used to struggle a lot in physics class because I didn’t study enough.
 
 ## Symbols
 
@@ -26,4 +27,4 @@ I was seated in physics class at my secondary school next to Patrick, a top stud
 
 ## Lessons
 
-- N/A.
+- Studying is essential for understanding any subject.

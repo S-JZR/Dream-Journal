@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 02/11/2020
-Last Edited: December 7, 2025 1:33 AM
+Last Edited: December 12, 2025 8:58 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Happy
@@ -34,12 +34,15 @@ I travelled back in time and returned to the electrical room where I heard the v
 
 ## Influences
 
-- I used to watch SpongeBob SquarePants a lot as a child and the aliens probably reference Baby Prunes who is bad-tempered and going deaf [https://spongebob.fandom.com/wiki/Baby_Prunes](https://spongebob.fandom.com/wiki/Baby_Prunes). They also probably reference the video game trope of shooting evil monsters.
+- SpongeBob SquarePants:
+    - Likely references Baby Prunes who is bad-tempered and going deaf [https://spongebob.fandom.com/wiki/Baby_Prunes](https://spongebob.fandom.com/wiki/Baby_Prunes).
+- Likely references the trope that aliens are evil and shooting monsters in videogames.
 
 ## Symbols
 
-- Fighting terrorists: feeling angry at injustice and desiring to stop it before anyone is harmed.
-- Terror attack: the fear of experiencing a tragedy in a previously safe location.
+- Terrorists:
+    - Desiring to stop injustice before anyone is harmed.
+    - The fear of experiencing a tragedy in a familiar location.
 
 ## Lessons
 

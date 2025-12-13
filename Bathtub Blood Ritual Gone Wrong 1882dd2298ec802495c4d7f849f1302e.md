@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: December 7, 2025 2:46 AM
+Last Edited: December 12, 2025 6:25 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -25,9 +25,9 @@ The bloody water bubbled as a female human hand emerged, pulling me closer as a 
 
 ## Influences
 
-- I’ve heard about Freemasonry:
-    - The obelisk and reflection in water represents “as above, so below”.
-    - There is an oath of secrecy with a symbolic death penalty.
+- Freemasonry:
+    - References the obelisk and reflection in water that represents “as above, so below”.
+    - I’ve heard there is an oath of secrecy with a symbolic death penalty.
 
 ## Symbols
 

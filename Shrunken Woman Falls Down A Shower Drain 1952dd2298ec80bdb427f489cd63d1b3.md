@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2005
-Last Edited: December 5, 2025 2:38 AM
+Last Edited: December 10, 2025 1:00 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -28,11 +28,13 @@ A nude woman was taking a shower in a white alcove bathtub with white curtains w
 
 ## Influences
 
-- I think I remember seeing snippets of the main character in The Incredible Shrinking Man fighting off a giant spider as a child when someone was flicking through TV channels which made me feel unsettled and worried about his safety.
+- The Incredible Shrinking Man:
+    - I think I remember seeing snippets of the main character fighting off a giant spider as a child when someone was flicking through TV channels which made me feel unsettled and worried about his safety.
 
 ## Symbols
 
-- Shrinking: the fear of being helpless.
+- Shrinking:
+    - The fear of being helpless.
 
 ## Lessons
 

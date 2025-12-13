@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 24/04/2024
-Last Edited: December 7, 2025 11:03 PM
+Last Edited: December 13, 2025 12:31 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
 Locations: City, Harbour, Ocean, TV Studio
 Characters: Family, Gordon Ramsay, Misc People, Pilots
+Influences: Hell's Kitchen (2005), News
 
 # Description
 
@@ -29,12 +30,15 @@ A few other individuals also wanted to board, including Gordan Ramsay, who swore
 
 ## Influences
 
-- I recently heard about the Willy's Chocolate Experience scam [https://en.wikipedia.org/wiki/Willy's_Chocolate_Experience](https://en.wikipedia.org/wiki/Willy%27s_Chocolate_Experience).
-- I’ve watched many online snippets of Gordan Ramsay in Hell’s Kitchen and Hotel Nightmares.
+- News:
+    - References the Willy's Chocolate Experience scam: [https://en.wikipedia.org/wiki/Willy's_Chocolate_Experience](https://en.wikipedia.org/wiki/Willy%27s_Chocolate_Experience).
+- Hell’s Kitchen:
+    - References Gordan Ramsay swearing constantly.
 
 ## Symbols
 
-- Ski lift: fear of heights.
+- Ski Lift:
+    - The fear of heights.
 
 ## Lessons
 

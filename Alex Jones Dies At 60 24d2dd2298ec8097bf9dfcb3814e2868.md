@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 01/08/2025
-Last Edited: December 6, 2025 4:28 AM
+Last Edited: December 13, 2025 6:56 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
 Locations: Home
 Characters: Alex Jones, News Reporters
+Influences: Online Videos
 
 # Description
 
@@ -17,11 +18,13 @@ I was seated on the sofa in the lounge room watching the news on TV when a male 
 
 ## Influences
 
-- I have barely watched Alex Jones and only seen him appearing on other podcasts and coverage of the recent Sandy Hook defamation lawsuit.
+- Online Videos:
+    - References his recent involvement in the Sandy Hook defamation lawsuit: [https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting_conspiracy_theories](https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting_conspiracy_theories).
 
 ## Symbols
 
-- Death: the subconscious fear that Alex Jones might die young due to his drinking and smoking habits.
+- Death:
+    - The subconscious fear that he might die young due to his drinking and smoking habits.
 
 ## Lessons
 

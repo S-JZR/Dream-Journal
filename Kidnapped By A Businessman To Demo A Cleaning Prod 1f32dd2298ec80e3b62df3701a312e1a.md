@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/01/2020
-Last Edited: December 3, 2025 12:09 AM
+Last Edited: December 11, 2025 3:31 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -21,7 +21,8 @@ I was walking in the Alps with two strangers when we were kidnapped by a busines
 
 ## Symbols
 
-- Kidnapped: the fear of being held against my will.
+- Kidnapped:
+    - The fear of being held against my will.
 
 ## Lessons
 

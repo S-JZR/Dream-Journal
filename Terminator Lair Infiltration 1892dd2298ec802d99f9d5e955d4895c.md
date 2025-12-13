@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 03/01/2024
-Last Edited: December 8, 2025 12:49 AM
+Last Edited: December 12, 2025 10:18 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Facility, Suburb
 Characters: Friends (Fake), Misc People, Robots
-Influences: Personal Thoughts, Siren Head (2018), Terminator (1984)
+Influences: Siren Head (2018), Terminator (1984)
 
 # Description
 
@@ -22,13 +22,15 @@ Upon reaching the terminator lair, we encountered a man who had successfully rep
 
 ## Influences
 
-- I watched online gameplay of fan-made Siren video games which references the objects being sentient.
-- I have watched the Terminator films in the past and it references reprogramming a Terminator into an ally.
-- I fear the existential risks posed by AI and robots.
+- Siren Head:
+    - References a siren being a monster.
+- Terminator:
+    - References reprogramming a Terminator into an ally.
 
 ## Symbols
 
-- N/A.
+- Robots:
+    - I fear the existential risks posed by AI and robots.
 
 ## Lessons
 

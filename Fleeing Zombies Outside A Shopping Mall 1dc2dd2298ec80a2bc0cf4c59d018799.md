@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/04/2025
-Last Edited: December 4, 2025 10:01 PM
+Last Edited: December 13, 2025 2:57 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -23,8 +23,10 @@ A horde of zombies began roaming across the car park from the right side, so I f
 
 ## Symbols
 
-- Sewers: exploring things hidden from the light.
-- Calling for help: the fear of not being prepared for an emergency.
+- Sewers:
+    - Exploring things hidden from the light.
+- Calling For Help:
+    - The fear of not being prepared for an emergency.
 
 ## Lessons
 

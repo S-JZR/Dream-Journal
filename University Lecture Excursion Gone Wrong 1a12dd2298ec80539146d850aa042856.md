@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 19/02/2025
-Last Edited: December 6, 2025 2:30 AM
+Last Edited: December 11, 2025 11:24 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -34,13 +34,15 @@ After arriving at a university auditorium and taking a seat, a few student volun
 
 ## Influences
 
-- I often feel like university is a waste of time as lectures and workshops, among other things, tend to be mediocre.
-- The time spend to attend university in-person feels unjustified given its educational value.
+- Personal Thoughts:
+    - I often feel like university is a waste of time.
 
 ## Symbols
 
-- Shuffling feet: the desire to avoid harming animals and insects.
-- Mrs Brown: the feeling that people don’t challenge university enough or emphasize the wrong things as they accept everything that is handed to them.
+- Shuffling Feet:
+    - The desire to avoid harming animals and insects.
+- Mrs Brown:
+    - The feeling that people are too complacent with university.
 
 ## Lessons
 

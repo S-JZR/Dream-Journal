@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 28/02/2025
-Last Edited: December 4, 2025 7:13 PM
+Last Edited: December 13, 2025 2:30 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -20,7 +20,8 @@ For some reason, halfway through the tour, those with fake gloves climbed onto a
 
 ## Influences
 
-- During secondary school I always brought spare tissues and sometimes students asked me for some.
+- Personal Experiences:
+    - I always had spare tissues in secondary school and sometimes students asked me for some.
 
 ## Symbols
 

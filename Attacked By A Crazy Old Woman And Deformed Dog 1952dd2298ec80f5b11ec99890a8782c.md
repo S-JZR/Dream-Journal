@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 08/02/2025
-Last Edited: December 6, 2025 2:19 AM
+Last Edited: December 11, 2025 11:12 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -29,4 +29,4 @@ While crying out for my brother to help he opened the wooden door to look throug
 
 ## Lessons
 
-- Beware strangers who pretend to know you and your connections.
+- Beware strangers who pretend to know you and your friends.

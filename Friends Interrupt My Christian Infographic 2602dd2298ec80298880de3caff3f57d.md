@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 29/08/2025
-Last Edited: December 5, 2025 2:06 AM
+Last Edited: December 13, 2025 4:58 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -31,9 +31,12 @@ As night fell, we stood in my backyard bored doing nothing when a young naïve w
 
 ## Symbols
 
-- Interrupted: I feel like I’m constantly being torn away from deeper thinking.
-- Naïve woman: distractions from the media and carnal desires.
-- Mother: I have a practical view of the world.
+- Interrupted:
+    - I feel like I’m constantly being torn away from deeper thinking.
+- Naïve Woman:
+    - Distractions.
+- Mother:
+    - I have a practical view of the world.
 
 ## Lessons
 

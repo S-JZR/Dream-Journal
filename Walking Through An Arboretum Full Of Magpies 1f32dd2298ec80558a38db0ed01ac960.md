@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/01/2020
-Last Edited: December 3, 2025 12:07 AM
+Last Edited: December 12, 2025 8:45 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -21,7 +21,8 @@ I was walking at night through a circular illuminated arboretum enclosed by a br
 
 ## Symbols
 
-- Magpies: the fear of things going wrong or what others think.
+- Magpies:
+    - The fear of things going wrong.
 
 ## Lessons
 

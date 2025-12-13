@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 19/04/2024
-Last Edited: December 5, 2025 8:05 PM
+Last Edited: December 12, 2025 11:02 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -17,12 +17,14 @@ I was sorting various cluttered objects on the carpet in my room in my unit when
 
 ## Influences
 
-- I fear losing our old family photos because we haven’t digitized them.
+- Personal Experiences:
+    - I was digitizing old drawings.
 
 ## Symbols
 
-- Toys/Photos: old sentimental items.
+- Toys/Photos:
+    - The fear of losing old family photos.
 
 ## Lessons
 
-- Digitize old photos to preserve them permanently.
+- Digitize old photos to permanently preserve them.

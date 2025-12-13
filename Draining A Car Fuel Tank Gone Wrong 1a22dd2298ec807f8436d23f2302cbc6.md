@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 28/01/2021
-Last Edited: December 7, 2025 4:38 PM
+Last Edited: December 12, 2025 9:25 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,7 +20,8 @@ Rising from the floor, I rushed upstairs, urging my family to evacuate. As we ex
 
 ## Influences
 
-- I used to watch MythBusters all the time and it references the safety protocol of waiting five minutes to see if an explosive that failed to trigger will detonate.
+- MythBusters:
+    - References waiting five minutes to see if a failed explosive will self-detonate.
 
 ## Symbols
 

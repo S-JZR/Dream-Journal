@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: December 2, 2025 10:48 PM
+Last Edited: December 12, 2025 8:30 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -23,7 +23,7 @@ I forgot the rest of the dream but it involved a werewolf coming down to Earth.
 
 ## Symbols
 
-- UFOs: the fear of the unknown.
+- N/A.
 
 ## Lessons
 

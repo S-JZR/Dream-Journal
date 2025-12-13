@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 28/04/2025
-Last Edited: December 6, 2025 3:14 AM
+Last Edited: December 13, 2025 4:52 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,16 +20,19 @@ Students who passed proceeded into a dark small freezer room with tall metal rac
 
 ## Influences
 
-- Hells Kitchen: I recently watched a few online clips of Hell’s Kitchen and the chef likely references Gordan Ramsay enforcing strict standards and yelling at chefs to leave.
+- Hell’s Kitchen:
+    - References Gordan Ramsay being strict and yelling at chefs to leave.
 
 ## Symbols
 
 - Skiing:
-    - The fear of not growing due to being afraid to waste time and avoiding risks.
-    - I tend to avoid difficult tasks by focusing on other things.
-- Doughnuts: the joy of success.
-- Cacti: the fear of failure.
-- Expelled: the fear of being unqualified to get a job.
+    - Avoiding growth by being afraid to waste time and take risks.
+- Doughnuts:
+    - The joy of success.
+- Cacti:
+    - The fear of failure.
+- Expelled:
+    - The fear of being unqualified to get a job.
 
 ## Lessons
 

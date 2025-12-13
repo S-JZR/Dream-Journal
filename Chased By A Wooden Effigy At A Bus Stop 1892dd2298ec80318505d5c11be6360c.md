@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/03/2024
-Last Edited: December 7, 2025 2:59 AM
+Last Edited: December 12, 2025 10:38 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -25,4 +25,4 @@ I was waiting at a bus stop in a suburb at night with an adult man when a wooden
 
 ## Lessons
 
-- Act early to avoid potential dangers.
+- Recognize danger early.

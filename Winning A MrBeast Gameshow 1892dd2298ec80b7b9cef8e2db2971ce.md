@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 15/06/2024
-Last Edited: December 7, 2025 5:31 PM
+Last Edited: December 13, 2025 12:35 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
 Locations: Virtual/Videogame
 Characters: Misc People, MrBeast
-Influences: Online Videos
+Influences: Online Videos, Roblox (2006)
 
 # Description
 
@@ -22,11 +22,15 @@ In challenge two the remaining players played prop hunt and disguised themselves
 
 ## Influences
 
-- I used to play Roblox a lot.
+- Online Videos:
+    - References MrBeast hosting extreme hide and seek games.
+- Roblox:
+    - References old Roblox games with studs shown.
 
 ## Symbols
 
-- MrBeast: probably the subconscious desire to be in a MrBeast video.
+- MrBeast:
+    - Likely the subconscious desire to be in a MrBeast video.
 
 ## Lessons
 
