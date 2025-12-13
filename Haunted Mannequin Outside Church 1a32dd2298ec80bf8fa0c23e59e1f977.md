@@ -1,0 +1,47 @@
+# Haunted Mannequin Outside Church
+
+Favourite: No
+Date Created: 25/01/2020
+Last Edited: December 14, 2025 2:14 AM
+Type: Nightmare
+Age Rating: SFW
+Main Emotion: Fear
+Locations: Church
+Characters: Family, Mannequin Creature, Misc People, Pastors
+
+# Description
+
+My family drove to a church service in the city during Christmas time. After parking beside the sidewalk, we descended a courtyard staircase with wide steps. To the right was a narrow alleyway with various restaurants built into the wall, followed by the church at the end.
+
+As everyone sauntered into the church, I locked eyes with a white mannequin at the entrance, which nervously turned its head away in one swift motion. Attempting to catch it in the act again, I crept out from the entryway and saw its right eye peering from the side of its head, checking to see if I was still there.
+
+Feeling unsettled, I awkwardly trudged into the church amphitheatre to the furthest aisle on the left, unaware that those seeking deliverance were asked to approach the stage. As the aisles filled, I didn't want to disturb the line by cutting through, so I joined it, seeing no downside.
+
+A female preacher descended from the stage with a microphone, approaching everyone individually. Everyone had a correct interpretation except me.
+
+> **Preacher**: After receiving a divine interpterion answers with "correct" or "incorrect”.
+**Preacher**: You were born in the United Kingdom.
+**Me**: *cringe* Actually I was born in Australia.
+**Preacher**: You act like you’ve seen a ghost.
+**Me**: Yes I have.
+**Audience**: *laughter*
+**Preacher**: Where did you see it and what did it look like?
+**Me**: [Recalls the experience].
+**Preacher**: That mannequin outside? It’s just an animatronic part of the Christmas display.
+> 
+
+After the service, I examined it, confirming that it cycled through a range of head motions, and I overlooked a Santa Claus animatronic pressed against the wall behind it.
+
+# Interpretations
+
+## Influences
+
+- N/A.
+
+## Symbols
+
+- N/A.
+
+## Lessons
+
+- N/A.
