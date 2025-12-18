@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/04/2025
-Last Edited: December 14, 2025 2:17 AM
+Last Edited: December 15, 2025 4:04 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -12,7 +12,7 @@ Influences: Online Videos
 
 # Description
 
-I was competing in a series of challenges on a Mr Beast gameshow for a prize of $5 million, but I was progressing further by sheer luck as the player count dwindled. While being filmed, I felt nervous about making a mistake or doing something that would made me seem foolish, so I remained quiet out of shyness.
+I was one of many contestants on a MrBeast gameshow competing in a series of challenges to win $5 million but I was progressing by sheer luck. While being filmed, I felt nervous about making a mistake or doing something that would make me seem foolish so I remained quiet out of shyness.
 
 In one challenge, everyone moved into a theatre and had to throw balls at the stage to knockdown small planes printed on thin wooden boards attached to a stick, moving behind a wooden board with a painted sky backdrop. Each plane could only be claimed by one player. After everyone thought all the planes had been hit they mingled on the stage talking to each other. However, one appeared later and stopped in the middle of the stage in front of someone. Nobody noticed it so I walked up and tapped it with the ball in my hand to secure my place as a winner.
 

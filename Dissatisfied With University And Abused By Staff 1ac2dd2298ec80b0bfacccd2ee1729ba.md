@@ -2,23 +2,73 @@
 
 Favourite: Yes
 Date Created: 04/03/2025
-Last Edited: December 14, 2025 1:01 AM
+Last Edited: December 18, 2025 1:55 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
 Locations: Arcade, Art Museum, Convenience Store, Fast-food Restaurant, Restaurant, Supermarket, University
-Characters: Dejan C, Fast Food Workers, Feminist, Misc People, Students, Teachers
+Characters: Cashiers, Dejan C, Fast Food Workers, Feminist, Misc People, Students, Teachers, Tom B
 Influences: News, Personal Experiences
 
 # Description
 
-I was seated in a university lecture room with various people, listening to a middle-aged female staff member give an orientation presentation in front of a projector. She acknowledges that government reports indicate that student performance has declined across schools and a record number are dropping out before finishing their degrees. However, the government was launching an initiative to address these issues. To build confidence, we were taken into an art museum to view two large dioramas about war built into the wall. The left displayed a forked trench leading to the horizon filled with hundreds of small faceless poseable artist mannequins in white cloth. The right displayed metal samurais standing around a gong with pagodas in the background. I endured an entire visual art degree while I was there, but during the capstone project, we were asked to design dioramas like the previous ones despite never being taught the skills. I was uncertain about how to proceed and felt like I was being scammed since I could have learned these skills elsewhere or online without incurring student loan debt. After the presentation, everyone went to a small convenience store to the side and lined up at the checkout as the staff member served everyone behind the counter. There was a bunch of rectangular lint chocolates with gold wrapping laid across the counter and she asked everyone whether they would like to raise money for charity by purchasing some.
+I was one of many students seated in a university lecture room listening to a middle-aged female staff member give an orientation presentation in front of a projector.
 
-The university hosted an art competition and invited various local and international students, including me. Dejan from school was there to help me. Most students created illuminated arcade machines. Other students created a modern art diorama with yellow walls overlaid with black square patches, symbolizing triumphing over danger. Female students complained about how unbearable it is to exist as a woman in a world threatened by issues like the gender wage gap. The international students, including Tom from school, had flown in by plane but were significantly delayed due to government restrictions caused by a recent cyclone passing by the coast. When they arrived, they used the little time left to make mediocre works like a Pac-Man icon on a black rug. They were upset about not being there but tried to stay positive, expressing gratitude for the chance to participate in such an event with amazing people.
+> **Woman**: Government reports indicate that student performance has declined across schools and a record number are dropping out before finishing their degrees.
+**Woman**: The government is launching an initiative to address these issues.
+> 
 
-While going through a supermarket checkout connected to a restaurant at the university, the male cashier-waiter asked me to take the orders of two customers sitting at wooden booths to the side. However, when returning, I messed up something with both, which upset the customers. He reprimanded me, showing the issue on holograms, and told me to take other orders. However, I stood up for myself and said that it was his job to be the waiter and I was there as a customer while walking off into the underground car park where my family was waiting by a car. As I was about to get in, I heard the waiter’s disgruntled voice approaching from behind as he verbally abused me about being unemployed. He questioned what I did with my time at home for 10 hours a day when I could be contributing to the university. He called me a slacker and told me I didn’t know what I was doing with my life.
+We visited an art museum to see large war dioramas built into the wall to build our confidence about the degree.
 
-Upon driving to a fast food restaurant resembling Subway, I walked behind the counter as staff let me check things out while they worked. However, the man from before also worked there and entered through the front door carrying a stainless steel tray of meatballs. Upon seeing me, he threw a tantrum by hurling a few at customers and pressing a button on a white wall-mounted phone behind the counter to set off the fire alarm. The manager confronted him to stop but merely stood beside him, issuing warnings and briefly holding his arms as he continued.
+- Left:
+    - Forked trench leading to the horizon.
+    - Hundreds of small faceless artist mannequins wearing white cloth standing in the trench.
+- Right:
+    - Metal samurais standing around a gong.
+    - Pagodas in the background.
+
+After instantly progressing through an entire visual art degree, I was asked in the capstone project to design a diorama despite never being taught the skills. I was uncertain about how to proceed and felt like I was being scammed since I could have learned these skills elsewhere or online without incurring student loan debt. When the presentation ended, everyone went to a small convenience store to the side and lined up at the checkout as the staff member served everyone. Many rectangular lint chocolates with gold wrapping were laid across the counter.
+
+> **Woman**: Would any of you like to buy some to raise money for charity?
+> 
+
+The university hosted an art competition and invited various local and international students, including me. Dejan, a friend from secondary school, was there to help me. The international students, including Tom from secondary school, flew in by plane but were delayed due to government restrictions from cyclone Alfred passing by the coast.
+
+- Most students created illuminated arcade machines.
+- Other students created a modern art diorama with yellow walls overlaid with black square patches, symbolizing triumphing over danger.
+- The international students created a mediocre Pac-Man icon on a black rug.
+
+> **International Students**: It’s annoying that we couldn’t be here sooner but we’re grateful for the chance to participate with such amazing people.
+> 
+
+> **Female Students**: As women it's unbearable to exist in a world oppressed by issues like the gender wage gap.
+> 
+
+I was walking through a supermarket checkout, connected to a restaurant at the university, run by a male cashier.
+
+> **Cashier**: Take the orders of those two customers sitting at wooden booths to the side.
+> 
+
+I messed up something which upset the customers and he brought up a hologram.
+
+> **Cashier**: As you can see, these are the details you formatted incorrectly.
+**Cashier**: Now go do the other orders.
+**Me**: It’s your job to be the waiter and I’m here as a customer.
+> 
+
+He was angry that I stood up for myself. While walking away into the underground carpark where my family was getting into my mum’s car I heard the cashier approaching from behind.
+
+> **Cashier**: You’re unemployed!
+**Cashier**: What do you do with your time at home for ten hours a day?
+**Cashier**: You could be contributing to the university!
+**Cashier**: You’re a slacker!
+**Cashier**: You don’t know what you’re doing with your life!
+> 
+
+After arriving at Subway, I walked behind the counter as staff let me look around while they worked. However, the previous cashier also worked there and entered through the front door carrying a stainless steel tray of meatballs. Upon seeing me, he threw a tantrum by hurling a few at customers and activated the fire alarm behind the counter. He walked towards the customers and yelled as the manager passively confronted him and briefly held his arms but he continued.
+
+> **Manager**: Stop!… Stop!… Stop!
+> 
 
 # Interpretations
 

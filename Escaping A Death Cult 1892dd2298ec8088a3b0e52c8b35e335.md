@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 04/04/2024
-Last Edited: December 14, 2025 2:16 AM
+Last Edited: December 15, 2025 3:32 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Abrahamic God, Family, Misc People, Police, Students, Teachers
 
 # Description
 
-Standing beside the front administration buildings of my secondary school with other fictional students who were from primary school, we argued about the existence of God as lighting suddenly flashed in the overcast sky when another boy asked the question. Treating it as a mere coincidence, he continued asking several other questions, only for lightning to consistently strike the ground by our feet, leaving him astonished and unable to comprehend it. Eventually, since God exclusively responded to him, he developed an elitist mentality, considering himself as a chosen messiah. He began assembling a death cult with nearby peers who readily joined after witnessing his strong divine connection.
+I was standing beside the front administration building of my secondary school with other students from primary school, arguing over religion. When a boy question how God could exist lighting flashed across the overcast sky. Treating it as a mere coincidence, he continued asking several other questions, only for lightning to consistently strike the ground by our feet, leaving him astonished and unable to comprehend it. Eventually, since God exclusively responded to him, he developed an elitist mentality, considering himself as a chosen messiah. He began assembling a death cult with nearby peers who readily joined after witnessing his strong divine connection.
 
 Feeling uncomfortable with the situation, many of us sought to escape by travelling along the bushwalk and footpath to the right of the school, but other cult members used intimidation to keep everyone confined. Desperate to find another means of escape, I rang my mother and relayed the situation as she promised to swiftly to pick me up. As many gathered in major parts of the school, I noticed a few hiding out in distant buildings, so I approached them. A multitude of police officers nearby proceeded to raid the area, searching our backpacks for prohibited items as we escaped.
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: December 13, 2025 9:17 PM
+Last Edited: December 14, 2025 4:54 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -12,7 +12,10 @@ Influences: Personal Experiences
 
 # Description
 
-I was in a black void in the afterlife, standing on a rectangular platform with a group of people. In front of it was a vertical obstacle course leading to heaven, comprising a series of levitating dark grey cubes spanning the height of an adult at various elevations. They rotated periodically and had glowing rainbow outlines. Everyone had the choice to have infinite free attempts for a standard afterlife experience or bet their limbs, which were removed after failing, for a more deluxe experience. Those who lost limbs had to continue with whatever remained and risked being trapped at the bottom forever.
+I was standing on a rectangular platform in a black void in the afterlife with other people in front of a vertical obstacle course leading to heaven comprising a series of levitating cubes. The cubes measured two metres on all sides, were dark grey, had glowing rainbow outlines, and rotated periodically. Everyone could freely swap between these choices:
+
+- Not bet their limbs for a standard afterlife experience with infinite attempts.
+- Bet their limbs for a premium afterlife experience with finite attempts, losing their limbs after failing and risking being trapped at the bottom forever if they couldn't climb.
 
 # Interpretations
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/01/2020
-Last Edited: December 13, 2025 9:18 PM
+Last Edited: December 14, 2025 5:02 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Happy
@@ -19,7 +19,7 @@ Characters: Family, Misc People, Rhiannon C
 
 # Description
 
-After the service at my church, Gateway Baptist Church, my mother explained that she had secured tickets for a family musical at another church later that day. Before leaving, I mischievously decided to amuse myself by attempting to startle those nearby using telekinesis to tidy up pamphlets on a table near the amphitheatre entrance, but the spectacle went unnoticed.
+I was standing in Gateway Baptist Church after the service finished when my mother explained that she had tickets for a family musical at another church later that day. Before leaving, I mischievously decided to amuse myself by attempting to startle those nearby using telekinesis to tidy up pamphlets on a table near the amphitheatre entrance, but the spectacle went unnoticed.
 
 On the drive with my dad, there were only three teenage girls and me in the back seat, one of whom was Rhiannon from secondary school. We briefly drove to an unknown location for the girls to meet friends. Upon returning, they discussed childhood toys like Bratz dolls. I remained silent, imagining a scenario where the girls acknowledged me, to which I exclaimed, "So you do remember me!"
 

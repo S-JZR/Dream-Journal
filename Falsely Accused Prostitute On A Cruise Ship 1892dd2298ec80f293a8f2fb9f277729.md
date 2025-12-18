@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 06/02/2024
-Last Edited: December 14, 2025 12:45 AM
+Last Edited: December 15, 2025 9:50 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Surprise
@@ -19,16 +19,21 @@ Characters: Misc People, Prostitute
 
 # Description
 
-While desperately searching for the bathroom on a cruise ship, I descended an elevator onto a lower side deck resembling a beach featuring:
+I was desperately looking for the bathroom on a cruise ship and descended an elevator onto a lower side deck resembling a beach:
 
+- Back-left:
+    - Pool.
 - Back:
-    - Pool in the left corner and deck chairs around circular tables with umbrellas.
+    - Circular tables with umbrellas and chairs.
+    - Deck chairs.
 - Centre:
-    - Line of hedges and a white wooden fence.
     - Giant flat plasma screen TV spanning two-thirds of the area.
-    - Various deck chairs  scattered in front of the TV.
+    - Hedges.
+    - White picket fence.
 - Floor:
-    - Metallic moving mechanism.
+    - Wooden deck.
+    - Fake grass.
+    - Moving metal mechanism.
 
 The floor shifted me in a U-shape from the entrance to in front of the plasma screen. Eventually, after watching an interactive display of the Grand Prix where people could bet on cars live, the system inevitably malfunctioned, reverting to only showing non-interactive channels. A male guest tampered with the control panel box, switching it to a YouTube video discussing the top 10 things wrong with Hawaii. One of the points raised was about a fictional infamous busty online influencer who solicits strangers with her adult content, then suddenly flashed her nude photos onscreen. Everyone gasped in disgust, wondering why such explicit content was shown uncensored. Trying to fix the issue, I went to the electrical power switches behind the TV and randomly flicked one, illuminating the deck with string lights. Eventually, a staff member approached the front, investigating the issue by accessing the terminal and restarting the TV, asking if we had tried turning it on and off again, but it had no effect.
 

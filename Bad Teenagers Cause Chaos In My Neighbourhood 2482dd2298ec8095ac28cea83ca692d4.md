@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 07/08/2025
-Last Edited: December 14, 2025 2:23 AM
+Last Edited: December 17, 2025 6:58 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: Pauline Hanson's Please Explain (2021), Personal Experiences
 
 # Description
 
-I was with my parents inside my unit when troublesome teenagers returned to disturb the peace by doing burnouts in the paddock and building a three storey fortress out of concrete T walls, scrap, and wood in the place of the new units. My parents and I went outside to investigate the commotion when the teenagers threw Molotov cocktails in the paddock and left of my garage beside the fortress to start fires that got the attention of all neighbours in the paddock who worked together to extinguish them. I turned on a tap beside my garage and connected a hose to extinguish fires and made it rain on plants and the wooden fence as a precaution to prevent future attacks. The teenagers claimed the government said they had no business being here so they defiantly started a store in the fortress to sell drinks for $3. My dad and I walked over to explore the fortress. I was afraid they would exit to confront us but he said they only emerge at specific times and handed me a scientific diagram of the sun and moon clock cycle.
+I was standing in my unit with my family when troublesome teenagers returned to disturb the peace by doing burnouts in the paddock and building a three storey fortress out of concrete T walls, scrap, and wood in the place of the new units. My parents and I went outside to investigate the commotion when the teenagers threw Molotov cocktails in the paddock and left of my garage beside the fortress to start fires that got the attention of all neighbours in the paddock who worked together to extinguish them. I turned on a tap beside my garage and connected a hose to extinguish fires and made it rain on plants and the wooden fence as a precaution to prevent future attacks. The teenagers claimed the government said they had no business being here so they defiantly started a store in the fortress to sell drinks for $3. My dad and I walked over to explore the fortress. I was afraid they would exit to confront us but he said they only emerge at specific times and handed me a scientific diagram of the sun and moon clock cycle.
 
 I was in my garage doing things with the door open when the teenagers where unaware of my presence and walked in talking to each other. I quickly exited through the back wooden door and turned right to follow the pathway, lined with wooden fences, from the back to the front of the units. I opened the Notion app on my phone and pressed a teleport button but there was a 5 second delay. A deaf woman walked around the corner and started me as she tried to communicate in sign language but I teleported inside my unit and she got confused.
 
@@ -33,3 +33,7 @@ I was in my garage with another man holding a phone and a black woman when I shu
 ## Lessons
 
 - N/A.
+
+# Post Dream
+
+- May have predicted a car being firebombed in the street near my unit complex about three months later. [Details are classified for now out of safety].

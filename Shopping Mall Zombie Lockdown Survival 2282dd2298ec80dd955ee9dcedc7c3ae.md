@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 03/07/2025
-Last Edited: December 14, 2025 12:03 AM
+Last Edited: December 15, 2025 4:49 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: Online Videos, Personal Experiences, The Thing (1982)
 
 # Description
 
-I was with a diverse group of people trapped in a shopping mall during a zombie outbreak. All entrances were sealed with corrugated metal doors. Food was running low and everyone was starting to get worried. A slightly open metal door at one entrance revealed a skybridge where an infected man, wearing only underwear, lay on his side, facing the opposite direction, subtly jolted uncontrollably, with scratches and a rash covering his back. A woman’s pale face peered through the bent section on the left side of the door. I stuck a pencil on her lip, prompting her to react as I pulled it away, leaving a small flake of her skin on the tip.
+I was one of many people trapped in a shopping mall during a zombie outbreak and all entrances were sealed with rolling corrugated metal doors. Food was running low and everyone was starting to get worried. A slightly open metal door at one entrance revealed a skybridge where an infected man, wearing only underwear, lay on his side, facing the opposite direction, subtly jolted uncontrollably, with scratches and a rash covering his back. A woman’s pale face peered through the bent section on the left side of the door. I stuck a pencil on her lip, prompting her to react as I pulled it away, leaving a small flake of her skin on the tip.
 
 After returning to a shop with a woman, I handed her the pencil, but she carelessly placed the tip in her mouth. I reprimanded her, warning that she could get infected and feared she might turn into a zombie later.
 

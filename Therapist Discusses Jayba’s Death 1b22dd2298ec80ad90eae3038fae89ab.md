@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 24/03/2017
-Last Edited: December 13, 2025 9:17 PM
+Last Edited: December 14, 2025 4:57 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-I was in a black void talking to the disembodied voice of an adult female therapist.
+I was in a black void, talking to the disembodied voice of a female therapist.
 
 > **Therapist**: How are you coping emotionally with the loss your cat, Jayba?
 **Me**: I feel a bit disappointed that I didn’t cry much for someone that was a big part of my life but I’m comfortable moving on with a strange sense of confidence.

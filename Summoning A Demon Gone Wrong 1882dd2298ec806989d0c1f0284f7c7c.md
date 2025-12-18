@@ -2,12 +2,12 @@
 
 Favourite: Yes
 Date Created: 06/02/2023
-Last Edited: December 14, 2025 2:15 AM
+Last Edited: December 15, 2025 2:18 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
 Locations: Bus Station, City, Secondary School, Suburb
-Characters: Demons, Feminist, Ghosts, Goth, Julien C, Misc People, Sam And Colby, Satanist, Soldiers, Students, Wolves
+Characters: Dejan C, Demons, Feminist, Ghosts, Goth, Julien C, Michael C, Misc People, Sam And Colby, Satanist, Soldiers, Students, Wolves
 Influences: News, Online Videos
 
 <aside>
@@ -20,13 +20,48 @@ Influences: News, Online Videos
 
 # Description
 
-I collaborated with ghost hunters Sam and Colby on various paranormal expeditions, exploring the depths of different buildings. On one occasion, while descending a square stairwell, we discovered a concrete room with a central drainage grate and stairs in the corner leading to shut maintenance doors, dimly lit by an overhead light. As Sam poured water from a plastic bottle into the grate, a foul stench resembling a rotting corpse swiftly permeated the air. In response, everyone promptly evacuated, worried that a demonic entity had been summoned.
+I was collaborating with Sam and Colby, ghost hunters, to investigate an abandoned tall building and descended a black square metal stairwell into the basement:
 
-In my secondary school, I stood in the middle of a switchback wheelchair pathway with railings, laid across the grass, connecting the admin payment window to the male bathroom beside the cafeteria. Outside the bathroom entrance was a black metal solo swing with a grey seat, likely intended for the school's theatrical productions, and a red mesh bag containing bananas and oranges. Both items covered the same rectangular surface area. As I conversed with my friend Julien, I noticed oranges in a protruding part of the bag wobbling as the flap lifted. Startled, I asked if he also witnessed the supernatural occurrence as we maintained focus on the objects. Eventually, a seventh grader approached the swing seat, which also wobbled. The commotion drew the attention of those nearby, who crowded around us. Gasps and murmurs spread as the swing rotated like someone was sitting in it. As more people gathered, the swing went berserk, rapidly flipping between a 180-degree bottom-to-top position. Though the previous student risked being struck as the seat veered slightly to the side, he was paralysed with a mixture of immersion and fear. Eventually, the seat dropped for a final time, coming to an abrupt halt and leaving everything in silence. Uncertain of the spirit's whereabouts and wary of its potential to influence the crowd, a black student behind me blurted out, "Nah, f****k that s****t!" Instinctively, everyone bolted toward the chain-link fence of the drop-off zone in front of the school. I shared the peculiar event with others nearby, but they remained sceptical. Undeterred, I posted the story on Reddit, where it received 35 upvotes and 105 downvotes. As students urgently called their parents, cars arrived periodically to evacuate them. Since my parents usually came later, I walked around the right side of the school perimeter to distance myself from the commotion until ascending a tall hill outside the city.
+- Back:
+    - Stairwell (us).
+- Back Right:
+    - Slab with stairs leading to maintenance doors.
+    - Overhead light.
+- Centre:
+    - Square drainage grate.
 
-Seeing the sunset, I realized how foolish it was to venture into an unknown location and retraced my steps, taking the left path where a few students were still heading home. I walked past a Satanist, third-wave feminist with purple hair, and a goth. While passing the Satanist, a disembodied telepathic voice urged me to hail Satan as it patiently anticipated conformity. However, I responded from the spirit in my heart with a firm yet casual "No, thank you" before continuing. I also sensed a shared bitterness against God in their hearts, driving them to reject anything associated with him. Eventually, I joined three student peers I knew and continued toward a bridge connecting neighbourhoods over the Pacific Highway as distant howls from a pack of wolves echoed ahead. In response, I explained that reaching our destination required traversing a grove atop the hill. Adamant about reaching safety before nightfall, we arrived at a fictional location combining various places, including an underground bus terminal, an overpass outside the local library, and skyscrapers from Brisbane City.
+Sam poured water from a plastic bottle into the grate and a foul stench resembling a rotting corpse permeated the air. Everyone feared that he summoned a demon and fled upstairs.
 
-Observing the horizon, my friends noticed thick black smoke rising from surrounding buildings that materialized gradually. Suddenly, three long military planes soared overhead, firing bursts at skyscrapers and a commercial airliner that exploded and crashed into the ground. Crowds scattered in panic, desperately seeking concealment anywhere. Despite my friends' unanimous decision to relocate to a prearranged spot, an internal feeling instructed me not to follow them and descend into the concrete bus tunnels. This seemed reasonable, considering it would prevent potential injuries from shrapnel if the planes had deployed bombs. Overwhelmed by potentially witnessing people die, I abruptly woke up.
+I was walking along the switchback wheelchair pathway with railings towards the cafeteria and toilets with Julien, my friend. Outside the toilet entrance was a black metal solo swing with a grey seat and a red mesh bag containing bananas and oranges. Both items covered the same rectangular surface area. As I conversed with Julien, I noticed an invisible force lifting oranges in a protruding part of the mesh bag.
+
+> **Me**: Do you see that?
+**Julien**: Yes.
+> 
+
+A seventh grader approached the swing seat which wobbled and starting rotating like someone was sitting in it. A crowd started gathering around us to watch the commotion and when it become large the swing went berserk, rapidly rotating between a 180-degree bottom-to-top position. The previous student stood paralysed beside it with a mix of fear and curiosity despite the risk of being hit by the seat veering slightly sideways. Eventually, the seat fell for the last time and came to an abrupt halt as everyone stood in silence, unsettled by not knowing where the spirit went.
+
+> **Black Student**: Nah f**k that s**t!
+> 
+
+Everyone fled to the drop-off zone in front of the school and tried to tell others about the event but they were sceptical. I posted the story on Reddit where it received 35 upvotes and 105 downvotes. As everyone urgently called their parents, cars periodically arrived to pick them up. Since my parents usually come later, I walked to the right of the school to ascend a distant hill outside the city but realized that was foolish and returned during sunset. I walked to the left of the school and encountered a Satanist, feminist with purple hair, and a goth. While passing the Satanist, a telepathic voice talked to me.
+
+> **Voice**: Hail Satan!
+**My Spirit**: No thank you.
+> 
+
+I sensed a bitterness against God in their hearts that drove them to reject anything associated with him. Eventually, I met with Dejan and Michael, my friends, as we moved towards the bridge crossing the Pacific Highway.
+
+> **Wolves**: *Howl*
+**Me**: We need to pass through the groves atop the hill before nightfall to stay safe.
+> 
+
+We arrived at a fictional location combining various places including an underground bus terminal, an overpass outside the local library, and skyscrapers from Brisbane City. My friends noticed thick black smoke rising from skyscrapers over the horizon. Three fighter planes soared overhead and fired bursts at other skyscrapers and a commercial airliner that exploded and crashed into the ground. Crowds scattered in a panic and desperately sought concealment anywhere.
+
+> **Friends**: Let's all move further down the road!
+**Internal Voice**: Don't follow them and descend into the concrete bus tunnels.
+> 
+
+I obeyed the voice as the advice seemed reasonable considering it would prevent potential injuries from shrapnel if the planes had dropped bombs while flying overhead.
 
 # Interpretations
 
@@ -41,3 +76,7 @@ Observing the horizon, my friends noticed thick black smoke rising from surround
 ## Lessons
 
 - N/A.
+
+# Post Dream
+
+- I was overwhelmed by potentially seeing people die and jolted awake in fear.

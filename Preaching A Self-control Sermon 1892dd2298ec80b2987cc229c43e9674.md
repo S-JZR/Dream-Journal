@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 16/01/2024
-Last Edited: December 14, 2025 2:20 AM
+Last Edited: December 15, 2025 9:38 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Bold
@@ -12,7 +12,7 @@ Influences: Online Videos
 
 # Description
 
-Working alongside a team of police officers, we encountered a difficult situation where an aggressive gang obstructed access to the vehicle. Tensions heightened as they taunted and pursued us, forcing us to discharge our pistols in self-defence.
+I was one of many police officers walking back to our police cars when we encountered a hostile gang, equipped with bats and knives, blocking them. As they taunted us and charged forward, we were forced to shoot them in self-defence.
 
 During a formal indoor event at a carnival, children were led to a side room for a separate performance by women wearing revealing clothing.
 
