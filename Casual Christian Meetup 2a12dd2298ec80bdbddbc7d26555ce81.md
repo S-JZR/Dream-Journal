@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 04/11/2025
-Last Edited: December 13, 2025 10:16 PM
+Last Edited: December 14, 2025 10:30 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Embarrassment
@@ -12,7 +12,7 @@ Influences: Online Videos, Personal Experiences
 
 # Description
 
-I was standing in the lounge room of my unit when a few young Christian adults came over to chat. After hearing a noisy motorbike, I looked out the kitchen window to see Bryce Crawford driving a noisy red motorbike down and up the alleyway behind the units before parking beside the footpath. Everyone moved to unit 7 for a discussion.
+I was standing in the lounge room of my unit with my family when three young Christian adults came over to chat. After hearing a noisy motorbike, I looked out the kitchen window to see Bryce Crawford driving a noisy red motorbike down and up the alleyway behind the units before parking beside the footpath. Everyone moved to unit 7 for a discussion.
 
 - Bryce was wearing a Walking Dead T-shirt with grey zombies crawling on the ground.
 

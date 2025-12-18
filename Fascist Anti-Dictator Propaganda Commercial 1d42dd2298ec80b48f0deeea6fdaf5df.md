@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 13/01/2025
-Last Edited: December 14, 2025 1:32 AM
+Last Edited: December 18, 2025 5:10 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Anger
@@ -15,18 +15,30 @@ Influences: Personal Thoughts
 
 **Content Warning**
 
-- Fascist Themes.
+- Fascist themes.
 </aside>
 
 # Description
 
-A military propaganda commercial played, featuring shots of diverse people performing basic jobs like selling fruit at a marketplace on the pavement beside Brisbane City. They briefly explained their passion for working was to kill dictators overseas, whose names they took turns mentioning. Their mindset was that society is merely a façade artificially manufactured to comfort the masses from the true reality that everything can be easily destroyed in war.
+I was spectating a military propaganda commercial featuring shots of diverse people performing basic jobs like selling fruit at a marketplace on the footpath beside Brisbane City.
 
-The greatest underlying objective always remains survival by remaining the fittest. Achieving permanent liberty requires collaborating to overcome international threats that seek to dominate by perpetually scheming against us. Every action, including those that seem inconsequential, should be done with the vision of achieving something greater and doing any part to uphold the nation contributes to fighting against the enemy. Benefitting the public can help the disciplined go on to innovate for the future and profits can be used to invest in worthwhile causes.
+> **Worker 1**: I work to kill dictators overseas.
+**Worker 1**: [Dictator name]
+**Worker 2**: [Dictator name]
+**Worker 3**: [Dictator name]
+> 
+
+> **Narrator**: Society is merely a façade artificially manufactured to comfort the masses from the true reality that everything can be easily destroyed in war.
+**Narrator**: The greatest underlying objective is always survival by remaining the fittest.
+**Narrator**: Achieving permanent liberty requires collaborating to overcome international threats that seek to dominate by perpetually scheming against us.
+**Narrator**: Every action, including those that seem inconsequential, should be done with the vision of achieving something greater and doing any part to uphold the nation contributes to fighting against the enemy.
+**Narrator**: If you're not highly skilled then serve the public to help the disciplined go on to innovate for the future and profits can be used to invest in worthwhile causes.
+> 
 
 A medium full shot of a machine gun rack in a grey room showed three soldiers wearing grey uniforms power walking past it in a line to arm themselves and turning 90 degrees to the right to exit the frame.
 
-The motto at the end was: “there is no peace while the wicked prosper”.
+> **Narrator**: There is no peace while the wicked prosper.
+> 
 
 # Interpretations
 
