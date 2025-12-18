@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 23/05/2025
-Last Edited: December 14, 2025 1:12 AM
+Last Edited: December 15, 2025 10:09 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -12,7 +12,7 @@ Influences: God Has A Wonderful Plan For Your Life (2010), Personal Thoughts
 
 # Description
 
-While driving to a Christian meeting I tuned in the radio and heard a young male adult.
+I was driving to a Christian meeting when I tuned in the radio and heard a male commentator.
 
 > **Commentator**: All religions are silly relics fading away but get this somehow Gen Z is more open to marriage than casual sex.
 > 
@@ -21,7 +21,7 @@ Upon arriving, two long rows of white fold-out tables stood outside on a grassy 
 
 > **Man**: Attendance at my church is declining.
 **Man**: If this continues our faith might cease to exist in the future.
-**Man**: (Sarcasm) Do we need to increase sensory experiences, like music, to attract more participants?
+**Man**: (Sarcasm) Do we need to increase sensory experiences like music to attract more participants?
 > 
 
 I thought to myself that these people lacked direction because they:

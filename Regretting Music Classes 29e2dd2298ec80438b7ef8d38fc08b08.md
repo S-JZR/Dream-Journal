@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/11/2025
-Last Edited: December 14, 2025 12:41 AM
+Last Edited: December 15, 2025 9:21 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -12,7 +12,7 @@ Influences: Personal Experiences
 
 # Description
 
-I was outside my unit getting boarding a small white school bus full of mostly female students heading to music class. The bus driver got lost, drove into the city, looped back to my house, and turned down a fictional dirt path near the park to pass a horse carriage moving the opposite direction.
+I was standing outside my unit complex, boarding a small white school bus full of mostly female students heading to music class. The bus driver got lost, drove into the city, looped back to my house, and turned down a fictional dirt path near the park to pass a horse carriage moving the opposite direction.
 
 Upon arriving at music class, each student was given a hearing test by the female teacher using one small vibrating ring clipped to their ear. Afterwards, everyone moved to the same room to learn music theory. I felt annoyed and later told the teacher that I didn’t think it was relevant to my future career so she asked why I didn't say something earlier and wasted years learning it.
 

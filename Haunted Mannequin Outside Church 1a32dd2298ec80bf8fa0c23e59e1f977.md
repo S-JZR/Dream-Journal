@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 25/01/2020
-Last Edited: December 14, 2025 2:14 AM
+Last Edited: December 14, 2025 11:43 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Family, Mannequin Creature, Misc People, Pastors
 
 # Description
 
-My family drove to a church service in the city during Christmas time. After parking beside the sidewalk, we descended a courtyard staircase with wide steps. To the right was a narrow alleyway with various restaurants built into the wall, followed by the church at the end.
+I was seated in my mum's car with my family being driven by my mum to a church service in the city during Christmas time. After parking beside the sidewalk, we descended a courtyard staircase with wide steps. To the right was a narrow alleyway with various restaurants built into the wall, followed by the church at the end.
 
 As everyone sauntered into the church, I locked eyes with a white mannequin at the entrance, which nervously turned its head away in one swift motion. Attempting to catch it in the act again, I crept out from the entryway and saw its right eye peering from the side of its head, checking to see if I was still there.
 
@@ -19,7 +19,7 @@ Feeling unsettled, I awkwardly trudged into the church amphitheatre to the furth
 
 A female preacher descended from the stage with a microphone, approaching everyone individually. Everyone had a correct interpretation except me.
 
-> **Preacher**: After receiving a divine interpterion answers with "correct" or "incorrect”.
+> **Preacher**: After you receive a divine interpretation respond with correct or incorrect.
 **Preacher**: You were born in the United Kingdom.
 **Me**: *cringe* Actually I was born in Australia.
 **Preacher**: You act like you’ve seen a ghost.
