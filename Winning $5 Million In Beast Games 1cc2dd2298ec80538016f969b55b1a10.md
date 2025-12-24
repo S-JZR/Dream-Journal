@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/04/2025
-Last Edited: December 15, 2025 4:04 PM
+Last Edited: December 22, 2025 3:37 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -22,12 +22,17 @@ After more challenges I was one of the last two players remaining in a large dar
 
 ## Influences
 
-- N/A.
+- Online Videos:
+    - References the final prize negotiation in the MrBeast Games: [https://youtu.be/sF5LYGgKbUA?si=0Zu84Woqv-FjDcGF&t=1856](https://youtu.be/sF5LYGgKbUA?si=0Zu84Woqv-FjDcGF&t=1856).
+    - Splitting the prize money was prohibited so this scenario wouldn’t work: [https://www.justjared.com/2025/03/14/beast-games-winner-reveals-contestants-were-banned-from-splitting-prize-money-or-making-deals-with-other-players/](https://www.justjared.com/2025/03/14/beast-games-winner-reveals-contestants-were-banned-from-splitting-prize-money-or-making-deals-with-other-players/).
+    - MrBeast has a habit of throwing in surprises to catch people off guard.
 
 ## Symbols
 
-- N/A.
+- Camera Shy:
+    - Introverted and the fear of immortalizing mistakes.
 
 ## Lessons
 
-- N/A.
+- It pays to pay attention.
+- Proactively guide negotiations rather than letting others control the outcome.

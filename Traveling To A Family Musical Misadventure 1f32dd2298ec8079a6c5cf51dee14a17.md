@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 11/01/2020
-Last Edited: December 14, 2025 5:02 PM
+Last Edited: December 18, 2025 5:36 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Happy
 Locations: Amphitheatre, Church, Shopping Mall, Suburb
 Characters: Family, Misc People, Rhiannon C
+Influences: Personal Experiences
 
 <aside>
 ⚠️
@@ -31,11 +32,16 @@ Suddenly, my dad and I were involved in a criminal operation in a counterfeit am
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - Rhiannon and other female students often talked about everyday life during art class.
+    - My dad can be a rough driver at times.
 
 ## Symbols
 
-- N/A.
+- Telekinesis:
+    - The shadow self being a trickster.
+- 45 Degree Road:
+    - Feeling anxious when my dad drives.
 
 ## Lessons
 

@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 16/01/2024
-Last Edited: December 15, 2025 9:38 PM
+Last Edited: December 22, 2025 10:56 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Bold
@@ -22,12 +22,24 @@ While revisiting a local former church various tables of food spanned the bottom
 
 ## Influences
 
-- N/A.
+- Online Videos:
+    - I have encountered and reported YouTube and Internet Archive accounts mixing porn videos with children’s cartoon videos.
+    - Some ASMR creators share SFW content on YouTube and sell NSFW content on external websites to adhere community guidelines. They create topics that can appeal to broad audiences but also subtly advertise it in some way to get customers like:
+        - Hidden offsite links.
+        - Suggestive thumbnails without content in the video.
+        - Wearing suggestive clothing.
+        - Having sexual undertones to intimate gestures.
+        - Incorporating soft BDSM like mommy doms and praise.
 
 ## Symbols
 
-- N/A.
+- Gang:
+    - Rebellion against authority and the law.
+- Suggestive Women:
+    - Content made to seem innocent and caring but with a hidden sexual agenda.
+- Sermon:
+    - Feeling like people mindlessly waste their time on distractions and vain things.
 
 ## Lessons
 
-- N/A.
+- We live in a fallen world so stay vigilant and disciplined.

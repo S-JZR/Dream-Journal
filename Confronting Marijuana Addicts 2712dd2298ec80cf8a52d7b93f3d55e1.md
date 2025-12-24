@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 17/09/2025
-Last Edited: December 15, 2025 4:52 PM
+Last Edited: December 23, 2025 3:39 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -22,12 +22,18 @@ I stood on a concrete balcony watching them sit in a shallow river below and dec
 
 ## Influences
 
-- N/A.
+- Personal Thoughts:
+    - I constantly think about how people settle for less and focus on instant gratification and mainstream content and attitudes promoted by society over critical and deeper thinking.
 
 ## Symbols
 
-- N/A.
+- Marijuana:
+    - Addictions, escapism, and pointless pleasure seeking.
+- Lecture/Explosives:
+    - Feeling annoyed at people wasting their potential and wanting them to change.
 
 ## Lessons
 
-- N/A.
+- People often don't want to be told how to live their lives.
+- Don’t trade long-term gain for short-term pleasure.
+- Change must come from within to last.

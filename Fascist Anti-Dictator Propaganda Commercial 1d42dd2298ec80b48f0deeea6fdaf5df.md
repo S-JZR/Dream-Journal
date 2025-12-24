@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 13/01/2025
-Last Edited: December 18, 2025 5:10 PM
+Last Edited: December 20, 2025 3:37 AM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Anger
@@ -44,12 +44,30 @@ A medium full shot of a machine gun rack in a grey room showed three soldiers we
 
 ## Influences
 
-- N/A.
+- Personal Thoughts:
+    - I feel like so many things in society are trivial and stupid.
+    - I fear that as populations, knowledge, and technology grows it will increase the destructive potential of malicious individuals and nations.
+    - I fear that as a last resort we need to become powerful enough to uproot malicious systems in their relative infancy but it could easily backfire.
+- Christianity:
+    - The motto seems like a distortion of Isaiah 57:20-21 to justify executing God’s wrath ourselves.
 
 ## Symbols
 
-- N/A.
+- Façade:
+    - I feel peace between nations is superficial and maintained by the threat of mutually assured destruction.
+    - I feel like entertainment distracts people from the harshness of reality, dumbs them down, and stops them from pursuing higher ambitions.
+    - I feel luxury is meaningless without safety to enjoy it and our survival should be more important than fleeting status, materialism, and entertainment.
+    - Without achieving last peace it's inevitable that we're on a countdown to the next tragedy.
+- Destroyed In War:
+    - All locations can be easily targeted in war so nowhere is truly safe and total war will drag everyone down.
+- Nations Scheming:
+    - Beneath the surface malicious nations still scheme ways to become dominant and overthrow each other.
+- Survival Of The Fittest:
+    - If it weren’t for people sacrificing their time to become knowledgeable and develop powerful weaponry to protect us then we would of all been destroyed because we were not the fittest.
+- Call To War:
+    - Angry at the injustice caused by dictators harming innocent people.
+    - In general I feel like everyone could achieve something greater, transcend our current limitations, and bring lasting change if we were all focused on meaningful things, disciplined, and rejected mediocrity.
 
 ## Lessons
 
-- N/A.
+- Survival should be valued more than luxury.

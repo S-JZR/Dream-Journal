@@ -2,13 +2,13 @@
 
 Favourite: Yes
 Date Created: 23/05/2025
-Last Edited: December 15, 2025 10:09 PM
+Last Edited: December 24, 2025 3:40 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
 Locations: Field
 Characters: Misc People
-Influences: God Has A Wonderful Plan For Your Life (2010), Personal Thoughts
+Influences: God Has A Wonderful Plan For Your Life (2010), News, Personal Thoughts
 
 # Description
 
@@ -40,20 +40,25 @@ A fat middle-age female host stood at the centre trying to inspire everyone.
 > **Woman**: We desperately need to do things better.
 > 
 
-I thought to myself what does she mean by "better"? Does she have a specific goal in mind or is she merely using vague exhortations to hype people up without concrete plan and actionable steps to bring change?
+I thought to myself what does she mean by "better"? Does she have a specific goal in mind or is she merely using vague exhortations to hype people up without a concrete plan and actionable steps to bring change?
 
 # Interpretations
 
 ## Influences
 
-- I constantly hear news about church attendance decreasing, especially since the start of Covid-19.
-- I feel like churches could do better.
-- I was reading God Has A Wonderful Plan For Your Life at the time that challenges misconceptions about the faith and churches failing to convert sinners.
+- Personal Thoughts:
+    - I feel like church is divided and could do better.
+- God Has A Wonderful Plan For Your Life:
+    - References challenging misconceptions about faith and churches failing to convert sinners.
+- News:
+    - References religious affiliation declining: [https://www.abs.gov.au/articles/religious-affiliation-australia](https://www.abs.gov.au/articles/religious-affiliation-australia).
+    - References church attendance declining since Covid-19: [https://theothercheek.com.au/church-attendance-continues-to-recover-after-covid-baptists-and-pentecostals-rise/](https://theothercheek.com.au/church-attendance-continues-to-recover-after-covid-baptists-and-pentecostals-rise/).
 
 ## Symbols
 
-- N/A.
+- Radio:
+    - Awareness that some people think religion is outdated and stupid.
 
 ## Lessons
 
-- N/A.
+- Effective goals require a clear strategy and actionable steps.

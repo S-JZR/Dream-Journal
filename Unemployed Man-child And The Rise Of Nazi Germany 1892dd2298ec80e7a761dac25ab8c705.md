@@ -1,14 +1,14 @@
-# Unemployed Manchild And The Rise Of Nazi Germany
+# Unemployed Man-child And The Rise Of Nazi Germany
 
 Favourite: Yes
 Date Created: 19/12/2024
-Last Edited: December 16, 2025 12:42 AM
+Last Edited: December 19, 2025 4:00 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
 Locations: Farm, Home, Palace, Primary School, Shopping Mall, Town
 Characters: Julien C, Misc People, Nazis
-Influences: News, Personal Experiences, Philosophy: Big Ideas (2017)
+Influences: Christianity, Cool Runnings (1993), News, Personal Experiences, The Philosophy Book: Big Ideas Simply Explained (2017)
 
 <aside>
 ⚠️
@@ -48,7 +48,7 @@ We entered my my year two classroom in my primary school and walked past a white
 The disembodied voice of a narrator read through an illustrated children's book with a cool colour scheme.
 
 > **Narrator**: This is the story of how a nation can become tolerant of hate towards others.
-**Narrator**: A wicked ruler demanded everyone to strictly adhere scientific studies he released, claiming that certain groups of people were a burden on society, depriving others of their resources.
+**Narrator**: A wicked ruler demanded everyone to strictly adhere “scientific” studies he released, claiming that certain groups of people were a burden on society, depriving others of their resources.
 **Narrator**: The public were outraged and formed mobs that searched the country to find and punish unfavoured groups, expecting everyone to join them or face the same consequences.
 > 
 
@@ -78,12 +78,50 @@ An old man approached me from behind and looked over my shoulder at the pages.
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - Explained in symbols.
+- Cool Runnings:
+    - References Yul Brenner who has a naïve dream about living in Buckingham Palace if he works hard enough but doesn’t realize it’s exclusive to the royal family: [https://youtu.be/RvzpuAa1QVs?si=7_LtXeh2s5QpQ85A](https://youtu.be/RvzpuAa1QVs?si=7_LtXeh2s5QpQ85A).
+- Christianity:
+    - References Luke 16:10, 1 Corinthians 13:11, and Romans 16:18.
+- The Philosophy Book: Big Ideas Simply Explained:
+    - References reading the book recently.
+- News:
+    - During COVID-19:
+        - “The Science” guidelines were presented as absolute but evolved over time.
+        - Those expressing concerns, scepticism, and curiosity about the vaccines were often labelled selfish, ignorant, and associated with conspiracy theories due to polarization [[https://projekter.aau.dk/projekter/files/485692974/Master_Thesis_FINAL_PDF.pdf](https://projekter.aau.dk/projekter/files/485692974/Master_Thesis_FINAL_PDF.pdf), p.2]
 
 ## Symbols
 
-- N/A.
+- 24 Year Old:
+    - Self-criticism that I’m a man-child.
+    - I’m still doing a double degree full time in university.
+    - I often wear a white singlet indoors because it’s hot in Australia.
+- No Work:
+    - I feel guilty like I’m freeloading off my father who works nightshift to provide for my family while I can indulge in videogames, social media, etc and I’m not contributing anything.
+- Job Seeking:
+    - I have been unconcerned with looking for a job and where I will end up in my career.
+- Explosion:
+    - Feeling distressed about the reality of suffering in the world and the fear of being harmed.
+- Trampled Insects:
+    - The desire to avoid harming insects.
+    - Dehumanization of others.
+- Wasted Life:
+    - I fear I have wasted too much time on videogames, social media, etc and could have used that time for better things.
+    - I fear that I have not fully utilized my time in university and studied enough.
+- The Science:
+    - Mixing science with rhetoric.
+- Monster Soldiers/Smiling Parents:
+    - Ordinary people can become monsters through radicalization.
+- Dead Teenager:
+    - Parallels the 24 year old man who is not providing for himself.
+- Children’s Book/Wicked Ruler:
+    - Retelling of Nazi Germany and Adolf Hitler.
 
 ## Lessons
 
-- N/A.
+- Your parents won’t always be there and you need to provide for yourself.
+- Don’t stay ignorant.
+- The world offers endless escapism that can trap us in comfort.
+- Those who can't manage small things can't manage big things.
+- Don't blindly accept ideas.

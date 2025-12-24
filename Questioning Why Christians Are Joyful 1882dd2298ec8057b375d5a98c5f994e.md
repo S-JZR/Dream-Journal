@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 01/01/2017
-Last Edited: December 15, 2025 9:27 PM
+Last Edited: December 22, 2025 9:55 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
 Locations: Church, Heaven
 Characters: Misc People
+Influences: Christianity, Personal Experiences
 
 # Description
 
@@ -19,12 +20,19 @@ I instantly teleported to the reception room in heaven with a line of cheerful i
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - I attended churches and didn’t understand why Christians felt happy.
+- Christianity:
+    - Likely references Psalm 34:8 and Matthew 7:21.
 
 ## Symbols
 
-- N/A.
+- Cake:
+    - Tasting good because it’s well made.
+- God's Work:
+    - Doing good.
+    - Higher principles.
 
 ## Lessons
 
-- N/A.
+- Joy comes from doing meaningful work that aligns with higher principles.
