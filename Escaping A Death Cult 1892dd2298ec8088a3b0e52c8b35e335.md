@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 04/04/2024
-Last Edited: December 15, 2025 3:32 PM
+Last Edited: December 20, 2025 1:53 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Secondary School, Suburb
 Characters: Abrahamic God, Family, Misc People, Police, Students, Teachers
+Influences: History
 
 # Description
 
@@ -21,12 +22,14 @@ Eventually, my mother’s car arrived along the street as I entered while carpoo
 
 ## Influences
 
-- N/A.
+- History:
+    - References Adolf Hitler believing he was chosen by providence.
 
 ## Symbols
 
-- N/A.
+- Death Cult:
+    - Retelling of Nazi Germany.
 
 ## Lessons
 
-- N/A.
+- Believing you are chosen or special can foster a superiority complex.

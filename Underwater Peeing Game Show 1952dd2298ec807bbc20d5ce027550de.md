@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2005
-Last Edited: December 17, 2025 7:04 PM
+Last Edited: December 20, 2025 4:24 PM
 Type: Pee Dream
 Age Rating: SFW
 Main Emotion: Happy
@@ -38,3 +38,7 @@ After the airhorn sounded I tried my best to win.
 # Post Dream
 
 - I woke up in the morning to discover that I had wet the bed.
+
+# Notes
+
+- I don’t remember the exact dialogue and this is a recreation.

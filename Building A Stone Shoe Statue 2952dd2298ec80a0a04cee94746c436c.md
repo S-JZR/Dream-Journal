@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 23/10/2025
-Last Edited: December 14, 2025 10:16 PM
+Last Edited: December 19, 2025 5:43 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
@@ -20,11 +20,13 @@ As I considered ideas for a sci-fi shoe design, she stood behind a podium to del
 
 ## Influences
 
-- N/A.
+- Personal Thoughts:
+    - I feel like so many things in society are trivial and stupid.
 
 ## Symbols
 
-- N/A.
+- World War 3:
+    - The fear of going to war.
 
 ## Lessons
 

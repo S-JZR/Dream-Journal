@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 01/01/2005
-Last Edited: December 12, 2025 5:05 PM
+Last Edited: December 24, 2025 3:48 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -26,7 +26,8 @@ Shortly afterwards we walked into the store with our parents.
 ## Influences
 
 - Personal Experiences:
-    - During primary school, my family regularly visited Video Ezy to rent movies and PS2 videogames.
+    - During primary school, my family regularly visited Video Ezy to rent DVDs and PS2 videogames.
+    - Since online streaming didn’t exist, you usually only found fragments of TV shows from different physical and online stores.
 - Ratchet And Clank 3:
     - The spaceship's interior resembles the Galactic Rangers dropship.
 

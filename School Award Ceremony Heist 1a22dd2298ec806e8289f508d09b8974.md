@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 23/11/2020
-Last Edited: December 14, 2025 7:03 PM
+Last Edited: December 18, 2025 11:26 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -21,7 +21,8 @@ I was standing on the roof of the hall in my secondary school during an award ce
 
 ## Symbols
 
-- Heist: the desire to challenge what people think is impossible.
+- Heist:
+    - The desire to challenge what people think is impossible.
 
 ## Lessons
 

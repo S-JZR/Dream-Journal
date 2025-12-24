@@ -2,13 +2,13 @@
 
 Favourite: Yes
 Date Created: 06/02/2023
-Last Edited: December 15, 2025 2:18 AM
+Last Edited: December 25, 2025 12:22 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
 Locations: Bus Station, City, Secondary School, Suburb
 Characters: Dejan C, Demons, Feminist, Ghosts, Goth, Julien C, Michael C, Misc People, Sam And Colby, Satanist, Soldiers, Students, Wolves
-Influences: News, Online Videos
+Influences: Online Videos, Personal Experiences
 
 <aside>
 ⚠️
@@ -67,15 +67,28 @@ I obeyed the voice as the advice seemed reasonable considering it would prevent 
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - I believe I've had supernatural experiences where it felt like my heart was vibrating with an energy and telepathic messages told me to do things that aligned with events.
+- Online Videos:
+    - References Sam And Colby and the rumour that demons smell like rotting corpses.
 
 ## Symbols
 
-- N/A.
+- Reddit:
+    - The fear that nobody will believe my supernatural experiences.
+- Satanist, Feminist, and Goth:
+    - Can have beliefs or cultures that encourage rebellion against God and having full autonomy.
+- Wolves:
+    - Looming danger and evil.
+- War Planes:
+    - Dictators rejecting God’s ways and using knowledge for evil.
+- Inner Voice:
+    - God leading me to safety.
 
 ## Lessons
 
-- N/A.
+- Document supernatural experiences as evidence.
+- Don't blindly follow the crowd.
 
 # Post Dream
 

@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 26/11/2024
-Last Edited: December 15, 2025 4:01 PM
+Last Edited: December 20, 2025 4:30 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Home
 Characters: Ghosts, Misc People, Tabitha
+Influences: Online Videos
 
 # Description
 
@@ -24,7 +25,8 @@ To pass the time we watched The Incredibles in someone's unit.
 
 ## Influences
 
-- N/A.
+- Online Videos:
+    - References the 3AM challenge: [https://youtube.fandom.com/wiki/3AM_Challenges](https://youtube.fandom.com/wiki/3AM_Challenges).
 
 ## Symbols
 

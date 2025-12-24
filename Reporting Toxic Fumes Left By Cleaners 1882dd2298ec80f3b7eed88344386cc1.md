@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 10/01/2020
-Last Edited: December 14, 2025 5:00 PM
+Last Edited: December 18, 2025 5:27 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,7 +20,9 @@ We chose to bring this incident to the attention of a fictional retired general 
 
 ## Influences
 
-- The toilets at my secondary school were always dirty and unpleasant.
+- Personal Experiences:
+    - The toilets at my secondary school were always dirty and unpleasant.
+    - Seventh graders often did silly things to amuse themselves.
 
 ## Symbols
 

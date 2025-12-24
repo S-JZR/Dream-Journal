@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 02/11/2020
-Last Edited: December 14, 2025 7:00 PM
+Last Edited: December 18, 2025 7:44 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Cave
 Characters: Orcs
-Influences: TY The Tasmanian Tiger 2 (2004), World Of Warcraft (2004)
+Influences: Christianity, TY The Tasmanian Tiger 2 (2004), World Of Warcraft (2004)
 
 # Description
 
@@ -18,11 +18,17 @@ I was in a fantasy role-playing game playing as a human adventurer when a group 
 
 ## Influences
 
-- N/A.
+- World Of Warcraft:
+    - References orcs.
+- TY The Tasmanian Tiger 2:
+    - References TY and gameplay.
+- Christianity:
+    - In Christianity you're not meant to engage with witchcraft and other spiritual practices.
 
 ## Symbols
 
-- N/A.
+- Pentagram:
+    - The fear of spiritual danger and corruption.
 
 ## Lessons
 

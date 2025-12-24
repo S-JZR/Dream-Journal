@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 18/07/2025
-Last Edited: December 15, 2025 10:12 PM
+Last Edited: December 24, 2025 4:11 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -20,12 +20,22 @@ I transformed into Alan Seawright from Cinema Therapy and Jonathan Decker realiz
 
 ## Influences
 
-- N/A.
+- Personal Thoughts:
+    - I used to have a strong fear of infinity about things like:
+        - The implications of living forever. Never reaching an end. Being unable to comprehend infinity. Having an expectation to be conscious forever. Trivializing our human identity and what we value. The fear of things falling apart.
+        - Does true infinity exist? Can we achieve infinite experiences or are we limited to a finite cycle?
+- Online Videos:
+    - References Alan and Jonathan bantering with each other and sharing personal stories.
 
 ## Symbols
 
-- N/A.
+- CaseOh:
+    - Feeling like most people are caught up in shallow thinking and oblivious to life’s complexities.
+- Therapist:
+    - Wanting to reflect on my experiences and concerns.
 
 ## Lessons
 
-- N/A.
+- We worry more about what might happen than what actually does.
+- Don't limit yourself by thinking you know everything and rigidly defining what is possible.
+- Comprehending infinity is impossible for finite minds so don't try it.

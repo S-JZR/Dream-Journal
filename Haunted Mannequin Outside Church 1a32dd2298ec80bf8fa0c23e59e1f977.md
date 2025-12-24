@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 25/01/2020
-Last Edited: December 14, 2025 11:43 PM
+Last Edited: December 19, 2025 6:26 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -40,7 +40,8 @@ After the service, I examined it, confirming that it cycled through a range of h
 
 ## Symbols
 
-- N/A.
+- Waiting In Line/Preacher:
+    - Social anxiety.
 
 ## Lessons
 

@@ -2,13 +2,13 @@
 
 Favourite: Yes
 Date Created: 03/07/2025
-Last Edited: December 14, 2025 10:12 PM
+Last Edited: December 19, 2025 5:39 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Surprise
 Locations: Christian School, Library
-Characters: Demons, Students, Teachers, Wolves
-Influences: Personal Experiences
+Characters: Demons, Sarajah, Students, Teachers, Wolves
+Influences: Christianity, Online Videos, Personal Experiences
 
 <aside>
 ⚠️
@@ -108,12 +108,34 @@ I turned around to look through the back ceiling window and saw a white wolf sta
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - My brother, another church member, and I once attended a youth group event but my brother and I were appalled by its performative nature with a hot dog eating contest on fold-out tables, a few worship songs, and casual calls to give your life to Christ.
+    - During religious education in primary school, Carley randomly flipped through the bible and told others about the stories of rape she was repulsed by and implied the book was evil and should be avoided.
+- Christianity:
+    - References casting out demons.
+    - References Mark 16:17, Luke 13:3, Hebrews 12:29, and Acts 20:29-31.
+- Online Videos:
+    - References that during exorcisms demons are often hesitant to leave people.
+    - References Ray Comfort saying God is loving but also a holy judge who punishes sin and warns against turning him into a watered-down idol to please ourselves: [https://youtu.be/iE-P7KGZi_o?si=25qWN0HWSj_llFzs&t=548](https://youtu.be/iE-P7KGZi_o?si=25qWN0HWSj_llFzs&t=548).
 
 ## Symbols
 
-- N/A.
+- Mess/Substitute Teacher:
+    - False, bad, and worldly teachings.
+- Angry Teacher:
+    - My mum often questions us about problems we didn’t cause and I feel like she’s implying we’re to blame.
+- Teaching The Class:
+    - I feel like I could teach things better than most people.
+- Demon/Wolf:
+    - Demons and evil.
+    - Doubts about God’s existence and temptations.
+- Confused Child:
+    - Feeling conflicted by God’s judgements in the Old Testament.
+    - I fear people will reject the bible due to wrongly thinking it endorses sin, being intimidated by God’s judgements, and blindly accepting what society says about it.
+- Fire:
+    - The fire of God clears away the old self and false teachings.
 
 ## Lessons
 
-- N/A.
+- Know your bible and call out false, bad, and worldly teachings.
+- Faith should be built on truth, understanding, and a relationship with God not worldly desires and emotional appeals.

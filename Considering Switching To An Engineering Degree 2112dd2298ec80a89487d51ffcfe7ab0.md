@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 11/06/2025
-Last Edited: December 15, 2025 4:32 PM
+Last Edited: December 22, 2025 3:44 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -22,11 +22,13 @@ I was in a black void worried that not pursuing an engineering degree would prev
 
 ## Influences
 
-- N/A.
+- Personal Thoughts:
+    - I’ve worried about my career choices a bit.
 
 ## Symbols
 
-- N/A.
+- Career Change:
+    - The fear that I choose the wrong career and won't make a lasting impact if I don't become an engineer.
 
 ## Lessons
 

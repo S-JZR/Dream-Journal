@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 03/07/2025
-Last Edited: December 15, 2025 4:49 PM
+Last Edited: December 22, 2025 4:17 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Shopping Mall
 Characters: Ghosts, Misc People, Zombies
-Influences: Online Videos, Personal Experiences, The Thing (1982)
+Influences: News, Online Videos, The Thing (1982)
 
 # Description
 
@@ -22,14 +22,18 @@ I encountered one long and two short washing machines stacked vertically. Someon
 
 ## Influences
 
-- The Thing: Dr Blair might have touched an infected corpse with the tip of a pencil and his lip.
-- Paranormal videos often feature the pale faces of ghostly women hidden in the frame.
-- Technology is evolving so rapidly that it feels like it won’t be long before it can do anything.
+- The Thing:
+    - References Dr Blair possibly infecting himself by touching an alien corpse and his lip with a pencil: [https://youtu.be/wrozyKXjaNc?si=ZbnzPtUB0qWPaHPH](https://youtu.be/wrozyKXjaNc?si=ZbnzPtUB0qWPaHPH).
+- Online Videos:
+    - References the pale faces of female ghosts often hidden in paranormal videos.
+- News:
+    - Technology is evolving so rapidly that it feels like it won’t be long before it can do anything.
 
 ## Symbols
 
-- Lockdown: feeling trapped by external circumstances and fears.
+- Washing Machine:
+    - Feeling like technology is mysterious and almost magical.
 
 ## Lessons
 
-- N/A.
+- Quarantine infected objects properly.

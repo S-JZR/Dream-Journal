@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 24/03/2017
-Last Edited: December 14, 2025 4:57 PM
+Last Edited: December 18, 2025 5:24 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -24,7 +24,8 @@ I was in a black void, talking to the disembodied voice of a female therapist.
 
 ## Influences
 
-- Jayba died recently and I was still getting over it: [details too sensitive to share].
+- Personal Experiences:
+    - Jayba died recently and I was still getting over it: [details too sensitive to share].
 
 ## Symbols
 

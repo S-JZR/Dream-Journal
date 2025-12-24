@@ -2,12 +2,13 @@
 
 Favourite: No
 Date Created: 17/12/2020
-Last Edited: December 14, 2025 11:49 PM
+Last Edited: December 19, 2025 6:32 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
 Locations: Amusement Park, Carpark, Shopping Mall
 Characters: Jimmy Neutron, Misc People, Musicians, Police, Tommy Pickles
+Influences: Rugrats (1991), The Adventures Of Jimmy Neutron Boy Genius (2002)
 
 # Description
 
@@ -21,11 +22,15 @@ After many hours, I reached my destination and entered through the sliding doors
 
 ## Influences
 
-- N/A.
+- Rugrats:
+    - References Tommy.
+- The Adventures Of Jimmy Neutron, Boy Genius:
+    - References Jimmy Neutron.
 
 ## Symbols
 
-- N/A.
+- Cartoon Characters:
+    - Nostalgia.
 
 ## Lessons
 

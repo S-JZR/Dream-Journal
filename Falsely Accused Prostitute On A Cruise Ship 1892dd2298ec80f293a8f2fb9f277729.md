@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 06/02/2024
-Last Edited: December 15, 2025 9:50 PM
+Last Edited: December 22, 2025 11:03 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Surprise
@@ -47,9 +47,9 @@ My phone vibrated in my pant pocket, and the prostitute from earlier began sendi
 
 ## Symbols
 
-- TV: sin is pervasive.
+- N/A.
 
 ## Lessons
 
-- People often resist being told how to live their lives.
-- Justice requires defending the wrongly accused, even if they are flawed.
+- People often don't want to be told how to live their lives.
+- Defend the wrongly accused even if they're flawed.

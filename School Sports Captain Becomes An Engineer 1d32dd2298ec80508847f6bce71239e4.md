@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 11/04/2025
-Last Edited: December 14, 2025 2:18 AM
+Last Edited: December 22, 2025 3:42 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
 Locations: Secondary School
 Characters: News Reporters, Students
-Influences: Personal Experiences
+Influences: Personal Thoughts
 
 # Description
 
@@ -18,11 +18,13 @@ On a grassy secondary school oval, a student football team captain was being int
 
 ## Influences
 
-- N/A.
+- Personal Thoughts:
+    - I’ve worried about my career choices a bit.
 
 ## Symbols
 
-- N/A.
+- Career Change:
+    - The fear that I choose the wrong career and won't make a lasting impact if I don't become an engineer.
 
 ## Lessons
 

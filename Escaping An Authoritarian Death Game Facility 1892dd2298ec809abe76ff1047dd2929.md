@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 26/11/2024
-Last Edited: December 15, 2025 3:42 PM
+Last Edited: December 22, 2025 3:11 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,7 +12,7 @@ Influences: Online Videos, Squid Game (2021)
 
 # Description
 
-I was one of many prisoners in a facility competing in a series of death games for freedom. Prisoners who completed challenges waited in holding bays beside each room for everyone else to finish. Various facilitators in each room ensured everyone followed orders.
+I was one of many prisoners in a facility competing in a series of death games for freedom. Prisoners who completed challenges waited in holding bays beside each room for everyone else to finish. Various facilitators wearing casual clothing stood in each room and ensured everyone followed orders.
 
 In the first room everyone received a question card and stood beside each other behind a line with shotgun turrets three metres in front of them. A man seated at the front consecutively asked everyone to answer their questions. Those who gave the wrong answer were shot. My card was a special blue one containing a more difficult question that I answered correctly. After a few people were eliminated, a staff member on the far left held out a page and asked who wants it. Seeing that nobody noticed, I walked over to grab it and returned to my spot. Noticing it might have potential lore, I jokingly suggested that Matpat from Game Theorists should analyse it. The double-sided grayscale page featured a cryptic outline of a Sierpiński triangle with a few numbers filled in each mini triangle and Tetris shapes with sentences beside them. The survivors were locked in a holding bay to await further instructions. However, upon noticing a crack in the wall, I encouraged everyone to break it open, revealing a grassy hill with chain-link fences on both sides. As we ventured further, a sign indicated there was a minefield, so I climbed over the left fence as everyone followed behind. I leapt between a series of trees until approaching an open area with a 45-degree Y-junction of two rectangular pipes. I continued straight until entering another building.
 
@@ -37,12 +37,17 @@ In the fourth room we travelled through an L-shaped hallway, where three narrow 
 
 ## Influences
 
-- N/A.
+- Squid Game:
+    - References surviving multiple death game challenges.
+- Online Videos:
+    - References Matpat renowned for analysing videogame lore.
 
 ## Symbols
 
-- N/A.
+- Facility:
+    - The fear of being held against my will.
 
 ## Lessons
 
-- N/A.
+- It pays to pay attention.
+- Teamwork makes the dream work.

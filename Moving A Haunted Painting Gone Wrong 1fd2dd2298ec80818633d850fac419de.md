@@ -1,14 +1,14 @@
 # Moving A Haunted Painting Gone Wrong
 
-Favourite: Yes
+Favourite: No
 Date Created: 14/05/2025
-Last Edited: December 14, 2025 2:28 AM
+Last Edited: December 23, 2025 10:42 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
 Locations: Art Gallery
 Characters: Ghosts, Staff
-Influences: Online Videos
+Influences: The Anguished Man (n.d)
 
 # Description
 
@@ -26,12 +26,26 @@ When a staff member moved the painting onto a backroom storage wall, it began sw
 
 ## Influences
 
-- N/A.
+- The Anguished Man:
+    - References a distressed painting that allegedly contains the artist’s blood and is haunted.
 
 ## Symbols
 
-- N/A.
+- Minimalism:
+    - Preferring minimalism over clutter.
+    - Preferring functionality over aesthetics.
+- Muted Colours:
+    - Feeling emotionally numb and detached at times.
+    - Afraid to express myself.
+- Safe:
+    - Secrets that I don’t want anyone to know.
+- Ferns:
+    - Resilience and growth.
+- Blood:
+    - Internal struggles and past wounds.
+- Upset/Fire:
+    - Anger over being misunderstood and ignored.
 
 ## Lessons
 
-- N/A.
+- Supressing emotions and frustrations can cause unrest.

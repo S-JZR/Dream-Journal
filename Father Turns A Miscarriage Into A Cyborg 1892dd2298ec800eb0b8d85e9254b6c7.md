@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 19/06/2024
-Last Edited: December 14, 2025 2:17 AM
+Last Edited: December 20, 2025 3:23 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -31,7 +31,8 @@ The thugs were distracted by an illuminated festival on a distant hill, providin
 
 ## Influences
 
-- N/A.
+- Astro Boy:
+    - References Astro Boy, a robot, created to replace Tobio who died in a tragic accident.
 
 ## Symbols
 
@@ -39,4 +40,4 @@ The thugs were distracted by an illuminated festival on a distant hill, providin
 
 ## Lessons
 
-- N/A.
+- Love is not possession.
