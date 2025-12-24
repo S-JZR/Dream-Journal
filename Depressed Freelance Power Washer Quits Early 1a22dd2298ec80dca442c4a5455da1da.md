@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 17/12/2020
-Last Edited: December 15, 2025 3:25 PM
+Last Edited: December 20, 2025 1:26 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -21,8 +21,9 @@ I was standing in my unit with my family when a woman struggling with depression
 
 ## Symbols
 
-- N/A.
+- Depressed Woman:
+    - Occasionally feeling lethargic and questioning whether what I'm doing matters.
 
 ## Lessons
 
-- N/A.
+- Respond appropriately to someone based on the circumstances.

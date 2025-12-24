@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 16/10/2024
-Last Edited: December 14, 2025 7:11 PM
+Last Edited: December 19, 2025 1:29 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -20,7 +20,8 @@ In the next room, various students were seated as a black student facilitated th
 
 ## Influences
 
-- I heard my brother share a story yesterday about how he failed to cook an unusual international recipe when he was younger involving eggs and milk. “Banana snow desert.”: [https://youtu.be/DPXifKoRDRw?si=0yF6zmKEc2cbD-cm](https://youtu.be/DPXifKoRDRw?si=0yF6zmKEc2cbD-cm)
+- Personal Experiences:
+    - I heard my brother share a story yesterday about how he failed to cook an unusual international recipe when he was younger called Banana Snow Desert, containing bananas, eggs, and milk.
 
 ## Symbols
 
@@ -28,4 +29,4 @@ In the next room, various students were seated as a black student facilitated th
 
 ## Lessons
 
-- N/A.
+- It's okay to try new things.

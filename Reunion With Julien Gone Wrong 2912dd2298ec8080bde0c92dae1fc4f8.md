@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 13/10/2025
-Last Edited: December 15, 2025 5:22 PM
+Last Edited: December 22, 2025 8:13 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -18,12 +18,17 @@ I was standing in a random house when I reunited with Julien, my friend from sch
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - I have lost contact with Julien, my friend from school, and miss him.
+    - My brother spends too much time scrolling social media on his phone every day.
 
 ## Symbols
 
-- N/A.
+- Ignored:
+    - The fear that Julien has lost interest in me and is not the person who I once knew.
+- TikTok:
+    - Feeling annoyed about how much time it wastes and the poor content it promotes.
 
 ## Lessons
 
-- N/A.
+- Mindlessly scrolling social media steals your time, potential, and relationships.

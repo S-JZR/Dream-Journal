@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 01/01/2024
-Last Edited: December 18, 2025 2:59 AM
+Last Edited: December 20, 2025 1:15 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -33,13 +33,13 @@ After realizing we were on the wrong floor we moved to the correct room and took
 **Teacher**: Before we start working with the client lets review the theory we learnt this year.
 > 
 
-However, only one individual could recall anything, leaving the rest frantically taking notes in hopes of maintaining direction later. A female student had a mental breakdown and walked towards the hallway.
+As the teacher quizzed everyone on theory, only one student could recall anything and the rest frantically taking took notes in hopes of maintaining direction later. A female student had a mental breakdown and walked towards the hallway.
 
 > **Female Student**: I cannot adhere these rigid design rules!
 **Me**: There’s nothing stopping you from creating an artistic display that challenges public perceptions or incorporates cultural traditions.
 > 
 
-When the time was up, everyone regrouped on another level to sit down on the floor. The previous student had another mental breakdown as indicated by her messy hair and others began mocking her as the client ascended the stairs and maintained his composure.
+She was cheerful and returned to her seat. We ran out of time and everyone regrouped on another level to sit down on the floor. The previous student had another mental breakdown as indicated by her messy hair and others began mocking her as the client ascended the stairs and maintained his composure.
 
 > **Students**: *Chicken noises*
 **Me**: Stop the client is coming!
@@ -60,12 +60,21 @@ The client stood with a stern expression as the elevator doors closed and he des
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - During a group assessment in university we proposed the design of a new small public attraction at Northshore Hamilton for a government client and I felt like it was a mediocre solution.
+- News:
+    - Australia is undergoing a housing crisis: [https://www.salvationarmy.org.au/need-help/homelessness-support-services/homelessness-week/homelessness-statistics/australia-housing-crisis/](https://www.salvationarmy.org.au/need-help/homelessness-support-services/homelessness-week/homelessness-statistics/australia-housing-crisis/).
 
 ## Symbols
 
-- N/A.
+- 3D Model:
+    - The fear that I’m not skilled enough for a job.
+- Forgetting Theory:
+    - At the end of university I was worried that I forget almost everything I learnt.
+    - Team members in group assessments often never read the prescribed reading.
+- Crazy Student:
+    - Feeling trapped in university and unable to work on my side projects.
 
 ## Lessons
 
-- N/A.
+- Success requires competence.

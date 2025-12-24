@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 17/10/2024
-Last Edited: December 11, 2025 10:02 PM
+Last Edited: December 18, 2025 5:35 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -25,7 +25,8 @@ My brother sat at the back, while my mother and I went to the left side of the c
 
 ## Symbols
 
-- N/A.
+- High-speed Chase:
+    - Feeling anxious when my dad drives.
 
 ## Lessons
 

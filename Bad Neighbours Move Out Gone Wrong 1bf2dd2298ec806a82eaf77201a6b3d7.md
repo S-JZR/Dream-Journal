@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: 22/03/2025
-Last Edited: December 17, 2025 7:00 PM
+Last Edited: December 25, 2025 12:26 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -71,20 +71,30 @@ Various people, including those on the Mezzanine above, laughed at her and I fel
 
 ## Influences
 
-- N/A.
+- Personal Experience:
+    - Since last year we had bad neighbours move in that were the worst we’ve ever had to deal with that never accepted advice, constantly yelled at each other with poor family relationships, had no regard for noise, and manipulated to get their way.
+    - When learning to drive in the past, my dad would tell me to switch off the lights and engine when returning to the carpark in the unit complex to avoid disturbing the neighbours.
+    - I constantly struggle to park between the lines.
 
 ## Symbols
 
-- N/A.
+- Insect:
+    - My mum got overly upset by the neighbours but I didn’t let it bother me.
+- Paint:
+    - Problems that others are trying to force upon me.
+- Cycle Arguments:
+    - I dislike people who engage in endless petty arguments just to prove they’re right.
+- Idol:
+    - My mum occasionally says foolish things or sweeping statements that make me cringe or unsure what to think about it.
 
 ## Lessons
 
-- N/A.
+- Control your emotions and don't let every negative event provoke a reaction.
 
 # Pre Dream
 
-- My mum told me that the neighbour were officially moving out.
+- My mum said the neighbours were officially moving out and put their property on the market.
 
 # Post Dream
 
-- Possibly predicted the neighbours demanding money from another neighbour over suspicious circumstances about seven months later. [Details are classified for now out of safety].
+- Possibly predicted the neighbours demanding money from another neighbour over suspicious circumstances about seven months later. [Classified for now].

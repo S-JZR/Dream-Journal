@@ -2,13 +2,13 @@
 
 Favourite: Yes
 Date Created: 28/04/2025
-Last Edited: December 15, 2025 10:07 PM
+Last Edited: December 24, 2025 2:56 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
 Locations: Primary School, University
 Characters: Students, Teachers
-Influences: Personal Thoughts
+Influences: Personal Experiences
 
 # Description
 
@@ -22,15 +22,21 @@ As I sat in the front row with the teacher's desk in front, she called my name a
 
 ## Influences
 
-- I only learnt maths A in secondary school and worry that I’ve limited my future success.
-- “Role call”: too embarrassing to share.
+- Personals Experiences:
+    - I only learnt maths A in secondary school and worry that I’ve limited my future success.
+    - I’m still uncertain of where I want to end up in my career and haven't explored it too deeply.
+    - The “Role Call” is too embarrassing to share.
 
 ## Symbols
 
-- Engineering class: the fear that I chose the wrong career and should have pursued engineering to make a long-term impact.
-- No specialization:
-    - I still don’t know where I want to end up in my career.
+- Engineering Class:
+    - The fear that I should have become an engineer to make a long-term impact.
+- No Specialization:
+    - Uncertain about my career.
+- Role Call:
+    - Still adjusting to the independence expected by university.
 
 ## Lessons
 
+- Success requires full commitment.
 - Honour is earned by merit.

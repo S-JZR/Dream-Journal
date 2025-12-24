@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: 04/03/2025
-Last Edited: December 18, 2025 1:55 AM
+Last Edited: December 24, 2025 2:07 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
@@ -32,7 +32,7 @@ After instantly progressing through an entire visual art degree, I was asked in 
 > **Woman**: Would any of you like to buy some to raise money for charity?
 > 
 
-The university hosted an art competition and invited various local and international students, including me. Dejan, a friend from secondary school, was there to help me. The international students, including Tom from secondary school, flew in by plane but were delayed due to government restrictions from cyclone Alfred passing by the coast.
+The university hosted an art competition and invited various local and international students, including me. Dejan, a friend from secondary school, was there to help me. The international students, including Tom from secondary school, flew in by plane but were delayed due to government restrictions from Cyclone Alfred passing by the coast.
 
 - Most students created illuminated arcade machines.
 - Other students created a modern art diorama with yellow walls overlaid with black square patches, symbolizing triumphing over danger.
@@ -74,12 +74,26 @@ After arriving at Subway, I walked behind the counter as staff let me look aroun
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - I often feel like university is a waste of time.
+    - I had female students in a CI class once who were researching how women are oppressed by male dominated industries.
+    - I’m trying to finish a double degree and failed my CS capstone because I don’t feel skilled enough, teammates in my CI capstone were awful and made me do most of the work, and other simultaneous problems.
+    - My brother shared a story about how a university teacher emailed his class saying that nobody will hire them because they’re lazy and entitled.
+- News:
+    - Student performance is declining: [https://www.theguardian.com/australia-news/2023/nov/27/australian-education-in-long-term-decline-due-to-poor-curriculum-report-says](https://www.theguardian.com/australia-news/2023/nov/27/australian-education-in-long-term-decline-due-to-poor-curriculum-report-says).
+    - More students are dropping out of university: [https://ipa.org.au/read/fees-for-no-degrees](https://ipa.org.au/read/fees-for-no-degrees).
+    - Warnings were issued about Cyclone Alfred approaching the coast: [https://en.wikipedia.org/wiki/Cyclone_Alfred](https://en.wikipedia.org/wiki/Cyclone_Alfred).
 
 ## Symbols
 
-- N/A.
+- Convenience Store:
+    - I feel like university and charities are purposefully trying to get money out of us even though we’re in debt.
+- Cashier:
+    - Feeling like I’m trapped in university and can’t do what I want.
+    - Self-criticism about running away from my responsibilities and not achieving enough.
+- Conceptual Art:
+    - I feel like most conceptual art is confusing and the message is unclear or trivial.
 
 ## Lessons
 
-- N/A.
+- The education system may fail you but ultimately you're responsible for your learning.

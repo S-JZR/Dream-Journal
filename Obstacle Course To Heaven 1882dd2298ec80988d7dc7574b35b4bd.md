@@ -2,13 +2,13 @@
 
 Favourite: No
 Date Created: 01/01/2014
-Last Edited: December 14, 2025 4:54 PM
+Last Edited: December 18, 2025 5:23 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
 Locations: Heaven, Obstacle Course, Space
 Characters: Ghosts
-Influences: Personal Experiences
+Influences: Christianity, Personal Experiences
 
 # Description
 
@@ -21,12 +21,15 @@ I was standing on a rectangular platform in a black void in the afterlife with o
 
 ## Influences
 
-- I’ve always struggled with believing in God.
-- Betting limbs: it seems like a morbid parody of Matthew 5:30.
+- Personal Experiences:
+    - I’ve always struggled with believing in God.
+- Christianity:
+    - Betting limbs sounds like a morbid parody of Matthew 5:30.
 
 ## Symbols
 
-- Obstacle course: heaven feels impossible to reach and I don’t know where to begin.
+- Obstacle Course:
+    - Heaven feels impossible to reach and I don’t know where to begin.
 
 ## Lessons
 

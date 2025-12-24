@@ -2,13 +2,13 @@
 
 Favourite: Yes
 Date Created: 01/01/2017
-Last Edited: December 14, 2025 6:57 PM
+Last Edited: December 22, 2025 3:09 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Amphitheatre, Church
 Characters: Brooke A, Dictators, Misc People, Satan
-Influences: Personal Thoughts
+Influences: Christianity, Personal Experiences, Personal Thoughts
 
 # Description
 
@@ -22,7 +22,7 @@ I was standing inside a complex with a crowd walking in a line through a spiral 
 
 Everyone listened intently to his words and I tried to jokingly discredit him to Brooke beside me, a student who read science textbooks during religious education classes in primary school.
 
-> **Me**: (To Brooke): Can you believe this guy?
+> **Me**: Can you believe this guy?
 **Brooke**: Stop being ridiculous.
 > 
 
@@ -32,12 +32,53 @@ After fleeing into the hallway, I encountered Satan, a muscular red horned creat
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - During religious education I saw Brooke sitting at the row of computer desks to the left of the classroom studying science textbooks because she was probably an atheist.
+    - I’ve heard people claim Lucifer as a hero who rebelled against the perceived totalitarian rule of God who withheld knowledge and our true potential, and that we should question authority, be self-worshipers, and embrace complete autonomy.
+    - I’ve heard people claim religion and traditions are outdated, oppressive, and hold us back from utopia and scientific progress so we should embrace a new era of science, reason, philosophy, progressivism, and humanism.
+    - I see a lot of hatred in some people who push progressive ideologies.
+- Personal Thoughts:
+    - I’ve wrestled and been afraid for a long time about:
+        - Technology:
+            - People playing god via technology.
+            - People trying to create a new race of people.
+            - Replacing the image of God via technology.
+            - People trying to create a robot god to manage society.
+            - Everyone rejecting the consequences of sin via technology.
+            - Information monopolies normalizing sin.
+        - Identity:
+            - The stupidity of racism, war, and division, and considering a transcendent identity.
+        - Religion:
+            - Were humans made weak by God?
+            - Is God trustworthy?
+        - Politics:
+            - The fear of an evil figure manipulating humanity’s desire for freedom, equality and lusts to promote a personal agenda.
+- Christianity:
+    - Reminds me of Romans 12:2, John 15:18–19, Ephesians 6:12, Matthew 7:13-14, and James 4:7.
+    - References the Tower of Babel.
 
 ## Symbols
 
-- N/A.
+- Amphitheatre:
+    - Upside down Tower of Babel.
+    - The world.
+- Fences:
+    - False freedom, security, and enlightenment.
+    - Descending further into deception and corruption.
+- Brooke:
+    - The fear of being blinded by society and pride.
+    - I don't think science itself is bad.
+- 1960’s TV:
+    - The start of the sexual revolution.
+- Dictator:
+    - Rebelliousness and hatred against God, his followers, and the natural order.
+    - The desire to be like god.
 
 ## Lessons
 
-- N/A.
+- Don't be conformed to the pattern of this world.
+- Submit to God, resist the devil, and he will flee from you.
+
+# Notes
+
+- I don't remember the exact dialogue and this is a recreation.

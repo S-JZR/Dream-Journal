@@ -2,13 +2,13 @@
 
 Favourite: Yes
 Date Created: 17/09/2025
-Last Edited: December 15, 2025 4:56 PM
+Last Edited: December 22, 2025 7:07 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Train, Void
 Characters: Misc People, Pilots
-Influences: Personal Thoughts
+Influences: Personal Experiences, Personal Thoughts
 
 # Description
 
@@ -34,12 +34,28 @@ I ignored them and crossed a boundary that teleported me back to the real world.
 
 ## Influences
 
-- N/A.
+- Personal Experiences:
+    - Likely references being on Discord servers where everyone always posts stupid memes and are overly obsessed with videogames and vain things.
+- Personal Thoughts:
+    - I'm constantly worried that I'm letting myself go and wasting my life on videogames and other distractions.
 
 ## Symbols
 
-- N/A.
+- Weary:
+    - Losing the willpower to resist temptations and addictions.
+    - Not reaching out for help.
+- Blinded By The Light:
+    - Surrendering to the spectacle and giving it full attention.
+- Crowd:
+    - Feeling like most people mindlessly waste their time on videogames, porn, and other vain things.
+- Pink Goo:
+    - Being consumed by distractions and vain things.
+    - Loss of self, time, and potential.
+    - The fear of dying without reaching my true potential.
+- One Foot In The Fire:
+    - I'm complacently behaving like everyone else and doing what I hate.
 
 ## Lessons
 
-- N/A.
+- Reach out for help if you’re struggling to resist temptations and addictions.
+- Spectacles are prevalent and demand attention but don't waste your time pursuing them.
