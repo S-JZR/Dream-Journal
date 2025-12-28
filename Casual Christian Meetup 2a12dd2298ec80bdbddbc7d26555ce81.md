@@ -1,7 +1,7 @@
 # Casual Christian Meetup
 
 Favourite: No
-Date Created: 04/11/2025
+Date Created: November 4, 2025
 Last Edited: December 19, 2025 6:17 PM
 Type: Normal
 Age Rating: SFW

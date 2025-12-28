@@ -1,7 +1,7 @@
 # Hardcore Videogame
 
 Favourite: No
-Date Created: 04/04/2025
+Date Created: April 4, 2025
 Last Edited: December 13, 2025 6:52 PM
 Type: Normal
 Age Rating: SFW

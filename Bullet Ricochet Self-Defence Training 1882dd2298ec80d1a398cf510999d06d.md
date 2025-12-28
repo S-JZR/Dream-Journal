@@ -1,7 +1,7 @@
 # Bullet Ricochet Self-Defence Training
 
 Favourite: No
-Date Created: 28/01/2021
+Date Created: January 28, 2021
 Last Edited: December 3, 2025 1:59 PM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # School Sports Captain Becomes An Engineer
 
 Favourite: No
-Date Created: 11/04/2025
+Date Created: April 11, 2025
 Last Edited: December 22, 2025 3:42 PM
 Type: Normal
 Age Rating: SFW

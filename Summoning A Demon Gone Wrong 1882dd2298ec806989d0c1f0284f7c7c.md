@@ -1,7 +1,7 @@
 # Summoning A Demon Gone Wrong
 
 Favourite: Yes
-Date Created: 06/02/2023
+Date Created: February 6, 2023
 Last Edited: December 25, 2025 12:22 AM
 Type: Nightmare
 Age Rating: NSFW

@@ -1,7 +1,7 @@
 # Questioning God During A Cavalry Ambush
 
 Favourite: Yes
-Date Created: 12/04/2025
+Date Created: April 12, 2025
 Last Edited: December 12, 2025 12:34 AM
 Type: Nightmare
 Age Rating: SFW

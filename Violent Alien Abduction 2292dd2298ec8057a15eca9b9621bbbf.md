@@ -1,7 +1,7 @@
 # Violent Alien Abduction
 
 Favourite: No
-Date Created: 01/01/2013
+Date Created: January 1, 2013
 Last Edited: December 10, 2025 1:17 AM
 Type: Nightmare
 Age Rating: NSFW

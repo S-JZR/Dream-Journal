@@ -1,7 +1,7 @@
 # Rejected Experimental Robot Conquers Earth
 
 Favourite: Yes
-Date Created: 01/01/2017
+Date Created: January 1, 2017
 Last Edited: December 11, 2025 3:18 PM
 Type: Nightmare
 Age Rating: SFW

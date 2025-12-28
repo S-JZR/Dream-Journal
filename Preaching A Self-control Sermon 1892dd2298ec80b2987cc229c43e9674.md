@@ -1,7 +1,7 @@
 # Preaching A Self-control Sermon
 
 Favourite: Yes
-Date Created: 16/01/2024
+Date Created: January 16, 2024
 Last Edited: December 22, 2025 10:56 PM
 Type: Nightmare
 Age Rating: SFW

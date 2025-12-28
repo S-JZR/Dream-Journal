@@ -1,7 +1,7 @@
 # Self-Aware Sleep Talking
 
 Favourite: Yes
-Date Created: 01/01/2010
+Date Created: January 1, 2010
 Last Edited: December 1, 2025 6:13 PM
 Type: Half-Asleep
 Age Rating: SFW

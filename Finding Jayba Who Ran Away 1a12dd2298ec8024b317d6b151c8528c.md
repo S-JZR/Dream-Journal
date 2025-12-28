@@ -1,7 +1,7 @@
 # Finding Jayba Who Ran Away
 
 Favourite: No
-Date Created: 01/01/2014
+Date Created: January 1, 2014
 Last Edited: December 10, 2025 1:42 AM
 Type: Normal
 Age Rating: SFW

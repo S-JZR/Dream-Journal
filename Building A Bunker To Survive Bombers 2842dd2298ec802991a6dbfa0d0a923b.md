@@ -1,7 +1,7 @@
 # Building A Bunker To Survive Bombers
 
 Favourite: No
-Date Created: 06/10/2025
+Date Created: October 6, 2025
 Last Edited: December 12, 2025 4:09 AM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Extreme Swimming Lessons Gone Wrong
 
 Favourite: No
-Date Created: 18/06/2025
+Date Created: June 18, 2025
 Last Edited: December 13, 2025 3:41 AM
 Type: Normal
 Age Rating: SFW

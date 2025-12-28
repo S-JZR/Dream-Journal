@@ -1,7 +1,7 @@
 # Rescuing God From A Demonic Obelisk
 
 Favourite: Yes
-Date Created: 01/01/2017
+Date Created: January 1, 2017
 Last Edited: December 12, 2025 8:29 PM
 Type: Nightmare
 Age Rating: SFW

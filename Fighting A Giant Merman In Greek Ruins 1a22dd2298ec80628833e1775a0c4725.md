@@ -1,7 +1,7 @@
 # Fighting A Giant Merman In Greek Ruins
 
 Favourite: No
-Date Created: 17/10/2024
+Date Created: October 17, 2024
 Last Edited: December 13, 2025 1:01 AM
 Type: Normal
 Age Rating: SFW

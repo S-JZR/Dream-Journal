@@ -1,7 +1,7 @@
 # Scavenging An Abandoned Underground Facility
 
 Favourite: No
-Date Created: 29/11/2023
+Date Created: November 29, 2023
 Last Edited: December 12, 2025 10:14 PM
 Type: Nightmare
 Age Rating: SFW

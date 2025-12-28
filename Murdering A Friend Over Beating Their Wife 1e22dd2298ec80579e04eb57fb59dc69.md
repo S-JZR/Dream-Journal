@@ -1,7 +1,7 @@
 # Murdering A Friend Over Beating Their Wife
 
 Favourite: No
-Date Created: 26/04/2025
+Date Created: April 26, 2025
 Last Edited: December 13, 2025 2:59 AM
 Type: Nightmare
 Age Rating: NSFW

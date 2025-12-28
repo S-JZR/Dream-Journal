@@ -1,8 +1,8 @@
-# Unemployed Man-child And The Rise Of Nazi Germany
+# The Man-child And The Rise Of Nazi Germany
 
 Favourite: Yes
-Date Created: 19/12/2024
-Last Edited: December 19, 2025 4:00 AM
+Date Created: December 19, 2024
+Last Edited: December 25, 2025 2:56 AM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear

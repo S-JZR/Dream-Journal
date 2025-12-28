@@ -1,7 +1,7 @@
 # Food Court Excursion Gone Wrong
 
 Favourite: No
-Date Created: 05/04/2025
+Date Created: April 5, 2025
 Last Edited: December 13, 2025 2:49 AM
 Type: Normal
 Age Rating: SFW

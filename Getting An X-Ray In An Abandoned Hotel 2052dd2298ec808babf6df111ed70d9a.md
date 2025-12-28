@@ -1,7 +1,7 @@
 # Getting An X-Ray In An Abandoned Hotel
 
 Favourite: No
-Date Created: 29/05/2025
+Date Created: May 29, 2025
 Last Edited: December 12, 2025 1:21 AM
 Type: Normal
 Age Rating: SFW

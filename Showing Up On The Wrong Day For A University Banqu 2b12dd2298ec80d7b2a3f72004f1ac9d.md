@@ -1,7 +1,7 @@
 # Showing Up On The Wrong Day For A University Banquet
 
 Favourite: No
-Date Created: 18/04/2024
+Date Created: April 18, 2024
 Last Edited: December 11, 2025 6:56 PM
 Type: Nightmare
 Age Rating: SFW

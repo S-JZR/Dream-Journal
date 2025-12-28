@@ -1,7 +1,7 @@
 # Refugees Flee An Evil Military
 
 Favourite: No
-Date Created: 19/01/2024
+Date Created: January 19, 2024
 Last Edited: December 3, 2025 5:14 PM
 Type: Nightmare
 Age Rating: NSFW
