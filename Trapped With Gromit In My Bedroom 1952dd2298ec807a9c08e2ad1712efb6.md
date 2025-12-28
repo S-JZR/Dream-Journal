@@ -1,7 +1,7 @@
 # Trapped With Gromit In My Bedroom
 
 Favourite: No
-Date Created: 01/01/2005
+Date Created: January 1, 2005
 Last Edited: December 13, 2025 5:21 PM
 Type: Nightmare
 Age Rating: SFW

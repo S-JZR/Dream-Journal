@@ -1,7 +1,7 @@
 # Confronting An Abusive Substitute Teacher
 
 Favourite: Yes
-Date Created: 01/05/2025
+Date Created: May 1, 2025
 Last Edited: December 13, 2025 3:05 AM
 Type: Nightmare
 Age Rating: SFW

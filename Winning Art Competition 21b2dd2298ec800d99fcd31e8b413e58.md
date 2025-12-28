@@ -1,7 +1,7 @@
 # Winning Art Competition
 
 Favourite: No
-Date Created: 21/06/2025
+Date Created: June 21, 2025
 Last Edited: December 13, 2025 3:43 AM
 Type: Normal
 Age Rating: SFW

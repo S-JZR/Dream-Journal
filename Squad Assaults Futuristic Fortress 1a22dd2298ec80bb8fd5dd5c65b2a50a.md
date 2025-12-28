@@ -1,7 +1,7 @@
 # Squad Assaults Futuristic Fortress
 
 Favourite: No
-Date Created: 28/01/2021
+Date Created: January 28, 2021
 Last Edited: December 12, 2025 9:26 PM
 Type: Normal
 Age Rating: SFW

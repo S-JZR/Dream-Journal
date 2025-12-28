@@ -1,7 +1,7 @@
 # Avoiding Gunmen In A Carpark
 
 Favourite: No
-Date Created: 06/08/2025
+Date Created: August 6, 2025
 Last Edited: December 6, 2025 4:30 AM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Shrapnel Pierces A Soldier's Brain
 
 Favourite: No
-Date Created: 01/01/2016
+Date Created: January 1, 2016
 Last Edited: December 12, 2025 8:20 PM
 Type: Nightmare
 Age Rating: SFW

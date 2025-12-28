@@ -1,7 +1,7 @@
 # Haunted Church Funeral
 
 Favourite: Yes
-Date Created: 01/01/2020
+Date Created: January 1, 2020
 Last Edited: December 12, 2025 8:43 PM
 Type: Nightmare
 Age Rating: SFW

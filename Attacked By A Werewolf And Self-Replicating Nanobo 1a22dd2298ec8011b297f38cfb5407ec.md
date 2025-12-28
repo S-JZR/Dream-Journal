@@ -1,7 +1,7 @@
 # Attacked By A Werewolf And Self-Replicating Nanobots
 
 Favourite: Yes
-Date Created: 02/12/2022
+Date Created: December 2, 2022
 Last Edited: December 12, 2025 10:19 PM
 Type: Nightmare
 Age Rating: SFW

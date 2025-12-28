@@ -1,7 +1,7 @@
 # Rescuing Party Guests From A Gas Attack Gone Wrong
 
 Favourite: No
-Date Created: 20/03/2025
+Date Created: March 20, 2025
 Last Edited: December 13, 2025 2:39 AM
 Type: Nightmare
 Age Rating: SFW

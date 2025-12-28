@@ -1,7 +1,7 @@
 # Travelling Across A Volcanic Island Gone Wrong
 
 Favourite: No
-Date Created: 17/08/2024
+Date Created: August 17, 2024
 Last Edited: December 13, 2025 12:51 AM
 Type: Nightmare
 Age Rating: SFW

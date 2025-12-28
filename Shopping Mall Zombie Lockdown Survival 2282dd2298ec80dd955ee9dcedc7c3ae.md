@@ -1,7 +1,7 @@
 # Shopping Mall Zombie Lockdown Survival
 
 Favourite: No
-Date Created: 03/07/2025
+Date Created: July 3, 2025
 Last Edited: December 22, 2025 4:17 PM
 Type: Nightmare
 Age Rating: SFW

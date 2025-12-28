@@ -1,7 +1,7 @@
 # A Man Sings A Call To Repentance
 
 Favourite: No
-Date Created: 18/07/2025
+Date Created: July 18, 2025
 Last Edited: December 13, 2025 3:55 AM
 Type: Normal
 Age Rating: SFW

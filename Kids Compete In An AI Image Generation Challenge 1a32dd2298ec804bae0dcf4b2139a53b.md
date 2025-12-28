@@ -1,7 +1,7 @@
 # Kids Compete In An AI Image Generation Challenge
 
 Favourite: No
-Date Created: 16/12/2024
+Date Created: December 16, 2024
 Last Edited: December 13, 2025 1:09 AM
 Type: Normal
 Age Rating: SFW

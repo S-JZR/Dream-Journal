@@ -1,7 +1,7 @@
 # Investigating Sleeping Clones Of My Dad
 
 Favourite: No
-Date Created: 11/01/2020
+Date Created: January 11, 2020
 Last Edited: December 5, 2025 4:34 PM
 Type: Nightmare
 Age Rating: SFW

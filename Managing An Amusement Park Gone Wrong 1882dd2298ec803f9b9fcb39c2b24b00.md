@@ -1,7 +1,7 @@
 # Managing An Amusement Park Gone Wrong
 
 Favourite: No
-Date Created: 17/12/2020
+Date Created: December 17, 2020
 Last Edited: December 19, 2025 6:32 PM
 Type: Normal
 Age Rating: SFW

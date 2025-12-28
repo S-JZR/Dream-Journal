@@ -1,7 +1,7 @@
 # Hostage Negotiation Temporary Swap
 
 Favourite: No
-Date Created: 17/03/2024
+Date Created: March 17, 2024
 Last Edited: December 8, 2025 12:21 AM
 Type: Normal
 Age Rating: SFW

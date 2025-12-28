@@ -1,7 +1,7 @@
 # Astronaut Finds An Automated Planet Gone Wrong
 
 Favourite: Yes
-Date Created: 29/04/2025
+Date Created: April 29, 2025
 Last Edited: December 13, 2025 3:02 AM
 Type: Nightmare
 Age Rating: SFW

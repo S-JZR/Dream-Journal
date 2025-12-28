@@ -1,7 +1,7 @@
 # Haunted Mansion Investigation Gone Wrong
 
 Favourite: No
-Date Created: 11/06/2025
+Date Created: June 11, 2025
 Last Edited: December 12, 2025 1:30 AM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Demonic Fortune-telling For World Leaders
 
 Favourite: No
-Date Created: 19/09/2023
+Date Created: September 19, 2023
 Last Edited: December 11, 2025 5:25 PM
 Type: Nightmare
 Age Rating: SFW

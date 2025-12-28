@@ -1,7 +1,7 @@
 # Line Art Of Primary School
 
 Favourite: No
-Date Created: 01/01/2023
+Date Created: January 1, 2023
 Last Edited: December 12, 2025 9:38 PM
 Type: Normal
 Age Rating: SFW

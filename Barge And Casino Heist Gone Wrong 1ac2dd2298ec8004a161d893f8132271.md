@@ -1,7 +1,7 @@
 # Barge And Casino Heist Gone Wrong
 
 Favourite: No
-Date Created: 28/02/2025
+Date Created: February 28, 2025
 Last Edited: December 7, 2025 2:37 AM
 Type: Normal
 Age Rating: SFW

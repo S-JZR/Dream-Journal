@@ -1,7 +1,7 @@
 # Storm Drenches Clothes Left Outside
 
 Favourite: No
-Date Created: 07/04/2025
+Date Created: April 7, 2025
 Last Edited: December 4, 2025 9:38 PM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Driving A Car With An Xbox Kinect Gone Wrong
 
 Favourite: No
-Date Created: 19/09/2020
+Date Created: September 19, 2020
 Last Edited: December 12, 2025 10:10 PM
 Type: Nightmare
 Age Rating: SFW

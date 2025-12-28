@@ -1,7 +1,7 @@
 # Blue Aliens Visit Earth To Showcase Their Lazer Eyes
 
 Favourite: No
-Date Created: 05/02/2025
+Date Created: February 5, 2025
 Last Edited: December 13, 2025 1:35 AM
 Type: Normal
 Age Rating: SFW

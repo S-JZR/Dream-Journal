@@ -1,7 +1,7 @@
 # Entering A Portal And Becoming Someone Else
 
 Favourite: No
-Date Created: 01/01/2014
+Date Created: January 1, 2014
 Last Edited: December 12, 2025 6:11 PM
 Type: Nightmare
 Age Rating: SFW

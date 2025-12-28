@@ -1,7 +1,7 @@
 # Ignoring A Roadside Fire
 
 Favourite: Yes
-Date Created: 06/07/2024
+Date Created: July 6, 2024
 Last Edited: December 11, 2025 7:20 PM
 Type: Nightmare
 Age Rating: SFW

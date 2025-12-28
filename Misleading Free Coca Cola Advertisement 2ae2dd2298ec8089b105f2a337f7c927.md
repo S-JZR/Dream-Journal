@@ -1,7 +1,7 @@
 # Misleading Free Coca Cola Advertisement
 
 Favourite: No
-Date Created: 10/07/2020
+Date Created: July 10, 2020
 Last Edited: December 3, 2025 12:18 AM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Entering A Posthumanism Indoctrination Facility
 
 Favourite: Yes
-Date Created: 01/01/2017
+Date Created: January 1, 2017
 Last Edited: December 22, 2025 3:09 PM
 Type: Nightmare
 Age Rating: SFW
