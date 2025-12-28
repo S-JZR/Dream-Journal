@@ -1,7 +1,7 @@
 # Indigenous Themed Sports Day
 
 Favourite: No
-Date Created: 16/10/2024
+Date Created: October 16, 2024
 Last Edited: December 19, 2025 1:29 AM
 Type: Normal
 Age Rating: SFW

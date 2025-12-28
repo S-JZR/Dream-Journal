@@ -1,7 +1,7 @@
 # Military Jets Attack Civilians During A Blackout
 
 Favourite: No
-Date Created: 02/12/2022
+Date Created: December 2, 2022
 Last Edited: December 11, 2025 5:14 PM
 Type: Nightmare
 Age Rating: SFW

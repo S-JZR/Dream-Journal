@@ -1,7 +1,7 @@
 # Winning A MrBeast Gameshow
 
 Favourite: No
-Date Created: 15/06/2024
+Date Created: June 15, 2024
 Last Edited: December 13, 2025 12:35 AM
 Type: Normal
 Age Rating: SFW

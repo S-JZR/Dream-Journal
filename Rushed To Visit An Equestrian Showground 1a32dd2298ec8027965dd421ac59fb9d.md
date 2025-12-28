@@ -1,7 +1,7 @@
 # Rushed To Visit An Equestrian Showground
 
 Favourite: No
-Date Created: 04/10/2024
+Date Created: October 4, 2024
 Last Edited: December 11, 2025 9:46 PM
 Type: Normal
 Age Rating: NSFW

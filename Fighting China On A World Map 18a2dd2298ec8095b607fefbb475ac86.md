@@ -1,7 +1,7 @@
 # Fighting China On A World Map
 
 Favourite: No
-Date Created: 13/01/2025
+Date Created: January 13, 2025
 Last Edited: December 13, 2025 1:19 AM
 Type: Nightmare
 Age Rating: SFW

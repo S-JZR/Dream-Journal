@@ -1,7 +1,7 @@
 # Stranger Questions My Mother's Old Age
 
 Favourite: Yes
-Date Created: 15/02/2025
+Date Created: February 15, 2025
 Last Edited: December 13, 2025 1:41 AM
 Type: Nightmare
 Age Rating: SFW

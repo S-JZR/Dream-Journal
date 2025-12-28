@@ -1,7 +1,7 @@
 # Curfew Outside My Unit
 
 Favourite: No
-Date Created: 09/12/2020
+Date Created: December 9, 2020
 Last Edited: December 3, 2025 2:07 PM
 Type: Nightmare
 Age Rating: SFW

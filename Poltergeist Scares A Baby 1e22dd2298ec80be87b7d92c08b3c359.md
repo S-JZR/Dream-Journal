@@ -1,7 +1,7 @@
 # Poltergeist Scares A Baby
 
 Favourite: No
-Date Created: 16/02/2024
+Date Created: February 16, 2024
 Last Edited: December 12, 2025 10:28 PM
 Type: Nightmare
 Age Rating: SFW

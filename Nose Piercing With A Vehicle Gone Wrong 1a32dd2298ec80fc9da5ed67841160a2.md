@@ -1,7 +1,7 @@
 # Nose Piercing With A Vehicle Gone Wrong
 
 Favourite: No
-Date Created: 15/01/2025
+Date Created: January 15, 2025
 Last Edited: December 13, 2025 1:25 AM
 Type: Nightmare
 Age Rating: SFW

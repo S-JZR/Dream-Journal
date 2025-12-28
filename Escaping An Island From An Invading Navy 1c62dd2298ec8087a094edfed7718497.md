@@ -1,7 +1,7 @@
 # Escaping An Island From An Invading Navy
 
 Favourite: No
-Date Created: 29/03/2025
+Date Created: March 29, 2025
 Last Edited: December 13, 2025 2:46 AM
 Type: Nightmare
 Age Rating: SFW

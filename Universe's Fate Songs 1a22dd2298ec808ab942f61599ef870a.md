@@ -1,7 +1,7 @@
 # Universe's Fate Songs
 
 Favourite: Yes
-Date Created: 14/03/2024
+Date Created: March 14, 2024
 Last Edited: December 12, 2025 10:32 PM
 Type: Normal
 Age Rating: SFW

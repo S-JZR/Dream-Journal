@@ -1,7 +1,7 @@
 # Playing With Bricks Gone Wrong
 
 Favourite: No
-Date Created: 20/08/2025
+Date Created: August 20, 2025
 Last Edited: December 12, 2025 3:21 AM
 Type: Normal
 Age Rating: SFW

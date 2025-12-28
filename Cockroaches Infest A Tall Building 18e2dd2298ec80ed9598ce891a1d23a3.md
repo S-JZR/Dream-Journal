@@ -1,7 +1,7 @@
 # Cockroaches Infest A Tall Building
 
 Favourite: No
-Date Created: 14/01/2025
+Date Created: January 14, 2025
 Last Edited: December 13, 2025 1:23 AM
 Type: Nightmare
 Age Rating: SFW

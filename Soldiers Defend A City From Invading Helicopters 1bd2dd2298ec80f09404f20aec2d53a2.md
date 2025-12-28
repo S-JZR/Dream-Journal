@@ -1,7 +1,7 @@
 # Soldiers Defend A City From Invading Helicopters
 
 Favourite: No
-Date Created: 20/03/2025
+Date Created: March 20, 2025
 Last Edited: December 11, 2025 11:45 PM
 Type: Nightmare
 Age Rating: SFW

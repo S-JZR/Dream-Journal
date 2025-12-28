@@ -1,7 +1,7 @@
 # Gorilla Face Hallucination
 
 Favourite: No
-Date Created: 01/01/2008
+Date Created: January 1, 2008
 Last Edited: December 1, 2025 5:46 PM
 Type: Half-Asleep
 Age Rating: SFW

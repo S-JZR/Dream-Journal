@@ -1,7 +1,7 @@
 # Road Trip Adventure Reflection
 
 Favourite: Yes
-Date Created: 27/05/2025
+Date Created: May 27, 2025
 Last Edited: December 13, 2025 3:38 AM
 Type: Normal
 Age Rating: SFW

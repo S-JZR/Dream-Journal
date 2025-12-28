@@ -1,7 +1,7 @@
 # Police Island Shootout
 
 Favourite: No
-Date Created: 11/02/2025
+Date Created: February 11, 2025
 Last Edited: December 13, 2025 6:57 PM
 Type: Nightmare
 Age Rating: SFW

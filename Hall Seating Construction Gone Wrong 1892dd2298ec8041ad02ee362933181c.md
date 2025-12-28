@@ -1,7 +1,7 @@
 # Hall Seating Construction Gone Wrong
 
 Favourite: No
-Date Created: 06/09/2024
+Date Created: September 6, 2024
 Last Edited: December 6, 2025 1:47 AM
 Type: Nightmare
 Age Rating: SFW

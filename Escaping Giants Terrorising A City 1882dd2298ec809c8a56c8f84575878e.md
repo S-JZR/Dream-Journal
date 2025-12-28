@@ -1,7 +1,7 @@
 # Escaping Giants Terrorising A City
 
 Favourite: No
-Date Created: 10/07/2020
+Date Created: July 10, 2020
 Last Edited: December 14, 2025 4:29 PM
 Type: Nightmare
 Age Rating: SFW

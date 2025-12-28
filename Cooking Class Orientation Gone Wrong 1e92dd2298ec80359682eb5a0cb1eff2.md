@@ -1,7 +1,7 @@
 # Cooking Class Orientation Gone Wrong
 
 Favourite: Yes
-Date Created: 28/04/2025
+Date Created: April 28, 2025
 Last Edited: December 13, 2025 4:52 PM
 Type: Nightmare
 Age Rating: SFW

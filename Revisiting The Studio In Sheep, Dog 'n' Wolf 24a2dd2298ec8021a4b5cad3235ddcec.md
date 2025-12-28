@@ -1,7 +1,7 @@
 # Revisiting The Studio In Sheep, Dog 'n' Wolf
 
 Favourite: No
-Date Created: 08/08/2025
+Date Created: August 8, 2025
 Last Edited: December 12, 2025 3:08 AM
 Type: Normal
 Age Rating: SFW

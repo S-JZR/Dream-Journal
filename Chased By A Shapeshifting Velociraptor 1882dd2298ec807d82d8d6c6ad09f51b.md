@@ -1,7 +1,7 @@
 # Chased By A Shapeshifting Velociraptor
 
 Favourite: No
-Date Created: 23/11/2020
+Date Created: November 23, 2020
 Last Edited: December 12, 2025 9:00 PM
 Type: Nightmare
 Age Rating: SFW

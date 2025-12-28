@@ -1,7 +1,7 @@
 # Backyard Units Modernized
 
 Favourite: Yes
-Date Created: 01/01/2014
+Date Created: January 1, 2014
 Last Edited: December 12, 2025 6:24 PM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Heavy Fuels A Train To Escape Dragons
 
 Favourite: No
-Date Created: 22/01/2024
+Date Created: January 22, 2024
 Last Edited: December 12, 2025 10:25 PM
 Type: Nightmare
 Age Rating: SFW

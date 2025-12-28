@@ -1,7 +1,7 @@
 # Regretting Music Classes
 
 Favourite: No
-Date Created: 01/11/2025
+Date Created: November 1, 2025
 Last Edited: December 22, 2025 8:29 PM
 Type: Nightmare
 Age Rating: SFW

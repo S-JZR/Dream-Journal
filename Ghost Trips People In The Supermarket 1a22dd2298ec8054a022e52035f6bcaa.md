@@ -1,7 +1,7 @@
 # Ghost Trips People In The Supermarket
 
 Favourite: No
-Date Created: 17/12/2020
+Date Created: December 17, 2020
 Last Edited: December 7, 2025 6:50 PM
 Type: Normal
 Age Rating: SFW

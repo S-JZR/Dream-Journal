@@ -1,7 +1,7 @@
 # Enemy Base Infiltration Gone Wrong
 
 Favourite: No
-Date Created: 20/06/2025
+Date Created: June 20, 2025
 Last Edited: December 12, 2025 1:36 AM
 Type: Normal
 Age Rating: NSFW

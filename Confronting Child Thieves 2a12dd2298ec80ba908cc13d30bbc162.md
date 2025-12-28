@@ -1,7 +1,7 @@
 # Confronting Child Thieves
 
 Favourite: No
-Date Created: 04/11/2025
+Date Created: November 4, 2025
 Last Edited: December 7, 2025 3:06 AM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Zombie Prop Hunt Gone Wrong
 
 Favourite: No
-Date Created: 22/05/2025
+Date Created: May 22, 2025
 Last Edited: December 13, 2025 3:30 AM
 Type: Normal
 Age Rating: SFW

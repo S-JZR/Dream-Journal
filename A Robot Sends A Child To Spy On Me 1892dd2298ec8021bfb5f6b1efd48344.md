@@ -1,7 +1,7 @@
 # A Robot Sends A Child To Spy On Me
 
 Favourite: No
-Date Created: 16/12/2024
+Date Created: December 16, 2024
 Last Edited: December 13, 2025 6:33 PM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Mum Wins A MrBeast Gameshow
 
 Favourite: No
-Date Created: 30/08/2025
+Date Created: August 30, 2025
 Last Edited: December 13, 2025 6:57 PM
 Type: Normal
 Age Rating: SFW

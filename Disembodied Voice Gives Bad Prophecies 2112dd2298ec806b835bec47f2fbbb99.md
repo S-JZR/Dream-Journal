@@ -1,7 +1,7 @@
 # Disembodied Voice Gives Bad Prophecies
 
 Favourite: Yes
-Date Created: 01/01/2014
+Date Created: January 1, 2014
 Last Edited: December 12, 2025 6:29 PM
 Type: Nightmare
 Age Rating: SFW

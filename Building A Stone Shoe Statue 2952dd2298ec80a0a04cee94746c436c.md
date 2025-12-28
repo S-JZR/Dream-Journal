@@ -1,7 +1,7 @@
 # Building A Stone Shoe Statue
 
 Favourite: No
-Date Created: 23/10/2025
+Date Created: October 23, 2025
 Last Edited: December 19, 2025 5:43 PM
 Type: Nightmare
 Age Rating: SFW

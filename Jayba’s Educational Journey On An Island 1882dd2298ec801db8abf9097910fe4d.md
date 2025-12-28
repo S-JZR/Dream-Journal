@@ -1,7 +1,7 @@
 # Jayba’s Educational Journey On An Island
 
 Favourite: No
-Date Created: 12/01/2016
+Date Created: January 12, 2016
 Last Edited: December 12, 2025 8:23 PM
 Type: Normal
 Age Rating: SFW

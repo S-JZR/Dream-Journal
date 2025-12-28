@@ -1,7 +1,7 @@
 # Exposing Demons In A Christian School
 
 Favourite: Yes
-Date Created: 03/07/2025
+Date Created: July 3, 2025
 Last Edited: December 19, 2025 5:39 PM
 Type: Nightmare
 Age Rating: NSFW

@@ -1,7 +1,7 @@
 # Air Show Tricks Gone Wrong
 
 Favourite: No
-Date Created: 04/04/2024
+Date Created: April 4, 2024
 Last Edited: November 29, 2025 7:13 PM
 Type: Normal
 Age Rating: SFW

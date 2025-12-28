@@ -1,7 +1,7 @@
 # Watching The Minecraft Movie Gone Wrong
 
 Favourite: No
-Date Created: 02/05/2025
+Date Created: May 2, 2025
 Last Edited: December 13, 2025 3:26 AM
 Type: Nightmare
 Age Rating: SFW

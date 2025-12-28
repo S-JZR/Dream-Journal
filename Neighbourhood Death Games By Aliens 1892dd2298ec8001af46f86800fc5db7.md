@@ -1,7 +1,7 @@
 # Neighbourhood Death Games By Aliens
 
 Favourite: No
-Date Created: 17/03/2024
+Date Created: March 17, 2024
 Last Edited: December 12, 2025 10:42 PM
 Type: Nightmare
 Age Rating: SFW

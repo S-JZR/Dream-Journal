@@ -1,7 +1,7 @@
 # Bad Teenagers Cause Chaos In My Neighbourhood
 
 Favourite: No
-Date Created: 07/08/2025
+Date Created: August 7, 2025
 Last Edited: December 23, 2025 2:19 AM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Attacked By A Crazy Old Woman And Deformed Dog
 
 Favourite: No
-Date Created: 08/02/2025
+Date Created: February 8, 2025
 Last Edited: December 11, 2025 11:12 PM
 Type: Nightmare
 Age Rating: SFW

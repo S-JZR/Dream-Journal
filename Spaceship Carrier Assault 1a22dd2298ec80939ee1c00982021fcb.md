@@ -1,7 +1,7 @@
 # Spaceship Carrier Assault
 
 Favourite: No
-Date Created: 07/05/2024
+Date Created: May 7, 2024
 Last Edited: December 11, 2025 7:11 PM
 Type: Normal
 Age Rating: SFW

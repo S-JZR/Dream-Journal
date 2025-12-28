@@ -1,7 +1,7 @@
 # Visiting A 20 Storey Shopping Mall
 
 Favourite: No
-Date Created: 25/01/2020
+Date Created: January 25, 2020
 Last Edited: December 5, 2025 4:38 PM
 Type: Normal
 Age Rating: SFW

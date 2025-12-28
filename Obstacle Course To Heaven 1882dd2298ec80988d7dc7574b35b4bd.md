@@ -1,7 +1,7 @@
 # Obstacle Course To Heaven
 
 Favourite: No
-Date Created: 01/01/2014
+Date Created: January 1, 2014
 Last Edited: December 18, 2025 5:23 PM
 Type: Nightmare
 Age Rating: SFW

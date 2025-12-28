@@ -1,7 +1,7 @@
 # Drawing An Anime Woman
 
 Favourite: No
-Date Created: 01/01/2017
+Date Created: January 1, 2017
 Last Edited: December 12, 2025 8:25 PM
 Type: Normal
 Age Rating: SFW

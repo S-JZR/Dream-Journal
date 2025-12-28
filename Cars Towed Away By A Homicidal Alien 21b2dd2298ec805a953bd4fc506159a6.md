@@ -1,7 +1,7 @@
 # Cars Towed Away By A Homicidal Alien
 
 Favourite: No
-Date Created: 21/06/2025
+Date Created: June 21, 2025
 Last Edited: December 13, 2025 3:45 AM
 Type: Nightmare
 Age Rating: SFW

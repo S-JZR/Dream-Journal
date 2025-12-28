@@ -1,7 +1,7 @@
 # Trolled On Omegle By A Fat Man Pretending To Be A Girl
 
 Favourite: No
-Date Created: 24/05/2025
+Date Created: May 24, 2025
 Last Edited: December 13, 2025 6:52 PM
 Type: Nightmare
 Age Rating: SFW

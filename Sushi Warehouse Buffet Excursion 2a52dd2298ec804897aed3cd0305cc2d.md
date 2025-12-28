@@ -1,7 +1,7 @@
 # Sushi Warehouse Buffet Excursion
 
 Favourite: No
-Date Created: 06/11/2025
+Date Created: November 6, 2025
 Last Edited: December 5, 2025 2:27 AM
 Type: Normal
 Age Rating: SFW

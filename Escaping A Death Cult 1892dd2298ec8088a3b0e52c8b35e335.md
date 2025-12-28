@@ -1,7 +1,7 @@
 # Escaping A Death Cult
 
 Favourite: No
-Date Created: 04/04/2024
+Date Created: April 4, 2024
 Last Edited: December 20, 2025 1:53 AM
 Type: Nightmare
 Age Rating: SFW

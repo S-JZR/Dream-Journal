@@ -1,7 +1,7 @@
 # Tuxedoed Crowd Hypnotized By A Presentation
 
 Favourite: No
-Date Created: 07/07/2024
+Date Created: July 7, 2024
 Last Edited: December 13, 2025 12:43 AM
 Type: Nightmare
 Age Rating: SFW

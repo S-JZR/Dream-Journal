@@ -1,7 +1,7 @@
 # Last Day Of Primary School Gone Wrong
 
 Favourite: No
-Date Created: 09/07/2025
+Date Created: July 9, 2025
 Last Edited: December 13, 2025 3:49 AM
 Type: Nightmare
 Age Rating: SFW

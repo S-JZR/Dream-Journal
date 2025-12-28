@@ -1,7 +1,7 @@
 # Carnivorous Plant Attacks A Woman In A Lab
 
 Favourite: No
-Date Created: 01/01/2005
+Date Created: January 1, 2005
 Last Edited: December 7, 2025 5:32 PM
 Type: Nightmare
 Age Rating: SFW

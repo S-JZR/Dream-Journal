@@ -1,7 +1,7 @@
 # Reflecting On My Apeirophobia
 
 Favourite: No
-Date Created: 18/07/2025
+Date Created: July 18, 2025
 Last Edited: December 24, 2025 4:11 PM
 Type: Normal
 Age Rating: SFW

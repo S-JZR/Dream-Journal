@@ -1,7 +1,7 @@
 # Memory Reset Experiment
 
 Favourite: Yes
-Date Created: 01/01/2013
+Date Created: January 1, 2013
 Last Edited: December 10, 2025 1:28 AM
 Type: Nightmare
 Age Rating: SFW
