@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: January 1, 2017
-Last Edited: December 11, 2025 9:48 PM
+Last Edited: December 28, 2025 7:14 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,7 +22,7 @@ I was standing in the lounge room of my unit when police started ramming the fro
 ## Symbols
 
 - Police:
-    - I always feel nervous being around police.
+    - I always feel nervous being followed by police.
 
 ## Lessons
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: January 1, 2005
-Last Edited: December 7, 2025 5:31 PM
+Last Edited: December 28, 2025 6:06 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,9 +11,14 @@ Characters: Explorers, Giant Organism
 
 # Description
 
-The dream resembled an 8-bit 2D platformer video game.
+The dream resembled an 8-bit 2D platformer videogame.
 
-A female explorer travelled right through a grey cave system-like organism. Eventually, she reached a T-junction where the passage curved upward and downward in a C-shape. The disembodied voice of a female narrator said something like she decided to travel towards the brain. As she ascended the path, everything slowly faded to white, prompting me to jolt awake in unease.
+A female explorer travelled right through a grey cave system resembling an organism without a background until encountering a C-shaped junction.
+
+> **Female Narrator**: She decided to travel towards the brain.
+> 
+
+After following the top path everything gradually faded to white.
 
 # Interpretations
 
@@ -27,8 +32,12 @@ A female explorer travelled right through a grey cave system-like organism. Even
 
 ## Lessons
 
-- The mind can be both our greatest friend and enemy depending on how we think.
+- N/A.
 
 # Pre Dream
 
 - I fell asleep in the computer room of the Carina Leagues Club because my mum was taking a long time transferring data to a floppy disk.
+
+# Post Dream
+
+- I jolted awake from feeling uneasy.

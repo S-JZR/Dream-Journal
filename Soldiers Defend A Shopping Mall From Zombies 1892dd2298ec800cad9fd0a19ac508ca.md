@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: May 7, 2024
-Last Edited: December 13, 2025 12:31 AM
+Last Edited: December 29, 2025 6:59 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,9 +11,22 @@ Characters: Misc People, Robots, Soldiers, Zombies
 
 # Description
 
-I was one of many soldiers standing on a remote hill beside a road between two tall smooth concrete buildings when a distant hoard of zombies sprinted towards us. We fled inside the nearest building as zombies already infiltrated it and ambushed the senior general, leaving him injured as two recruits struggled to pull him up the square stairwell. Offering support, I grabbed onto his back for additional force, but eventually realizing that the area would soon become overrun, I opted that we continue ascending the staircase without him to avoid dying. Whilst moving, we began firing shots from the railings to supress the advancement of zombies flooding upwards as others on higher levels joined in to help.
+I was one of many soldiers standing on a remote hill beside a road between two tall smooth concrete buildings when a distant hoard of zombies sprinted towards us. We fled inside the nearest building as zombies already infiltrated it and ambushed the senior general, leaving him injured as two recruits struggled to pull him up the square stairwell. I grabbed onto his back to offer additional support but acknowledged the area would soon be overrun.
 
-In the wide white hallway of a single-storey shopping mall with an elevated ceiling and various central kiosks and side stores, I stood with someone else, posing as realistic humanoid robots sent from the future to warn of an impending zombie outbreak. Assuring them that we were not human, our limbs rotated with precision as we looked at them, but they refrained from listening and departed, regarding us as insane adults.
+> **Me**: We can’t make it in time!
+Me: We need to leave him or we will die!
+> 
+
+Whilst moving, we began firing shots from the railings to supress the advancement of zombies flooding upwards as others on higher levels joined in to help.
+
+I was one of two realistic humanoid robots sent from the future into a wide white hallway of a shopping mall with an elevated ceiling and various central kiosks and side stores. Our limbs rotated with precision as we looked at people.
+
+> **Me**: In a few weeks from now there will be a zombie outbreak!
+**Me**: You must prepare or you will perish!
+**Me**: We are robots from the future!
+> 
+
+Everyone thought we were insane and started walking away from us.
 
 # Interpretations
 

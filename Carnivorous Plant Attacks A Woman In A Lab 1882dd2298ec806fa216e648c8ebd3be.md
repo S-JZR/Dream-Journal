@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: January 1, 2005
-Last Edited: December 7, 2025 5:32 PM
+Last Edited: December 28, 2025 6:11 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,7 @@ Characters: Carnivorous Plant, Scientists
 
 # Description
 
-The dream resembled an 8-bit first-person point-and-click adventure video game.
+The dream resembled an 8-bit first-person point-and-click adventure videogame.
 
 A female lab staff member entered a hallway and confronted a giant carnivorous plant swaying in an idle animation.
 

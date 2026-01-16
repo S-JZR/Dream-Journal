@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: January 1, 2008
-Last Edited: December 12, 2025 5:09 PM
+Last Edited: December 28, 2025 6:16 PM
 Type: Half-Asleep
 Age Rating: SFW
 Main Emotion: Surprise
@@ -19,7 +19,7 @@ I was trying to fall asleep in real life when I hallucinated 2D cartoon bluebird
 ## Influences
 
 - Looney Toons:
-    - References characters seeing birds circling after being hit in the head.
+    - References characters seeing birds circling above their head after being hit in the head.
 
 ## Symbols
 

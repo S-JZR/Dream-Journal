@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: January 1, 2016
-Last Edited: December 12, 2025 6:33 PM
+Last Edited: December 28, 2025 7:09 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -14,14 +14,18 @@ Influences: Team Fortress 2 (2007)
 
 I was one of many soldiers lying prone in the desert in front of a fortress engaged in a firefight with distant soldiers. Everyone was equipped with rifles. We gradually adjusted our aim after each shot and puffs of sand erupted nearby from incoming bullets.
 
-Eventually, a radio transmission from HQ ordered us to retreat into the fortress due to an imminent enemy invasion. As we stood on the parapet walkway, a black enemy tank burst through the front gate and travelled through the streets.
+> **Man**: (radio) An enemy invasion is imminent.
+**Man**: (radio): All personnel must retreat into the fortress immediately.
+> 
+
+Everyone fled inside the fortress and stood on the parapet as a black enemy tank approached over the horizon, burst through the front gate, and travelled through the streets.
 
 # Interpretations
 
 ## Influences
 
 - Team Fortress 2:
-    - References the Mann Vs Machine gamemode where a tank rams through gates.
+    - References the Mann Vs Machine gamemode where a robot tank rams through the front gate.
 
 ## Symbols
 

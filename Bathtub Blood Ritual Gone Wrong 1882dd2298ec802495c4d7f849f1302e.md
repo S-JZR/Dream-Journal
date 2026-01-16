@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: January 1, 2014
-Last Edited: December 12, 2025 6:25 PM
+Last Edited: December 28, 2025 6:53 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -14,12 +14,17 @@ Influences: Freemasonry
 
 I was standing in a dimly lit bathroom with a fictional teenage friend as we performed a ritual by:
 
-- Lighting candles.
-- Filling a white cast iron bathtub with blood.
-- Placing a miniature obelisk on a soap tray on the opposite side of the bathtub.
-- Chanting an unknown phrase.
+1. Lighting candles.
+2. Filling a white cast iron bathtub with blood.
+3. Placing a miniature obelisk on a soap tray on the opposite side of the bathtub.
+4. Chanting an unknown phrase.
 
-The bloody water bubbled as a female human hand emerged, pulling me closer as a disembodied voice threatened us never to disclose the incident or we would die. After descending back down, my friend and I exchanged startled glances and silently departed the room without speaking.
+The bloody water bubbled as a female human hand emerged, grabbed my neck, and pulled me closer. A disembodied female voice threatened us.
+
+> **Female**: Never tell anyone about what you have seen or I will kill you.
+> 
+
+After the hand submerged, my friend and I exchanged startled glances and silently departed the room.
 
 # Interpretations
 
@@ -27,7 +32,7 @@ The bloody water bubbled as a female human hand emerged, pulling me closer as a 
 
 - Freemasonry:
     - References the obelisk and reflection in water that represents “as above, so below”.
-    - I’ve heard there is an oath of secrecy with a symbolic death penalty.
+    - I’ve heard that during the initation there is an oath of secrecy with a symbolic death penalty.
 
 ## Symbols
 

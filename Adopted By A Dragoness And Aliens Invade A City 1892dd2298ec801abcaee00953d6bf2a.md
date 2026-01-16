@@ -2,13 +2,13 @@
 
 Favourite: Yes
 Date Created: March 25, 2024
-Last Edited: December 13, 2025 9:31 PM
+Last Edited: December 29, 2025 5:56 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
-Locations: City, Desert, Home
+Locations: City, Desert, Home, Town
 Characters: Aliens, Cats, Cows, Dragons, Misc People, The Grinch
-Influences: Half Life (1998), Zoochosis (2024)
+Influences: Half Life (1998), How The Grinch Stole Christmas (2000), Zoochosis (2024)
 
 <aside>
 ⚠️
@@ -20,13 +20,49 @@ Influences: Half Life (1998), Zoochosis (2024)
 
 # Description
 
-I was in a remote desert expanse tinged with orange hues, surrounded by modern buildings loosely arranged in a rectangular formation. Among them stood a rustic steakhouse crafted entirely from wooden planks, offering a diverse selection of meats, and concrete three-story apartment buildings with emergency staircases on their exteriors. Due to perpetual shortages, when the steakhouse received shipments via a white semi-trailer truck, large crowds immediately congregated in a frenzy outside the store to buy sausages. Having missed a shipment for a prolonged period, the store owners resorted to allowing swarms of wandering caracal to slaughter customers already dining inside, utilizing their meat in cooking to make profits.
+I was standing in a remote desert town:
 
-Subsequently, an intelligent black giant dragoness began swooping down to terrorize people as they fled in fear on the road between the apartments. However, impressed by my aerobic ability to climb up the ladder to safety, she decided to adopt me. While living with a miniature version of the dragoness in my unit, I overheard her ominous threat to consume my family to feed her offspring should she ever become pregnant. Disturbed by this revelation, I promptly urged everyone to flee, explaining the perilous circumstances, but they opted to stay in doubtful hesitation. Without further delay, I climbed over the back fence and hitched a ride to the city.
+- Left:
+    - Wooden rustic steakhouse.
+- Right:
+    - Concrete apartments with emergency staircases on their exteriors.
 
-A group of aliens with human appearances, conquered the city, imposing imperial rule and enforcing citizen disarmament. Upon arrival, a group and I were compelled to proceed through a long wide hall, walking on a white strip with a series of exhibition windows on the right side. Halfway through, a rectangular segment of the floor beneath me glowed orange, prompting a guard from behind to demand that I turn around. They began issuing leading questions, aiming to identify potential rebels, by asking whether I preferred weaponry or a non-lethal item. Examples included shoes with built-in guns, and grenades, bubbles with varying explosive chemical compositions, or a plain one. After passing, I proceeded to exhibition windows with plasma screen TVs showcasing various occupations to choose from including translating different languages, cooking, and programming video games. The featured video game showed various connected clusters of light-yellow hexagons overlaid with an expanding red pathfinding path trying to reach a point offscreen as the camera panned.
+Due to perpetual shortages, when the steakhouse received shipments via a white semi-trailer truck, large crowds immediately congregated in a frenzy outside the store to buy sausages. Having missed a shipment for a prolonged period, the store owners resorted to allowing swarms of wandering caracal to slaughter customers already dining inside, utilizing their meat in cooking to make profits.
 
-I entered a room to encounter:
+A giant black dragoness swooped down to terrorize people as they fled on the road between the apartments. I jumped onto a car and climbed the ladder on the side of the apartments to safety.
+
+> **Dragoness**: You're aerobic abilities are quite impressive.
+**Dragoness**: I’m going to adopt you as my own little one.
+> 
+
+She picked me up in her hand and flew away. While living with a miniature version of the dragoness in my unit for some time I overheard her talking on the phone.
+
+> **Dragoness**: Don't worry about me Sheryl.
+**Dragoness**: If I ever become pregnant I'll just eat his entire family to feed my children.
+> 
+
+Disturbed by this revelation I met with my family.
+
+> **Me**: We’re not safe here and the dragoness plans to eat us all!
+**Me**: We need to leave now!
+**Mum**: I doubt she meant that.
+**Mum**: Why don’t we just wait and see?
+> 
+
+I fled by climbing over the back fence and hitching a ride to the city. A group of aliens with human appearances, conquered the city, imposing imperial rule and enforcing citizen disarmament. Upon arriving, a group and I were compelled to proceed through a long wide hall, walking on a white strip with a series of exhibition windows on the right side. Halfway through, a rectangular segment of the floor beneath me glowed orange, and a guard approached from behind to check if I was a rebel.
+
+> **Guard**: Turn around.
+**Guard**: Would you prefer to own shoes with built-in guns, grenades, bubbles containing explosive chemicals, or plain bubbles?
+**Me**: Plain bubbles.
+> 
+
+The guard left and I continued to an exhibition window with plasma screen TVs showcasing different occupations:
+
+- Translating.
+- Cooking.
+- Programming videogames. The videogame showed connected clusters of light-yellow hexagons overlaid with a red line pathfinding to reach a target offscreen as the camera tracked it.
+
+I travelled further into a T-junction hallway and the main room:
 
 - Inside:
     - Left:
@@ -48,17 +84,58 @@ I entered a room to encounter:
     - Background:
         - Forest.
 
-A humanoid alien taskmaster approached to debrief me about the expected workload, emphasizing the importance of ensuring supplies are gathered and sorted in appropriate locations. They cautioned against approaching the hostile cows, nicknamed "weed cows," and advised feeding them special green cubes to deter them if they attack. Additionally, they mentioned that to stay permanently, everyone is required to eventually pass a lethal gauntlet with two levels, making me realize the necessity to escape.
+While standing at the front door a humanoid alien taskmaster approached me.
 
-While standing near the front door, the Grinch arrived, seeking recruits for a special class of individuals capable of delivering a menacing evil laugh. After satisfying his desires, he allowed me to follow him, but when experimenting with different variations on the way that were less direct and slower, he told me to stop since they were worse. In the other building, a few other people were present, but I forgot what else occurred and returned. While wandering toward the central Gazebo, the taskmaster, for whatever reason, decided to piggyback me until reaching it.
+> **Taskmaster**: Supplies must be gathered and sorted into the appropriate locations.
+**Taskmaster**: Don’t approach the “Weed Cows” in the distance as they’re hostile.
+**Taskmaster**: If they attack, feed them the special green cubes from storage to calm them down.
+Taskmaster: Everyone must pass a lethal two-level gauntlet to permanently stay here.
+> 
 
-Suddenly, the alien cows became agitated, standing on their hind legs and growing taller as they towered over us. Individuals beside me began calling out to the swimmers, warning them of the impending danger as a cow lumbered closer to someone with their back turned. As the others started moving in our direction, I immediately bolted back without hesitation. The area went into lockdown as a siren played, but the green substance needed to calm the cows was missing, forcing personnel to seek refuge in various rooms. Attempting to find a spot with fewer people, I entered the horse stable, only to find it occupied. I then entered the left bathroom stall but was scolded by an adjacent woman who insisted I go somewhere else. Upon entering the front T-junction hallway, metal doors sealed all entrances. With dwindling options, I frantically circled around places until by some stroke of luck, someone unlocked the left hallway door, seemingly oblivious to the situation. I rushed through, urging him to shut it behind me. After entering a large food court with two stories of stores, I considered returning to my dragoness adoptive parent but deemed it too risky and pondered other possible solutions.
+I realized it was necessary to escape to avoid being killed.
+
+The Grinch entered the room behind me.
+
+> **Grinch**: I’m in need of people who can deliver a menacing evil laugh.
+**Me**: Muhahaha!
+**Grinch**: That's a start but I'll take it.
+**Grinch**: Follow me to the store to meet with the others.
+> 
+
+While travelling through the hallway I was experimenting with different variations of the laugh.
+
+> **Grinch**: Stop that dreadful racket it sounds worse than before!
+**Grinch**: Gah! Go back I haven’t got a single second to waste on a dreamer!
+> 
+
+I returned to the main room and travelled to the Gazebo outside when the taskmaster jumped on my back, expecting me to give him a piggyback ride until we reached it. Suddenly, the alien cows became agitated, stood on their hind legs, and grew to around four-stories tall. They lumbered towards swimmers in the lake and came close to a man with his back turned. A few people beside me noticed.
+
+> **People**: Get out of the water!
+**People**: The “Weed Cows” are coming!
+> 
+
+Everyone fled back inside and the area entered a lockdown as sirens played. A few individuals searched for the green cubes but they were missing so everyone hid in various places. I attempted to find a spot with the fewest people but the horse stables and bathroom stalls were occupied.
+
+> **Woman**: Go somewhere else!
+> 
+
+I entered the hallway but rolling corrugated metal doors sealed all entrances. I frantically circled around places until someone oblivious to the situation unlocked the left hallway door. I rushed through.
+
+> **Me**: Shut the door!
+> 
+
+After entering a large two-storey food court I considered returning to the dragoness but deemed it too risky and considered other places to seek refuge.
 
 # Interpretations
 
 ## Influences
 
-- N/A.
+- Half Life:
+    - References the Combine taking over the city and oppressing everyone.
+- Zoochosis:
+    - References parasites turning animals into monsters and curing them.
+- How The Grinch Stole Christmas:
+    - References The Grinch.
 
 ## Symbols
 
@@ -66,7 +143,4 @@ Suddenly, the alien cows became agitated, standing on their hind legs and growin
 
 ## Lessons
 
-- N/A.
-
-- Dragoness: think twice before making friends with dangerous people as they might turn against you during times of desperation.
-- Alien invasion: oppressive systems mask control with the illusion of choice.
+- Be careful being friends with untrustworthy people.

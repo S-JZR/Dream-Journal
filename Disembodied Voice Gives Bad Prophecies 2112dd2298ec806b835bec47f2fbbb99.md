@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: January 1, 2014
-Last Edited: December 12, 2025 6:29 PM
+Last Edited: December 28, 2025 6:56 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,11 +12,11 @@ Influences: Personal Thoughts
 
 # Description
 
-I was standing inside trenches with a middle-age man and woman when a disembodied adult male voice started giving bad prophecies over us and we each feared what it would say.
+I was standing inside trenches with a middle-age man and woman when a disembodied male voice started giving bad prophecies over us and we each feared what it would say.
 
-> **Male voice**: (to man) you’re an imbecile who will never amount to anything in life.
-**Male voice**: (to woman) you’re too afraid to take risks and will never achieve anything.
-**Male voice**: (to me) you will become the leader of a great British army that will inevitably fail.
+> **Man**: (to other man) you’re an imbecile who will never amount to anything in life.
+**Man**: (to woman) you’re too afraid to take risks and will never achieve anything.
+**Man**: (to me) you will become the leader of a great British army that will inevitably fail.
 > 
 
 # Interpretations
