@@ -2,21 +2,102 @@
 
 Favourite: No
 Date Created: July 18, 2024
-Last Edited: December 13, 2025 6:50 PM
+Last Edited: December 29, 2025 10:25 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Automobile Repair Shop, Home, Neighbourhood, Recruitment Centre
 Characters: Mechanics, Misc People, Soldiers
-Influences: Online Videos, Personal Experiences
+Influences: Mr Bean (1990), Online Videos, Personal Experiences
 
 # Description
 
-I was one of many soldiers equipped with parachutes, boarding a military helicopter in the carpark of my unit complex to travel to a recruitment centre. Shortly after taking off with the crew doors still open, the engine began to malfunction seven stories above ground, causing the helicopter to drastically decelerate and start to yaw. Fearing that the pilot would lose control, I proceeded to jump out despite someone's plea for me not to, then deployed my parachute to safely land onto the road. As the helicopter managed to return to base for inspection, I walked back along the sidewalk. Upon arriving, I requested another parachute, but since there were no spares they sent me with someone else in a car that also experienced issues, getting stuck in a low gear.
+I was one of many soldiers equipped with parachutes, boarding a military helicopter in the carpark of my unit complex to travel to a recruitment centre. Shortly after taking off with the crew doors still open, the engine began to malfunction seven stories above ground, causing the helicopter to drastically decelerate and start to yaw. Fearing that the pilot would lose control I proceeded to jump out.
 
-While detouring the backstreets of the town toward a nearby renowned repair shop, we encountered a single-lane road splitting into three directions. We proceeded straight down the middle, marked with yellow chevrons, until parking outside an administration building. Inside the reception area, a white sign with a metal speaker grille stood beside a male staff member at his desk. Despite pressing the intercom button and trying to converse with it, there was no response. This prompted me to increase the volume by repeatedly tapping a tiny button on the right. A radio voice emerged, allowing me to book a repair session by relaying the situation. After receiving approval, cars keys were dispensed on the right side to use for a temporary rental later. We continued further, approaching an angled dual-tower complex with a shallow middle section, each tower featuring roll-up doors with wide steel plates. While moving in front of the left gate, the doors automatically began ascending, revealing the perplexing sight of a makeshift retail store on a blue carpet covering the small rectangular cuboid space as multiple women sold furniture and clothing. Over the speakers, a male voice from behind a rectangular glass window spanning the right wall apologized for the confusion, explaining that this area is utilized as a multipurpose space for local businesses. After they cleared out all items by carrying them through side doors, we entered the adjacent control room, overseeing an overhead crane lifting the car with claws on both sides. Accompanied by burst of steam, the floor flipped over to a concrete surface as mechanics entered to work. Noticing my driver was missing, I found them in a nearby side room, sitting in a small glass cubicle spa, without a door, surrounded by various plastic balls, wondering why nothing was happening. Outside, I flicked a switch on the wall, causing the balls to levitate chaotically in an oval path, wobbling erratically. A few rolled out onto a white angled tarp on the ceiling, aiding their return without getting stuck.
+> **Officer**: Don’t jump!
+> 
 
-Upon finally arriving at the recruitment centre in the rental car, I entered a room comprising various individuals seated on both sides of rectangular dark grey tables arranged in a 2x3 formation. After receiving a folder of miscellaneous documents, I sat at the bottom right table on the leftmost side as the male instructor soon requested everyone to fill out the green application slip. However, during the writing process, while briefly looking away, someone without their slip mischievously stole mine, claiming there were spares in each folder as I grabbed something else. Eventually, everyone moved to the front of the room, submitting their slips as they passed the instructor's desk and exiting the doors in the hallway ahead. Placing the blank slip on the desk, I explained my difficulty in filling it out, while they look unimpressed. In a close-up, my pencil lead hovered over the page as I audibly expressed confusion for each field I had no way of knowing yet (e.g., division number). Suddenly, noticing a white sticker on the top left indicating this form was for withdrawing made me nervous. Agitated, they asked me to return to my station for a spare slip, but as I walked out the initial doorway towards the lockers, they called out for me to check the tables instead. Ultimately, after resolving the predicament, I joined everyone else outside amidst the other buildings. While walking alongside someone, I asked if they were aware the military forces them into five-year contracts. They discussed how they already completed one enlistment session in advance, earning them a three-month discount, then walked away as I stood alone.
+I deployed my parachute to safely land onto the road. As the helicopter managed to return to base for inspection, I walked back along the sidewalk.
+
+> **Me**: Can I please have another parachute.
+**Officer**: Sorry there are no spares.
+**Officer**: You’re going to have to carpool with Sergeant Ray whose jeep is stuck in low gear.
+> 
+
+I got in the jeep and we travelled through the backstreets toward a nearby renowned repair shop, we encountered a single-lane road splitting into three directions. We proceeded straight down the middle, marked with yellow chevrons, until parking outside an administration building. Inside the reception area, a white sign with a metal speaker grille stood beside a male staff member at his desk.
+
+I pressed the talk button.
+
+> **Me**: Hello is anyone there?
+**Sign**: …
+> 
+
+I noticed the volume was low and repeatedly pushed a button to turn it up.
+
+> **Man**: How can I help you?
+**Me**: [Relaying the situation].
+**Man**: (Radio) No problem. I’m free at the moment so drive up to the entrance and I’ll let you in.
+**Man**: (Radio) Use the provided car keys for the rental car later.
+> 
+
+After cars keys were dispensed from the sign we continued to the left entrance of a complex with two slanted towers, each featuring rolling doors made of giant steel plates, and a shallow middle section. The doors automatically opened and we started driving inside to encounter a strange room filled with women:
+
+- Left:
+    - Doors to the outside.
+- Middle:
+    - Overhead crane.
+    - Makeshift retail stores selling furniture and clothing.
+    - Blue carpet across the entire floor.
+- Right:
+    - Door to the control room.
+    - Control room with a giant rectangular window spanning the wall.
+
+> **Man**: (Speaker) My apologies for the confusion.
+**Man**: (Speaker) This area is utilized as a multipurpose space for local businesses.
+> 
+
+After the women carried out all the items through the left side doors we entered the control room. The crane picked up the jeep with claws on both sides, the floor burst with steam as it flipped over to a concrete surface, and the crane lowered the jeep. Various mechanics entered the garage to work on the jeep.
+
+I noticed Ray was missing and found him in a side room sitting in a small glass cubicle spa without a door surrounded by various plastic balls. He wondered why nothing was happening. I flicked a switch on the wall outside, causing the balls to levitate chaotically in an oval path.
+
+After arriving at the recruitment centre in the rental car, I entered a room comprising new recruits seated around rectangular dark grey tables in a 2x3 formation. I sat at the leftmost table. The male instructor handed everyone a folder containing miscellaneous documents.
+
+> **Instructor**: You may now fill out the green application slips.
+> 
+
+During the writing process I briefly looked away and someone who didn’t have a slip stole mine.
+
+> **Me**: Does anyone know where my slip went?
+**Man 2**: There’s spares in each folder.
+> 
+
+He was lying and I pulled out a white slip from the folder which wasn’t the same. Eventually, everyone passed the instructor at the front of the room to submit their slips and exited ahead. I placed the blank slip on the desk.
+
+> **Me**: I’m having difficulty filling out this form and need some guidance.
+> 
+
+The instructor looked unimpressed. A closeup shot showed the tip of my pencil hovering over each field on the page.
+
+> **Me**: I just don’t know some of the details like my division number.
+> 
+
+I noticed a white sticker in the top left corner indicating this form was for withdrawing which made me embarrassed.
+
+> **Instructor**: Return to your station for a spare slip.
+> 
+
+I walked through the initial door to lockers.
+
+> **Instructor**: Check the tables!
+> 
+
+After resolving the problem I joined everyone else outside and walked beside a woman.
+
+> **Me**: Are you aware the military forces people into five year contracts?
+**Woman**: I already completed one enlistment in advance and earned a three-month discount.
+> 
+
+She walked away as I stood alone.
 
 # Interpretations
 
@@ -25,7 +106,9 @@ Upon finally arriving at the recruitment centre in the rental car, I entered a r
 - Personal Experiences:
     - Before excursions in primary school teachers used to say warnings like, “If you don’t behave, I’ll drive you there myself.”
 - Online Videos:
-    - References someone saying the US military has 5 year contracts and you can’t quit freely.
+    - References someone saying the US military has 5 year contracts and you can’t freely quit.
+- Mr Bean:
+    - References Mr Bean mixing up the green and white exam papers: [https://youtu.be/9LhLjpsstPY?si=XF78ESMXemOzCDXf&t=301](https://youtu.be/9LhLjpsstPY?si=XF78ESMXemOzCDXf&t=301).
 
 ## Symbols
 

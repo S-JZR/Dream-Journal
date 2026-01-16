@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: January 1, 2014
-Last Edited: December 12, 2025 6:00 PM
+Last Edited: December 28, 2025 6:38 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -20,7 +20,12 @@ Influences: Personal Thoughts, The Goodies (1970)
 
 # Description
 
-I was with many elderly people in a room lying in sleeping bags in a ring formation. The woman to my left said, "I have lived a good life," as her flesh rapidly disintegrated into nothing until only a skeleton remained.
+I was with many elderly people in a room lying in sleeping bags in a ring formation. I looked at the woman to my left.
+
+> **Woman**: I have lived a good life.
+> 
+
+All her flesh rapidly disintegrated until only her skeleton remained.
 
 # Interpretations
 

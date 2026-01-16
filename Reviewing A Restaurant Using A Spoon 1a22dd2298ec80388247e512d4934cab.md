@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: March 17, 2024
-Last Edited: December 12, 2025 10:40 PM
+Last Edited: December 29, 2025 2:09 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -12,7 +12,23 @@ Influences: Personal Experiences
 
 # Description
 
-I was seated at a round table covered in a white silk cloth in a fancy restaurant when a misunderstanding arose with the waiter regarding a request for a blank piece of paper to jot down orders. The waiter then offered to sell the restaurant's merchandise, like a blank journal, providing an order form and pencil. Politely declining, another staff member approached, presenting a spoon with five tiny spherical beads in its bowl. They requested that I leave a review using a 5-point scale by clicking one of the beads with the pencil, which changed colour upon selection.
+I was seated at a round table covered in a white silk cloth in a fancy restaurant with a male waiter nearby.
+
+> **Me**: Can I please have a blank piece of paper to jot down my order?
+**Waiter**: We do sell journals if you would like one.
+> 
+
+He handed me an order form and a pencil.
+
+> **Me**: No thanks.
+> 
+
+A waitress approached and gave me a spoon with a line of five tiny beads in its bowl.
+
+> **Waitress**: If you have the time could you leave a review by pressing a bead in this spoon.
+> 
+
+I pressed a bead with my pencil and the beads corresponding to the rating glowed red.
 
 # Interpretations
 

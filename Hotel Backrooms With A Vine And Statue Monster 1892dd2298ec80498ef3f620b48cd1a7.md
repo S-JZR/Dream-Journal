@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: September 2, 2024
-Last Edited: December 13, 2025 12:53 AM
+Last Edited: December 30, 2025 1:24 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,11 +12,46 @@ Influences: Doors (2021) (Roblox), Lost Rooms (2022) (Roblox), Skibidi Toilet (2
 
 # Description
 
-I was walking through an arcade with various people when everyone fell through the floor into a fancy hotel themed backrooms level with wooden walls, wainscoting, and a red carpet. We had to survive a monster by completing tasks and hiding away during hunting phases at night. The building featured different rooms including the starting room with drawers arranged in a central square formation and a large glass dome ceiling, a hallway, and a concrete-floored garden area in a side room. Fearing that nightfall was near, I hurriedly slid open drawers, gathering loose scrap to craft a watch, then glanced at the time on it to warn everyone to hide while staying behind to continue scavenging. The lights deactivated as an anthropomorphic vine monster descended from an open skylight. I sprinted to the garden room with it close behind, only to find the wooden door locked so I frantically knocked and cried aloud for someone to let me in. Without hesitation, as the door swung open, I rushed inside, and it was quickly locked behind me. While everyone hid in various cupboards, the monster created a person-sized dirt tunnel into the room behind a set of lockers. It moved in front of the crack in our cupboard door and aggressively tried forcing it open as we performed timed events to hold it in place. When daybreak arrived, I discovered the secret entrance and suggested deceiving the monster by digging another direction then filling the current one to delay it as a few individuals and I got to work. In the garden various dark green plants mixed into other pots sprayed bursts of poisonous gas. Another male teenager instructed me to pour a substance on the plants, making them instantly shrivel up.
+I was walking through an arcade with various people when everyone fell through the floor into a large central hall of a fancy hotel. It had wooden walls with wainscoting, a red carpet with a golden pattern, drawers in a square formation, and a glass dome. Each night the lights deactivated and we had to survive different types of monsters.
 
-A ghostly apparition appeared the next night, asking everyone to choose two players to hold hostage, one of whom was me already standing in a cupboard and a young child as the doors slammed shut with a green glow inside. They asked everyone to vote on who to spare from death. I jokingly said Skibidi to gain crowd favour then proceeded to recall all the work I did to help everyone as the child remained mostly silent with his mother trusting nobody would harm him for being young, but I was chosen to continue.
+I hurriedly slid open the drawers to gather loose scrap, craft a watch, and glance at the time.
 
-Half of the room opened to reveal a giant guru statue monster seated in a large shallow body of water with its legs crossed. As everyone fought it, I went into a rage, jumped onto its legs, and repeatedly beat it to death.
+> **Me**: Night is almost here!
+Me: Hide!
+> 
+
+Everyone fled away while I continued scavenging.
+
+During the first night, an anthropomorphic vine monster descended from an open skylight to chase me. I sprinted through the hallway with it close behind and encountered a locked wooden door to the garden that I frantically banged on.
+
+> **Me**: Somebody let me in!
+> 
+
+The door immediately swung open and I rushed inside as a man slammed it shut and locked it. The garden featured a concrete floor with various metal shelves, cupboards, and lockers scattered around. Everyone hid in cupboards and a man was with me. The monster dug a person-sized tunnel into the room and I saw it move in front of my cupboard through the door crack then aggressively try forcing it open as we performed timed events to hold it shut. When morning came, the monster ran away and I discovered how it got in.
+
+> **Me**: We should deceive the monster by redirecting the tunnel.
+**Others**: Sounds like a plan.
+> 
+
+Multiple people helped me dig and reshape the tunnel. Various dark green pot plants on the shelves started emitting green poisonous gas. A male teenager stood beside me and handed over a container.
+
+> **Man**: Pour this on the plants.
+> 
+
+I obeyed and the plants instantly shrivelled up.
+
+During the second night, a male ghost appeared and randomly selected a boy and me to be locked inside adjacent cupboards as the doors slammed shut with a green glow inside.
+
+> **Ghost**: Everyone must vote on which of these individuals to spare from death.
+**Ghost**: But first, let’s hear both of their cases.
+**Me**: (Joking) Skibidi…
+**Me**: [Recalling the work I did to help everyone]
+**Boy**: ...
+> 
+
+The mother assumed that nobody would harm her son for being young but everyone chose to spare me and the boy died.
+
+Half of the room opened to reveal a giant guru statue monster seated with its legs crossed in shallow water. While everyone fought it, I went into a rage, jumped onto its legs, and repeatedly beat it to death as it fell to pieces.
 
 # Interpretations
 
@@ -29,6 +64,7 @@ Half of the room opened to reveal a giant guru statue monster seated in a large 
     - I craft the watch early to know when it will change to night.
 - Doors:
     - References surviving monsters in a hotel.
+    - References the timed cupboard event with The Figure.
 
 ## Symbols
 
@@ -37,4 +73,4 @@ Half of the room opened to reveal a giant guru statue monster seated in a large 
 ## Lessons
 
 - If you can’t defeat a threat then divert it away.
-- Don’t stay silent during debates because it invites negative assumptions about you.
+- Don’t stay silent during debates because it invites negative assumptions.

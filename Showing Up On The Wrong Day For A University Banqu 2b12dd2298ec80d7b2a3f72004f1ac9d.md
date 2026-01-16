@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: April 18, 2024
-Last Edited: December 11, 2025 6:56 PM
+Last Edited: December 29, 2025 6:17 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -12,7 +12,17 @@ Influences: Personal Experiences
 
 # Description
 
-I was walking upstairs in a fancy building to a university class banquet where many students sat with their clients at long tables with course codes on A4 paper taped to the side. One client distressed by a missing member adamantly stated attendance is mandatory for such an important occasion. Confused by two tables with unit codes close to mine, one empty and full, I asked teachers at the full one about my class, as they claimed it started next week.
+I was walking upstairs in a fancy building to a university class banquet where many students sat with their clients at long tables with course codes on A4 paper taped to the side.
+
+> **Woman**: Where are my students?
+**Woman**: Don’t they know that attendance is mandatory for such an important occasion!?
+> 
+
+I was confused by two tables with unit codes close to mine, one empty and full. I approached a female teacher at the full table.
+
+> **Me**: Excuse me which table is for my class?
+**Teacher**: Your class starts next week.
+> 
 
 # Interpretations
 

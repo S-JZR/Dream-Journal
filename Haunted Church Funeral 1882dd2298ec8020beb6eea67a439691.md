@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date Created: January 1, 2020
-Last Edited: December 12, 2025 8:43 PM
+Last Edited: December 28, 2025 7:34 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -26,7 +26,7 @@ I was attending a funeral service in the Greek Evangelical Church at night:
 - Lighting:
     - Dimly lit by candles.
 
-While walking along the red carpet towards the coffin, all the ghosts turned their heads to look at me. After opening the coffin and realizing it was empty, all the candles in the main room extinguished and the veils dropped to the floor. A bright spotlight shone on the wall right of the entrance as the silhouette of the Grim Reaper holding a sickle emerged. I fled into the backroom to barricade the door with various pieces of furniture and frantically searched the shelves for the key to the back door and escaped.
+While walking along the red carpet towards the coffin, all the ghosts turned their heads to look at me. After opening the coffin and realizing it was empty, all the candles in the main room extinguished and the veils dropped to the floor. A bright spotlight shone on the wall right of the entrance as the silhouette of the Grim Reaper holding a sickle emerged. I fled into the back room to barricade the door with various pieces of furniture and frantically searched the shelves for the key to the back door and escaped.
 
 # Interpretations
 
