@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: August 3, 2024
-Last Edited: December 13, 2025 12:49 AM
+Last Edited: December 29, 2025 11:27 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -11,7 +11,19 @@ Characters: Misc People
 
 # Description
 
-I was walking through a rural area and ascended stairs to enter the second floor of a two-storey brick building. I navigated to an exit on the other side through a maze comprising three layers of interwoven grille catwalks in a grid suspended by chains with ladders to move between platforms. Noticing two teenage women outside in the distance, I approached to overhear one joke about throwing their wallet into the tall grass while mimicking the action as the other advised against it. However, she proceeded to follow her desires by tossing it into vegetation. I said she was a moron for considering the trivial risk that led to unnecessary challenges, forcing everyone to compensate for the consequences of her poor decision. After a few minutes of searching, we eventually found the wallet laying on grass clippings as the area was instantly mowed.
+I was walking through a rural area and ascended stairs to enter the second floor of a two-storey brick building. I navigated to an exit on the other side through a maze comprising three layers of interwoven grille catwalks in a grid suspended by chains with ladders to move between platforms. After exiting I approached two teenage women in the distance as one teen pretended to throw a wallet.
+
+> **Teen 1**: Imagine if I threw your wallet into the tall grass.
+**Teen 2**: No, I don’t want to have to find it.
+> 
+
+She followed her impulses anyway and threw it into dense vegetation to amuse herself.
+
+> **Me**: You’re a moron for not thinking and turning something trivial into an unnecessary challenge.
+**Me**: Now we have to waste our time searching for it.
+> 
+
+After a few minutes, I felt it was taking too long and the grass was instantly mowed. We found the wallet lying on the clippings.
 
 # Interpretations
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: July 10, 2020
-Last Edited: December 13, 2025 4:46 PM
+Last Edited: December 28, 2025 9:23 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -17,7 +17,7 @@ I was one of many survivors in a team-based survival videogame that involved def
 - Survivors gathered weapons, gear, and building materials. Dead survivors switched teams indefinitely.
 - Alien spiders had four legs, thick hairy limbs, and could climb walls.
 
-Realizing survivors were constantly being overrun, I isolated myself to experiment with tactics. While hiding behind the enemy spawn in a forest, I tried clearing trees to get wood. However, as the last player remaining, I sprinted towards a four-story concrete building with the enemy in pursuit. Using a grappling hook, I quickly ascended the right entrance bridge, feigned entry, and leapt off. I swung between tall buildings, dodging aliens on the walls as they reached for me, securing victory as time ran out.
+Realizing survivors were constantly being overrun, I isolated myself to experiment with tactics. While hiding behind the enemy spawn in a forest, I tried clearing trees to get wood. However, as the last player remaining, I sprinted towards a brutalist four-story concrete building with the enemy in pursuit. Using a grappling hook, I quickly ascended the right entrance bridge, feigned entry, and leapt off. I swung between tall buildings, dodging aliens on the walls as they reached for me, securing victory as time ran out.
 
 # Interpretations
 

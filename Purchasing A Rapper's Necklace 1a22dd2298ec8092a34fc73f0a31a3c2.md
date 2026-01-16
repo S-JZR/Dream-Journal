@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: April 4, 2024
-Last Edited: December 12, 2025 10:43 PM
+Last Edited: December 29, 2025 5:26 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -11,11 +11,49 @@ Characters: Misc People, Musicians
 
 # Description
 
-I was standing at the drop-off zone of my primary school with the fences removed during an era around the 1980s when a group of kids sat on the left side of the seating area on a strip of yellowing cut grass, watching passing cars. While riding a miniature light-green tractor towards them, a black student expressed annoyance, explaining it reminded him of his ancestors forced to work on plantations and told me to stop riding it. After apologizing, I turned to drive away but he remained infuriated that I continued despite acknowledging his concerns.
+I was standing at the drop-off zone of my primary school with the fences removed during an era around the 1980s when a group of kids sat on the left side of the seating area on a strip of yellowing cut grass, watching passing cars. I drove a miniature light-green tractor towards them.
 
-Suddenly, I was friends with a fictional aspiring black rapper called Syske, renowned for wearing a gold chain with an enormous rectangular prism pendant engraved with intricate patterns. After bargaining with him, he let me purchase his previous one at a discounted price. Another student at the drop-off zone, holding a smaller silver one, noticed it and asked if I could collaborate with his father to trade.
+> **Black Student**: Stop riding that tractor!
+**Black Student**: It reminds me of my ancestors who were forced to work on plantations!
+**Me**: I’m sorry.
+> 
 
-While agreeing and travelling along the drop-off zone cobblestone wall, another fictional friend tried convincing me it was a bad idea as his weighed a fraction of mine. Eventually, we spotted his father in a black car driving into the school on his phone when the boy interrupted him. After explaining the offer, he frantically pulled out various American bills with values ranging from 1 to 500 dollars and gave all he had for it. Feeling generous, I gave back some miscellaneous Australian notes from my pocket and continued along the street. Suddenly, a brash kid appeared to ask how much the necklace was worth and where it came from. I explained it was worth around $2,000 and pointed to Syske on a magazine cover. He scoffed, claiming he never heard of him, so he must only be popular locally within Brisbane. I responded to wait until he becomes an icon when the jewellery grows exponentially in value.
+I turned to drive away.
+
+> **Black Student**: Why are you still driving it when I just told you how I feel about it!
+> 
+
+Suddenly, I was friends with a fictional aspiring black rapper called Syske, renowned for wearing a gold chain with an enormous rectangular prism pendant engraved with intricate patterns.
+
+> **Me**: Hey Syske I really want your old gold necklace and I was wondering if I could buy it.
+**Syske**: Find I’ll let you have it but with a discount.
+> 
+
+After purchasing the necklace a student holding a smaller silver one noticed it and another friend approached me.
+
+> **Student**: Do you want to trade with my father?
+**Friend**: (Whisper) This sounds like a bad idea and his only weighs a fraction of yours.
+**Me**: (Whisper) Don't worry its fine.
+**Me**: Sure.
+**Student**: Follow me.
+> 
+
+I followed him along the footpath outside the drop-off zone cobblestone wall and encountered his father in a black car starting to enter the school while talking on his phone.
+
+> **Student**: Dad I found someone who is willing to trade their necklace.
+> 
+
+His dad frantically pulled out various American bills ranging from $1 to $500 and gave all he had to me and I handed over my necklace. I continued walking further down the street when I encountered a fictional male bully standing beside a magazine stand.
+
+> **Bully**: Hey! How much is that necklace worth and where did it come from?
+**Me**: It's worth around $2,000 and belongs to Syske.
+> 
+
+I pointed to Syske on a magazine cover.
+
+> **Bully**: Pfft! I've never heard of him so he must only be popular locally.
+**Me**: Just wait until he becomes an icon and his jewellery grows in value, then you'll see!
+> 
 
 # Interpretations
 

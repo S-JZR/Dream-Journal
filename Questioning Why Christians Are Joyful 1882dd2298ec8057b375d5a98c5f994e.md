@@ -2,7 +2,7 @@
 
 Favourite: No
 Date Created: January 1, 2017
-Last Edited: December 22, 2025 9:55 PM
+Last Edited: December 28, 2025 7:18 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -14,7 +14,10 @@ Influences: Christianity, Personal Experiences
 
 I was standing in a church as a cheerful crowd surrounded a cake on a white circular table with the word joy written on it.
 
-I instantly teleported to the reception room in heaven with a line of cheerful individuals standing in front of me who claimed only those who do God's work can enter his kingdom.
+I instantly teleported to the reception room in heaven where a line of cheerful individuals stood in front of me.
+
+> **Woman**: Only those who do God's work can enter his kingdom.
+> 
 
 # Interpretations
 
