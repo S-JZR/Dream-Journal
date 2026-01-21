@@ -1,7 +1,7 @@
 # Metal Arms Gameover Screen
 
 Favourite: No
-Date Created: February 12, 2014
+Date: February 12, 2014
 Last Edited: December 13, 2025 6:48 PM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Rectangle Jumping Arcade Game
 
 Favourite: No
-Date Created: September 2, 2024
+Date: September 2, 2024
 Last Edited: December 7, 2025 5:45 PM
 Type: Normal
 Age Rating: SFW

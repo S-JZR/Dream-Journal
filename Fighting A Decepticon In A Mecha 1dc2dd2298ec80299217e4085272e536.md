@@ -1,7 +1,7 @@
 # Fighting A Decepticon In A Mecha
 
 Favourite: No
-Date Created: April 14, 2025
+Date: April 14, 2025
 Last Edited: December 13, 2025 2:54 AM
 Type: Normal
 Age Rating: SFW

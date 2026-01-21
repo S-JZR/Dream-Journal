@@ -1,7 +1,7 @@
 # Questioning Why Christians Are Joyful
 
 Favourite: No
-Date Created: January 1, 2017
+Date: January 1, 2017
 Last Edited: December 28, 2025 7:18 PM
 Type: Normal
 Age Rating: SFW

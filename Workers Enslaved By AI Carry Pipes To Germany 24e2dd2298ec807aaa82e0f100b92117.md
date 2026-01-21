@@ -1,7 +1,7 @@
 # Workers Enslaved By AI Carry Pipes To Germany
 
 Favourite: No
-Date Created: August 6, 2025
+Date: August 6, 2025
 Last Edited: December 13, 2025 4:03 AM
 Type: Nightmare
 Age Rating: SFW

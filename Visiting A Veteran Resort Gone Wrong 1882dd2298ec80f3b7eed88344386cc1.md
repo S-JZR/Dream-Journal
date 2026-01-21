@@ -1,7 +1,7 @@
 # Visiting A Veteran Resort Gone Wrong
 
 Favourite: No
-Date Created: January 10, 2020
+Date: January 10, 2020
 Last Edited: December 28, 2025 9:11 PM
 Type: Normal
 Age Rating: SFW

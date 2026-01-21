@@ -1,7 +1,7 @@
 # University Lecture Excursion Gone Wrong
 
 Favourite: Yes
-Date Created: February 19, 2025
+Date: February 19, 2025
 Last Edited: December 11, 2025 11:24 PM
 Type: Nightmare
 Age Rating: SFW

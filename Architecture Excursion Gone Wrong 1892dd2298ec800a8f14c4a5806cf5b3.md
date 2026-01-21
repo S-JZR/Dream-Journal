@@ -1,7 +1,7 @@
 # Architecture Excursion Gone Wrong
 
 Favourite: Yes
-Date Created: January 1, 2024
+Date: January 1, 2024
 Last Edited: December 20, 2025 1:15 AM
 Type: Nightmare
 Age Rating: SFW

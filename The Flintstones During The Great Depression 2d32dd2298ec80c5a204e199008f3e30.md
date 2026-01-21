@@ -1,7 +1,7 @@
 # The Flintstones During The Great Depression
 
 Favourite: No
-Date Created: November 20, 2025
+Date: November 20, 2025
 Last Edited: December 28, 2025 4:05 PM
 Type: Normal
 Age Rating: SFW

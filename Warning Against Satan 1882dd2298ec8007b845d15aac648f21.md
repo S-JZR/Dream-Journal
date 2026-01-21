@@ -1,7 +1,7 @@
 # Warning Against Satan
 
 Favourite: No
-Date Created: January 1, 2005
+Date: January 1, 2005
 Last Edited: December 12, 2025 5:40 PM
 Type: Normal
 Age Rating: SFW

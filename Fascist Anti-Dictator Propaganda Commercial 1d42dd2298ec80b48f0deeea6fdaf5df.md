@@ -1,7 +1,7 @@
 # Fascist Anti-Dictator Propaganda Commercial
 
 Favourite: Yes
-Date Created: January 13, 2025
+Date: January 13, 2025
 Last Edited: December 20, 2025 3:37 AM
 Type: Normal
 Age Rating: NSFW

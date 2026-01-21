@@ -1,13 +1,13 @@
 # Questioning Who God Knew Before Creation
 
 Favourite: No
-Date Created: January 1, 2017
-Last Edited: December 12, 2025 8:33 PM
+Date: January 1, 2017
+Last Edited: January 21, 2026 5:36 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Locations: Void
-Characters: Abrahamic God
+Characters: God (Abrahamic)
 Influences: Personal Experiences
 
 # Description

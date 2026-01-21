@@ -1,8 +1,8 @@
 # Autistic Brother Runs Away From Home
 
 Favourite: No
-Date Created: January 10, 2023
-Last Edited: December 29, 2025 1:30 AM
+Date: January 10, 2023
+Last Edited: January 17, 2026 3:20 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear

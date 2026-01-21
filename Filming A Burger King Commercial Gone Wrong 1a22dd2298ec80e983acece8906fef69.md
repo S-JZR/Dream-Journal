@@ -1,7 +1,7 @@
 # Filming A Burger King Commercial Gone Wrong
 
 Favourite: No
-Date Created: September 19, 2023
+Date: September 19, 2023
 Last Edited: December 12, 2025 9:49 PM
 Type: Normal
 Age Rating: SFW

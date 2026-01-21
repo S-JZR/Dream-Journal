@@ -1,7 +1,7 @@
 # Deformed Monster At The Front Door
 
 Favourite: No
-Date Created: June 19, 2024
+Date: June 19, 2024
 Last Edited: December 24, 2025 4:41 PM
 Type: Nightmare
 Age Rating: SFW

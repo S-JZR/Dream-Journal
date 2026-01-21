@@ -1,7 +1,7 @@
 # Considering Switching To An Engineering Degree
 
 Favourite: No
-Date Created: June 11, 2025
+Date: June 11, 2025
 Last Edited: December 22, 2025 3:44 PM
 Type: Normal
 Age Rating: SFW

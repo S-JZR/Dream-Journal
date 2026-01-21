@@ -1,7 +1,7 @@
 # Deranged Man At The Front Door
 
 Favourite: No
-Date Created: January 1, 2014
+Date: January 1, 2014
 Last Edited: December 12, 2025 6:20 PM
 Type: Nightmare
 Age Rating: SFW

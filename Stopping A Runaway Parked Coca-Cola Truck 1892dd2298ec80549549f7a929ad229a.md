@@ -1,7 +1,7 @@
 # Stopping A Runaway Parked Coca-Cola Truck
 
 Favourite: No
-Date Created: February 20, 2024
+Date: February 20, 2024
 Last Edited: December 3, 2025 5:52 PM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Teenager Ski Jump Gone Wrong
 
 Favourite: No
-Date Created: February 17, 2025
+Date: February 17, 2025
 Last Edited: December 13, 2025 2:18 AM
 Type: Nightmare
 Age Rating: SFW

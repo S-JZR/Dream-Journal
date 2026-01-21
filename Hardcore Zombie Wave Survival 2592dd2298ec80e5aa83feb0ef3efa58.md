@@ -1,7 +1,7 @@
 # Hardcore Zombie Wave Survival
 
 Favourite: No
-Date Created: August 24, 2025
+Date: August 24, 2025
 Last Edited: December 12, 2025 3:30 AM
 Type: Normal
 Age Rating: SFW

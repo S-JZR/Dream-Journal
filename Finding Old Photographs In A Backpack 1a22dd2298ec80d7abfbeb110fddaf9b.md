@@ -1,7 +1,7 @@
 # Finding Old Photographs In A Backpack
 
 Favourite: No
-Date Created: April 19, 2024
+Date: April 19, 2024
 Last Edited: December 12, 2025 11:02 PM
 Type: Normal
 Age Rating: SFW

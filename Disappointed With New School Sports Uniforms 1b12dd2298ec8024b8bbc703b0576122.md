@@ -1,7 +1,7 @@
 # Disappointed With New School Sports Uniforms
 
 Favourite: No
-Date Created: March 8, 2025
+Date: March 8, 2025
 Last Edited: December 13, 2025 2:36 AM
 Type: Normal
 Age Rating: SFW

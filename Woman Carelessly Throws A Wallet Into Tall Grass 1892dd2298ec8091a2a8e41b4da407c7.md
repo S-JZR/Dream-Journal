@@ -1,7 +1,7 @@
 # Woman Carelessly Throws A Wallet Into Tall Grass
 
 Favourite: No
-Date Created: August 3, 2024
+Date: August 3, 2024
 Last Edited: December 29, 2025 11:27 PM
 Type: Normal
 Age Rating: SFW

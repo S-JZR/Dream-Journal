@@ -1,7 +1,7 @@
 # Superhero Live Meet And Greet Mask Feedback
 
 Favourite: No
-Date Created: April 18, 2024
+Date: April 18, 2024
 Last Edited: December 29, 2025 6:28 PM
 Type: Normal
 Age Rating: SFW

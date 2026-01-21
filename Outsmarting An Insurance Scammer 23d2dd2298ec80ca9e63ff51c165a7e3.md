@@ -1,7 +1,7 @@
 # Outsmarting An Insurance Scammer
 
 Favourite: No
-Date Created: July 18, 2025
+Date: July 18, 2025
 Last Edited: December 13, 2025 6:54 PM
 Type: Normal
 Age Rating: SFW

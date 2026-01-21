@@ -1,7 +1,7 @@
 # Held Hostage In A Remote Foster Home
 
 Favourite: No
-Date Created: September 19, 2020
+Date: September 19, 2020
 Last Edited: December 11, 2025 3:35 PM
 Type: Nightmare
 Age Rating: SFW

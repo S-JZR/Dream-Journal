@@ -1,7 +1,7 @@
 # Fencing Excursion Gone Wrong
 
 Favourite: No
-Date Created: December 17, 2020
+Date: December 17, 2020
 Last Edited: December 13, 2025 10:54 PM
 Type: Normal
 Age Rating: SFW
