@@ -1,7 +1,7 @@
 # Winning Big On A Coin Pusher
 
 Favourite: No
-Date Created: December 3, 2025
+Date: December 3, 2025
 Last Edited: December 28, 2025 4:59 PM
 Type: Normal
 Age Rating: SFW

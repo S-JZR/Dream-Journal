@@ -1,7 +1,7 @@
 # Haunted Mannequin Outside Church
 
 Favourite: No
-Date Created: January 25, 2020
+Date: January 25, 2020
 Last Edited: December 19, 2025 6:26 PM
 Type: Nightmare
 Age Rating: SFW

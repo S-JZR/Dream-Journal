@@ -1,7 +1,7 @@
 # Chased By Orcs Into A Demonic Cave
 
 Favourite: No
-Date Created: November 2, 2020
+Date: November 2, 2020
 Last Edited: December 18, 2025 7:44 PM
 Type: Nightmare
 Age Rating: SFW

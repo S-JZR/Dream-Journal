@@ -1,7 +1,7 @@
 # Attending A Christian Meeting About Church Decline
 
 Favourite: Yes
-Date Created: May 23, 2025
+Date: May 23, 2025
 Last Edited: December 24, 2025 3:40 PM
 Type: Normal
 Age Rating: SFW

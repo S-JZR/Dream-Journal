@@ -1,7 +1,7 @@
 # Waiting For A Swimming Assessment
 
 Favourite: No
-Date Created: August 23, 2025
+Date: August 23, 2025
 Last Edited: December 6, 2025 4:33 AM
 Type: Normal
 Age Rating: SFW

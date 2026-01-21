@@ -1,7 +1,7 @@
 # Hiding From Slenderman On The Sofa
 
 Favourite: No
-Date Created: January 1, 2013
+Date: January 1, 2013
 Last Edited: December 13, 2025 5:02 PM
 Type: Nightmare
 Age Rating: SFW

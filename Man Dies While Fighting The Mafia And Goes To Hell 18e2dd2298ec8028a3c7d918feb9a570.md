@@ -1,7 +1,7 @@
 # Man Dies While Fighting The Mafia And Goes To Hell
 
 Favourite: Yes
-Date Created: January 15, 2025
+Date: January 15, 2025
 Last Edited: December 13, 2025 1:26 AM
 Type: Nightmare
 Age Rating: SFW

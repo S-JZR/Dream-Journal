@@ -1,7 +1,7 @@
 # Firearm Training At School And Satan’s Challenge
 
 Favourite: No
-Date Created: February 11, 2025
+Date: February 11, 2025
 Last Edited: December 13, 2025 4:57 PM
 Type: Nightmare
 Age Rating: SFW

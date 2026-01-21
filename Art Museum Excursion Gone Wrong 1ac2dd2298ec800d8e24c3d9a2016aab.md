@@ -1,7 +1,7 @@
 # Art Museum Excursion Gone Wrong
 
 Favourite: No
-Date Created: February 28, 2025
+Date: February 28, 2025
 Last Edited: December 13, 2025 2:30 AM
 Type: Normal
 Age Rating: SFW

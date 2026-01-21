@@ -1,7 +1,7 @@
 # Alien Spider Survival
 
 Favourite: No
-Date Created: July 10, 2020
+Date: July 10, 2020
 Last Edited: December 28, 2025 9:23 PM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Discussing God’s Eternal Vigilance With Elderly People
 
 Favourite: No
-Date Created: July 10, 2020
+Date: July 10, 2020
 Last Edited: December 23, 2025 11:12 PM
 Type: Normal
 Age Rating: SFW

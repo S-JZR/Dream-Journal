@@ -1,7 +1,7 @@
 # Riding A Robocraft Chassis
 
 Favourite: No
-Date Created: March 23, 2025
+Date: March 23, 2025
 Last Edited: December 13, 2025 2:45 AM
 Type: Normal
 Age Rating: SFW

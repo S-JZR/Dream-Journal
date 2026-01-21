@@ -1,7 +1,7 @@
 # Scary Sushi Impossible Difficulty
 
 Favourite: No
-Date Created: July 9, 2024
+Date: July 9, 2024
 Last Edited: December 13, 2025 12:45 AM
 Type: Normal
 Age Rating: SFW

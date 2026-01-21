@@ -1,7 +1,7 @@
 # Soldiers Defend A Shopping Mall From Zombies
 
 Favourite: No
-Date Created: May 7, 2024
+Date: May 7, 2024
 Last Edited: December 29, 2025 6:59 PM
 Type: Normal
 Age Rating: SFW

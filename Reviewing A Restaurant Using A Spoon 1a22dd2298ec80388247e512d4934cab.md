@@ -1,7 +1,7 @@
 # Reviewing A Restaurant Using A Spoon
 
 Favourite: No
-Date Created: March 17, 2024
+Date: March 17, 2024
 Last Edited: December 29, 2025 2:09 PM
 Type: Normal
 Age Rating: SFW

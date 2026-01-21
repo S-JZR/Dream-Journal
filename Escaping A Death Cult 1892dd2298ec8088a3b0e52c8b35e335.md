@@ -1,13 +1,13 @@
 # Escaping A Death Cult
 
 Favourite: No
-Date Created: April 4, 2024
-Last Edited: December 20, 2025 1:53 AM
+Date: April 4, 2024
+Last Edited: January 21, 2026 5:36 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Secondary School, Suburb
-Characters: Abrahamic God, Family, Misc People, Police, Students, Teachers
+Characters: Family, God (Abrahamic), Misc People, Police, Students, Teachers
 Influences: History
 
 # Description

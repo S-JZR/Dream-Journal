@@ -1,7 +1,7 @@
 # Voting To Hear Students Rap
 
 Favourite: No
-Date Created: June 26, 2025
+Date: June 26, 2025
 Last Edited: December 13, 2025 3:46 AM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Soldiers Defend A Desert Fortress
 
 Favourite: No
-Date Created: January 1, 2016
+Date: January 1, 2016
 Last Edited: December 28, 2025 7:09 PM
 Type: Nightmare
 Age Rating: SFW

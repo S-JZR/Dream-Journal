@@ -1,7 +1,7 @@
 # Japanese Eating Game Show Gone Wrong
 
 Favourite: No
-Date Created: May 23, 2025
+Date: May 23, 2025
 Last Edited: December 7, 2025 7:27 PM
 Type: Normal
 Age Rating: SFW

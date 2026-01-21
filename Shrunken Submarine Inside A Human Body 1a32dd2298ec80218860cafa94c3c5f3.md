@@ -1,7 +1,7 @@
 # Shrunken Submarine Inside A Human Body
 
 Favourite: No
-Date Created: January 16, 2024
+Date: January 16, 2024
 Last Edited: December 11, 2025 6:16 PM
 Type: Normal
 Age Rating: SFW

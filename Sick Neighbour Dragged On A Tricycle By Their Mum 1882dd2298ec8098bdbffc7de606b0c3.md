@@ -1,7 +1,7 @@
 # Sick Neighbour Dragged On A Tricycle By Their Mum
 
 Favourite: No
-Date Created: January 1, 2014
+Date: January 1, 2014
 Last Edited: December 2, 2025 6:08 PM
 Type: Nightmare
 Age Rating: SFW

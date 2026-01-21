@@ -1,7 +1,7 @@
 # School Award Ceremony Heist
 
 Favourite: No
-Date Created: November 23, 2020
+Date: November 23, 2020
 Last Edited: December 18, 2025 11:26 PM
 Type: Normal
 Age Rating: SFW

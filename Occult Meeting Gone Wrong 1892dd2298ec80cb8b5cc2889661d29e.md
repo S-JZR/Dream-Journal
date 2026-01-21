@@ -1,7 +1,7 @@
 # Occult Meeting Gone Wrong
 
 Favourite: No
-Date Created: September 25, 2024
+Date: September 25, 2024
 Last Edited: December 11, 2025 9:44 PM
 Type: Nightmare
 Age Rating: SFW

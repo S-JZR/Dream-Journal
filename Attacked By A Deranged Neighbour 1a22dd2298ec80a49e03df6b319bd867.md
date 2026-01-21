@@ -1,7 +1,7 @@
 # Attacked By A Deranged Neighbour
 
 Favourite: No
-Date Created: December 9, 2020
+Date: December 9, 2020
 Last Edited: December 12, 2025 9:03 PM
 Type: Nightmare
 Age Rating: SFW

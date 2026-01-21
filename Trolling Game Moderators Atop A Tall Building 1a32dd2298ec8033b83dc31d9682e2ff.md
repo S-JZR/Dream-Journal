@@ -1,7 +1,7 @@
 # Trolling Game Moderators Atop A Tall Building
 
 Favourite: No
-Date Created: April 18, 2024
+Date: April 18, 2024
 Last Edited: December 12, 2025 10:58 PM
 Type: Normal
 Age Rating: SFW

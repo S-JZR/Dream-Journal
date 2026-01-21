@@ -1,7 +1,7 @@
 # Bad Neighbours Move Out Gone Wrong
 
 Favourite: No
-Date Created: March 22, 2025
+Date: March 22, 2025
 Last Edited: December 25, 2025 12:26 AM
 Type: Normal
 Age Rating: SFW
