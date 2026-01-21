@@ -1,7 +1,7 @@
 # Lost In The Ocean And Following Stars Back To Land
 
 Favourite: No
-Date Created: January 1, 2013
+Date: January 1, 2013
 Last Edited: December 25, 2025 3:12 AM
 Type: Normal
 Age Rating: SFW

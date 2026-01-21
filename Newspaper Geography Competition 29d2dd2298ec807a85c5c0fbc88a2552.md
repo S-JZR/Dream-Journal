@@ -1,7 +1,7 @@
 # Newspaper Geography Competition
 
 Favourite: No
-Date Created: January 1, 2017
+Date: January 1, 2017
 Last Edited: November 19, 2025 9:20 PM
 Type: Normal
 Age Rating: SFW

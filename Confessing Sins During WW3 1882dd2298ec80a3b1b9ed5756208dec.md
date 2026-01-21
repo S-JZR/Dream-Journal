@@ -1,7 +1,7 @@
 # Confessing Sins During WW3
 
 Favourite: Yes
-Date Created: January 1, 2017
+Date: January 1, 2017
 Last Edited: December 13, 2025 10:42 PM
 Type: Nightmare
 Age Rating: SFW

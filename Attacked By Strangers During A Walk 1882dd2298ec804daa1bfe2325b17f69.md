@@ -1,7 +1,7 @@
 # Attacked By Strangers During A Walk
 
 Favourite: No
-Date Created: September 19, 2023
+Date: September 19, 2023
 Last Edited: December 29, 2025 2:17 AM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Demons Hide Objects
 
 Favourite: No
-Date Created: January 1, 2021
+Date: January 1, 2021
 Last Edited: December 12, 2025 9:07 PM
 Type: Nightmare
 Age Rating: SFW

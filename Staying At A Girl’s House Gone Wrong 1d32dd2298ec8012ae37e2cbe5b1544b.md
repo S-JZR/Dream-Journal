@@ -1,7 +1,7 @@
 # Staying At A Girl’s House Gone Wrong
 
 Favourite: No
-Date Created: April 7, 2025
+Date: April 7, 2025
 Last Edited: December 6, 2025 5:10 PM
 Type: Nightmare
 Age Rating: SFW

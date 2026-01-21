@@ -1,7 +1,7 @@
 # Mecha Army Raids An Alien Fortress
 
 Favourite: No
-Date Created: February 20, 2024
+Date: February 20, 2024
 Last Edited: December 12, 2025 10:29 PM
 Type: Normal
 Age Rating: SFW

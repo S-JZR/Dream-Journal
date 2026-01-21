@@ -1,7 +1,7 @@
 # Escaping An Authoritarian Death Game Facility
 
 Favourite: No
-Date Created: November 26, 2024
+Date: November 26, 2024
 Last Edited: December 22, 2025 3:11 PM
 Type: Nightmare
 Age Rating: SFW

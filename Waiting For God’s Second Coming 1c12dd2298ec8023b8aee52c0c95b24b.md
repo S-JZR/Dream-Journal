@@ -1,7 +1,7 @@
 # Waiting For God’s Second Coming
 
 Favourite: No
-Date Created: January 1, 2013
+Date: January 1, 2013
 Last Edited: December 13, 2025 6:28 PM
 Type: Normal
 Age Rating: SFW

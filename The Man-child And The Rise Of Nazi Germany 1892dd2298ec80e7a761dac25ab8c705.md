@@ -1,7 +1,7 @@
 # The Man-child And The Rise Of Nazi Germany
 
 Favourite: Yes
-Date Created: December 19, 2024
+Date: December 19, 2024
 Last Edited: December 25, 2025 2:56 AM
 Type: Nightmare
 Age Rating: NSFW

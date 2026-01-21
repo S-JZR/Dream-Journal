@@ -1,7 +1,7 @@
 # Purchasing A Rapper's Necklace
 
 Favourite: No
-Date Created: April 4, 2024
+Date: April 4, 2024
 Last Edited: December 29, 2025 5:26 PM
 Type: Normal
 Age Rating: SFW

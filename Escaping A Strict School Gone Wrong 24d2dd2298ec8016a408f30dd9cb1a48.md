@@ -1,7 +1,7 @@
 # Escaping A Strict School Gone Wrong
 
 Favourite: No
-Date Created: January 1, 2018
+Date: January 1, 2018
 Last Edited: December 2, 2025 11:19 PM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Reunion With Julien Gone Wrong
 
 Favourite: No
-Date Created: October 13, 2025
+Date: October 13, 2025
 Last Edited: December 22, 2025 8:13 PM
 Type: Nightmare
 Age Rating: SFW

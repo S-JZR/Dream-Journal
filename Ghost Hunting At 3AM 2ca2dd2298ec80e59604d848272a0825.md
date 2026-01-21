@@ -1,7 +1,7 @@
 # Ghost Hunting At 3AM
 
 Favourite: No
-Date Created: November 26, 2024
+Date: November 26, 2024
 Last Edited: December 20, 2025 4:30 PM
 Type: Normal
 Age Rating: SFW

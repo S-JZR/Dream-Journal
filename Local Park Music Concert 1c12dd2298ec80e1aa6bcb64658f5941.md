@@ -1,7 +1,7 @@
 # Local Park Music Concert
 
 Favourite: No
-Date Created: January 1, 2013
+Date: January 1, 2013
 Last Edited: December 7, 2025 7:41 PM
 Type: Normal
 Age Rating: SFW

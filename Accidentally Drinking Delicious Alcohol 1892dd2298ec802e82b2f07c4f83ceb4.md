@@ -1,7 +1,7 @@
 # Accidentally Drinking Delicious Alcohol
 
 Favourite: No
-Date Created: April 19, 2024
+Date: April 19, 2024
 Last Edited: December 29, 2025 6:32 PM
 Type: Normal
 Age Rating: SFW

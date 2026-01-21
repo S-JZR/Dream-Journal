@@ -1,7 +1,7 @@
 # Storm Drenches Clothes Left In The Backyard
 
 Favourite: No
-Date Created: February 21, 2025
+Date: February 21, 2025
 Last Edited: December 6, 2025 2:37 AM
 Type: Nightmare
 Age Rating: SFW

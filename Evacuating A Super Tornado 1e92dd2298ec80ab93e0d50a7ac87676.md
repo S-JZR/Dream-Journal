@@ -1,7 +1,7 @@
 # Evacuating A Super Tornado
 
 Favourite: No
-Date Created: May 1, 2025
+Date: May 1, 2025
 Last Edited: December 4, 2025 10:14 PM
 Type: Nightmare
 Age Rating: SFW

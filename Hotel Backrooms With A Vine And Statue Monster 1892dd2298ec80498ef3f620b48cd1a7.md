@@ -1,7 +1,7 @@
 # Hotel Backrooms With A Vine And Statue Monster
 
 Favourite: No
-Date Created: September 2, 2024
+Date: September 2, 2024
 Last Edited: December 30, 2025 1:24 AM
 Type: Nightmare
 Age Rating: SFW

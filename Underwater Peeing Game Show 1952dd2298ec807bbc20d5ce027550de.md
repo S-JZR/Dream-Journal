@@ -1,7 +1,7 @@
 # Underwater Peeing Game Show
 
 Favourite: No
-Date Created: January 1, 2005
+Date: January 1, 2005
 Last Edited: December 20, 2025 4:24 PM
 Type: Pee Dream
 Age Rating: SFW

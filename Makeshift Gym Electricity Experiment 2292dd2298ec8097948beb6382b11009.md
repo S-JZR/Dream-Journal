@@ -1,7 +1,7 @@
 # Makeshift Gym Electricity Experiment
 
 Favourite: No
-Date Created: July 5, 2025
+Date: July 5, 2025
 Last Edited: December 13, 2025 3:48 AM
 Type: Normal
 Age Rating: SFW

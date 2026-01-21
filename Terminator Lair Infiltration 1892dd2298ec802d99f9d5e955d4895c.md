@@ -1,7 +1,7 @@
 # Terminator Lair Infiltration
 
 Favourite: No
-Date Created: January 3, 2024
+Date: January 3, 2024
 Last Edited: December 12, 2025 10:18 PM
 Type: Normal
 Age Rating: SFW

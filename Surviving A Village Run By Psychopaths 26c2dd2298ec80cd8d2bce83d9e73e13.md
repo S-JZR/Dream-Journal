@@ -1,7 +1,7 @@
 # Surviving A Village Run By Psychopaths
 
 Favourite: No
-Date Created: September 12, 2025
+Date: September 12, 2025
 Last Edited: December 12, 2025 4:06 AM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # A Hotel Gives Me Corn Chips For My Birthday
 
 Favourite: No
-Date Created: January 1, 2025
+Date: January 1, 2025
 Last Edited: December 13, 2025 1:18 AM
 Type: Normal
 Age Rating: SFW

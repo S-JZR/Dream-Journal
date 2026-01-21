@@ -1,7 +1,7 @@
 # Exposing Plane Fuel Scam
 
 Favourite: No
-Date Created: October 16, 2024
+Date: October 16, 2024
 Last Edited: December 13, 2025 1:00 AM
 Type: Normal
 Age Rating: SFW

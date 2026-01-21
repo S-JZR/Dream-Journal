@@ -1,7 +1,7 @@
 # Courthouse RTS
 
 Favourite: No
-Date Created: July 2, 2025
+Date: July 2, 2025
 Last Edited: December 12, 2025 2:01 AM
 Type: Normal
 Age Rating: SFW

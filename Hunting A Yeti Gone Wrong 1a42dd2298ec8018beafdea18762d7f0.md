@@ -1,7 +1,7 @@
 # Hunting A Yeti Gone Wrong
 
 Favourite: No
-Date Created: August 17, 2024
+Date: August 17, 2024
 Last Edited: December 13, 2025 12:49 AM
 Type: Nightmare
 Age Rating: SFW

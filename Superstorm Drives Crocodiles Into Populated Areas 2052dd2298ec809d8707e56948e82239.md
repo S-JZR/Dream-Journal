@@ -1,7 +1,7 @@
 # Superstorm Drives Crocodiles Into Populated Areas
 
 Favourite: No
-Date Created: May 27, 2025
+Date: May 27, 2025
 Last Edited: December 13, 2025 3:36 AM
 Type: Nightmare
 Age Rating: SFW

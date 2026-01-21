@@ -1,7 +1,7 @@
 # Self-replicating Metal Bars Fill The Universe
 
 Favourite: Yes
-Date Created: January 1, 2017
+Date: January 1, 2017
 Last Edited: December 24, 2025 3:49 PM
 Type: Nightmare
 Age Rating: SFW

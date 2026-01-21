@@ -1,7 +1,7 @@
 # Hide And Seek Art Gallery Misadventure
 
 Favourite: No
-Date Created: July 19, 2025
+Date: July 19, 2025
 Last Edited: December 12, 2025 2:24 AM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Moving A Haunted Painting Gone Wrong
 
 Favourite: No
-Date Created: May 14, 2025
+Date: May 14, 2025
 Last Edited: December 23, 2025 10:42 PM
 Type: Nightmare
 Age Rating: SFW

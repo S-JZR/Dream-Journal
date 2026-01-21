@@ -1,7 +1,7 @@
 # Minecraft PS1 Port
 
 Favourite: No
-Date Created: January 1, 2013
+Date: January 1, 2013
 Last Edited: December 12, 2025 5:19 PM
 Type: Normal
 Age Rating: SFW

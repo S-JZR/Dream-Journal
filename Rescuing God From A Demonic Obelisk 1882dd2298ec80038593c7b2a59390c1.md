@@ -1,13 +1,13 @@
 # Rescuing God From A Demonic Obelisk
 
 Favourite: Yes
-Date Created: January 1, 2017
-Last Edited: December 12, 2025 8:29 PM
+Date: January 1, 2017
+Last Edited: January 21, 2026 5:36 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: City, Heaven
-Characters: Abrahamic God, Dejan C, Demons, Michael C, Misc People
+Characters: Dejan C, Demons, God (Abrahamic), Michael C, Misc People
 Influences: Personal Thoughts
 
 # Description

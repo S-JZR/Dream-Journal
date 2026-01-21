@@ -1,4 +1,4 @@
-﻿Favourite,Title,Date Created,Type,Age Rating,Main Emotion,Locations,Characters,Influences
+﻿Favourite,Title,Date,Type,Age Rating,Main Emotion,Locations,Characters,Influences
 No,UFO Sighting At Video Ezy,"January 1, 2005",Normal,SFW,Surprise,Retail Strip,"Aliens, Family","Personal Experiences, Ratchet And Clank 3 (2004)"
 No,Shrunken Woman Falls Down A Shower Drain,"January 1, 2005",Nightmare,NSFW,Fear,House,Misc People,The Incredible Shrinking Man (1957)
 No,Underwater Peeing Game Show,"January 1, 2005",Pee Dream,SFW,Happy,Ocean,"Fishes, Sharks",
@@ -41,6 +41,7 @@ No,Bathtub Blood Ritual Gone Wrong,"January 1, 2014",Nightmare,SFW,Fear,Room,"Fr
 No,Sick Neighbour Dragged On A Tricycle By Their Mum,"January 1, 2014",Nightmare,SFW,Surprise,Home,"? Mico's Mum, Mico",
 No,Metal Arms Gameover Screen,"February 12, 2014",Normal,SFW,Sad,Planet,Glitch,"Metal Arms Glitch In The System (2003), Online Videos"
 No,Flying With Rocket Boots,"January 1, 2015",Normal,SFW,Happy,Secondary School,,Astro Boy (1963)
+No,Falling Asleep On The Sofa,"January 1, 2016",Normal,SFW,Surprise,Home,Family,
 No,Obstacle Course And Cooking Gameshow,"January 1, 2016",Normal,SFW,Happy,Obstacle Course,Misc People,Total Wipeout (2009)
 No,Shrapnel Pierces A Soldier's Brain,"January 1, 2016",Nightmare,SFW,Fear,Shed,Soldiers,Personal Experiences
 No,Fingernail Hygiene Clinical Trial,"January 1, 2016",Normal,SFW,Fear,Clinical Trial Room,"Doctors, Misc People",Personal Experiences
@@ -59,9 +60,9 @@ No,Armed Teenagers Drive Down The Street,"January 1, 2017",Nightmare,SFW,Fear,Ho
 Yes,Entering A Posthumanism Indoctrination Facility,"January 1, 2017",Nightmare,SFW,Fear,"Amphitheatre, Church","Brooke A, Dictators, Misc People, Satan","Christianity, Personal Experiences, Personal Thoughts"
 No,Questioning Why Christians Are Joyful,"January 1, 2017",Normal,SFW,Sad,"Church, Heaven",Misc People,"Christianity, Personal Experiences"
 Yes,Rejected Experimental Robot Conquers Earth,"January 1, 2017",Nightmare,SFW,Fear,"Earth, Scrapyard","Robots, Scientists",Steam Punks! (2013)
-No,Questioning Who God Knew Before Creation,"January 1, 2017",Normal,SFW,Surprise,Void,Abrahamic God,Personal Experiences
+No,Questioning Who God Knew Before Creation,"January 1, 2017",Normal,SFW,Surprise,Void,God (Abrahamic),Personal Experiences
 Yes,Confessing Sins During WW3,"January 1, 2017",Nightmare,SFW,Fear,Home,Family,
-Yes,Rescuing God From A Demonic Obelisk,"January 1, 2017",Nightmare,SFW,Fear,"City, Heaven","Abrahamic God, Dejan C, Demons, Michael C, Misc People",Personal Thoughts
+Yes,Rescuing God From A Demonic Obelisk,"January 1, 2017",Nightmare,SFW,Fear,"City, Heaven","Dejan C, Demons, God (Abrahamic), Michael C, Misc People",Personal Thoughts
 Yes,Hesitant To Leave The Only Known City In Existence,"January 1, 2017",Normal,SFW,Fear,"City, Void","Inventor, Misc People",Personal Thoughts
 No,Neighbourhood Nuked,"January 1, 2017",Nightmare,SFW,Fear,Home,Family,Indiana Jones And The Kingdom Of The Crystal Skull (2008)
 No,Cube UFOs Hover In The Sky,"January 1, 2017",Normal,SFW,Surprise,Home,Aliens,
@@ -140,7 +141,7 @@ No,Neighbourhood Death Games By Aliens,"March 17, 2024",Nightmare,SFW,Fear,"Arca
 Yes,Adopted By A Dragoness And Aliens Invade A City,"March 25, 2024",Nightmare,NSFW,Fear,"City, Desert, Home, Town","Aliens, Cats, Cows, Dragons, Misc People, The Grinch","Half Life (1998), How The Grinch Stole Christmas (2000), Zoochosis (2024)"
 No,Air Show Tricks Gone Wrong,"April 4, 2024",Normal,SFW,Fear,Primary School,"Pilots, TV Presenters",
 No,Purchasing A Rapper's Necklace,"April 4, 2024",Normal,SFW,Surprise,Primary School,"Misc People, Musicians",
-No,Escaping A Death Cult,"April 4, 2024",Nightmare,SFW,Fear,"Secondary School, Suburb","Abrahamic God, Family, Misc People, Police, Students, Teachers",History
+No,Escaping A Death Cult,"April 4, 2024",Nightmare,SFW,Fear,"Secondary School, Suburb","Family, God (Abrahamic), Misc People, Police, Students, Teachers",History
 No,TV Presenters Discuss A Sex Scandal Gone Wrong,"April 4, 2024",Normal,SFW,Surprise,Island,TV Presenters,News
 No,Showing Up On The Wrong Day For A University Banquet,"April 18, 2024",Nightmare,SFW,Sad,Banquet,"Misc People, Students, Teachers",Personal Experiences
 No,Superhero Live Meet And Greet Mask Feedback,"April 18, 2024",Normal,SFW,Surprise,Theatre,"Misc People, Willem Dafoe",Spiderman (2002)
@@ -187,6 +188,7 @@ No,Kids Compete In An AI Image Generation Challenge,"December 16, 2024",Normal,S
 No,A Robot Sends A Child To Spy On Me,"December 16, 2024",Nightmare,SFW,Fear,Home,"Family, Misc People, Robots","News, Online Videos"
 Yes,The Man-child And The Rise Of Nazi Germany,"December 19, 2024",Nightmare,NSFW,Fear,"Farm, Home, Palace, Primary School, Shopping Mall, Town","Julien C, Misc People, Nazis","Christianity, Cool Runnings (1993), News, Personal Experiences, The Philosophy Book: Big Ideas Simply Explained (2017)"
 Yes,The Heart's Desire,"December 29, 2024",Normal,SFW,Surprise,City,"Disembodied Voice, Misc People",Christianity
+No,Mistakenly Thinking There Was A Demon In An Apartment,"January 1, 2025",Nightmare,SFW,Fear,Hotel,"Friends (Fake), Misc People",
 No,A Hotel Gives Me Corn Chips For My Birthday,"January 1, 2025",Normal,SFW,Surprise,Hotel,"Family, Misc People",Personal Experiences
 Yes,Fascist Anti-Dictator Propaganda Commercial,"January 13, 2025",Normal,NSFW,Anger,"City, Room","Misc People, Soldiers",Personal Thoughts
 No,Fighting China On A World Map,"January 13, 2025",Nightmare,SFW,Sad,"Earth, Virtual/Videogame","Misc People, Soldiers",Mini Empires (2022) (Roblox)
@@ -309,5 +311,9 @@ No,Training To Become A Submariner,"November 21, 2025",Normal,SFW,Surprise,"City
 No,Late For Exams,"November 29, 2025",Nightmare,SFW,Fear,"Home, Secondary School, Street Market","Cashiers, Chefs, Family, Misc People",Personal Experiences
 No,Winning Big On A Coin Pusher,"December 3, 2025",Normal,SFW,Happy,Sports Club,"Misc People, Staff","Personal Experiences, Radio"
 No,Water Park Excursion Gone Wrong,"December 4, 2025",Nightmare,NSFW,Fear,Water Theme Park,"Jayden M, Mrs Brown, Staff, Steven M, Students",Personal Experiences
-No,Winning A Lamborghini On A MrBeast Gameshow,"December 12, 2025",Normal,SFW,Surprise,Warehouse,"Misc People, MrBeast",Online Videos
+Yes,Winning A Lamborghini On A MrBeast Gameshow,"December 12, 2025",Normal,SFW,Surprise,Warehouse,"Misc People, MrBeast",Online Videos
 No,Driving Along Narrow Paths Gone Wrong,"December 26, 2025",Nightmare,SFW,Fear,"Field, Trenches","Family, Misc People",
+Yes,Group Assessment About Doomscrolling Gone Wrong,"December 31, 2025",Normal,SFW,Fear,University,"Students, Teachers",Personal Experiences
+No,A Band Plays Music For God Over Billions Of Years,"January 3, 2026",Normal,SFW,Surprise,Heaven,"God (Abrahamic), Musicians",Online Videos
+No,Host Introduces The Mark Of The Beast,"January 13, 2026",Nightmare,SFW,Fear,Church,"Family, IShowSpeed, Misc People","Christianity, Online Videos, Personal Experiences"
+No,Children Electrocuted by Balloons Touching Power Lines,"January 14, 2026",Nightmare,SFW,Fear,"Building, Rural",Misc People,Online Videos

@@ -1,7 +1,7 @@
 # Police Investigate An Abandoned Truck
 
 Favourite: No
-Date Created: October 4, 2024
+Date: October 4, 2024
 Last Edited: December 13, 2025 12:57 AM
 Type: Normal
 Age Rating: SFW

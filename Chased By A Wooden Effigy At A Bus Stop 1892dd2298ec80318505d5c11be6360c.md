@@ -1,7 +1,7 @@
 # Chased By A Wooden Effigy At A Bus Stop
 
 Favourite: No
-Date Created: March 16, 2024
+Date: March 16, 2024
 Last Edited: December 12, 2025 10:38 PM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Chased By A Tripod Alien
 
 Favourite: No
-Date Created: November 4, 2025
+Date: November 4, 2025
 Last Edited: December 12, 2025 4:10 AM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Promoted To Admin In A Towny Minecraft Server
 
 Favourite: No
-Date Created: January 1, 2014
+Date: January 1, 2014
 Last Edited: December 12, 2025 5:55 PM
 Type: Normal
 Age Rating: SFW

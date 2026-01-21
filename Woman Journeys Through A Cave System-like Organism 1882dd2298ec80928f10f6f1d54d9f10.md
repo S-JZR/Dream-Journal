@@ -1,7 +1,7 @@
 # Woman Journeys Through A Cave System-like Organism
 
 Favourite: No
-Date Created: January 1, 2005
+Date: January 1, 2005
 Last Edited: December 28, 2025 6:06 PM
 Type: Nightmare
 Age Rating: SFW

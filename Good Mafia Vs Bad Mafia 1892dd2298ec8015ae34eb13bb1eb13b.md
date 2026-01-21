@@ -1,7 +1,7 @@
 # Good Mafia Vs Bad Mafia
 
 Favourite: No
-Date Created: December 11, 2024
+Date: December 11, 2024
 Last Edited: December 13, 2025 1:08 AM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Delegating A Generator Efficiency Task
 
 Favourite: No
-Date Created: June 5, 2025
+Date: June 5, 2025
 Last Edited: December 13, 2025 3:39 AM
 Type: Normal
 Age Rating: SFW

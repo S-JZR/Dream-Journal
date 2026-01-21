@@ -1,7 +1,7 @@
 # Women Escape A Kidnapping
 
 Favourite: Yes
-Date Created: January 1, 2014
+Date: January 1, 2014
 Last Edited: December 12, 2025 6:15 PM
 Type: Nightmare
 Age Rating: NSFW

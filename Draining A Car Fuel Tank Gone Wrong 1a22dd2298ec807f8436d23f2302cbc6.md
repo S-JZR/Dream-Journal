@@ -1,7 +1,7 @@
 # Draining A Car Fuel Tank Gone Wrong
 
 Favourite: No
-Date Created: January 28, 2021
+Date: January 28, 2021
 Last Edited: December 12, 2025 9:25 PM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Magical Teacher Saves Remote Students
 
 Favourite: No
-Date Created: September 30, 2024
+Date: September 30, 2024
 Last Edited: December 11, 2025 9:46 PM
 Type: Nightmare
 Age Rating: SFW

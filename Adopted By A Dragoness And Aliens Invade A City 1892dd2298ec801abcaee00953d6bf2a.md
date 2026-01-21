@@ -1,7 +1,7 @@
 # Adopted By A Dragoness And Aliens Invade A City
 
 Favourite: Yes
-Date Created: March 25, 2024
+Date: March 25, 2024
 Last Edited: December 29, 2025 5:56 PM
 Type: Nightmare
 Age Rating: NSFW

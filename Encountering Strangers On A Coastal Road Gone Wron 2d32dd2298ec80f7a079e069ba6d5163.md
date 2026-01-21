@@ -1,7 +1,7 @@
 # Encountering Strangers On A Coastal Road Gone Wrong
 
 Favourite: Yes
-Date Created: November 15, 2025
+Date: November 15, 2025
 Last Edited: December 28, 2025 4:03 PM
 Type: Nightmare
 Age Rating: SFW

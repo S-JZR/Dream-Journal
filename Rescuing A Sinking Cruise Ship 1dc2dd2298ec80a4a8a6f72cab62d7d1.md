@@ -1,7 +1,7 @@
 # Rescuing A Sinking Cruise Ship
 
 Favourite: No
-Date Created: April 16, 2025
+Date: April 16, 2025
 Last Edited: December 13, 2025 2:57 AM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Confronting Marijuana Addicts
 
 Favourite: Yes
-Date Created: September 17, 2025
+Date: September 17, 2025
 Last Edited: December 23, 2025 3:39 AM
 Type: Normal
 Age Rating: SFW

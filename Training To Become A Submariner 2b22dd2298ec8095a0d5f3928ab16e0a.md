@@ -1,7 +1,7 @@
 # Training To Become A Submariner
 
 Favourite: No
-Date Created: November 21, 2025
+Date: November 21, 2025
 Last Edited: December 28, 2025 5:44 PM
 Type: Normal
 Age Rating: SFW

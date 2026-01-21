@@ -1,7 +1,7 @@
 # TV Presenters Discuss A Sex Scandal Gone Wrong
 
 Favourite: No
-Date Created: April 4, 2024
+Date: April 4, 2024
 Last Edited: December 12, 2025 10:44 PM
 Type: Normal
 Age Rating: SFW

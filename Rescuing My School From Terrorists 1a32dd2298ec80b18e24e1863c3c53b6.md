@@ -1,7 +1,7 @@
 # Rescuing My School From Terrorists
 
 Favourite: Yes
-Date Created: November 2, 2020
+Date: November 2, 2020
 Last Edited: December 28, 2025 9:40 PM
 Type: Nightmare
 Age Rating: NSFW

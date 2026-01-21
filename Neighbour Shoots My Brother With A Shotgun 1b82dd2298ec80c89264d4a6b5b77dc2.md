@@ -1,7 +1,7 @@
 # Neighbour Shoots My Brother With A Shotgun
 
 Favourite: No
-Date Created: January 1, 2016
+Date: January 1, 2016
 Last Edited: December 12, 2025 7:24 PM
 Type: Nightmare
 Age Rating: SFW

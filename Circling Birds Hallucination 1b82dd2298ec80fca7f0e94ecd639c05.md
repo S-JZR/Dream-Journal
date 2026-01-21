@@ -1,7 +1,7 @@
 # Circling Birds Hallucination
 
 Favourite: No
-Date Created: January 1, 2008
+Date: January 1, 2008
 Last Edited: December 28, 2025 6:16 PM
 Type: Half-Asleep
 Age Rating: SFW

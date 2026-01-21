@@ -1,7 +1,7 @@
 # Driving Along Narrow Paths Gone Wrong
 
 Favourite: No
-Date Created: December 26, 2025
+Date: December 26, 2025
 Last Edited: December 28, 2025 5:28 PM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Visited By Green Twin Girls
 
 Favourite: No
-Date Created: March 14, 2024
+Date: March 14, 2024
 Last Edited: December 29, 2025 1:53 PM
 Type: Nightmare
 Age Rating: SFW

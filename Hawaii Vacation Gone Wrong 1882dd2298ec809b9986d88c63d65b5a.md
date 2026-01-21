@@ -1,7 +1,7 @@
 # Hawaii Vacation Gone Wrong
 
 Favourite: Yes
-Date Created: November 25, 2021
+Date: November 25, 2021
 Last Edited: December 29, 2025 12:42 AM
 Type: Normal
 Age Rating: SFW

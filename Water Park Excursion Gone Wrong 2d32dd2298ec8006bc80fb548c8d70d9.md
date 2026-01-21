@@ -1,7 +1,7 @@
 # Water Park Excursion Gone Wrong
 
 Favourite: No
-Date Created: December 4, 2025
+Date: December 4, 2025
 Last Edited: December 28, 2025 5:22 PM
 Type: Nightmare
 Age Rating: NSFW

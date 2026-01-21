@@ -1,8 +1,8 @@
 # Winning A Lamborghini On A MrBeast Gameshow
 
-Favourite: No
-Date Created: December 12, 2025
-Last Edited: December 28, 2025 5:29 PM
+Favourite: Yes
+Date: December 12, 2025
+Last Edited: January 21, 2026 11:31 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise

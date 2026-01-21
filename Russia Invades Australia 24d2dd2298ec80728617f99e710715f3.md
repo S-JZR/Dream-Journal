@@ -1,7 +1,7 @@
 # Russia Invades Australia
 
 Favourite: No
-Date Created: August 12, 2025
+Date: August 12, 2025
 Last Edited: December 12, 2025 4:09 AM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Surviving In A Basement From Monsters
 
 Favourite: No
-Date Created: February 7, 2025
+Date: February 7, 2025
 Last Edited: December 13, 2025 2:17 AM
 Type: Normal
 Age Rating: SFW

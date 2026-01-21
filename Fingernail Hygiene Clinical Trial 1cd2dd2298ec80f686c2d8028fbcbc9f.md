@@ -1,7 +1,7 @@
 # Fingernail Hygiene Clinical Trial
 
 Favourite: No
-Date Created: January 1, 2016
+Date: January 1, 2016
 Last Edited: December 10, 2025 2:25 AM
 Type: Normal
 Age Rating: SFW

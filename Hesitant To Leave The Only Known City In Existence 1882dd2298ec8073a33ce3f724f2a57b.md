@@ -1,7 +1,7 @@
 # Hesitant To Leave The Only Known City In Existence
 
 Favourite: Yes
-Date Created: January 1, 2017
+Date: January 1, 2017
 Last Edited: December 13, 2025 4:40 PM
 Type: Normal
 Age Rating: SFW

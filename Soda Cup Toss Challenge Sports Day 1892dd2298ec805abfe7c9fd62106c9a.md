@@ -1,7 +1,7 @@
 # Soda Cup Toss Challenge Sports Day
 
 Favourite: No
-Date Created: June 11, 2024
+Date: June 11, 2024
 Last Edited: December 11, 2025 7:13 PM
 Type: Normal
 Age Rating: SFW

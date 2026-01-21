@@ -1,7 +1,7 @@
 # Red Rooster 51st Anniversary Gone Wrong
 
 Favourite: No
-Date Created: November 20, 2025
+Date: November 20, 2025
 Last Edited: December 25, 2025 2:37 AM
 Type: Normal
 Age Rating: SFW

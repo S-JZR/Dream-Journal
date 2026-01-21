@@ -1,7 +1,7 @@
 # Rebuilding A Sci-Fi RTS And Platformer
 
 Favourite: No
-Date Created: October 17, 2024
+Date: October 17, 2024
 Last Edited: December 13, 2025 1:08 AM
 Type: Normal
 Age Rating: SFW

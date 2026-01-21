@@ -1,7 +1,7 @@
 # Magic Soda Bottle Creates Money
 
 Favourite: No
-Date Created: January 1, 2010
+Date: January 1, 2010
 Last Edited: December 10, 2025 1:15 AM
 Type: Normal
 Age Rating: SFW

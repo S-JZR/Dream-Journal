@@ -1,7 +1,7 @@
 # Escaping A Kidnapping
 
 Favourite: No
-Date Created: January 1, 2014
+Date: January 1, 2014
 Last Edited: December 24, 2025 4:43 PM
 Type: Nightmare
 Age Rating: SFW

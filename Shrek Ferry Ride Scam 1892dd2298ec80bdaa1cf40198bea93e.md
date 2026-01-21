@@ -1,7 +1,7 @@
 # Shrek Ferry Ride Scam
 
 Favourite: No
-Date Created: April 24, 2024
+Date: April 24, 2024
 Last Edited: December 13, 2025 12:31 AM
 Type: Nightmare
 Age Rating: SFW

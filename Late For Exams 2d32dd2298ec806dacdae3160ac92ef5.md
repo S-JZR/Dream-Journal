@@ -1,7 +1,7 @@
 # Late For Exams
 
 Favourite: No
-Date Created: November 29, 2025
+Date: November 29, 2025
 Last Edited: December 28, 2025 4:31 PM
 Type: Nightmare
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Hiding In A Safehouse From Prehistoric Creatures
 
 Favourite: No
-Date Created: January 1, 2021
+Date: January 1, 2021
 Last Edited: December 13, 2025 6:49 PM
 Type: Nightmare
 Age Rating: SFW

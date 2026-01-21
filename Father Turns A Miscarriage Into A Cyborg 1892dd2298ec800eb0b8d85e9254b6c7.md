@@ -1,7 +1,7 @@
 # Father Turns A Miscarriage Into A Cyborg
 
 Favourite: Yes
-Date Created: June 19, 2024
+Date: June 19, 2024
 Last Edited: December 29, 2025 7:16 PM
 Type: Nightmare
 Age Rating: NSFW

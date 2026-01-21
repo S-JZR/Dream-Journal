@@ -1,7 +1,7 @@
 # Dad's Brother Assaults My Sister During The Night
 
 Favourite: No
-Date Created: November 14, 2025
+Date: November 14, 2025
 Last Edited: December 28, 2025 3:58 PM
 Type: Nightmare
 Age Rating: SFW

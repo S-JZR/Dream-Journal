@@ -1,7 +1,7 @@
 # Fighting Aliens On A Cruise Ship
 
 Favourite: No
-Date Created: April 14, 2025
+Date: April 14, 2025
 Last Edited: December 13, 2025 2:56 AM
 Type: Nightmare
 Age Rating: SFW

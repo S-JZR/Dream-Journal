@@ -1,7 +1,7 @@
 # Hospital Tentacle Monster
 
 Favourite: No
-Date Created: May 7, 2021
+Date: May 7, 2021
 Last Edited: December 12, 2025 9:27 PM
 Type: Nightmare
 Age Rating: SFW

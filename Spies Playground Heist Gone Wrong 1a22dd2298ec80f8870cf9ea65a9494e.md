@@ -1,7 +1,7 @@
 # Spies Playground Heist Gone Wrong
 
 Favourite: No
-Date Created: January 10, 2023
+Date: January 10, 2023
 Last Edited: December 11, 2025 5:16 PM
 Type: Normal
 Age Rating: SFW

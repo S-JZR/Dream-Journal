@@ -1,7 +1,7 @@
 # Alex Jones Dies At 60
 
 Favourite: No
-Date Created: August 1, 2025
+Date: August 1, 2025
 Last Edited: December 13, 2025 6:56 PM
 Type: Nightmare
 Age Rating: SFW

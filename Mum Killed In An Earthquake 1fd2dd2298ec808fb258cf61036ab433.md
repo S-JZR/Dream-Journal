@@ -1,7 +1,7 @@
 # Mum Killed In An Earthquake
 
 Favourite: No
-Date Created: January 1, 2013
+Date: January 1, 2013
 Last Edited: December 12, 2025 5:26 PM
 Type: Nightmare
 Age Rating: SFW

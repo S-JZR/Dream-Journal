@@ -1,7 +1,7 @@
 # Fleeing Zombies Outside A Shopping Mall
 
 Favourite: No
-Date Created: April 16, 2025
+Date: April 16, 2025
 Last Edited: December 13, 2025 2:57 AM
 Type: Nightmare
 Age Rating: SFW

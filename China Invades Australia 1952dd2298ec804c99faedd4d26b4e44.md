@@ -1,7 +1,7 @@
 # China Invades Australia
 
 Favourite: No
-Date Created: February 4, 2025
+Date: February 4, 2025
 Last Edited: December 13, 2025 1:30 AM
 Type: Nightmare
 Age Rating: SFW

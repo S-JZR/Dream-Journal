@@ -1,7 +1,7 @@
 # Giant Squeezes A Tiny Man's Wife To Death
 
 Favourite: No
-Date Created: January 1, 2013
+Date: January 1, 2013
 Last Edited: December 13, 2025 6:47 PM
 Type: Nightmare
 Age Rating: SFW

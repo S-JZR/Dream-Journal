@@ -1,7 +1,7 @@
 # Western Roleplay Excursion Gone Wrong
 
 Favourite: No
-Date Created: July 17, 2025
+Date: July 17, 2025
 Last Edited: December 12, 2025 2:06 AM
 Type: Normal
 Age Rating: SFW

@@ -1,7 +1,7 @@
 # Engineering Class Orientation Gone Wrong
 
 Favourite: Yes
-Date Created: April 28, 2025
+Date: April 28, 2025
 Last Edited: December 24, 2025 2:56 PM
 Type: Nightmare
 Age Rating: SFW

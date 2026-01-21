@@ -1,7 +1,7 @@
 # Corrupt Vet Arrested For Cat Abuse
 
 Favourite: No
-Date Created: April 11, 2025
+Date: April 11, 2025
 Last Edited: December 13, 2025 2:52 AM
 Type: Nightmare
 Age Rating: NSFW

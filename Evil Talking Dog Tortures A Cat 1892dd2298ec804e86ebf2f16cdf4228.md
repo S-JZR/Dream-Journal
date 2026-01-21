@@ -1,7 +1,7 @@
 # Evil Talking Dog Tortures A Cat
 
 Favourite: No
-Date Created: February 16, 2024
+Date: February 16, 2024
 Last Edited: December 29, 2025 1:43 PM
 Type: Nightmare
 Age Rating: NSFW

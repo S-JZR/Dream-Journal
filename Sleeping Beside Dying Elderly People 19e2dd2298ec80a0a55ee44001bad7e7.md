@@ -1,7 +1,7 @@
 # Sleeping Beside Dying Elderly People
 
 Favourite: No
-Date Created: January 1, 2014
+Date: January 1, 2014
 Last Edited: December 28, 2025 6:38 PM
 Type: Nightmare
 Age Rating: NSFW

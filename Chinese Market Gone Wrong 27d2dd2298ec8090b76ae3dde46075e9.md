@@ -1,7 +1,7 @@
 # Chinese Market Gone Wrong
 
 Favourite: No
-Date Created: September 22, 2025
+Date: September 22, 2025
 Last Edited: December 12, 2025 4:08 AM
 Type: Normal
 Age Rating: SFW

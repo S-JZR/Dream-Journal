@@ -1,7 +1,7 @@
 # Minecraft Pyramid Obstacle Course
 
 Favourite: No
-Date Created: February 21, 2025
+Date: February 21, 2025
 Last Edited: December 13, 2025 2:29 AM
 Type: Normal
 Age Rating: SFW

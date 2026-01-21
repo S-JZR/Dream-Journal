@@ -1,7 +1,7 @@
 # Authoritarian Escape Room Facility
 
 Favourite: No
-Date Created: October 24, 2023
+Date: October 24, 2023
 Last Edited: December 13, 2025 4:48 PM
 Type: Nightmare
 Age Rating: SFW
