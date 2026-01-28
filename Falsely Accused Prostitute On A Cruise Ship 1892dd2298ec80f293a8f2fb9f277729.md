@@ -2,20 +2,12 @@
 
 Favourite: No
 Date: February 6, 2024
-Last Edited: December 22, 2025 11:03 PM
+Last Edited: January 28, 2026 6:47 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Surprise
 Locations: Beach, Cruise Ship
 Characters: Misc People, Prostitute
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Sexual themes.
-</aside>
 
 # Description
 

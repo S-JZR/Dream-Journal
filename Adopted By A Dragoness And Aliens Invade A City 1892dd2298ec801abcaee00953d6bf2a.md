@@ -2,21 +2,13 @@
 
 Favourite: Yes
 Date: March 25, 2024
-Last Edited: December 29, 2025 5:56 PM
+Last Edited: January 28, 2026 6:48 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
 Locations: City, Desert, Home, Town
 Characters: Aliens, Cats, Cows, Dragons, Misc People, The Grinch
 Influences: Half Life (1998), How The Grinch Stole Christmas (2000), Zoochosis (2024)
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Cannibalism
-</aside>
 
 # Description
 

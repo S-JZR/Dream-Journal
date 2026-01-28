@@ -2,21 +2,13 @@
 
 Favourite: Yes
 Date: July 3, 2025
-Last Edited: December 19, 2025 5:39 PM
+Last Edited: January 28, 2026 6:52 PM
 Type: Nightmare
-Age Rating: NSFW
+Age Rating: SFW
 Main Emotion: Surprise
 Locations: Christian School, Library
 Characters: Demons, Sarajah, Students, Teachers, Wolves
 Influences: Christianity, Online Videos, Personal Experiences
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Arson.
-</aside>
 
 # Description
 

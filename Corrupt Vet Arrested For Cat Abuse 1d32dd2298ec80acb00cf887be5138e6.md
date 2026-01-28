@@ -2,22 +2,13 @@
 
 Favourite: No
 Date: April 11, 2025
-Last Edited: December 13, 2025 2:52 AM
+Last Edited: January 28, 2026 6:50 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Anger
 Locations: Airport, Obstacle Course, Veterinary Clinic
 Characters: Cats, Criminals, Misc People, Police, Veterinarian
 Influences: Mad God (2021)
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Animal abuse.
-- Gore.
-</aside>
 
 # Description
 

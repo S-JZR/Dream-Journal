@@ -2,21 +2,13 @@
 
 Favourite: No
 Date: January 11, 2020
-Last Edited: December 28, 2025 9:05 PM
+Last Edited: January 28, 2026 6:46 PM
 Type: Normal
-Age Rating: NSFW
+Age Rating: SFW
 Main Emotion: Happy
 Locations: Amphitheatre, Church, Shopping Mall, Suburb
 Characters: Family, Misc People, Rhiannon C
 Influences: Personal Experiences
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Terrorism.
-</aside>
 
 # Description
 

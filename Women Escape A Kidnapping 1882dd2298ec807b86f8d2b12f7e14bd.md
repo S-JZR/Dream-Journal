@@ -2,23 +2,13 @@
 
 Favourite: Yes
 Date: January 1, 2014
-Last Edited: December 12, 2025 6:15 PM
+Last Edited: January 28, 2026 6:45 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
 Locations: Park, Suburb
 Characters: Criminals, Misc People
 Influences: Personal Experiences
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Abduction.
-- Slavery.
-- Body mutilation.
-</aside>
 
 # Description
 

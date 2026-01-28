@@ -2,21 +2,13 @@
 
 Favourite: No
 Date: January 1, 2005
-Last Edited: December 10, 2025 1:00 AM
+Last Edited: January 28, 2026 6:45 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
 Locations: House
 Characters: Misc People
 Influences: The Incredible Shrinking Man (1957)
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Nudity.
-</aside>
 
 # Description
 

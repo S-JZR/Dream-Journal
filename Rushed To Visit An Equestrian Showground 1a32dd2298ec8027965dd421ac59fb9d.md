@@ -2,20 +2,12 @@
 
 Favourite: No
 Date: October 4, 2024
-Last Edited: December 11, 2025 9:46 PM
+Last Edited: January 28, 2026 6:48 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Embarrassment
 Locations: Home, Retail Strip
 Characters: Family, Horses, Misc People
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Bodily functions.
-</aside>
 
 # Description
 

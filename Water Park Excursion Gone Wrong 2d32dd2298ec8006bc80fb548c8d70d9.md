@@ -2,21 +2,13 @@
 
 Favourite: No
 Date: December 4, 2025
-Last Edited: December 28, 2025 5:22 PM
+Last Edited: January 28, 2026 6:53 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
 Locations: Water Theme Park
 Characters: Jayden M, Mrs Brown, Staff, Steven M, Students
 Influences: Personal Experiences
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Graphic violence.
-</aside>
 
 # Description
 
