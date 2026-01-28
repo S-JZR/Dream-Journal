@@ -2,23 +2,13 @@
 
 Favourite: Yes
 Date: November 2, 2020
-Last Edited: December 28, 2025 9:40 PM
+Last Edited: January 28, 2026 6:46 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Happy
 Locations: Primary School
 Characters: Criminals, Misc People, Soldiers
 Influences: SpongeBob SquarePants (1999)
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- School shooting-like scenario.
-- Graphic violence.
-- Technically nobody innocent is harmed because time travel is used.
-</aside>
 
 # Description
 

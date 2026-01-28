@@ -2,20 +2,12 @@
 
 Favourite: No
 Date: September 16, 2025
-Last Edited: December 12, 2025 4:06 AM
+Last Edited: January 28, 2026 6:53 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Disgust
 Locations: Home, Lake
 Characters: Bees, Family
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Animal abuse.
-</aside>
 
 # Description
 

@@ -2,21 +2,13 @@
 
 Favourite: Yes
 Date: January 13, 2025
-Last Edited: December 20, 2025 3:37 AM
+Last Edited: January 28, 2026 6:50 PM
 Type: Normal
-Age Rating: NSFW
+Age Rating: SFW
 Main Emotion: Anger
 Locations: City, Room
 Characters: Misc People, Soldiers
 Influences: Personal Thoughts
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Fascist themes.
-</aside>
 
 # Description
 
