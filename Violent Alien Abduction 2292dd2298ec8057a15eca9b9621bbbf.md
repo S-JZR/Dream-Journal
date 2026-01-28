@@ -2,20 +2,12 @@
 
 Favourite: No
 Date: January 1, 2013
-Last Edited: December 10, 2025 1:17 AM
+Last Edited: January 28, 2026 6:45 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
 Locations: Bank
 Characters: Aliens, Misc People
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Body horror.
-</aside>
 
 # Description
 

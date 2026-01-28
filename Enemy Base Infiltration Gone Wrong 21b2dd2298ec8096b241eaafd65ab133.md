@@ -2,21 +2,13 @@
 
 Favourite: No
 Date: June 20, 2025
-Last Edited: December 12, 2025 1:36 AM
+Last Edited: January 28, 2026 6:51 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Fear
 Locations: Fortress, Obstacle Course, Ocean, Stadium
 Characters: Criminals, Julien C, Misc People, Musicians, Spies
 Influences: Ratchet And Clank 3 (2004)
-
-<aside>
-⚠️
-
-**Content Warning**
-
-- Terrorist phrase.
-</aside>
 
 # Description
 
