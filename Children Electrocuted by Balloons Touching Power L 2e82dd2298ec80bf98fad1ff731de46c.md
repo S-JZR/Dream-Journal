@@ -1,8 +1,8 @@
-# Children Electrocuted by Balloons Touching Power Lines
+# Children Electrocuted By Balloons Touching Power Lines
 
 Favourite: No
 Date: January 14, 2026
-Last Edited: January 21, 2026 11:25 PM
+Last Edited: January 26, 2026 3:32 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
