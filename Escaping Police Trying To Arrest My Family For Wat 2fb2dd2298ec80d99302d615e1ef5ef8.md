@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: February 2, 2026
-Last Edited: February 8, 2026 6:17 PM
+Last Edited: February 8, 2026 6:48 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -10,18 +10,11 @@ Locations: Home, Neighbourhood
 Characters: Dogs, Family, Police
 Influences: A Super Progressive Movie (2026), News
 
-<aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
-
-Needs initial editing.
-
-</aside>
-
 # Description
 
-I was standing in my lounge room when a male news anchor presented breaking news on TV.
+I was standing in the lounge room of my unit when a male news anchor presented breaking news on TV.
 
-> **Anchor**: the hate speech laws recently released in Australia have resulted in severely unintended consequences and various people were being arrested across the country for posting opinions on social media among other things.
+> **Anchor**: The hate speech laws recently released in Australia have led to severe unintended consequences as various people have been arrested across the country for posting their opinions on social media among other things.
 > 
 
 I was washing my hands in the laundry room when a policeman knocked on the front door and my mum let him inside to talk in the kitchen.
@@ -35,24 +28,25 @@ I overheard the conversation and walked into the kitchen.
 **Policeman 1**: No.
 > 
 
-When the policeman wasn’t looking I knocked him out and we hid the body somewhere in my unit. 
+When the policeman wasn’t looking, I knocked him out and we hid his body somewhere in my unit.
 
-Another policeman suspicious of his disappearance knocked on the front door.
+Another policeman suspicious of his colleague’s disappearance knocked on the front door.
 
-> **Policeman 2**: Excuse me have you seen where my colleague went, I believe he came in here earlier?
+> **Policeman 2**: Excuse me, have you seen where my colleague went?
+**Policeman 2**: I believe he came in here earlier.
 **Me**: He went outside to the right to the loo.
 **Policeman 2**: Why would he do that?
 **Policeman 2**: That seems odd.
-**Me**: Yes it was quite odd.
+**Me**: Yes, it was quite odd.
 > 
 
-The other policeman walked right down the footpath to the front of my unit complex to look for him. I knew our time was short and turned around to my family.
+The policeman walked down the footpath to the front of my unit complex to look for him. I knew our time was short and turned around to my family.
 
-> **Me**: We need to leave as soon as possible.
+> **Me**: We need to leave as soon as possible!
 **Me**: Pack the most valuable things so we can go!
 > 
 
-I considered making a new backup of the data on my computer to take with me and started the process with my external SSD but realized it would take about 20 minutes.
+I started making a new backup of the data on my computer via an external SSD to take with me but realized it would take about 20 minutes.
 
 The same policeman returned to the front door.
 
@@ -60,9 +54,9 @@ The same policeman returned to the front door.
 **Policeman 2**: I wasn’t able to find him and I would like to come inside to check.
 > 
 
-I exited the front door to knock him out and we hid the body inside my unit.
+I quickly exited the front door to knock him out and we hid his body somewhere inside my unit.
 
-A red forensics vehicle later parked in front of my unit complex to search for the missing policemen. I fled to the neighbouring unit complex. I walked across top of a wood fence at the front as a dog below barked at me. I considered falling left if I lost my balance to avoid being mauled. I climbed onto the terracotta red/brown roof and moved to the other side. After waiting a while I realized nobody was looking for me down the sidewalk. I returned to my unit and the data backup finally finished so I took it and my family escaped.
+A red forensics vehicle later parked in front of my unit complex to search for the missing policemen. I fled to the neighbouring unit complex opposite ours and walked across the top of the wooden fence of the first unit as a dog barked at me from below. I considered falling left if I lost my balance to avoid being mauled. I climbed onto the terracotta red/brown roof and moved to the other side. After waiting for a long time, I realized nobody was looking for me down the sidewalk and returned to my unit. The data backup finally finished so I took it and escaped with my family.
 
 # Interpretations
 
