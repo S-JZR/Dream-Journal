@@ -2,11 +2,11 @@
 
 Favourite: No
 Date: February 7, 2026
-Last Edited: February 8, 2026 9:17 PM
+Last Edited: February 9, 2026 12:23 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Art Museum, Cafe
+Locations: Cafe, Virtual/Videogame
 Characters: Misc People
 Influences: Genie 3 (2025), The Elevator (2018) (Roblox)
 
