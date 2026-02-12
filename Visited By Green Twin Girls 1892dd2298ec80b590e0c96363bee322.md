@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: March 14, 2024
-Last Edited: December 29, 2025 1:53 PM
+Last Edited: February 12, 2026 3:41 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -15,13 +15,17 @@ Influences: Christianity, The Shining (1980)
 I was standing on the footpath outside my unit complex when I noticed two small twin girls with green skin nearby starring at me.
 
 > **Girl 1**: We’ve been waiting to meet you.
-**Girl 2**: Come back here at the same time next year.
+> 
+
+> **Girl 2**: Come back here at the same time next year.
 > 
 
 As they wandered away down the street I began following them.
 
 > **Me**: What do you mean by that?
-**Me**: Where are you going?
+> 
+
+> **Me**: Where are you going?
 > 
 
 They soon blended into a crowd of adults boarding a mini white bus.
@@ -33,8 +37,12 @@ Suddenly, a sepia horror film was projected onto the right wooden fence surround
 As night fell, enveloping surroundings in pitch blackness, I grew paranoid that the girls were luring me outside for something sinister, prompting me to flee into my unit to meet my brother.
 
 > **Me**: You won’t believe what happened.
-**Me**: [Relaying the situation].
-**Brother**: (Joking) That sounds like they’re straight out of The Shining.
+> 
+
+> **Me**: [Relaying the situation].
+> 
+
+> **Brother**: (Joking) That sounds like they’re straight out of The Shining.
 > 
 
 # Interpretations

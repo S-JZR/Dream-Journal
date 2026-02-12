@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 14, 2026
-Last Edited: January 26, 2026 3:32 PM
+Last Edited: February 12, 2026 4:33 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -29,7 +29,9 @@ As the children walked beside the power pole, one of their balloons touched a lo
 I repeatedly waved my arms to try getting the attention of people at the party and moved forward past the trees to be more visible but nobody noticed. Three distant women in front of me approached to investigate.
 
 > **Woman**: What seems to be the …
-**Me**: Call an ambulance, they’ve been electrocuted!
+> 
+
+> **Me**: Call an ambulance, they’ve been electrocuted!
 > 
 
 One of the women crouched beside the girl to check her pulse.
@@ -40,7 +42,9 @@ One of the women crouched beside the girl to check her pulse.
 The women pulled the children away from the power poles to keep them safe. While we waited for an ambulance, we walked through the abandoned bathroom.
 
 > **Woman**: Can you explain what happened?
-**Me**: The balloons contained helium so when touching the wires they combusted and the fire excited ions that allowed the electricity to arc across the air into their bodies.
+> 
+
+> **Me**: The balloons contained helium so when touching the wires they combusted and the fire excited ions that allowed the electricity to arc across the air into their bodies.
 > 
 
 The woman was surprised, not expecting a scientific answer, but acknowledged it.

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 10, 2020
-Last Edited: December 28, 2025 9:11 PM
+Last Edited: February 12, 2026 3:25 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -15,7 +15,9 @@ Influences: Personal Experiences
 I was seated with my family in my mum's car being driven by my mum to a veterans resort to meet someone. We noticed two connected tennis ball courts beside the complex when we pulled into the parking lot and decided to play a game. However, before entering, a cleaning crew suddenly brought in their equipment to wash the floors, and a ride-on floor scrubber leaked a small white puddle near the entrance.
 
 > **Me**: Excuse me, what is that substance on the ground?
-**Man**: It’s a toxic cleaning chemical called Barsonic.
+> 
+
+> **Man**: It’s a toxic cleaning chemical called Barsonic.
 > 
 
 My family became concerned about the potential health impact of the fumes. We chose to bring this incident to the attention of a fictional retired general at my secondary school. I scheduled an appointment to express our concerns and waited outside the HPE staff room until he exited.
@@ -31,12 +33,18 @@ He entered the L-shaped hallway in the toilet block in the science courtyard.
 My voice echoing off the walls prompted three seventh graders in the stalls to yell random phrases for their amusement.
 
 > **Students**: Wooooo!
-**Students**: I'm the best Minecrafter ever!
-**Students**: Bananas!
+> 
+
+> **Students**: I'm the best Minecrafter ever!
+> 
+
+> **Students**: Bananas!
 > 
 
 > **General**: *groan* these toilets are absolutely repulsive and covered in grime.
-**General**: How much does the school spend to maintain it?
+> 
+
+> **General**: How much does the school spend to maintain it?
 > 
 
 Mrs Itsikson and Mr Broadway, staff members, emerged from the bathroom hallway and I opened the door for them out of courtesy.

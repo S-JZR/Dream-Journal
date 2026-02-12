@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: December 31, 2025
-Last Edited: January 21, 2026 11:31 PM
+Last Edited: February 12, 2026 4:30 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -15,10 +15,18 @@ Influences: Personal Experiences
 I was one of many university students seated in a creative industries classroom when my entire team was absent. We had a presentation due tomorrow that we didn’t start which involved showcasing a storyboard about a real world problem. Earlier in the semester, I proposed some vague ideas to my team about someone being addicted to their phone and a female team member claimed they would work hard on it later but didn’t. I messaged my team on social media:
 
 > **Me**: I’m in the classroom alone right now, where is everyone?
-**Woman 1**: We are still working on multiple mini essays released earlier.
-**Woman 1:** We can’t make it.
-**Me**: I just finished that and moved onto the presentation.
-**Me**: I’m going to pull out a personal idea from my vault to try saving you all.
+> 
+
+> **Woman 1**: We are still working on multiple mini essays released earlier.
+> 
+
+> **Woman 1:** We can’t make it.
+> 
+
+> **Me**: I just finished that and moved onto the presentation.
+> 
+
+> **Me**: I’m going to pull out a personal idea from my vault to try saving you all.
 > 
 
 Due to the limited time, I compromised by drawing 2D black and white images and writing whatever I could for the slides since it would be quick. My storyboard involved:

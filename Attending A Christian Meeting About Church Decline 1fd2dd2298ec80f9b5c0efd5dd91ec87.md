@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: May 23, 2025
-Last Edited: December 24, 2025 3:40 PM
+Last Edited: February 12, 2026 4:17 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -14,14 +14,18 @@ Influences: God Has A Wonderful Plan For Your Life (2010), News, Personal Though
 
 I was driving to a Christian meeting when I tuned in the radio and heard a male commentator.
 
-> **Commentator**: All religions are silly relics fading away but get this somehow Gen Z is more open to marriage than casual sex.
+> **Man 1**: All religions are silly relics fading away but get this somehow Gen Z is more open to marriage than casual sex.
 > 
 
 Upon arriving, two long rows of white fold-out tables stood outside on a grassy field separated by a gap with various Christian participants seated on white stackable plastic chairs around the entire perimeter as I sat at the small side. Different people voiced their concerns over a microphone like a bald bearded man.
 
-> **Man**: Attendance at my church is declining.
-**Man**: If this continues our faith might cease to exist in the future.
-**Man**: (Sarcasm) Do we need to increase sensory experiences like music to attract more participants?
+> **Man 2**: Attendance at my church is declining.
+> 
+
+> **Man 2**: If this continues our faith might cease to exist in the future.
+> 
+
+> **Man 2**: (Sarcasm) Do we need to increase sensory experiences like music to attract more participants?
 > 
 
 I thought to myself that these people lacked direction because they:

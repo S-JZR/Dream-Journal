@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: February 8, 2026
-Last Edited: February 9, 2026 12:12 AM
+Last Edited: February 12, 2026 3:08 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -17,8 +17,12 @@ Dash from The Incredible was sent undercover to investigate Auto Co, a suspiciou
 Everyone was assigned to either Auto Co or Doughnut King based on the first letter of their name. Dash was sent to Auto Co and the group was given grey shirts to put on. When the male founder opened the door to move inside, a curious male teenager tried peeking at the machinery.
 
 > **Male Founder**: Excuse me, this is a restricted area and you’re not allowed in here.
-**Man**: Are you the only ones working back here?
-**Male Founder**: Yes, the entire process is fully automated with precise machines.
+> 
+
+> **Man**: Are you the only ones working back here?
+> 
+
+> **Male Founder**: Yes, the entire process is fully automated with precise machines.
 > 
 
 The group lined up to assemble their own hotdogs as ingredients were automatically dispensed in the glass compartments including cooked sausages, mustard in plastic packets, and buns.
@@ -33,20 +37,28 @@ A few individuals who didn’t perform well or caused a nuisance were sent to a 
 For five days, a mysterious silent female midget wearing a black uniform with cyan veins and a smooth mask stood in the back area with the doors cracked open. She tried helping Dash by holding up the number of days left until he was going to be killed with her fingers. Dash didn’t understand until the last day when she pointed at him and did a cut-throat gesture and he realized what was happening.
 
 > **Female Founder**: Well it’s that time again.
-**Female Founder**: The next individual to be eliminated is Dash.
+> 
+
+> **Female Founder**: The next individual to be eliminated is Dash.
 > 
 
 Dash walked into the back area and saw that the side bathroom was open with a light on but refused to enter. The founders were aware of his disobedience and sent everyone to catch him.
 
 > **Female Founder**: It seems Dash is being a bad sport and refusing to leave.
-**Female Founder**: How about we have a special event?
-**Female Founder**: The first person to catch him gets a reward.
+> 
+
+> **Female Founder**: How about we have a special event?
+> 
+
+> **Female Founder**: The first person to catch him gets a reward.
 > 
 
 Dash used his super speed to kick open grills along an air vent shaft until entering a room containing oil barrels. As the door handles started turning, he emptied the oil onto the floor and ignited it with friction. When the doors opened, everyone hesitated to enter.
 
 > **Female Founder**: No!
-**Female Founder**: What are you doing?
+> 
+
+> **Female Founder**: What are you doing?
 > 
 
 The other barrels exploded and Dash used the shockwave to launch into the ceiling of the hall which was now made of various layers of translucent white fabric. He tore holes through the fabric which loosened and struggled to climb up because he couldn’t get solid footing as a large muscular male henchman wearing black started rapidly climbing up towards him.

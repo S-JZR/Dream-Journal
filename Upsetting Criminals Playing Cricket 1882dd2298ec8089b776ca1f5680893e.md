@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 7, 2021
-Last Edited: January 28, 2026 6:46 PM
+Last Edited: February 12, 2026 3:32 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Fear
@@ -59,9 +59,15 @@ I quickly climbed out in shock. The platform soon tilted over the sidewalk from 
 Determined to uncover the culprits behind the criminal organization, I ventured into a rundown part of the city to discover an abandoned warehouse constructed from red bricks. Two gangs entered, and I picked the lock to observe the drug deal. After sniping both middlemen, I retreated into the inner city. In the town square, a gunshot narrowly missed my forehead, and I spotted a distant figure in black attire behind me amid a crowd. I dove behind the retaining wall of a hedgerow and darted around the block. While entering a sports club with a wooden interior, I ascended a staircase, looking for assassins from higher windows as the owner approached from behind.
 
 > **Owner**: Is everything alright?
-**Me**: [Relaying the situation]
-**Me**: Can I hide here?
-**Owner**: Follow me to the roof.
+> 
+
+> **Me**: [Relaying the situation]
+> 
+
+> **Me**: Can I hide here?
+> 
+
+> **Owner**: Follow me to the roof.
 > 
 
 The owner led me to a flying blue mini-submarine spaceship on the roof with a translucent front and windows on the top, sides, and bottom. We entered inside and he drove it into the sky.
@@ -72,16 +78,26 @@ The owner led me to a flying blue mini-submarine spaceship on the roof with a tr
 Eventually, we glided past a hovering 3D semi-circle quartz structure, revealed as the gang's headquarters. The entire bottom was an aquarium with a window on the front face and a curved ancient Greek-style house with pillars built on top at the back edge.
 
 > **Me**: Can you land on it so I can put a stop to all of this.
-**Owner**: No it’s too heavily defended.
-**Owner**: We need to find another location where they will be exposed.
-**Me**: We can go to an abandoned warehouse where they met up earlier.
+> 
+
+> **Owner**: No it’s too heavily defended.
+> 
+
+> **Owner**: We need to find another location where they will be exposed.
+> 
+
+> **Me**: We can go to an abandoned warehouse where they met up earlier.
 > 
 
 We landed beside the warehouse and my family was already outside as a few people roamed around. As I examined the side entrance for a weak door to infiltrate, I found them bolted shut, making it impossible to open without making a noise. People nearby exchanged money for sealed bags of white powder through a hole in the wall. Retreating to a wooden bridge over a pond in the centre of the road with a stranger standing nearby.
 
 > **Stranger**: What is that gun for?
-**Me**: It’s for dealing with criminals.
-**Me**: I could shoot them all but I won’t because I’m not evil.
+> 
+
+> **Me**: It’s for dealing with criminals.
+> 
+
+> **Me**: I could shoot them all but I won’t because I’m not evil.
 > 
 
 Unexpectedly, numerous senior military officers, wearing green uniforms adorned with medals, cheerfully escorted my parents away.
