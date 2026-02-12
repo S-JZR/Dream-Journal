@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: January 13, 2025
-Last Edited: January 28, 2026 6:50 PM
+Last Edited: February 12, 2026 4:04 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -15,16 +15,30 @@ Influences: Personal Thoughts
 I was spectating a military propaganda commercial featuring shots of diverse people performing basic jobs like selling fruit at a marketplace on the footpath beside Brisbane City.
 
 > **Worker 1**: I work to kill dictators overseas.
-**Worker 1**: [Dictator name]
-**Worker 2**: [Dictator name]
-**Worker 3**: [Dictator name]
+> 
+
+> **Worker 1**: [Dictator name]
+> 
+
+> **Worker 2**: [Dictator name]
+> 
+
+> **Worker 3**: [Dictator name]
 > 
 
 > **Narrator**: Society is merely a façade artificially manufactured to comfort the masses from the true reality that everything can be easily destroyed in war.
-**Narrator**: The greatest underlying objective is always survival by remaining the fittest.
-**Narrator**: Achieving permanent liberty requires collaborating to overcome international threats that seek to dominate by perpetually scheming against us.
-**Narrator**: Every action, including those that seem inconsequential, should be done with the vision of achieving something greater and doing any part to uphold the nation contributes to fighting against the enemy.
-**Narrator**: If you're not highly skilled then serve the public to help the disciplined go on to innovate for the future and profits can be used to invest in worthwhile causes.
+> 
+
+> **Narrator**: The greatest underlying objective is always survival by remaining the fittest.
+> 
+
+> **Narrator**: Achieving permanent liberty requires collaborating to overcome international threats that seek to dominate by perpetually scheming against us.
+> 
+
+> **Narrator**: Every action, including those that seem inconsequential, should be done with the vision of achieving something greater and doing any part to uphold the nation contributes to fighting against the enemy.
+> 
+
+> **Narrator**: If you're not highly skilled then serve the public to help the disciplined go on to innovate for the future and profits can be used to invest in worthwhile causes.
 > 
 
 A medium full shot of a machine gun rack in a grey room showed three soldiers wearing grey uniforms power walking past it in a line to arm themselves and turning 90 degrees to the right to exit the frame.

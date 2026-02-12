@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 1, 2017
-Last Edited: January 21, 2026 5:36 PM
+Last Edited: February 12, 2026 3:22 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -15,7 +15,9 @@ Influences: Personal Experiences
 I was spectating a black void when I questioned God who answered with a disembodied voice.
 
 > **Me**: Who did you know before the foundation of the world when nobody else existed?
-**God**: I knew Jesus.
+> 
+
+> **God**: I knew Jesus.
 > 
 
 # Interpretations

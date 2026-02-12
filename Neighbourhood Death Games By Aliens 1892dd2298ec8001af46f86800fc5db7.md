@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: March 17, 2024
-Last Edited: December 29, 2025 2:18 PM
+Last Edited: February 12, 2026 3:43 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -19,10 +19,18 @@ The first challenge involved racing to get inside a building while a hovering dr
 The second challenge involved me entering a room to stand on a cylindrical podium beside an arcade machine that combined a basketball hoop with multiple shelves of items to knock over. A female host, presumably held against her will, stood in the room.
 
 > **Woman**: Your challenge is to keep throwing the basketballs until all tasks are satisfied.
-**Woman**: Everything will reset after a short delay.
-**Me**: How long did other contestants take to finish on average?
-**Woman**: ...
-**Woman**: 11 years.
+> 
+
+> **Woman**: Everything will reset after a short delay.
+> 
+
+> **Me**: How long did other contestants take to finish on average?
+> 
+
+> **Woman**: ...
+> 
+
+> **Woman**: 11 years.
 > 
 
 # Interpretations

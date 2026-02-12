@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: January 16, 2024
-Last Edited: December 29, 2025 1:40 PM
+Last Edited: February 12, 2026 3:40 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Bold
@@ -19,9 +19,15 @@ During a formal indoor event at a carnival, children were led to a side room for
 While revisiting the Springwood House of Praise church various tables of food spanned the bottom and top floor. In the upstairs children's room, adorned with festive Christmas décor, people gathered on white monobloc plastic chairs between two tables of iced biscuits. Eventually, I began delivering a heartfelt sermon to everyone in the room.
 
 > **Me**: Do not be conformed to the world and succumb to fleeting carnal desires.
-**Me**: People who follow every impulse blind themselves to morality, lose self-control, and drift into animalistic behaviours.
-**Me**: Society often perceives believers as strange for refusing to embrace addictions yet they remain captivated by fleeting pleasures that lack meaning and substance.
-**Me**: Those who remain steadfast in the spirit focus on what is eternal and discipline themselves to achieve higher standards that contribute value to their communities.
+> 
+
+> **Me**: People who follow every impulse blind themselves to morality, lose self-control, and drift into animalistic behaviours.
+> 
+
+> **Me**: Society often perceives believers as strange for refusing to embrace addictions yet they remain captivated by fleeting pleasures that lack meaning and substance.
+> 
+
+> **Me**: Those who remain steadfast in the spirit focus on what is eternal and discipline themselves to achieve higher standards that contribute value to their communities.
 > 
 
 # Interpretations

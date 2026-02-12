@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 25, 2020
-Last Edited: December 19, 2025 6:26 PM
+Last Edited: February 12, 2026 3:27 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,14 +20,33 @@ Feeling unsettled, I awkwardly trudged into the church amphitheatre to the furth
 A female preacher descended from the stage with a microphone, approaching everyone individually. Everyone had a correct interpretation except me.
 
 > **Preacher**: After you receive a divine interpretation respond with correct or incorrect.
-**Preacher**: You were born in the United Kingdom.
-**Me**: *cringe* Actually I was born in Australia.
-**Preacher**: You act like you’ve seen a ghost.
-**Me**: Yes I have.
-**Audience**: *laughter*
-**Preacher**: Where did you see it and what did it look like?
-**Me**: [Recalls the experience].
-**Preacher**: That mannequin outside? It’s just an animatronic part of the Christmas display.
+> 
+
+> **Preacher**: You were born in the United Kingdom.
+> 
+
+> **Me**: *cringe* Actually I was born in Australia.
+> 
+
+> **Preacher**: You act like you’ve seen a ghost.
+> 
+
+> **Me**: Yes I have.
+> 
+
+> **Audience**: *laughter*
+> 
+
+> **Preacher**: Where did you see it and what did it look like?
+> 
+
+> **Me**: [Recalls the experience].
+> 
+
+> **Preacher**: That mannequin outside?
+> 
+
+> **Preacher**: It’s just an animatronic part of the Christmas display.
 > 
 
 After the service, I examined it, confirming that it cycled through a range of head motions, and I overlooked a Santa Claus animatronic pressed against the wall behind it.
