@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 20, 2026
-Last Edited: January 28, 2026 6:24 PM
+Last Edited: February 12, 2026 4:36 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -16,8 +16,12 @@ I was standing with my family in a room on the top floor of a refurbished yellow
 We exited the building and met with a nearby woman working for the city council to complain.
 
 > **Mum**: Is it possible to have builders adds walls in our room and extend the elevator to the top floor?
-**Woman**: You would need to contact the city council about that.
-**Woman**: It probably won’t be possible since it would damage the building.
+> 
+
+> **Woman**: You would need to contact the city council about that.
+> 
+
+> **Woman**: It probably won’t be possible since it would damage the building.
 > 
 
 I considered that the building could have a joint ownership between a private organization and the city council which could further complicate matters.

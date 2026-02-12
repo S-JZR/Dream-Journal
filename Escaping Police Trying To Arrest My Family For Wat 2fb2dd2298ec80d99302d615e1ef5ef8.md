@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: February 2, 2026
-Last Edited: February 8, 2026 6:48 PM
+Last Edited: February 12, 2026 4:43 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -25,7 +25,9 @@ I was washing my hands in the laundry room when a policeman knocked on the front
 I overheard the conversation and walked into the kitchen.
 
 > **Me**: Your joking.
-**Policeman 1**: No.
+> 
+
+> **Policeman 1**: No.
 > 
 
 When the policeman wasn’t looking, I knocked him out and we hid his body somewhere in my unit.
@@ -33,17 +35,29 @@ When the policeman wasn’t looking, I knocked him out and we hid his body somew
 Another policeman suspicious of his colleague’s disappearance knocked on the front door.
 
 > **Policeman 2**: Excuse me, have you seen where my colleague went?
-**Policeman 2**: I believe he came in here earlier.
-**Me**: He went outside to the right to the loo.
-**Policeman 2**: Why would he do that?
-**Policeman 2**: That seems odd.
-**Me**: Yes, it was quite odd.
+> 
+
+> **Policeman 2**: I believe he came in here earlier.
+> 
+
+> **Me**: He went outside to the right to the loo.
+> 
+
+> **Policeman 2**: Why would he do that?
+> 
+
+> **Policeman 2**: That seems odd.
+> 
+
+> **Me**: Yes, it was quite odd.
 > 
 
 The policeman walked down the footpath to the front of my unit complex to look for him. I knew our time was short and turned around to my family.
 
 > **Me**: We need to leave as soon as possible!
-**Me**: Pack the most valuable things so we can go!
+> 
+
+> **Me**: Pack the most valuable things so we can go!
 > 
 
 I started making a new backup of the data on my computer via an external SSD to take with me but realized it would take about 20 minutes.
@@ -51,7 +65,9 @@ I started making a new backup of the data on my computer via an external SSD to 
 The same policeman returned to the front door.
 
 > **Policeman 2**: Hello again.
-**Policeman 2**: I wasn’t able to find him and I would like to come inside to check.
+> 
+
+> **Policeman 2**: I wasn’t able to find him and I would like to come inside to check.
 > 
 
 I quickly exited the front door to knock him out and we hid his body somewhere inside my unit.

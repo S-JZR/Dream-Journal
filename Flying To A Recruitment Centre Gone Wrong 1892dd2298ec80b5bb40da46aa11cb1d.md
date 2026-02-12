@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: July 18, 2024
-Last Edited: December 29, 2025 10:25 PM
+Last Edited: February 12, 2026 6:34 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -20,8 +20,12 @@ I was one of many soldiers equipped with parachutes, boarding a military helicop
 I deployed my parachute to safely land onto the road. As the helicopter managed to return to base for inspection, I walked back along the sidewalk.
 
 > **Me**: Can I please have another parachute.
-**Officer**: Sorry there are no spares.
-**Officer**: You’re going to have to carpool with Sergeant Ray whose jeep is stuck in low gear.
+> 
+
+> **Officer**: Sorry there are no spares.
+> 
+
+> **Officer**: You’re going to have to carpool with Sergeant Ray whose jeep is stuck in low gear.
 > 
 
 I got in the jeep and we travelled through the backstreets toward a nearby renowned repair shop, we encountered a single-lane road splitting into three directions. We proceeded straight down the middle, marked with yellow chevrons, until parking outside an administration building. Inside the reception area, a white sign with a metal speaker grille stood beside a male staff member at his desk.
@@ -29,15 +33,23 @@ I got in the jeep and we travelled through the backstreets toward a nearby renow
 I pressed the talk button.
 
 > **Me**: Hello is anyone there?
-**Sign**: …
+> 
+
+> **Sign**: …
 > 
 
 I noticed the volume was low and repeatedly pushed a button to turn it up.
 
 > **Man**: How can I help you?
-**Me**: [Relaying the situation].
-**Man**: (Radio) No problem. I’m free at the moment so drive up to the entrance and I’ll let you in.
-**Man**: (Radio) Use the provided car keys for the rental car later.
+> 
+
+> **Me**: [Relaying the situation].
+> 
+
+> **Man**: (Radio) No problem, I’m free at the moment so drive up to the entrance and I’ll let you in.
+> 
+
+> **Man**: (Radio) Use the provided car keys for the rental car later.
 > 
 
 After cars keys were dispensed from the sign we continued to the left entrance of a complex with two slanted towers, each featuring rolling doors made of giant steel plates, and a shallow middle section. The doors automatically opened and we started driving inside to encounter a strange room filled with women:
@@ -53,7 +65,9 @@ After cars keys were dispensed from the sign we continued to the left entrance o
     - Control room with a giant rectangular window spanning the wall.
 
 > **Man**: (Speaker) My apologies for the confusion.
-**Man**: (Speaker) This area is utilized as a multipurpose space for local businesses.
+> 
+
+> **Man**: (Speaker) This area is utilized as a multipurpose space for local businesses.
 > 
 
 After the women carried out all the items through the left side doors we entered the control room. The crane picked up the jeep with claws on both sides, the floor burst with steam as it flipped over to a concrete surface, and the crane lowered the jeep. Various mechanics entered the garage to work on the jeep.
@@ -68,7 +82,9 @@ After arriving at the recruitment centre in the rental car, I entered a room com
 During the writing process I briefly looked away and someone who didn’t have a slip stole mine.
 
 > **Me**: Does anyone know where my slip went?
-**Man 2**: There’s spares in each folder.
+> 
+
+> **Man 2**: There’s spares in each folder.
 > 
 
 He was lying and I pulled out a white slip from the folder which wasn’t the same. Eventually, everyone passed the instructor at the front of the room to submit their slips and exited ahead. I placed the blank slip on the desk.
@@ -94,7 +110,9 @@ I walked through the initial door to lockers.
 After resolving the problem I joined everyone else outside and walked beside a woman.
 
 > **Me**: Are you aware the military forces people into five year contracts?
-**Woman**: I already completed one enlistment in advance and earned a three-month discount.
+> 
+
+> **Woman**: I already completed one enlistment in advance and earned a three-month discount.
 > 
 
 She walked away as I stood alone.

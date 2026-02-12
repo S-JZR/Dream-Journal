@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 14, 2026
-Last Edited: January 26, 2026 6:58 PM
+Last Edited: February 12, 2026 4:32 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -19,7 +19,9 @@ I was following adults and children seated on a tram travelling slowly through a
 Speakers mounted to different poles emitted music promoting the new super fast 5G internet which I ignored and repeatedly interrupted with mocking lines:
 
 > **Me**: Be spied on in real-time with the internet.
-**Me**: Upload your mind to the internet.
+> 
+
+> **Me**: Upload your mind to the internet.
 > 
 
 The children were surprised that I was being rebellious and kept looking back at me.

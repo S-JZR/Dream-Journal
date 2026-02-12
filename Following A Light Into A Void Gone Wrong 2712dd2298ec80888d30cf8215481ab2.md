@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: September 17, 2025
-Last Edited: December 22, 2025 7:07 PM
+Last Edited: February 12, 2026 4:25 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -19,13 +19,23 @@ Everyone stayed aboard to keep watching the strange phenomenon. The train transf
 Everyone was teleported into an alternative dimension featuring a white void and we decided to stay there for as long as possible to see what would happen next. However, a week passed without anyone noticing and while lying on the floor I fell into a psychosis where I drifted in and out of consciousness and had a vision of how things truly were. The floor was covered in pink goo and I saw myself standing silently with a sorrowful expression as it dripped from my open mouth before I melted into the floor. A disembodied male voice spoke to me.
 
 > **Man**: Is it necessary to stay here?
-**Me**: No.
-**Man**: Run kid! You already have one foot in the fire!
+> 
+
+> **Me**: No.
+> 
+
+> **Man**: Run kid!
+> 
+
+> **Man**: You already have one foot in the fire!
 > 
 
 I was overcome with dread and sprinted away into the distance.
 
-> **Crowd**: Wait! Don’t leave yet!
+> **Crowd**: Wait!
+> 
+
+> **Crowd**: Don’t leave yet!
 > 
 
 I ignored them and crossed a boundary that teleported me back to the real world.

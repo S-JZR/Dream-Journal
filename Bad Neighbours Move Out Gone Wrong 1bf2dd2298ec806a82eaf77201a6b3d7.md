@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: March 22, 2025
-Last Edited: December 25, 2025 12:26 AM
+Last Edited: February 12, 2026 4:09 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -15,7 +15,9 @@ Influences: Personal Experiences
 I was wandering through the streets in front of my unit complex at night with my family looking for something. I peaked back at their unit from a distance and noticed them seated outside on sofas watching a movie on a TV. Not wanting to be seen coming back late, we waited for hours until they went returned inside. After randomly falling asleep I dreamt about being in bed inside my unit but a small insect bothered me by flying ovals around me.
 
 > **Dad**: Don't fret it's just a paper light which is harmless.
-**Dad**: Let Coco (my cat) try to catch it.
+> 
+
+> **Dad**: Let Coco (my cat) try to catch it.
 > 
 
 Coco, my cat, ran around chasing it.
@@ -42,7 +44,9 @@ The man walked away. The neighbours approached us as the daughter cried.
 She noticed a package that I was holding containing individually wrapped packets.
 
 > **Daughter**: Can I have one?
-**Me**: No.
+> 
+
+> **Me**: No.
 > 
 
 We both sat on ski lifts that took us through a shopping mall until realizing they got off before the end. I opened the packets to discover they contained valuable electronics and realized the neighbours were scheming to steal from us.
@@ -50,14 +54,20 @@ We both sat on ski lifts that took us through a shopping mall until realizing th
 When returning to a tall hotel, I instinctively knew the neighbours were also staying there.
 
 > **Me**: We need to check out early to escape potential danger.
-**Parents**: We’re not in a hurry because there are no refunds.
+> 
+
+> **Parents**: We’re not in a hurry because there are no refunds.
 > 
 
 My parents got into a fight with staff at the reception desk.
 
 > **Mum**: I just want to let you know the neighbours are untrustworthy and dangerous.
-**Staff**: There’s nothing wrong with them.
-**Staff**: They helped make the restaurant food taste good.
+> 
+
+> **Staff**: There’s nothing wrong with them.
+> 
+
+> **Staff**: They helped make the restaurant food taste good.
 > 
 
 After being rebuked, my parents repeatedly walked in an oval to think of an argument and return to say something until giving up.

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: November 4, 2025
-Last Edited: December 7, 2025 3:06 AM
+Last Edited: February 12, 2026 4:26 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
@@ -18,11 +18,27 @@ I went upstairs to confront them and tried activating the light but they had uns
 The children took the opportunity to sprint outside towards a yellow Taxi in unit 4’s garage. I chased them and poked two in the back with the knife to try getting them to stop. However, they kept running so I tripped them onto the concrete where they grazed their face and arms but they kept moving and entered the Taxi. I approached the driver’s window to confront a teenage male Indian.
 
 > **Me**: Roll down the window.
-**Children**: Please just go! Don’t listen to him! Come on hurry up!
-**Me**: This is a crime by association.
-**Driver**: Don’t worry on my resume it says…
-**Me**: Those children are thieves!
-**Me**: If you don’t want to be labelled a criminal and go to jail for helping them then exit the Taxi!
+> 
+
+> **Children**: Please just go!
+> 
+
+> **Children**: Don’t listen to him!
+> 
+
+> **Children**: Come on hurry up!
+> 
+
+> **Me**: This is a crime by association.
+> 
+
+> **Driver**: Don’t worry on my resume it says…
+> 
+
+> **Me**: Those children are thieves!
+> 
+
+> **Me**: If you don’t want to be labelled a criminal and go to jail for helping them then exit the Taxi!
 > 
 
 The driver looked concerned and stepped out as a child jumped into the driver’s seat and sped off down the road.

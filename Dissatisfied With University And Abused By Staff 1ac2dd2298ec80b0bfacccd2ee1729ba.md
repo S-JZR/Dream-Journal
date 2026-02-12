@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: March 4, 2025
-Last Edited: December 24, 2025 2:07 AM
+Last Edited: February 12, 2026 4:08 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
@@ -15,7 +15,9 @@ Influences: News, Personal Experiences
 I was one of many students seated in a university lecture room listening to a middle-aged female staff member give an orientation presentation in front of a projector.
 
 > **Woman**: Government reports indicate that student performance has declined across schools and a record number are dropping out before finishing their degrees.
-**Woman**: The government is launching an initiative to address these issues.
+> 
+
+> **Woman**: The government is launching an initiative to address these issues.
 > 
 
 We visited an art museum to see large war dioramas built into the wall to build our confidence about the degree.
@@ -52,17 +54,29 @@ I was walking through a supermarket checkout, connected to a restaurant at the u
 I messed up something which upset the customers and he brought up a hologram.
 
 > **Cashier**: As you can see, these are the details you formatted incorrectly.
-**Cashier**: Now go do the other orders.
-**Me**: It’s your job to be the waiter and I’m here as a customer.
+> 
+
+> **Cashier**: Now go do the other orders.
+> 
+
+> **Me**: It’s your job to be the waiter and I’m here as a customer.
 > 
 
 He was angry that I stood up for myself. While walking away into the underground carpark where my family was getting into my mum’s car I heard the cashier approaching from behind.
 
 > **Cashier**: You’re unemployed!
-**Cashier**: What do you do with your time at home for ten hours a day?
-**Cashier**: You could be contributing to the university!
-**Cashier**: You’re a slacker!
-**Cashier**: You don’t know what you’re doing with your life!
+> 
+
+> **Cashier**: What do you do with your time at home for ten hours a day?
+> 
+
+> **Cashier**: You could be contributing to the university!
+> 
+
+> **Cashier**: You’re a slacker!
+> 
+
+> **Cashier**: You don’t know what you’re doing with your life!
 > 
 
 After arriving at Subway, I walked behind the counter as staff let me look around while they worked. However, the previous cashier also worked there and entered through the front door carrying a stainless steel tray of meatballs. Upon seeing me, he threw a tantrum by hurling a few at customers and activated the fire alarm behind the counter. He walked towards the customers and yelled as the manager passively confronted him and briefly held his arms but he continued.

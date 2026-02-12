@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: November 2, 2020
-Last Edited: January 28, 2026 6:46 PM
+Last Edited: February 12, 2026 3:29 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Happy
@@ -15,7 +15,9 @@ Influences: SpongeBob SquarePants (1999)
 I was wandering the lower field beside the year five block at my primary school when camouflaged soldiers emerged from the forest.
 
 > **Soldiers**: You’re all out of bounds!
-**Soldiers**: Move to the upper field!
+> 
+
+> **Soldiers**: Move to the upper field!
 > 
 
 While repeatedly glancing over my shoulder, I accidentally bumped into the tip of a black jousting pole held by a male soldier. He looked bewildered.
@@ -26,7 +28,9 @@ While repeatedly glancing over my shoulder, I accidentally bumped into the tip o
 Embarrassed, I ignored him and kept walking. Gunfire erupted ahead as a crowd on the oval turned towards the sports hall, now a multi-storey structure. Instinctively, I took cover behind a line of trees left of the field with other students.
 
 > **Me**: What’s going on?
-**Students**: Armed terrorists have taken over the building and they’re fighting the military.
+> 
+
+> **Students**: Armed terrorists have taken over the building and they’re fighting the military.
 > 
 
 Bullets occasionally whizzed past, thudding as they struck the surroundings. I sprinted between trees, pressing against each trunk and student until I reached cover behind the admin office.
@@ -53,7 +57,9 @@ For some reason, I snapped and shot them both in the head with my shotgun. Wande
 I travelled back in time and returned to the electrical room where I heard the voices of four male terrorists echoing through the halls. I crept into the room, pressed myself against the yellow power box, and peeked around the right side to shoot one in the head. I quickly moved to the other side and eliminated another. As the remaining terrorists realized someone had infiltrated, they raised their weapons and cautiously approached. Navigating around the power box, I shot one in the back of the head as they turned the corner. The last survivor dropped his gun.
 
 > **Terrorist**: I surrender!
-**Me**: Hands up!
+> 
+
+> **Me**: Hands up!
 > 
 
 I secured his hands with cable ties.

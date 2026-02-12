@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 15, 2026
-Last Edited: January 28, 2026 6:59 PM
+Last Edited: February 12, 2026 4:33 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -15,8 +15,12 @@ Influences: News
 I was standing in a building with Erika Kirk and various left wing adults seated on black metal cushioned chairs facing each other as they debated Charlie Kirk’s assassination.
 
 > **Erika Kirk**: If you oppose violence then why are you encouraging his death?
-**Erika Kirk**: Should I be concerned?
-**Erika Kirk**: Are you also going to target my family and hate me for having a different view from yours?
+> 
+
+> **Erika Kirk**: Should I be concerned?
+> 
+
+> **Erika Kirk**: Are you also going to target my family and hate me for having a different view from yours?
 > 
 
 A tubby woman wearing a black T-shirt with black hair and purple highlights spoke up.

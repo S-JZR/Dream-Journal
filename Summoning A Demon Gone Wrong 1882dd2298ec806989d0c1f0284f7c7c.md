@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: February 6, 2023
-Last Edited: January 28, 2026 6:47 PM
+Last Edited: February 12, 2026 3:35 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -27,7 +27,9 @@ Sam poured water from a plastic bottle into the grate and a foul stench resembli
 I was walking along the switchback wheelchair pathway with railings towards the cafeteria and toilets with Julien, my friend. Outside the toilet entrance was a black metal solo swing with a grey seat and a red mesh bag containing bananas and oranges. Both items covered the same rectangular surface area. As I conversed with Julien, I noticed an invisible force lifting oranges in a protruding part of the mesh bag.
 
 > **Me**: Do you see that?
-**Julien**: Yes.
+> 
+
+> **Julien**: Yes.
 > 
 
 A seventh grader approached the swing seat which wobbled and starting rotating like someone was sitting in it. A crowd started gathering around us to watch the commotion and when it become large the swing went berserk, rapidly rotating between a 180-degree bottom-to-top position. The previous student stood paralysed beside it with a mix of fear and curiosity despite the risk of being hit by the seat veering slightly sideways. Eventually, the seat fell for the last time and came to an abrupt halt as everyone stood in silence, unsettled by not knowing where the spirit went.
@@ -38,19 +40,25 @@ A seventh grader approached the swing seat which wobbled and starting rotating l
 Everyone fled to the drop-off zone in front of the school and tried to tell others about the event but they were sceptical. I posted the story on Reddit where it received 35 upvotes and 105 downvotes. As everyone urgently called their parents, cars periodically arrived to pick them up. Since my parents usually come later, I walked to the right of the school to ascend a distant hill outside the city but realized that was foolish and returned during sunset. I walked to the left of the school and encountered a Satanist, feminist with purple hair, and a goth. While passing the Satanist, a telepathic voice talked to me.
 
 > **Voice**: Hail Satan!
-**My Spirit**: No thank you.
+> 
+
+> **My Spirit**: No thank you.
 > 
 
 I sensed a bitterness against God in their hearts that drove them to reject anything associated with him. Eventually, I met with Dejan and Michael, my friends, as we moved towards the bridge crossing the Pacific Highway.
 
 > **Wolves**: *Howl*
-**Me**: We need to pass through the groves atop the hill before nightfall to stay safe.
+> 
+
+> **Me**: We need to pass through the groves atop the hill before nightfall to stay safe.
 > 
 
 We arrived at a fictional location combining various places including an underground bus terminal, an overpass outside the local library, and skyscrapers from Brisbane City. My friends noticed thick black smoke rising from skyscrapers over the horizon. Three fighter planes soared overhead and fired bursts at other skyscrapers and a commercial airliner that exploded and crashed into the ground. Crowds scattered in a panic and desperately sought concealment anywhere.
 
 > **Friends**: Let's all move further down the road!
-**Internal Voice**: Don't follow them and descend into the concrete bus tunnels.
+> 
+
+> **Internal Voice**: Don't follow them and descend into the concrete bus tunnels.
 > 
 
 I obeyed the voice as the advice seemed reasonable considering it would prevent potential injuries from shrapnel if the planes had dropped bombs while flying overhead.

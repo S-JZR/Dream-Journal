@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 22, 2026
-Last Edited: January 26, 2026 4:17 PM
+Last Edited: February 12, 2026 6:51 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -16,7 +16,7 @@ I was standing on the bottom floor of a grey shopping mall with two floors besid
 
 Various people play tested the game with guns.
 
-> **Male Voice**: 5 … 4 … 3 ... 1.
+> **Male Voice**: 5 … 4 … 3 ... 1 ... Go!
 > 
 
 It quickly became obvious that various bugs were present including the starting timer skipping a second and enemies getting stuck on walls and objects. When the enemies reached the bottom floor, they opened fire on the nearest players, and everyone fought back.

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 1, 2016
-Last Edited: December 28, 2025 7:09 PM
+Last Edited: February 12, 2026 3:20 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -15,7 +15,9 @@ Influences: Team Fortress 2 (2007)
 I was one of many soldiers lying prone in the desert in front of a fortress engaged in a firefight with distant soldiers. Everyone was equipped with rifles. We gradually adjusted our aim after each shot and puffs of sand erupted nearby from incoming bullets.
 
 > **Man**: (radio) An enemy invasion is imminent.
-**Man**: (radio): All personnel must retreat into the fortress immediately.
+> 
+
+> **Man**: (radio): All personnel must retreat into the fortress immediately.
 > 
 
 Everyone fled inside the fortress and stood on the parapet as a black enemy tank approached over the horizon, burst through the front gate, and travelled through the streets.

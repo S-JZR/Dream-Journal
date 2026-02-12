@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: December 19, 2024
-Last Edited: January 28, 2026 6:48 PM
+Last Edited: February 12, 2026 4:02 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -17,37 +17,57 @@ On a remote rural farm, a 24-year-old man was allowed by his father to live a pr
 A few years later the father tragically died and the son’s income gradually dwindled to nothing as he struggled to provide for himself. Julien, my friend from school, and I were sent to help prepare him for the real world to become self-sufficient with a job. The son stood at a distance, onlooking his majestic house on a hill that was repossessed and being demolished by construction workers using excavators. We stayed in the carpark of my unit complex, watching workers pass by and carelessly trample insects covering the entire pavement.
 
 > **Teenager**: How can anyone do such an awful thing without a second thought?
-**Me**: In the human world, when people hate or view others as insignificant, they see them as sub-humans unworthy of existing and are unconcerned with any harm caused to them.
-**Me**: In the animal world, the strong dominate the weak, devouring them to prolong their lives and grow stronger.
+> 
+
+> **Me**: In the human world, when people hate or view others as insignificant, they see them as sub-humans unworthy of existing and are unconcerned with any harm caused to them.
+> 
+
+> **Me**: In the animal world, the strong dominate the weak, devouring them to prolong their lives and grow stronger.
 > 
 
 > **Teenager**: What is the purpose of a job?
-**Me**: It’s a way to sell your skills to someone else who essentially rents you to fulfil a service.
-**Me**: Two kinds of jobs include minimum wage performing low-skill repetitive tasks and specialised jobs that require training to perform advanced tasks.
+> 
+
+> **Me**: It’s a way to sell your skills to someone else who essentially rents you to fulfil a service.
+> 
+
+> **Me**: Two kinds of jobs include minimum wage performing low-skill repetitive tasks and specialised jobs that require training to perform advanced tasks.
 > 
 
 > **Teenager**: I’ve wasted my life... I have never even considered or tried to learn these things.
-**Me**: If you want to change for the better, you need to start acting like an adult by putting away childish things and persevering through your work to achieve higher ambitions.
-**Me**: If you don’t know what that looks like then find a role model to reflect on.
+> 
+
+> **Me**: If you want to change for the better, you need to start acting like an adult by putting away childish things and persevering through your work to achieve higher ambitions.
+> 
+
+> **Me**: If you don’t know what that looks like then find a role model to reflect on.
 > 
 
 We entered my my year two classroom in my primary school and walked past a white landscape infographic taped to a window showing the total casualties of World War Two.
 
 > **Teenager**: What is this about?
-**Me**: You wouldn't want to know because the tragedy was so great.
+> 
+
+> **Me**: You wouldn't want to know because the tragedy was so great.
 > 
 
 The disembodied voice of a narrator read through an illustrated children's book with a cool colour scheme.
 
 > **Narrator**: This is the story of how a nation can become tolerant of hate towards others.
-**Narrator**: A wicked ruler demanded everyone to strictly adhere “scientific” studies he released, claiming that certain groups of people were a burden on society, depriving others of their resources.
-**Narrator**: The public were outraged and formed mobs that searched the country to find and punish unfavoured groups, expecting everyone to join them or face the same consequences.
+> 
+
+> **Narrator**: A wicked ruler demanded everyone to strictly adhere “scientific” studies he released, claiming that certain groups of people were a burden on society, depriving others of their resources.
+> 
+
+> **Narrator**: The public were outraged and formed mobs that searched the country to find and punish unfavoured groups, expecting everyone to join them or face the same consequences.
 > 
 
 Eventually on their journey, they transformed into purple silhouettes of tall grotesque figures with some details of worn-out overcoats and fangs. The same story played out in the world as I travelled through a town during winter with snow covering the ground. A few cheerful people wearing casual clothing transformed to have stern expressions and wear black fascist uniforms with grey arm bands.
 
 > **Narrator**: Compassion and empathy were viewed as weaknesses while discipline and militarism were strengths to conquer threats and enforce their notion of truth.
-**Narrator**: The people were conditioned to adopt a new mindset, becoming something they were once not, and were akin to vipers who sought prey to devour.
+> 
+
+> **Narrator**: The people were conditioned to adopt a new mindset, becoming something they were once not, and were akin to vipers who sought prey to devour.
 > 
 
 I was intrigued by the window of a house covered in ice unlike the others and looked inside to see a male teenager frozen to death and slumped back in an armchair in front of an inactive fireplace in a dark room. The power was cut since the residents were enemies of the state and other family members scavenged for supplies while he stayed behind.
@@ -57,13 +77,17 @@ I looked through the window of another house and saw a son standing in front of 
 While seated on a thick concrete planter wall outside a shopping centre, I opened a book resembling the “Big Ideas” series by DK Books to a section larger than the rest, spanning 10 pages, with the icon of a person leading a crowd away with their singing on a grey background.
 
 > **Narrator**: Beware seducing men who lure others astray into sin and false beliefs with pleasing rhetoric.
-**Narrator**: A major warning sign of national group think is when everyone unquestionably adheres a specific set of ideas.
+> 
+
+> **Narrator**: A major warning sign of national group think is when everyone unquestionably adheres a specific set of ideas.
 > 
 
 An old man approached me from behind and looked over my shoulder at the pages.
 
 > **Man**: This is a significant problem in the modern world as people are unwilling to challenge their thinking and instead isolate into separate groups that affirm their beliefs.
-**Man**: COVID-19 caused mass hysteria as society pushed conformity to the science out of fear.
+> 
+
+> **Man**: COVID-19 caused mass hysteria as society pushed conformity to the science out of fear.
 > 
 
 # Interpretations

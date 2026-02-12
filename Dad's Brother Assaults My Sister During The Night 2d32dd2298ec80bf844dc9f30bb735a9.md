@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: November 14, 2025
-Last Edited: December 28, 2025 3:58 PM
+Last Edited: February 12, 2026 6:46 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -22,18 +22,35 @@ My dad suspected that his untrustworthy brother was responsible. My sister got d
 While travelling to an underground train station to obtain a letter from a post office box, rumours spread that my mother hit my sister so she hid from the press. I travelled upstairs to the streets and saw my dad’s brother lying at the entrance of a nearby garage, covered in blood and surrounded by a crowd. I informed my dad who rushed upstairs to investigate but upon approaching he got up.
 
 > **Dad’s Brother**: You’ve been hiding facts and are afraid to admit that you’re the one responsible!
-**Dad**: …
-**Me**: Is that even a real injury or are you faking it just to lure in my dad and slander him?
-**Dad’s Brother**: You're irresponsible! You didn't even check if the window was shut... even I did that!
-**Crowd**: *Gasp*.
-**Me**: Can you repeat what you said.
-**Dad’s Brother**: Look I'm sorry for creating a scene alright.
+> 
+
+> **Dad**: …
+> 
+
+> **Me**: Is that even a real injury or are you faking it just to lure in my dad and slander him?
+> 
+
+> **Dad’s Brother**: You're irresponsible!
+> 
+
+> **Dad’s Brother**: You didn't even check if the window was shut ... even I did that!
+> 
+
+> **Crowd**: *Gasp*.
+> 
+
+> **Me**: Can you repeat what you said.
+> 
+
+> **Dad’s Brother**: Look I'm sorry for creating a scene alright.
 > 
 
 My dad was now certain that his brother was behind it and we returned home.
 
 > **Me**: We should invest in window bars and a door lock for the master bedroom.
-**Dad**: That's a good idea.
+> 
+
+> **Dad**: That's a good idea.
 > 
 
 My dad left the house and my sister and I were in the master bedroom in the dark with the door closed. The light was on in the lounge room when we heard someone entering through the window from earlier and saw their shadow approach the door. We both panicked and I held the door shut as the doorknob briefly rotated then they left.
