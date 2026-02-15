@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: September 12, 2025
-Last Edited: December 12, 2025 4:06 AM
+Last Edited: February 15, 2026 11:04 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -16,17 +16,17 @@ I was standing in a small carpark when a woman asked me to recall my experiences
 
 A few months ago, I was a a poor man in the same parking lot at night when I noticed a pink piggy bank on the ground. I held it up in both hands as everything faded to white and I was teleported to a remote village containing rundown modern buildings and a forest surrounding the perimeter. I stood outside a few two-storey buildings at the edge of the location and upstairs in a dark messy abandoned industrial room with smashed windows I noticed a woman walking right and disappearing.
 
-I walked further through the village and sought shelter in a small square building featuring:
+I walked further through the village and sought shelter in a small square building:
 
-- Back:
-    - Doorway hole.
-- Left:
-    - Doorway hole.
-    - Small kitchen.
-    - Stacks of wooden planks, nails, and a hammer on the floor.
-- Front:
-    - Lounge room with a brown sofa.
-    - Two window holes.
+- left:
+    - doorframe with no door
+    - small kitchen
+    - stacks of wooden planks, nails, and a hammer on the floor
+- front:
+    - lounge room with a brown sofa
+    - two concrete window openings
+- back:
+    - doorframe with no door.
 
 An eight year old boy was sleeping on the sofa and was commanded to stay there alone for the night by his abusive father. I briefly transformed into a black woman and told him that no matter what happens I would stay with him the whole night except for toilet breaks of course. The boy eventually started to think that I was his new father because he never knew anyone who was so nice.
 

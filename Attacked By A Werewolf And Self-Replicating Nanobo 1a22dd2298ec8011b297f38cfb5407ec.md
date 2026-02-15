@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: December 2, 2022
-Last Edited: December 12, 2025 10:19 PM
+Last Edited: February 15, 2026 9:32 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -14,17 +14,17 @@ Influences: Online Videos, Personal Thoughts, Rick And Morty (2013)
 
 I was walking through a complex long rectangular environment:
 
-- Left:
-    - Forest.
-    - Flat terrain.
-- Middle:
-    - Valley.
-    - Wooden bridge to the left.
-    - Scattered log buildings and lights.
-- Right:
-    - Flat terrain.
-- Perimeter:
-    - Mountains.
+- left:
+    - forest
+    - flat terrain
+- middle:
+    - valley
+    - wooden bridge to the left
+    - scattered log buildings and lights
+- right:
+    - flat terrain
+- perimeter:
+    - mountains.
 
 Hearing the rustling of leaves underfoot made me turn around to see a werewolf emerging from the forest to charge at me. In self-defence, I discharged all firearms on hand, making it retreat. However, as I sprinted across the bridge the werewolf resumed its pursuit.
 

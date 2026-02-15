@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 20, 2026
-Last Edited: January 26, 2026 4:59 PM
+Last Edited: February 15, 2026 10:44 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Disgust
@@ -13,12 +13,12 @@ Characters: Misc People
 
 I was walking through multiple rooms separated by doors in the men’s restroom when at the furthest one a toddler opened the door and walked inside. Their dad ran in, picked them up, and carried them out because they weren't supposed to be there. I caught a glimpse of a strange hidden facility inside the room and curiously entered into the centre of a large rectangular area resembling a gym:
 
-- Ceiling:
-    - Black metal trusses.
-- Left:
-    - 2m wide dark stone brick room.
-- Right:
-    - Treadmills filled most of the room.
+- ceiling:
+    - black metal trusses
+- left:
+    - 2m wide dark stone brick room
+- right:
+    - treadmills filled most of the room.
 
 Various people were partaking in scientific experiments that collected their urine through transparent tubes attached to their penises which sucked it up into the ceiling. There were different experiments including:
 

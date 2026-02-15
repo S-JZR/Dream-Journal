@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 1, 2013
-Last Edited: December 7, 2025 7:41 PM
+Last Edited: February 15, 2026 9:07 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -13,13 +13,13 @@ Characters: Misc People, Musicians
 
 I was walking to a music concert in the park down the street at night, beside the playground, to investigate the loud music when I saw a crowd repeatedly jumped in place in front of the stage:
 
-- Parts:
-    - Main stage.
-    - Wide side walls.
-- Colours:
-    - Red and black.
-- Lights:
-    - Large screen on the main stage.
+- parts:
+    - main stage
+    - wide side walls
+- colours:
+    - red and black
+- lights:
+    - large screen on the main stage
     - LEDs on the walls.
 
 # Interpretations
