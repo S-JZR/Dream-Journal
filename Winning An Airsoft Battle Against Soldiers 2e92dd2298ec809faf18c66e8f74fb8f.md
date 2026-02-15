@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 15, 2026
-Last Edited: January 28, 2026 4:48 PM
+Last Edited: February 15, 2026 10:43 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -13,14 +13,14 @@ Characters: Misc People, Soldiers
 
 I was walking through a rural airsoft area resembling a military base:
 
-- Forward:
-    - Road.
-    - Guard booth with a boom gate.
-- Left:
-    - Quonset hut barracks full of wooden creates and open side roller doors.
-- Right:
-    - Field.
-    - Miscellaneous buildings.
+- left:
+    - quonset hut barracks full of wooden creates and open side roller doors
+- forward:
+    - road
+    - guard booth with a boom gate
+- right:
+    - field
+    - miscellaneous buildings.
 
 I approached the boom gate when a boy moved past it to explore what else was around.
 

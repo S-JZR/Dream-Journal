@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: December 3, 2025
-Last Edited: December 28, 2025 4:59 PM
+Last Edited: February 15, 2026 10:36 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -14,12 +14,12 @@ Influences: Personal Experiences, Radio
 
 My parents dropped my brother and I off at a sports club:
 
-- Left:
-    - Reception desk.
-    - Prize counter.
-- Right:
-    - Four player coin pusher.
-    - Three storey structure reaching the roof, comprising an obstacle course and a basketball court on top, and surrounded by a mesh.
+- left:
+    - reception desk
+    - prize counter
+- right:
+    - four player coin pusher
+    - three storey structure reaching the roof, comprising an obstacle course and a basketball court on top, and surrounded by a mesh.
 
 I swiped my arcade card on the coin pusher to start the session and inserted a few coins but I couldn’t stop because it kept giving me more coins. After walking away, different people briefly took turns playing but left prematurely without seeing the drop. They also didn’t swipe their cards so all the tickets earned went into my account.
 

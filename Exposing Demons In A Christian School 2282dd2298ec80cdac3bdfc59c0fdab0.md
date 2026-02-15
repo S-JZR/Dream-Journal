@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: July 3, 2025
-Last Edited: February 12, 2026 4:20 PM
+Last Edited: February 15, 2026 10:30 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Surprise
@@ -14,16 +14,16 @@ Influences: Christianity, Online Videos, Personal Experiences
 
 I was standing in the classroom of a Christian school with other students and a female teacher:
 
-- Left:
-    - Door to a balcony.
-- Centre:
-    - Multiple foldout tables featuring green silk cloths, hotdogs on plates, and tomato sauce and mustard plastic containers.
-    - Triangular ceiling:
-        - Front: wooden ladder leading to a small loft.
-        - Back: vertical rectangular window.
-- Right:
-    - Pigeon holes for school bags.
-    - Door to a hallway.
+- left:
+    - door to a balcony
+- centre:
+    - multiple foldout tables featuring green silk cloths, hotdogs on plates, and tomato sauce and mustard plastic containers
+    - triangular ceiling:
+        - front wooden ladder leading to a small loft
+        - back vertical rectangular window
+- right:
+    - pigeon holes for school bags
+    - door to a hallway.
 
 The teacher hosted a hotdog eating contest with everyone seated at tables in alphabetical groups. The table I was supposed to sit as was full since Sarajah had taken the last spot so I tried other tables. However, other seats were covered in a few hotdogs and splattered with sauces. One seat was completely covered in mustard and I tried scraping it off with a tissue but it disintegrated from being soaked. After standing for a while to avoid getting dirty, the teacher grew frustrated.
 

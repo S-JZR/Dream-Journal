@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: November 29, 2023
-Last Edited: December 12, 2025 10:14 PM
+Last Edited: February 15, 2026 9:37 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -14,11 +14,16 @@ Influences: Lethal Company (2023)
 
 I was one of five scavengers on a square cargo spaceship with a flat top:
 
-- Left: rectangular barbecue.
-- Centre: LED paper lantern.
-- Right: work desk and a half-sized dumpster.
-- Front: steering wheel.
-- Perimeter: wooden stockade fence.
+- left:
+    - rectangular barbecue
+- front:
+    - steering wheel
+- right:
+    - work desk and a half-sized dumpster
+- centre:
+    - LED paper lantern
+- perimeter:
+    - wooden stockade fence.
 
 Our descent led to a snowy underground facility with three entrances forming a C-formation, where we began collecting various pieces of cardboard and aluminium cans. A pack of ravenous wolves ambushed the location, attempting to breach it. Extending a javelin deterred one wolf, understanding that approaching would result in injury as it brushed against the tip, prompting its retreat as I sealed the front door. While moving towards the left door, covered by a chain-linked fence, another wolf burst through abruptly, attempting to bite my arm. Employing the same tactic, we sealed off that entrance and deployed sentries at each door to prevent further breaches while we continued working.
 

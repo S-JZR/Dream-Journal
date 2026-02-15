@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 14, 2026
-Last Edited: February 12, 2026 4:33 PM
+Last Edited: February 15, 2026 10:41 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -14,15 +14,15 @@ Influences: Online Videos
 
 I was following a boy and girl holding helium balloons across an elevated strip of grassy ground:
 
-- Front:
-    - Power pole.
-- Left:
-    - Short cream brick wall with a black fence on top.
-    - Abandoned public bathroom with holes in the walls and white tiles on the floor.
-- Right:
-    - Three spaced pine trees.
-    - Looping road within a large grassy area.
-    - Building with various people having a party.
+- left:
+    - short cream brick wall with a black fence on top
+    - abandoned public bathroom with holes in the walls and white tiles on the floor
+- front:
+    - power pole
+- right:
+    - three spaced pine trees
+    - looping road within a large grassy area
+    - building with various people having a party.
 
 As the children walked beside the power pole, one of their balloons touched a low hanging wire and burst. Electricity arced through the air into their bodies and they fell down motionless. Another balloon was about to the touch the wires so I fled backwards to avoid being harmed as the same thing happened.
 

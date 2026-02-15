@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: February 6, 2023
-Last Edited: February 12, 2026 3:35 PM
+Last Edited: February 15, 2026 9:39 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -14,13 +14,12 @@ Influences: Online Videos, Personal Experiences
 
 I was collaborating with Sam and Colby, ghost hunters, to investigate an abandoned tall building and descended a black square metal stairwell into the basement:
 
-- Back:
-    - Stairwell (us).
-- Back Right:
-    - Slab with stairs leading to maintenance doors.
-    - Overhead light.
-- Centre:
-    - Square drainage grate.
+- back:
+    - square stairwell
+- back-right:
+    - slab with stairs leading to maintenance doors and an overhead light
+- centre:
+    - square drainage grate.
 
 Sam poured water from a plastic bottle into the grate and a foul stench resembling a rotting corpse permeated the air. Everyone feared that he summoned a demon and fled upstairs.
 

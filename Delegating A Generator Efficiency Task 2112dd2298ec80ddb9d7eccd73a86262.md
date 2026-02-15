@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: June 5, 2025
-Last Edited: December 13, 2025 3:39 AM
+Last Edited: February 15, 2026 10:25 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -14,13 +14,13 @@ Influences: Personal Experiences
 
 I was walking across the top of a hydroelectric power plant:
 
-- Left:
-    - Control room.
-- Right:
-    - Maintenance room.
-- Bottom:
-    - Wide walkway.
-    - Parapet.
+- left:
+    - control room
+- right:
+    - maintenance room
+- bottom:
+    - wide walkway
+    - parapet.
 
 A male supervisor in a high visibility vest approached me to hand over a clipboard featuring a line art diagram with callout boxes pointing to five generator components. He asked me to number the components to prioritize which would receive more power to efficiently generate energy. Acknowledging my lack of knowledge about the facility I delegated the decision to those in the control room who likely had more experience. However, the door was locked, prompting me to walk into the maintenance room to flick a switch that unlocked it.
 

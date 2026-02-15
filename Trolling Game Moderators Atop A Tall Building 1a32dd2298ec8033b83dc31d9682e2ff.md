@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: April 18, 2024
-Last Edited: December 12, 2025 10:58 PM
+Last Edited: February 15, 2026 9:48 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -14,10 +14,10 @@ Influences: Personal Experiences, Roblox (2006)
 
 I was in a sandbox videogame standing in a construction zone:
 
-- Centre:
-    - 20-storey concrete building skeleton with elongated rectangular window gaps on each level.
-- Bottom-Right:
-    - Free standing giant concrete wall of balconies.
+- centre:
+    - 20-storey concrete building skeleton with elongated rectangular window gaps on each level
+- bottom-right:
+    - free standing giant concrete wall of balconies.
 
 I ascended to the roof where I overheard moderators conversing and downed them with shotgun slugs from a distance to troll them. Enraged, they sent various robots resembling R6 Roblox character models to hunt me. Retreating to the ground floor, I hopped up multiple stacked slanted V-shaped concrete slabs to reach the top. An arrogant female moderator still present avenged her team by spamming multitudes of robots now capable of flying.
 

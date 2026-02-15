@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: October 17, 2024
-Last Edited: December 13, 2025 1:01 AM
+Last Edited: February 15, 2026 9:53 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -14,19 +14,19 @@ Influences: Mythology (2011) (Sakisa)
 
 I was in a PS1-style videogame playing as a Greek warrior in a square environment:
 
-- Left:
-    - Dirt path running across the entire left side with a central fork leading to the bridge.
-- Centre:
-    - Grey brick bridge crossing a moat to a small island.
-    - Tall tower, resembling the Tower of Pisa, with floors without interiors, stairs, and a waterfall on the top flowing down onto the ground and into the moat.
-- Decorations:
-    - Scattered boulders.
-    - Vegetation.
-    - Crumbling Greek pillars.
-- Floor:
-    - Grass.
-- Perimeter:
-    - Mountains.
+- left:
+    - dirt path running across the entire left side with a central fork leading to the bridge
+- centre:
+    - grey brick bridge crossing a moat to a small island
+    - tower, resembling the Tower of Pisa, with floors without interiors, stairs, and a waterfall on the top flowing down onto the ground and into the moat
+- decorations:
+    - scattered boulders
+    - vegetation
+    - crumbling Greek pillars
+- floor:
+    - grass
+- perimeter:
+    - mountains.
 
 Upon approaching the tower, a hostile giant merman, four-storeys tall with a cyan body and dark green scaly legs, emerged from the door, wielding a trident as he slowly trudged down the pathway, driven by a primitive AI with poor detection and responsiveness to nearby players.
 

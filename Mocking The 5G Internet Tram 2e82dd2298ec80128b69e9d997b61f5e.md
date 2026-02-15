@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 14, 2026
-Last Edited: February 12, 2026 4:32 PM
+Last Edited: February 15, 2026 10:40 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
@@ -13,8 +13,9 @@ Characters: Misc People
 
 I was following adults and children seated on a tram travelling slowly through a single-lane pedestrian-priority space resembling South Bank Grand Arbour at night:
 
-- Left and right:
-    - A pattern of 5m tall blue LED poles with curved tops followed by a pole topped with a translucent metal ball from the Steam sculptures in Brisbane City.
+- left and right repeating pattern:
+    - 5m tall blue LED poles with curved tops
+    - a pole topped with a translucent metal ball from the Steam sculptures in Brisbane City.
 
 Speakers mounted to different poles emitted music promoting the new super fast 5G internet which I ignored and repeatedly interrupted with mocking lines:
 

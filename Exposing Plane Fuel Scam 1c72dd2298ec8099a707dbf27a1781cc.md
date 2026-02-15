@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: October 16, 2024
-Last Edited: December 13, 2025 1:00 AM
+Last Edited: February 15, 2026 9:52 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -14,15 +14,15 @@ Influences: Shark Tank (2009)
 
 I was one of many students at my secondary school that attended an assembly in a small canyon-themed seating area:
 
-- Front:
-    - Whiteboard and projector.
-    - Canteen.
-- Centre:
-    - Wooden benches.
-- Decorations:
-    - Boulders.
-    - Scattered blackbrush bushes.
-- Floor:
+- front:
+    - whiteboard and projector
+    - canteen
+- centre:
+    - wooden benches
+- decorations:
+    - boulders
+    - scattered blackbrush bushes
+- floor:
     - Sand.
 
 A conman was invited to showcase his fake invention at the front podium using a projector presentation. He claimed that through advanced scientific methods he had honed over the years, he patented a unique design that could convert various substances into fuel for his private jet parked nearby.

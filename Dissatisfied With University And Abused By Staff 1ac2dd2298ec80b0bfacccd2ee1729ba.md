@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: March 4, 2025
-Last Edited: February 12, 2026 4:08 PM
+Last Edited: February 15, 2026 10:00 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
@@ -20,14 +20,14 @@ I was one of many students seated in a university lecture room listening to a mi
 > **Woman**: The government is launching an initiative to address these issues.
 > 
 
-We visited an art museum to see large war dioramas built into the wall to build our confidence about the degree.
+We visited an art museum to see large war dioramas built into the wall to build our confidence about the degree:
 
-- Left:
-    - Forked trench leading to the horizon.
-    - Hundreds of small faceless artist mannequins wearing white cloth standing in the trench.
-- Right:
-    - Metal samurais standing around a gong.
-    - Pagodas in the background.
+- left:
+    - forked trench leading to the horizon
+    - hundreds of small faceless artist mannequins wearing white cloth standing in the trench
+- right:
+    - metal samurais standing around a gong
+    - pagodas in the background.
 
 After instantly progressing through an entire visual art degree, I was asked in the capstone project to design a diorama despite never being taught the skills. I was uncertain about how to proceed and felt like I was being scammed since I could have learned these skills elsewhere or online without incurring student loan debt. When the presentation ended, everyone went to a small convenience store to the side and lined up at the checkout as the staff member served everyone. Many rectangular lint chocolates with gold wrapping were laid across the counter.
 

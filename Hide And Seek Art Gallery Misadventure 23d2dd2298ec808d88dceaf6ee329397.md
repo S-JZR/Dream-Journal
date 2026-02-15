@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: July 19, 2025
-Last Edited: December 12, 2025 2:24 AM
+Last Edited: February 15, 2026 10:32 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -16,10 +16,10 @@ I was one of many secondary students playing hide and seek in the school when I 
 
 I travelled to a carpeted back room:
 
-- Centre:
-    - Row of flannel dividers.
-- Right:
-    - Row of computers.
+- centre:
+    - row of flannel dividers
+- right:
+    - row of computers.
 
 The co female art teacher was tearing up photocopies of people’s artwork, including mine, and painting over them to create a new art piece pinned to the flannel dividers. An Indian student from primary school said that I still had their file called “Apollo” and I realized earlier they meant a document and not the god.
 

@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: March 25, 2024
-Last Edited: February 12, 2026 6:27 PM
+Last Edited: February 15, 2026 9:47 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
@@ -70,24 +70,24 @@ The guard left and I continued to an exhibition window with plasma screen TVs sh
 
 I travelled further into a T-junction hallway and the main room:
 
-- Inside:
-    - Left:
-        - Coffee kiosk.
-    - Middle:
-        - Fruit stands.
-    - Right:
-        - Empty horse stalls with hay.
-        - Bathroom cubicles.
-        - Store with a glass window.
-- Outside:
-    - Left:
-        - Pale green aliens imitating cows on a dirt path.
-    - Middle:
-        - Open grass field.
-        - Hexagon gazebo.
-    - Right:
-        - People swimming in a large lake.
-    - Background:
+- inside:
+    - left:
+        - coffee kiosk
+    - middle:
+        - fruit stands
+    - right:
+        - empty horse stalls with hay
+        - bathroom cubicles
+        - store with a glass window
+- outside:
+    - left:
+        - Pale green aliens imitating cows on a dirt path
+    - middle:
+        - Open grass field
+        - Hexagon gazebo
+    - right:
+        - People swimming in a large lake
+    - background:
         - Forest.
 
 While standing at the front door a humanoid alien taskmaster approached me.

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: April 24, 2024
-Last Edited: December 13, 2025 12:31 AM
+Last Edited: February 15, 2026 9:48 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
@@ -14,13 +14,13 @@ Influences: Hell's Kitchen (2005), News
 
 I was walking down a street in a seaside city with my family:
 
-- Left:
-    - Buildings.
-- Right:
-    - Riprap beside the ocean.
-    - Rectangle harbour with an awning.
-- Bottom-right corner:
-    - Towering white cylindrical ski lift carried people upward via moving hooks and over the city via a zipline.
+- left:
+    - buildings
+- right:
+    - riprap beside the ocean
+    - rectangle harbour with an awning
+- bottom-right corner:
+    - towering white cylindrical ski lift carried people upward via moving hooks and over the city via a zipline
 
 A middle-aged woman noticing my apprehension, jokingly asked whether I wanted to ride the ski lift which I strongly declined. Having booked tickets for a ferry previously, we entered the terminal and followed a bearded captain struggling to locate his ship. Traversing over floating bridges, he led us to a small sailboat but claimed that was not it before proceeding left to a desaturated long oval sandbag resembling Shrek, with a 3D model of his face on the front.
 

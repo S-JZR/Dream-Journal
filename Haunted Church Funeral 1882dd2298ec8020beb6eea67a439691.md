@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: January 1, 2020
-Last Edited: December 28, 2025 7:34 PM
+Last Edited: February 15, 2026 9:26 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -14,17 +14,17 @@ Influences: Personal Experiences
 
 I was attending a funeral service in the Greek Evangelical Church at night:
 
-- Main room:
-    - Dividing wall with the entrance behind it.
-    - Red carpet leading to the front wooden stage.
-    - Coffin in front of the stage.
-    - Pews full of invisible ghosts standing silently and wearing black morning veil headpieces.
-- Back room:
-    - Kitchen.
-    - Dining table.
-    - Bathroom.
-- Lighting:
-    - Dimly lit by candles.
+- main room:
+    - dividing wall with the entrance behind it
+    - red carpet leading to the front wooden stage
+    - coffin in front of the stage
+    - pews full of invisible ghosts standing silently and wearing black morning veil headpieces
+- back room:
+    - kitchen
+    - dining table
+    - bathroom
+- lighting:
+    - dimly lit by candles.
 
 While walking along the red carpet towards the coffin, all the ghosts turned their heads to look at me. After opening the coffin and realizing it was empty, all the candles in the main room extinguished and the veils dropped to the floor. A bright spotlight shone on the wall right of the entrance as the silhouette of the Grim Reaper holding a sickle emerged. I fled into the back room to barricade the door with various pieces of furniture and frantically searched the shelves for the key to the back door and escaped.
 

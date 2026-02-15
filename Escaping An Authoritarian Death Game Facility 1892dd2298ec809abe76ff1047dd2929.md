@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: November 26, 2024
-Last Edited: December 22, 2025 3:11 PM
+Last Edited: February 15, 2026 9:55 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -18,16 +18,16 @@ In the first room everyone received a question card and stood beside each other 
 
 In the second room everyone received a laptop in a briefcase and was instructed to stand in separate cells in a central rectangular grid. Half of the laptops were rigged to explode and everyone was required to open them simultaneously. While everyone lined up, I frantically asked another player who was a musician if they knew what the Tetris blocks on the page meant and they explained it was the chicken song. I fled into a wedge-shaped holding bay with a sliding wooden door at the entrance and a locked white wooden door on the furthest wall where other survivors gathered around. I forgot about the rule and activated the laptop out of curiosity but when the bios menu appeared I instinctively threw it towards the grid but it didn't explode. Realizing I was going to be killed anyway as everyone turned to look at me and staff approached I shut the sliding door and got the others to help breakdown the wooden door to escape by ramming it with a long piece of wood.
 
-In the third room I entered a large rectangular room featuring:
+In the third room I entered a large rectangular room:
 
-- Back:
-    - Metal fridge showing challenge progress with 8 of 16 squares highlighted.
-    - Small hockey area with a gate and metal door.
-- Right:
-    - People talking at tables.
-    - People playing table tennis.
-- Walls:
-    - Red glass windows with horizontal metal strips.
+- back:
+    - metal fridge showing challenge progress with 8 of 16 squares highlighted
+    - small hockey area with a gate and metal door
+- right:
+    - people seated at tables and talking
+    - people playing table tennis
+- walls:
+    - red glass windows with horizontal metal strips.
 
 Staff explained that until we progressed through more challenges this would be our eternal residence. I formed a team of four with Dejan, from my secondary school, and a few other fictional individuals. The team was discouraged and said they didn't want to struggle through more challenges. After passing through a gate into the small rectangular hockey area to compete against another team we were given metal bats and the floor was electrified as hundreds of lightning bolts visibly jumped around. The objective was to hit conductive pucks into opponents to kill them. After a member from both teams died, our team decided to lay the bats flat on the ground for a better defence than trying to hit it with the tip. After multiple failed attempts barely moving the puck a female member on the enemy team grew annoyed at the boring experience. I suggested they should quit so they left. A staff mistakenly thought they won so they opened a bi-parting vertical metal door in the corner. Noticing my two teammates standing obliviously, I quickly pulled them inside as the doors began to shut.
 

@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: May 14, 2025
-Last Edited: December 23, 2025 10:42 PM
+Last Edited: February 15, 2026 10:56 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -12,15 +12,24 @@ Influences: The Anguished Man (n.d)
 
 # Description
 
-I was walking through a small art gallery room where huge rectangular portrait-oriented paintings covered all walls and two staff members roamed around. An extremely haunted painting depicted a minimalistic room with a:
+I was walking through a small art gallery room with huge rectangular portrait-oriented paintings while two staff members roamed around when I encountered an extremely haunted portrait of a woman:
 
-- Colour scheme: mostly light grey-blue with a few natural colours.
-- Middle: Caucasian woman dressed in a tuxedo staring directly forward with dark circles under her eyes.
-- Left: mini safe with a rotating dial rested on a circular wooden stool.
-- Right: ferns in a vase rested on an identical stool.
-- Bottom left corner: covered in a tiny dark blood stain.
+- colour scheme:
+    - mostly light grey-blue with a few natural colours
+- style:
+    - minimalist
+- left:
+    - mini safe with a rotating dial rested on a circular wooden stool
+- middle:
+    - Caucasian woman with short brown hair, a tuxedo, dark circles under her eyes, and a blank expression
+- right:
+    - ferns in a vase rested on a circular wooden stool
+- bottom-left corner:
+    - overlaid with a tiny blood stain
+- background:
+    - smooth wall and floor.
 
-When a staff member moved the painting onto a backroom storage wall, it began swinging back and forth, loudly thumping. A disembodied female voice groaned in pain and multiple small fires flickered across the original spot. The staff claimed this was a regular occurrence, claiming that the artist’s soul still resides in it from the bloodstain and desires perpetual attention.
+A female staff member moved the painting onto a wall in the back storage room and it began swinging back and forth, loudly thumping. A disembodied female voice groaned in pain and multiple small fires flickered across the original spot. The staff claimed this was a regular occurrence, claiming that the artist’s soul still resides in it from the bloodstain and desires perpetual attention.
 
 # Interpretations
 
