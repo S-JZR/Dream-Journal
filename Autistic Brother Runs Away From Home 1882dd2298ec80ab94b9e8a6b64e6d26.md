@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 10, 2023
-Last Edited: February 12, 2026 6:24 PM
+Last Edited: February 16, 2026 3:18 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -46,8 +46,6 @@ We discovered that Michael had strategically planned his whereabouts using hidde
 - Camera Shy:
     - I’m introverted.
     - The fear of everyone remembering my mistakes forever.
-- Criminal/Witch:
-    - Sin and corruption.
 - Crumbling Clock Tower:
     - Overcoming death.
 

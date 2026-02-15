@@ -2,13 +2,13 @@
 
 Favourite: Yes
 Date: February 8, 2026
-Last Edited: February 12, 2026 3:08 PM
+Last Edited: February 16, 2026 3:00 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Hall
 Characters: Criminals, Superheroes
-Influences: Metal Arms Glitch In The System (2003)
+Influences: Metal Arms Glitch In The System (2003), The Incredibles 2 (2018)
 
 # Description
 
@@ -34,7 +34,7 @@ Over the next few days, the founders slowly started conditioning everyone to cha
 
 A few individuals who didn’t perform well or caused a nuisance were sent to a stainless steel bathroom in a concrete back area to the left. They were expected to enter the bathroom themselves and be killed without anyone knowing.
 
-For five days, a mysterious silent female midget wearing a black uniform with cyan veins and a smooth mask stood in the back area with the doors cracked open. She tried helping Dash by holding up the number of days left until he was going to be killed with her fingers. Dash didn’t understand until the last day when she pointed at him and did a cut-throat gesture and he realized what was happening.
+For five days, a mysterious silent female midget wearing a full body black uniform with cyan veins and a smooth mask stood in the back area with the doors cracked open. She tried helping Dash by holding up the number of days left until he was going to be killed with her fingers. Dash didn’t understand until the last day when she pointed at him and did a cut-throat gesture and he realized what was happening.
 
 > **Female Founder**: Well it’s that time again.
 > 
@@ -68,7 +68,9 @@ The other barrels exploded and Dash used the shockwave to launch into the ceilin
 ## Influences
 
 - Metal Arms Glitch In The System:
-    - References the images of Grunts, fascist robots, T-posing with L-shaped arms that I recently uploaded to the Fandom Wiki.
+    - References the images of Grunts, fascist robots, T-posing with L-shaped arms that I recently uploaded to the Fandom: [https://metalarms.fandom.com/wiki/File:Grunt-Red-Model.png](https://metalarms.fandom.com/wiki/File:Grunt-Red-Model.png).
+- The Incredibles 2:
+    - Likely references the Screenslaver who wore a full body black uniform with cyan eyes.
 
 ## Symbols
 

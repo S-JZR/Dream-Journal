@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: December 17, 2020
-Last Edited: December 13, 2025 10:54 PM
+Last Edited: February 16, 2026 2:19 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -30,9 +30,3 @@ We combined our equipment into a mecha to escape the consequences and flew over 
 ## Lessons
 
 - N/A.
-
-- Mecha:
-    - Fear of making mistakes and failing.
-    - Escapism that offers protection but also prevents growth.
-    - Problems are only solved by facing them directly.
-- Failed flirt: social anxiety doesn't just impact public life but intimacy.

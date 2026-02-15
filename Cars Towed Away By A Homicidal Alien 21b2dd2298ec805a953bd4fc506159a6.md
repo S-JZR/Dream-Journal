@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: June 21, 2025
-Last Edited: December 13, 2025 3:45 AM
+Last Edited: February 16, 2026 2:32 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -33,4 +33,4 @@ After calling the police to relay the situation, a policewoman dressed in red an
 
 ## Lessons
 
-- People can appear normal outwardly but are corrupt inwardly.
+- Appearances can be deceiving.
