@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: February 2, 2026
-Last Edited: February 12, 2026 4:43 PM
+Last Edited: February 16, 2026 3:23 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -72,7 +72,7 @@ The same policeman returned to the front door.
 
 I quickly exited the front door to knock him out and we hid his body somewhere inside my unit.
 
-A red forensics vehicle later parked in front of my unit complex to search for the missing policemen. I fled to the neighbouring unit complex opposite ours and walked across the top of the wooden fence of the first unit as a dog barked at me from below. I considered falling left if I lost my balance to avoid being mauled. I climbed onto the terracotta red/brown roof and moved to the other side. After waiting for a long time, I realized nobody was looking for me down the sidewalk and returned to my unit. The data backup finally finished so I took it and escaped with my family.
+A red forensics vehicle later parked in front of my unit complex to search for the missing policemen. I fled to the neighbouring unit complex opposite ours and walked across the top of the wooden fence of the first unit as a dog barked at me from below. I considered falling left if I lost my balance to avoid being mauled. I climbed onto the red terracotta roof and moved to the other side. After waiting for a long time, I realized nobody was looking for me down the sidewalk and returned to my unit. The data backup finally finished so I took it and escaped with my family.
 
 # Interpretations
 

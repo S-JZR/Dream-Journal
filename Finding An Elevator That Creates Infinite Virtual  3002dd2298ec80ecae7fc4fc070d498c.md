@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: February 7, 2026
-Last Edited: February 9, 2026 12:23 AM
+Last Edited: February 16, 2026 2:54 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -24,7 +24,7 @@ People were constantly exiting the elevator and queuing to enter. I saw various 
 
 I overheard others talking as they exited.
 
-> **People**: The worlds are immersive and you could feel and be moved by everything you interact with.
+> **People**: The worlds are so immersive, you could feel and be moved by everything you interact with.
 > 
 
 I had a few concerns including whether:

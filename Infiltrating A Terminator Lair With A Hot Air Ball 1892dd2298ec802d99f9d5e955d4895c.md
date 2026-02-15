@@ -1,14 +1,14 @@
-# Terminator Lair Infiltration
+# Infiltrating A Terminator Lair With A Hot Air Balloon
 
 Favourite: No
 Date: January 3, 2024
-Last Edited: December 12, 2025 10:18 PM
+Last Edited: February 16, 2026 3:05 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Facility, Suburb
 Characters: Friends (Fake), Misc People, Robots
-Influences: Siren Head (2018), Terminator (1984)
+Influences: Robots (2005), Siren Head (2018), Terminator (1984)
 
 # Description
 
@@ -24,6 +24,8 @@ Upon reaching the terminator lair, we encountered a man who had successfully rep
 
 - Siren Head:
     - References a siren being a monster.
+- Robots:
+    - Likely references the robot lamp post.
 - Terminator:
     - References reprogramming a Terminator into an ally.
 

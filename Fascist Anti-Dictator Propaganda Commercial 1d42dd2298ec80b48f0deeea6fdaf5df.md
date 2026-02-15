@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: January 13, 2025
-Last Edited: February 12, 2026 4:04 PM
+Last Edited: February 16, 2026 2:39 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -77,3 +77,7 @@ A medium full shot of a machine gun rack in a grey room showed three soldiers we
 ## Lessons
 
 - Survival should be valued more than luxury.
+
+# Notes
+
+- I don’t want to name anyone to avoid inciting violence.

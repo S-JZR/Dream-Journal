@@ -2,12 +2,13 @@
 
 Favourite: Yes
 Date: January 1, 2017
-Last Edited: December 13, 2025 10:42 PM
+Last Edited: February 16, 2026 2:26 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Locations: Home
 Characters: Family
+Influences: Christianity, Personal Thoughts
 
 # Description
 
@@ -19,13 +20,16 @@ We hurried inside and gathered upstairs in the master bedroom, sitting in a circ
 
 ## Influences
 
-- I fear that WW3 might unexpectedly start.
-- I fear that unresolved sins might send me to hell.
-- I hear Christian teachings all the time and the earthquake could be a reference to “birth pains” in Matthew 24:3-14.
+- Personal Thoughts:
+    - I fear that WW3 might unexpectedly start.
+    - I fear that unresolved sins might send me to hell.
+- Christianity:
+    - Reminds me of Matthew 24:3-8.
 
 ## Symbols
 
-- Confession: the awareness of my sins.
+- Confession:
+    - The awareness of my sins.
 
 ## Lessons
 
