@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 1, 2016
-Last Edited: February 12, 2026 3:20 PM
+Last Edited: February 16, 2026 3:48 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -17,7 +17,7 @@ I was one of many soldiers lying prone in the desert in front of a fortress enga
 > **Man**: (radio) An enemy invasion is imminent.
 > 
 
-> **Man**: (radio): All personnel must retreat into the fortress immediately.
+> **Man**: (radio) All personnel must retreat into the fortress immediately.
 > 
 
 Everyone fled inside the fortress and stood on the parapet as a black enemy tank approached over the horizon, burst through the front gate, and travelled through the streets.
