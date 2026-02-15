@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: February 19, 2025
-Last Edited: December 11, 2025 11:24 PM
+Last Edited: February 15, 2026 9:59 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -14,17 +14,17 @@ Influences: Personal Experiences
 
 I was one of many secondary school students on an art excursion to a university lecture. We entered a chicken house through the back in a line:
 
-- Front:
-    - Exit.
-- Left:
-    - Exit.
-    - Stables.
-- Right:
-    - Exit.
-- Back:
-    - L-shaped hallway with an exit.
-- Floor:
-    - Scattered hay and seeds.
+- left:
+    - exit
+    - stables
+- front:
+    - exit
+- right:
+    - exit
+- back:
+    - L-shaped hallway with an exit
+- floor:
+    - scattered hay and seeds.
 
 Suddenly, a swarm of yellow chicks emerged from the back and rushed past my feet. To avoid accidentally stepping on them, I shuffled my feet back and forth, creating a trail as I moved toward the doorway ahead. A few students who took notice mocked me for refusing to walk normally and falling behind. There was a paved walkway outside, beside a row of buildings, that gradually ascended with periodic step and was covered in eggs scattered around. I continued shuffling with controlled force to make them roll away without flinging them into hard surfaces. A few eggs were stood on by others with crumpled shells that revealed bloody areas inside.
 

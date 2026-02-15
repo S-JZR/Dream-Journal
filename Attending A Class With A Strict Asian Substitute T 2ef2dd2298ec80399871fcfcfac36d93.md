@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 21, 2026
-Last Edited: February 12, 2026 4:37 PM
+Last Edited: February 15, 2026 10:45 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -13,18 +13,18 @@ Characters: Students, Teachers
 
 I was one of many secondary students seated at a desk in a remote classroom when an Asian man with an accent entered the room:
 
-- Left:
-    - Door.
-    - Windows.
-    - Hill.
-    - Black fence and a lake to the left.
-- Front:
-    - Teacher’s desk.
-    - Whiteboard.
-- Right:
-    - Two doors.
-    - Windows.
-    - Dirt path with bamboo on both sides.
+- left:
+    - door
+    - windows
+    - hill
+    - black fence and a lake to the left
+- front:
+    - teacher’s desk
+    - whiteboard
+- right:
+    - two doors
+    - windows
+    - dirt path with bamboo on both sides.
 
 > **Teacher**: Hello everyone I will be your substitute teacher for the day.
 > 

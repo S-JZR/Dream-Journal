@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: May 7, 2025
-Last Edited: November 29, 2025 12:47 AM
+Last Edited: February 15, 2026 10:04 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
@@ -13,9 +13,9 @@ Characters: Misc People, Musicians, Pastors
 
 Two church groups were sharing attendance in a large modern church building located in a semi-remote wooded area beside a road to simultaneously perform services:
 
-- Left:
-    - 75% metal chairs.
-- Right:
+- left:
+    - 75% metal chairs
+- right:
     - 25% stackable plastic chairs.
 
 The first group arrived early, occupied the metal chairs, and proceeded into a sermon led by a female pastor.

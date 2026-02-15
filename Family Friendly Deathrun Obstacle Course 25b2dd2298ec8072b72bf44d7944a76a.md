@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: August 26, 2025
-Last Edited: December 12, 2025 3:33 AM
+Last Edited: February 15, 2026 10:33 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -20,9 +20,12 @@ In the second obstacle we encountered a narrow path suspended over a deep rectan
 
 In obstacle three I encountered a woman inside a rectangular cave filled with snow blocks that was rumoured to be infinite. She tried to find an exit by randomly mining patches and became afraid that she would be trapped forever. My brother mentioned that the area was only about 6 metres tall so I told her to help me dig upwards as we quickly surfaced to see:
 
-- Left: wooden two-rail fence and a large tree.
-- Front: distant snowy neighbourhood.
-- Ground: snow everywhere.
+- left:
+    - wooden two-rail fence and a large tree
+- front:
+    - distant snowy neighbourhood
+- ground:
+    - snow everywhere.
 
 While hopping over the fence to approach the tree my parents yelled at me to stop as hundreds of Mistletoebird were flying around its branches, looking for a place to migrate and could attack me. Eventually, they flew away into the previous snow cave.
 
