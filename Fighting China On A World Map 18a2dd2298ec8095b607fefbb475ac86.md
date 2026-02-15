@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 13, 2025
-Last Edited: December 13, 2025 1:19 AM
+Last Edited: February 16, 2026 2:41 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -21,7 +21,6 @@ Eventually, a few yellow naval vessels were sent around mountains on the adjacen
 ## Influences
 
 - Mini Empires:
-    - I played it a while ago.
     - References the tile system and units sharing your team colour.
 
 ## Symbols

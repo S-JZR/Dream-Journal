@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: September 19, 2020
-Last Edited: December 11, 2025 3:35 PM
+Last Edited: February 16, 2026 3:18 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -27,8 +27,6 @@ Suddenly, one of the younger children in the home began questioning what they we
 
 - Held Hostage:
     - The fear of being held against my will.
-- Witch:
-    - Sin and corruption.
 
 ## Lessons
 
