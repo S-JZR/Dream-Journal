@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2016
-Last Edited: February 16, 2026 3:48 AM
+Last Edited: February 20, 2026 9:37 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Desert, Fortress
-Characters: Soldiers
 Influences: Team Fortress 2 (2007)
 
 # Description

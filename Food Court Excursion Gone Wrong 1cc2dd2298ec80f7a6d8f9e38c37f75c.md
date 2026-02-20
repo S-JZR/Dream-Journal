@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: April 5, 2025
-Last Edited: December 13, 2025 2:49 AM
+Last Edited: February 20, 2026 11:33 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Shopping Mall
-Characters: Dogs, Fast Food Workers, Rhiannon C, Students, Teachers
 Influences: Personal Experiences
+Real/Media Characters: Rhiannon C
 
 # Description
 

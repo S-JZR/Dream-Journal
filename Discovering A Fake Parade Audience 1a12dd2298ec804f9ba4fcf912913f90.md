@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: February 20, 2025
-Last Edited: December 13, 2025 6:45 PM
+Last Edited: February 20, 2026 11:32 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: City, Hall, Sewers
-Characters: Family, Misc People
 Influences: Online Videos
+Real/Media Characters: Family
 
 # Description
 

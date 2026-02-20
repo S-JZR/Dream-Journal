@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: February 8, 2025
-Last Edited: December 11, 2025 11:12 PM
+Last Edited: February 20, 2026 11:31 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Deformed Creature, Dogs, Family, Misc People
+Real/Media Characters: Family
 
 # Description
 

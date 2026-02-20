@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 14, 2026
-Last Edited: February 15, 2026 10:41 PM
+Last Edited: February 20, 2026 10:06 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Building, Rural
-Characters: Misc People
 Influences: Online Videos
 
 # Description

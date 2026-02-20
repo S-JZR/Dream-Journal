@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2008
-Last Edited: December 1, 2025 5:46 PM
+Last Edited: February 20, 2026 9:36 PM
 Type: Half-Asleep
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Home
-Characters: Gorillas
 
 # Description
 

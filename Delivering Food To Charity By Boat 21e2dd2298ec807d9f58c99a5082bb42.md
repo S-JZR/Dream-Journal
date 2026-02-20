@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: June 26, 2025
-Last Edited: December 12, 2025 1:52 AM
+Last Edited: February 20, 2026 9:55 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Garage, River, Warehouse
-Characters: Students, Teachers
 
 # Description
 

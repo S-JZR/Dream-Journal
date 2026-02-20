@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 10, 2020
-Last Edited: February 12, 2026 3:25 PM
+Last Edited: February 20, 2026 11:25 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Resort, Secondary School
-Characters: Family, Mrs Itsikson, Students, Teachers
 Influences: Personal Experiences
+Real/Media Characters: Family, Mr Broadway, Mrs Itsikson
 
 # Description
 

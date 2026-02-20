@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: September 5, 2025
-Last Edited: December 14, 2025 12:21 AM
+Last Edited: February 20, 2026 11:36 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home, Neighbourhood
-Characters: Angus, Family
 Influences: Personal Experiences
+Real/Media Characters: Angus, Family
 
 # Description
 

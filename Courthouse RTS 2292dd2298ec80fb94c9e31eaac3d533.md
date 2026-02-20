@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: July 2, 2025
-Last Edited: December 12, 2025 2:01 AM
+Last Edited: February 20, 2026 11:34 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Courthouse, Virtual/Videogame
-Characters: Bowler Hat Guy, Doris, Misc People
 Influences: FNAF: Secret Of The Mimic (2025), Mad God (2021), Meet The Robinsons (2007), Minecraft (2009), The Conquerors 3 (2009) (Roblox)
+Real/Media Characters: Bowler Hat Guy, DOR-15
 
 # Description
 

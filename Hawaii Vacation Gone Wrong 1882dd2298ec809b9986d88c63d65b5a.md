@@ -2,12 +2,11 @@
 
 Favourite: Yes
 Date: November 25, 2021
-Last Edited: February 12, 2026 6:23 PM
+Last Edited: February 20, 2026 11:28 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
-Locations: Airport, Church, City, Garage
-Characters: Church Staff, Family, Misc People
+Real/Media Characters: Family
 
 # Description
 

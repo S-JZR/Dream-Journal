@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: March 5, 2025
-Last Edited: December 13, 2025 2:31 AM
+Last Edited: February 20, 2026 9:52 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Shopping Mall
-Characters: Misc People
 
 # Description
 

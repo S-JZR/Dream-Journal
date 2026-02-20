@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: November 2, 2020
-Last Edited: December 12, 2025 8:59 PM
+Last Edited: February 20, 2026 9:40 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Area 51
-Characters: Aliens, Misc People, Robots, Soldiers
 Influences: Metal Arms Glitch In The System (2003)
 
 # Description

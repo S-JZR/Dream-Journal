@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: January 1, 2017
-Last Edited: December 11, 2025 3:18 PM
+Last Edited: February 20, 2026 9:38 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Earth, Scrapyard
-Characters: Robots, Scientists
 Influences: Steam Punks! (2013)
 
 # Description

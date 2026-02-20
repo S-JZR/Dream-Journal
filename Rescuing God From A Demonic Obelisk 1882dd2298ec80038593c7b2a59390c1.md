@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: January 1, 2017
-Last Edited: January 21, 2026 5:36 PM
+Last Edited: February 20, 2026 11:24 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: City, Heaven
-Characters: Dejan C, Demons, God (Abrahamic), Michael C, Misc People
 Influences: Personal Thoughts
+Real/Media Characters: Dejan C, God (Christianity), Michael C
 
 # Description
 

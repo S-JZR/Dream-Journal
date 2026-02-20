@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: September 19, 2023
-Last Edited: February 12, 2026 3:36 PM
+Last Edited: February 20, 2026 9:43 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Aliens, Criminals, First Responders, Misc People
 Influences: Personal Experiences
 
 # Description

@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: December 2, 2022
-Last Edited: February 15, 2026 9:32 PM
+Last Edited: February 20, 2026 11:28 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Arcade, Forest
-Characters: MatPat, Nanobots, Werewolf
 Influences: Online Videos, Personal Thoughts, Rick And Morty (2013)
+Real/Media Characters: MatPat
 
 # Description
 

@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2008
-Last Edited: December 28, 2025 6:16 PM
+Last Edited: February 20, 2026 9:36 PM
 Type: Half-Asleep
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Home
-Characters: Bluebirds
 Influences: Looney Toons (1930)
 
 # Description

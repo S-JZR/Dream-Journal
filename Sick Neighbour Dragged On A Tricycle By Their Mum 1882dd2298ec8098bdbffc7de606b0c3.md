@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: January 1, 2014
-Last Edited: December 2, 2025 6:08 PM
+Last Edited: February 20, 2026 11:41 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Home
-Characters: ? Mico's Mum, Mico
+Real/Media Characters: ? Mico's Mum, Mico
 
 # Description
 

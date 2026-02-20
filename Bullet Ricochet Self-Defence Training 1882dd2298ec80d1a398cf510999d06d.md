@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: January 28, 2021
-Last Edited: February 12, 2026 6:22 PM
+Last Edited: February 20, 2026 11:28 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home, Secondary School
-Characters: Dejan C, Koalas, Komodo Dragon, Misc People
+Real/Media Characters: Dejan C
 
 # Description
 

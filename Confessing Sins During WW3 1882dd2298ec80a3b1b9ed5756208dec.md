@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: January 1, 2017
-Last Edited: February 16, 2026 2:26 AM
+Last Edited: February 20, 2026 11:24 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Family
 Influences: Christianity, Personal Thoughts
+Real/Media Characters: Family
 
 # Description
 

@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: February 21, 2025
-Last Edited: December 13, 2025 2:29 AM
+Last Edited: February 20, 2026 9:51 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Obstacle Course, Virtual/Videogame
-Characters: Misc People
 Influences: Personal Experiences
 
 # Description

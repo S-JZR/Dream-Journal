@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: November 4, 2025
-Last Edited: February 12, 2026 4:27 PM
+Last Edited: February 20, 2026 11:36 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Embarrassment
-Locations: Home
-Characters: Family, Misc People
 Influences: Christianity, Online Videos, Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

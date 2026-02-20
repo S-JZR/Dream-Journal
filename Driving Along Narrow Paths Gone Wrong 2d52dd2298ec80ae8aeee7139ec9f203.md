@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: December 26, 2025
-Last Edited: December 28, 2025 5:28 PM
+Last Edited: February 20, 2026 11:38 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Field, Trenches
-Characters: Family, Misc People
+Real/Media Characters: Family
 
 # Description
 

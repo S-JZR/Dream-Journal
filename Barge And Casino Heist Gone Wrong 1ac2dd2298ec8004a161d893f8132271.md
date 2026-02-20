@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: February 28, 2025
-Last Edited: December 7, 2025 2:37 AM
+Last Edited: February 20, 2026 9:52 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Casino, City, Ocean
-Characters: Misc People, Police, Rich Person
 
 # Description
 

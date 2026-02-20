@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: April 18, 2024
-Last Edited: December 12, 2025 11:00 PM
+Last Edited: February 20, 2026 9:45 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Secondary School
-Characters: Hazmat Crew, Students
 Influences: Personal Experiences
 
 # Description

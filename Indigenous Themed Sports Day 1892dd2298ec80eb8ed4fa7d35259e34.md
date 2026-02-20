@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: October 16, 2024
-Last Edited: December 19, 2025 1:29 AM
+Last Edited: February 20, 2026 11:31 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Secondary School
-Characters: Julien C, Students, Teachers
 Influences: Personal Experiences
+Real/Media Characters: Julien C
 
 # Description
 

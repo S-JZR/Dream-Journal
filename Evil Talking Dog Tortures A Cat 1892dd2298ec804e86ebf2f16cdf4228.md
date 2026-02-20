@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: February 16, 2024
-Last Edited: February 12, 2026 3:41 PM
+Last Edited: February 20, 2026 9:44 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
-Locations: Secondary School
-Characters: Cats, Dogs
 
 # Description
 

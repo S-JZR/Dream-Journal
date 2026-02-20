@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: December 17, 2020
-Last Edited: February 16, 2026 2:19 AM
+Last Edited: February 20, 2026 9:41 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Canyon, Pier, Supermarket
-Characters: Students, Teachers
 
 # Description
 

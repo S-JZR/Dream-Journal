@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2017
-Last Edited: December 28, 2025 7:14 PM
+Last Edited: February 20, 2026 9:37 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home, Neighbourhood
-Characters: Police
 
 # Description
 

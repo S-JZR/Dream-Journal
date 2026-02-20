@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 1, 2008
-Last Edited: December 12, 2025 5:47 PM
+Last Edited: February 20, 2026 11:22 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Primary School
-Characters: Mrs Wardle
 Influences: Personal Experiences
+Real/Media Characters: Mrs Wardle
 
 # Description
 

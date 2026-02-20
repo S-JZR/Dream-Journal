@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 10, 2023
-Last Edited: February 16, 2026 3:18 AM
+Last Edited: February 20, 2026 9:42 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: City, House, Theatre
-Characters: Criminals, Family (Fake), Misc People, Witch
 Influences: Star Wars Battlefront II (2017)
 
 # Description

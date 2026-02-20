@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: October 23, 2025
-Last Edited: December 19, 2025 5:43 PM
+Last Edited: February 20, 2026 10:05 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
-Locations: University
-Characters: Misc People, Students
 Influences: News
 
 # Description

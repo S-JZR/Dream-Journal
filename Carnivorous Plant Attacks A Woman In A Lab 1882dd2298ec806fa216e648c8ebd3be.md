@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2005
-Last Edited: February 12, 2026 4:49 PM
+Last Edited: February 20, 2026 9:36 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Lab, Virtual/Videogame
-Characters: Carnivorous Plant, Scientists
 
 # Description
 

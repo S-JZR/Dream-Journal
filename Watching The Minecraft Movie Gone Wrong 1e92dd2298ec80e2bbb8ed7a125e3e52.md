@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: May 2, 2025
-Last Edited: February 16, 2026 3:24 AM
+Last Edited: February 20, 2026 11:34 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Cinema, Slushie Store
-Characters: Family, Janitors, Misc People
 Influences: Fred Claus (2007), Minecraft (2025)
+Real/Media Characters: Family
 
 # Description
 

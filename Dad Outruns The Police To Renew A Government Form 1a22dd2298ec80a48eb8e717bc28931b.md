@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: October 17, 2024
-Last Edited: December 18, 2025 5:35 PM
+Last Edited: February 20, 2026 11:31 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: City, Government Office, Rural
-Characters: Family, Misc People, Police, Public Servant
 Influences: Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

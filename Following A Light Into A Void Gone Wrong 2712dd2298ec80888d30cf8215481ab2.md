@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: September 17, 2025
-Last Edited: February 12, 2026 4:25 PM
+Last Edited: February 20, 2026 10:04 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Train, Void
-Characters: Misc People, Pilots
 Influences: Personal Experiences, Personal Thoughts
 
 # Description

@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: March 5, 2025
-Last Edited: February 16, 2026 2:43 AM
+Last Edited: February 20, 2026 11:32 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Carpark, Water Theme Park
-Characters: Family, Family (Fake), Misc People
 Influences: Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

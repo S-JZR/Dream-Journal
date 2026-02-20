@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 11, 2020
-Last Edited: February 16, 2026 2:31 AM
+Last Edited: February 20, 2026 9:40 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Alps, Cave
-Characters: Business Person, Yetis
 
 # Description
 

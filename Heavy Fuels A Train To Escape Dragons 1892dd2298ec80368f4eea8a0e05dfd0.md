@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 22, 2024
-Last Edited: December 12, 2025 10:25 PM
+Last Edited: February 20, 2026 11:29 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Train
-Characters: Dragons, Heavy
 Influences: Team Fortress 2 (2007)
+Real/Media Characters: Heavy
 
 # Description
 

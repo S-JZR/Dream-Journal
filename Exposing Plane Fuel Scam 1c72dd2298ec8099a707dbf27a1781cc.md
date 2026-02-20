@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: October 16, 2024
-Last Edited: February 15, 2026 9:52 PM
+Last Edited: February 20, 2026 9:48 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Desert, Secondary School
-Characters: Business Person, Students, Teachers
 Influences: Shark Tank (2009)
 
 # Description

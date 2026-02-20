@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: April 14, 2025
-Last Edited: December 13, 2025 2:54 AM
+Last Edited: February 20, 2026 9:54 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
-Locations: Harbour
-Characters: Transformers
 Influences: Pacific Rim (2013), Transformers (1986)
 
 # Description

@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: March 20, 2025
-Last Edited: December 11, 2025 11:45 PM
+Last Edited: February 20, 2026 9:52 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: City, Fortress, River
-Characters: Soldiers
 Influences: News
 
 # Description

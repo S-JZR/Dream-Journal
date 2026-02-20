@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: August 1, 2025
-Last Edited: December 13, 2025 6:56 PM
+Last Edited: February 20, 2026 11:35 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Home
-Characters: Alex Jones, News Reporters
 Influences: Online Videos
+Real/Media Characters: Alex Jones
 
 # Description
 

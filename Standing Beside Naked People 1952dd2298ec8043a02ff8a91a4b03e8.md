@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2016
-Last Edited: January 28, 2026 6:45 PM
+Last Edited: February 20, 2026 9:37 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Embarrassment
-Locations: Room
-Characters: Misc People
 Influences: Personal Experiences
 
 # Description

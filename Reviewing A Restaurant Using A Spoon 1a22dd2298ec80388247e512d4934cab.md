@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: March 17, 2024
-Last Edited: February 12, 2026 6:27 PM
+Last Edited: February 20, 2026 9:44 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Restaurant
-Characters: Misc People, Waiter
 Influences: Personal Experiences
 
 # Description

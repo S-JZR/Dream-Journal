@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: March 20, 2025
-Last Edited: December 13, 2025 2:39 AM
+Last Edited: February 20, 2026 9:52 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: City, House
-Characters: Criminals, Misc People
 Influences: Batman (1989)
 
 # Description

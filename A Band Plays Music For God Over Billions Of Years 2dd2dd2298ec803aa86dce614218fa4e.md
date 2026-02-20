@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 3, 2026
-Last Edited: January 21, 2026 11:30 PM
+Last Edited: February 20, 2026 11:38 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Heaven
-Characters: God (Abrahamic), Musicians
 Influences: Online Videos
+Real/Media Characters: God (Christianity)
 
 # Description
 

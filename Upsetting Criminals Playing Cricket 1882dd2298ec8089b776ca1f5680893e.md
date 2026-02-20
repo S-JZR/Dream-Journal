@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 7, 2021
-Last Edited: February 12, 2026 3:32 PM
+Last Edited: February 20, 2026 11:48 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Fear
-Locations: City
-Characters: Aleksandr Orlov, Elves, Family, Mafia, Misc People, Mrs Claus, Santa, Sergei Orlov, Soldiers, Sullivan, Waiter, Workers
 Influences: Commercials, Monsters Inc. (2001), Online Videos
+Real/Media Characters: Aleksandr Orlov, Family, James Sullivan, Mrs Claus, Santa, Sergei Orlov
 
 # Description
 

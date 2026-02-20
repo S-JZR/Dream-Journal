@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: February 17, 2025
-Last Edited: December 13, 2025 2:18 AM
+Last Edited: February 20, 2026 9:51 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Field, Highway
-Characters: Misc People
 
 # Description
 

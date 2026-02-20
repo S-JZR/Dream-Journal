@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: April 24, 2024
-Last Edited: February 15, 2026 9:48 PM
+Last Edited: February 20, 2026 11:30 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
-Locations: City, Harbour, Ocean, TV Studio
-Characters: Family, Gordon Ramsay, Misc People, Pilots
 Influences: Hell's Kitchen (2005), News
+Real/Media Characters: Family, Gordon Ramsay
 
 # Description
 

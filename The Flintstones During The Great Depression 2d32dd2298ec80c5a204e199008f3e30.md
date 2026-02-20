@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: November 20, 2025
-Last Edited: December 28, 2025 4:05 PM
+Last Edited: February 20, 2026 11:37 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Fast-food Restaurant, Mine
-Characters: Barney Rubble, Fred Flintstone, Miners
 Influences: The Flintstones (1960)
+Real/Media Characters: Barney Rubble, Fred Flintstone
 
 # Description
 

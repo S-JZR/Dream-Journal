@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: September 22, 2025
-Last Edited: December 12, 2025 4:08 AM
+Last Edited: February 20, 2026 11:36 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
-Locations: Street Market
-Characters: Cashiers, Family, Misc People
 Influences: News
+Real/Media Characters: Family
 
 # Description
 

@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: July 9, 2024
-Last Edited: December 13, 2025 12:45 AM
+Last Edited: February 20, 2026 11:30 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Virtual/Videogame
-Characters: Aliens, Chefs, Hiroshi Kimura, Janitors, Norman
 Influences: Scary Sushi (2024) (Roblox)
+Real/Media Characters: Hiroshi Kimura, Norman
 
 # Description
 

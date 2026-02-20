@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: October 13, 2025
-Last Edited: December 22, 2025 8:13 PM
+Last Edited: February 20, 2026 11:36 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: House
-Characters: Julien C
 Influences: Personal Experiences
+Real/Media Characters: Julien C
 
 # Description
 

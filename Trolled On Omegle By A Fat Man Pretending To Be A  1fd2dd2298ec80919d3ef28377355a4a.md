@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: May 24, 2025
-Last Edited: December 13, 2025 6:52 PM
+Last Edited: February 20, 2026 11:34 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home, Virtual/Videogame
-Characters: Family, Misc People
 Influences: Online Videos
+Real/Media Characters: Family
 
 # Description
 

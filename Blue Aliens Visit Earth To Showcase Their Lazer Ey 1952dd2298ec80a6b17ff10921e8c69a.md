@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: February 5, 2025
-Last Edited: December 13, 2025 1:35 AM
+Last Edited: February 20, 2026 9:50 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: City, Construction Site
-Characters: Aliens, Misc People
 Influences: Fantastic Planet (1973)
 
 # Description

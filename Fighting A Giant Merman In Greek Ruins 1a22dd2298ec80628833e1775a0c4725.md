@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: October 17, 2024
-Last Edited: February 15, 2026 9:53 PM
+Last Edited: February 20, 2026 9:48 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Greece, Ruins, Virtual/Videogame
-Characters: Giants, Merman, Romans
 Influences: Mythology (2011) (Sakisa)
 
 # Description

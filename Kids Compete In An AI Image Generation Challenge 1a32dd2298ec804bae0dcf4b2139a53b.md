@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: December 16, 2024
-Last Edited: December 13, 2025 1:09 AM
+Last Edited: February 20, 2026 9:49 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Primary School, Swimming Pool
-Characters: Misc People, Teachers
 Influences: News
 
 # Description

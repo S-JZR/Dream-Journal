@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 20, 2026
-Last Edited: February 15, 2026 10:44 PM
+Last Edited: February 20, 2026 10:06 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Disgust
-Locations: Building
-Characters: Misc People
 
 # Description
 

@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: January 1, 2014
-Last Edited: February 12, 2026 3:19 PM
+Last Edited: February 20, 2026 9:37 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Trenches
-Characters: Disembodied Voice, Misc People
 Influences: Personal Thoughts
 
 # Description
