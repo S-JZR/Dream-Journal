@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: December 16, 2024
-Last Edited: December 13, 2025 6:33 PM
+Last Edited: February 20, 2026 11:31 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Family, Misc People, Robots
 Influences: News, Online Videos
+Real/Media Characters: Family
 
 # Description
 

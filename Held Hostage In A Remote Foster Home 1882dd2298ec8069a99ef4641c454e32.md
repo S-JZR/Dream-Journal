@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: September 19, 2020
-Last Edited: February 16, 2026 3:18 AM
+Last Edited: February 20, 2026 9:40 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Suburb
-Characters: Misc People, Soldiers, Witch
 
 # Description
 

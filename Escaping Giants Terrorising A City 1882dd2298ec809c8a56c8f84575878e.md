@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: July 10, 2020
-Last Edited: December 14, 2025 4:29 PM
+Last Edited: February 20, 2026 11:26 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Botanical Garden, City, Hotel
-Characters: Family, Giants, Julien C, Misc People
 Influences: Personal Experiences
+Real/Media Characters: Family, Julien C
 
 # Description
 

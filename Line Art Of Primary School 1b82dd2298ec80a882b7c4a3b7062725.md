@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2023
-Last Edited: December 12, 2025 9:38 PM
+Last Edited: February 20, 2026 9:42 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Primary School
-Characters: Students
 Influences: Personal Experiences
 
 # Description

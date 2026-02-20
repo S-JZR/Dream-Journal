@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: August 7, 2025
-Last Edited: December 23, 2025 2:19 AM
+Last Edited: February 20, 2026 11:35 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Family, Neighbours, Neighbours (Fake)
 Influences: Pauline Hanson's Please Explain (2021), Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

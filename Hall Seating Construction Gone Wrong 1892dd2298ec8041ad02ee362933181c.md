@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: September 6, 2024
-Last Edited: December 6, 2025 1:47 AM
+Last Edited: February 20, 2026 11:30 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Secondary School
-Characters: Brooke M, Jared K, News Reporters, Students, Teachers
+Real/Media Characters: Brooke M, Jared K
 
 # Description
 

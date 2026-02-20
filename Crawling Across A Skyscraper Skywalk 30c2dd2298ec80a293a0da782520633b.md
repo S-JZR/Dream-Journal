@@ -6,7 +6,6 @@ Last Edited: February 19, 2026 6:21 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: City
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

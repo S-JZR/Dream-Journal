@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: March 29, 2025
-Last Edited: December 13, 2025 2:46 AM
+Last Edited: February 20, 2026 9:52 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Island, Ocean
-Characters: Soldiers
 Influences: The Conquerors 3 (2009) (Roblox)
 
 # Description

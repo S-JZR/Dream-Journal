@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 11, 2020
-Last Edited: December 12, 2025 8:45 PM
+Last Edited: February 20, 2026 9:40 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Botanical Garden
-Characters: Magpies
 
 # Description
 

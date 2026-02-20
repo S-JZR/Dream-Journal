@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: January 1, 2013
-Last Edited: December 12, 2025 5:26 PM
+Last Edited: February 20, 2026 11:22 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: City
-Characters: Family, Misc People
+Real/Media Characters: Family
 
 # Description
 

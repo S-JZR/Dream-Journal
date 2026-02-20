@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: April 12, 2025
-Last Edited: December 12, 2025 12:34 AM
+Last Edited: February 20, 2026 9:54 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Field, Forest
-Characters: Horses, Soldiers
 Influences: Personal Thoughts
 
 # Description

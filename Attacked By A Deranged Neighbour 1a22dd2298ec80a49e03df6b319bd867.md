@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: December 9, 2020
-Last Edited: December 12, 2025 9:03 PM
+Last Edited: February 20, 2026 9:41 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Neighbours (Fake)
 
 # Description
 

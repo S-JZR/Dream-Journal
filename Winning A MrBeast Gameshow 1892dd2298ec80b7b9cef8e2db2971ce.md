@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: June 15, 2024
-Last Edited: December 13, 2025 12:35 AM
+Last Edited: February 20, 2026 11:30 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Virtual/Videogame
-Characters: Misc People, MrBeast
 Influences: Online Videos, Roblox (2006)
+Real/Media Characters: MrBeast
 
 # Description
 

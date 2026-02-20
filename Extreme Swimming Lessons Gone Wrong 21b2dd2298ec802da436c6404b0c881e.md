@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: June 18, 2025
-Last Edited: February 15, 2026 10:28 PM
+Last Edited: February 20, 2026 11:34 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Swimming Pool
-Characters: Crocodiles, Julien C, Students, Teachers
 Influences: Personal Experiences
+Real/Media Characters: Julien C
 
 # Description
 

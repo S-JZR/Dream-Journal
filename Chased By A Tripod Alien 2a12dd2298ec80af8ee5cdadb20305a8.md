@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: November 4, 2025
-Last Edited: December 12, 2025 4:10 AM
+Last Edited: February 20, 2026 11:36 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home, Neighbourhood
-Characters: Aliens, Family
 Influences: War Of The Worlds (2005)
+Real/Media Characters: Family
 
 # Description
 

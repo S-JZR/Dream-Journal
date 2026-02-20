@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: April 7, 2025
-Last Edited: February 12, 2026 6:41 PM
+Last Edited: February 20, 2026 9:53 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Castle, Home, Parallel Dimension, Train Station, Void
-Characters: First Responders, Friends (Fake), Misc People, Neighbours (Fake), Yūrei
 
 # Description
 

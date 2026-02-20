@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: July 16, 2025
-Last Edited: December 12, 2025 2:03 AM
+Last Edited: February 20, 2026 10:02 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Room
-Characters: Misc People
 Influences: Online Videos
 
 # Description

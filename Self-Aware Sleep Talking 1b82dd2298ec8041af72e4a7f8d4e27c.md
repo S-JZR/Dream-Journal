@@ -2,12 +2,11 @@
 
 Favourite: Yes
 Date: January 1, 2010
-Last Edited: December 1, 2025 6:13 PM
+Last Edited: February 20, 2026 11:22 PM
 Type: Half-Asleep
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Family
+Real/Media Characters: Family
 
 # Description
 

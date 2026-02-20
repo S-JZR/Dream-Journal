@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: April 29, 2025
-Last Edited: December 13, 2025 3:02 AM
+Last Edited: February 20, 2026 11:34 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Planet, Space, Warehouse
-Characters: Astronauts, Carter, Chris Tucker, Creepers, Criminals, Misc People, Robots
 Influences: Star Wars (1987), Thunderbirds (1965)
+Real/Media Characters: James Carter
 
 # Description
 

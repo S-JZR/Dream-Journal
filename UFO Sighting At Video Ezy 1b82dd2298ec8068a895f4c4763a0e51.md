@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 1, 2005
-Last Edited: February 12, 2026 3:16 PM
+Last Edited: February 20, 2026 11:22 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Retail Strip
-Characters: Aliens, Family
 Influences: Personal Experiences, Ratchet And Clank 3 (2004)
+Real/Media Characters: Family
 
 # Description
 

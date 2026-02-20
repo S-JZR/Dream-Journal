@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 1, 2014
-Last Edited: December 10, 2025 1:42 AM
+Last Edited: February 20, 2026 11:23 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Home, Neighbourhood, Shopping Mall, Suburb
-Characters: Family
 Influences: Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

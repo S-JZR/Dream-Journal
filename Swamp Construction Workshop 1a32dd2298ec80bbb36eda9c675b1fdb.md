@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: December 11, 2024
-Last Edited: December 7, 2025 11:16 PM
+Last Edited: February 20, 2026 9:49 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Swamp, Workshop
-Characters: Students, Teachers
 
 # Description
 

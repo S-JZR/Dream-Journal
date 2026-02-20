@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: August 30, 2025
-Last Edited: December 13, 2025 6:57 PM
+Last Edited: February 20, 2026 11:35 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Cave
-Characters: Family, Misc People, MrBeast
 Influences: Online Videos
+Real/Media Characters: Family, MrBeast
 
 # Description
 

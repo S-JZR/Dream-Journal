@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: July 3, 2025
-Last Edited: December 22, 2025 4:17 PM
+Last Edited: February 20, 2026 10:02 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Shopping Mall
-Characters: Ghosts, Misc People, Zombies
 Influences: News, Online Videos, The Thing (1982)
 
 # Description

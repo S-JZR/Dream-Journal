@@ -6,7 +6,6 @@ Last Edited: December 12, 2025 6:32 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Secondary School
 Influences: Astro Boy (1963)
 
 # Description

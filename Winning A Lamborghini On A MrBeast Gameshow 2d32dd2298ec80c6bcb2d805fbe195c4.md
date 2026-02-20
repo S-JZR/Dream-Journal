@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: December 12, 2025
-Last Edited: January 21, 2026 11:31 PM
+Last Edited: February 20, 2026 11:38 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Warehouse
-Characters: Misc People, MrBeast
 Influences: Online Videos
+Real/Media Characters: MrBeast
 
 # Description
 

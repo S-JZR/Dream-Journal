@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: January 1, 2013
-Last Edited: December 10, 2025 1:28 AM
+Last Edited: February 20, 2026 9:36 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Room
-Characters: Misc People, Scientists
 
 # Description
 

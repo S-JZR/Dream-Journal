@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: January 12, 2016
-Last Edited: December 12, 2025 8:23 PM
+Last Edited: February 20, 2026 11:24 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Island, Virtual/Videogame
-Characters: Family, Vultures
+Real/Media Characters: Family
 
 # Description
 

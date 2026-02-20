@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: November 23, 2020
-Last Edited: December 18, 2025 11:26 PM
+Last Edited: February 20, 2026 11:26 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Secondary School
-Characters: Misc People, Mr Nathan, Students, Teachers
+Real/Media Characters: Mr Nathan
 
 # Description
 

@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: October 24, 2023
-Last Edited: February 15, 2026 10:51 PM
+Last Edited: February 20, 2026 11:28 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Escape Rooms, Facility
-Characters: Family, Gothic Creature, Prisoners, Soldiers
 Influences: Christianity, People Playground (2019), Personal Experiences, The Outlast Trials (2023)
+Real/Media Characters: Family
 
 # Description
 

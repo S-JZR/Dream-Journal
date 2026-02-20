@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: February 20, 2024
-Last Edited: December 12, 2025 10:29 PM
+Last Edited: February 20, 2026 11:29 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Fortress, Rural, Virtual/Videogame
-Characters: Aliens, Leon Kennedy, Soldiers, Zombies
 Influences: Resident Evil Village (2021), StarCraft II (2010)
+Real/Media Characters: Leon Kennedy
 
 # Description
 

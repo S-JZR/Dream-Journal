@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: September 5, 2025
-Last Edited: December 6, 2025 4:35 AM
+Last Edited: February 20, 2026 11:35 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Home
-Characters: Family
+Real/Media Characters: Family
 
 # Description
 

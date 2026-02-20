@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: August 23, 2025
-Last Edited: December 6, 2025 4:33 AM
+Last Edited: February 20, 2026 10:03 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Secondary School, Swimming Pool
-Characters: Students, Teachers
 
 # Description
 

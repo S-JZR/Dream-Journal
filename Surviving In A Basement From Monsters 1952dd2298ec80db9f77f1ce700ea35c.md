@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: February 7, 2025
-Last Edited: December 13, 2025 2:17 AM
+Last Edited: February 20, 2026 9:50 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: House
-Characters: Aliens, Misc People
 Influences: FNAF (2014), Monsterum (2015), Zathura (2005)
 
 # Description

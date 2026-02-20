@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: March 14, 2024
-Last Edited: December 12, 2025 10:32 PM
+Last Edited: February 20, 2026 9:44 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Space
-Characters: Musicians
 Influences: Personal Thoughts
 
 # Description

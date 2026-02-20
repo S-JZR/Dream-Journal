@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: April 18, 2024
-Last Edited: February 12, 2026 3:50 PM
+Last Edited: February 20, 2026 9:45 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Banquet
-Characters: Misc People, Students, Teachers
 Influences: Personal Experiences
 
 # Description

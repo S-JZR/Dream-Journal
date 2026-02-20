@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 10, 2023
-Last Edited: December 11, 2025 5:16 PM
+Last Edited: February 20, 2026 9:42 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Playground
-Characters: Misc People, Police, Spies
 Influences: The Bad Guys (2022)
 
 # Description

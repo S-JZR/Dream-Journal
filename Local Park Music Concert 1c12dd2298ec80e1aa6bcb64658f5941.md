@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2013
-Last Edited: February 15, 2026 9:07 PM
+Last Edited: February 20, 2026 9:36 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Home, Park, Playground
-Characters: Misc People, Musicians
 
 # Description
 

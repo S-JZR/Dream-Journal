@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: February 18, 2025
-Last Edited: December 6, 2025 2:34 AM
+Last Edited: February 20, 2026 9:51 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Arcade, Castle, Floating Island, Obstacle Course, Theatre
-Characters: Eyeball Creature, Misc People
 
 # Description
 

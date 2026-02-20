@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: August 17, 2024
-Last Edited: December 13, 2025 12:51 AM
+Last Edited: February 20, 2026 9:47 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Harbour, Suburb, Volcano
-Characters: Black Creature, Explorers
 Influences: Lost Rooms (2022) (Roblox)
 
 # Description

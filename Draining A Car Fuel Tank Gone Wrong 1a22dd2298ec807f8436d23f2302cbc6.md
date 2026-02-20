@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 28, 2021
-Last Edited: December 12, 2025 9:25 PM
+Last Edited: February 20, 2026 11:28 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Family
 Influences: MythBusters (2003)
+Real/Media Characters: Family
 
 # Description
 

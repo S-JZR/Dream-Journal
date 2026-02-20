@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: May 7, 2021
-Last Edited: December 12, 2025 9:27 PM
+Last Edited: February 20, 2026 9:42 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Highway, Hospital, TV Studio
-Characters: Misc People, Soldiers, Tentacle Creature
 Influences: Personal Experiences, Would I Lie To You? (2007)
 
 # Description

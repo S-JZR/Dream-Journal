@@ -6,7 +6,6 @@ Last Edited: December 12, 2025 5:40 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Void
 Influences: Christianity
 
 # Description

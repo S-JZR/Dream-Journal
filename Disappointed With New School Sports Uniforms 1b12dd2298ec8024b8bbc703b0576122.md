@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: March 8, 2025
-Last Edited: December 13, 2025 2:36 AM
+Last Edited: February 20, 2026 11:33 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Bus Stop, Primary School, Secondary School
-Characters: ? Levi's Brother, Bus Driver, Mrs Itsikson, Students
 Influences: Personal Experiences
+Real/Media Characters: ? Levi's Brother, Mrs Itsikson
 
 # Description
 

@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2017
-Last Edited: December 12, 2025 8:36 PM
+Last Edited: February 20, 2026 9:38 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Misc People
 Influences: Personal Experiences
 
 # Description

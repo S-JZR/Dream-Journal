@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: July 10, 2020
-Last Edited: February 12, 2026 6:20 PM
+Last Edited: February 20, 2026 11:25 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Shopping Mall
-Characters: Cashiers, Julien C, Misc People
+Real/Media Characters: Julien C
 
 # Description
 

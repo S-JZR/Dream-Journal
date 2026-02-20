@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: October 5, 2024
-Last Edited: December 13, 2025 12:59 AM
+Last Edited: February 20, 2026 11:31 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
-Locations: Primary School
-Characters: ? Indian Student, Students, Teachers
 Influences: Personal Experiences
+Real/Media Characters: ? Indian Student
 
 # Description
 

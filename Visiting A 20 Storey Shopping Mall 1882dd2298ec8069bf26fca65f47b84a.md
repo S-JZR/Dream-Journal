@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: January 25, 2020
-Last Edited: February 12, 2026 3:28 PM
+Last Edited: February 20, 2026 11:25 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Shopping Mall
-Characters: Family, Misc People
+Real/Media Characters: Family
 
 # Description
 

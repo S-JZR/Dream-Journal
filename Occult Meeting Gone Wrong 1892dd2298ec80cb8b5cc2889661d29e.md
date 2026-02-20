@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: September 25, 2024
-Last Edited: December 11, 2025 9:44 PM
+Last Edited: February 20, 2026 9:47 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Castle
-Characters: Criminals, Cult Members
 
 # Description
 

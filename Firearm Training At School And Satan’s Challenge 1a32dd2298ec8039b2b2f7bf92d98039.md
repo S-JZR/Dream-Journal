@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: February 11, 2025
-Last Edited: December 13, 2025 4:57 PM
+Last Edited: February 20, 2026 11:32 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Primary School, Studio
-Characters: Demons, Donald Trump, Satan, Students, Teachers
 Influences: News, Online Videos
+Real/Media Characters: Donald Trump, Satan
 
 # Description
 

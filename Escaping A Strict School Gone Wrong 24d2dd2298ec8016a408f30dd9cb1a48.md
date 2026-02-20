@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2018
-Last Edited: December 2, 2025 11:19 PM
+Last Edited: February 20, 2026 9:38 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home, Neighbourhood, Secondary School
-Characters: Robots, Students, Teachers
 
 # Description
 

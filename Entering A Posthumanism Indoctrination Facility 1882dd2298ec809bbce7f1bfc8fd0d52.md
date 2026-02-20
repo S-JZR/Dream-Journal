@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: January 1, 2017
-Last Edited: February 12, 2026 3:23 PM
+Last Edited: February 20, 2026 11:25 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Amphitheatre, Church
-Characters: Brooke A, Dictators, Misc People, Satan
 Influences: Christianity, Personal Experiences, Personal Thoughts
+Real/Media Characters: Brooke A, Satan
 
 # Description
 

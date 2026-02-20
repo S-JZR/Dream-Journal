@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2010
-Last Edited: December 12, 2025 5:15 PM
+Last Edited: February 20, 2026 11:22 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Spiders
 
 # Description
 

@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: March 17, 2024
-Last Edited: February 12, 2026 3:43 PM
+Last Edited: February 20, 2026 9:44 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Arcade, Home, Neighbourhood
-Characters: Aliens, Misc People
 Influences: As The Gods Will (2014), Squid Game (2021)
 
 # Description

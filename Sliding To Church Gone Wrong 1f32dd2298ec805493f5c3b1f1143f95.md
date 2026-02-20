@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 11, 2020
-Last Edited: December 14, 2025 11:37 PM
+Last Edited: February 20, 2026 9:40 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Embarrassment
-Locations: Church, Home, Neighbourhood
-Characters: Friends (Fake), Misc People
 
 # Description
 

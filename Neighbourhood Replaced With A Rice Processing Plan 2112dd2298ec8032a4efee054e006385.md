@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: January 1, 2014
-Last Edited: December 12, 2025 5:57 PM
+Last Edited: February 20, 2026 11:23 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Factory, Neighbourhood
-Characters: Neighbours (Fake), Owen Wilson
+Real/Media Characters: Owen Wilson
 
 # Description
 

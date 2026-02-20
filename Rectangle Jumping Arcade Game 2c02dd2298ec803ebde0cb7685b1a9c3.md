@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: September 2, 2024
-Last Edited: December 7, 2025 5:45 PM
+Last Edited: February 20, 2026 9:47 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Arcade
-Characters: Misc People
 
 # Description
 

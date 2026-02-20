@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: September 12, 2025
-Last Edited: February 15, 2026 11:04 PM
+Last Edited: February 20, 2026 10:04 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Carpark, Village
-Characters: Deers, Misc People
 Influences: 99 Nights In The Forest (2025) (Roblox), The Outlast Trials (2023)
 
 # Description

@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: August 3, 2024
-Last Edited: February 12, 2026 6:35 PM
+Last Edited: February 20, 2026 9:47 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
-Locations: Maze, Rural
-Characters: Misc People
 
 # Description
 

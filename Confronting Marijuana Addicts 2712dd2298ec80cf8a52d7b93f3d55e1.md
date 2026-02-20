@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: September 17, 2025
-Last Edited: December 23, 2025 3:39 AM
+Last Edited: February 20, 2026 10:04 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Building
-Characters: Misc People
 Influences: Personal Thoughts
 
 # Description

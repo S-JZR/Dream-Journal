@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: February 20, 2024
-Last Edited: December 3, 2025 5:52 PM
+Last Edited: February 20, 2026 9:44 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Neighbourhood
-Characters: Misc People
 
 # Description
 

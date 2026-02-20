@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 5, 2024
-Last Edited: December 11, 2025 6:15 PM
+Last Edited: February 20, 2026 11:49 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Zoo
-Characters: Mrs Tweedy, Police, Woody
 Influences: Chicken Run (2000)
+Real/Media Characters: Mrs Tweedy, Sheriff Woody
 
 # Description
 

@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: December 17, 2020
-Last Edited: December 19, 2025 6:32 PM
+Last Edited: February 20, 2026 11:26 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Amusement Park, Carpark, Shopping Mall
-Characters: Jimmy Neutron, Misc People, Musicians, Police, Tommy Pickles
 Influences: Rugrats (1991), The Adventures Of Jimmy Neutron Boy Genius (2002)
+Real/Media Characters: Jimmy Neutron, Tommy Pickles
 
 # Description
 

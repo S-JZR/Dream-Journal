@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 13, 2025
-Last Edited: February 16, 2026 2:41 AM
+Last Edited: February 20, 2026 9:50 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Earth, Virtual/Videogame
-Characters: Misc People, Soldiers
 Influences: Mini Empires (2022) (Roblox)
 
 # Description

@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2005
-Last Edited: February 12, 2026 4:44 PM
+Last Edited: February 20, 2026 10:08 PM
 Type: Pee Dream
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Ocean
-Characters: Fishes, Sharks
 
 # Description
 

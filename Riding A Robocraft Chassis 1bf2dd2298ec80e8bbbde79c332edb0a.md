@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: March 23, 2025
-Last Edited: December 13, 2025 2:45 AM
+Last Edited: February 20, 2026 9:52 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Room, Suburb, Virtual/Videogame
-Characters: Misc People
 Influences: Robocraft (2017)
 
 # Description

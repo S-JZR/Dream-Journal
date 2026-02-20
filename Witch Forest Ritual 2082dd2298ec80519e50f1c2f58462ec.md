@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2017
-Last Edited: February 16, 2026 3:24 AM
+Last Edited: February 20, 2026 9:38 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Forest
-Characters: Witch
 
 # Description
 

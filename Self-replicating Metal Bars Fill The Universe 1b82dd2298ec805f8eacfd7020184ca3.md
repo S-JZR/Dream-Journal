@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: January 1, 2017
-Last Edited: December 24, 2025 3:49 PM
+Last Edited: February 20, 2026 7:41 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Earth, Space
-Characters: Nanobots
 Influences: Personal Thoughts
 
 # Description

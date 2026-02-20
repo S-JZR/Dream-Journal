@@ -6,7 +6,6 @@ Last Edited: December 12, 2025 8:25 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Secondary School
 Influences: Personal Experiences
 
 # Description

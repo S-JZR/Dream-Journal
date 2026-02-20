@@ -2,11 +2,10 @@
 
 Favourite: No
 Date: October 17, 2024
-Last Edited: December 13, 2025 1:08 AM
+Last Edited: February 20, 2026 8:03 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Planet, Virtual/Videogame
 Influences: Agar.io (2015), Battleship Forever (2007), Planetoid 3 (2009) (GameMaker)
 
 # Description

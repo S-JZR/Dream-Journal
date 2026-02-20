@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: May 28, 2024
-Last Edited: December 13, 2025 12:34 AM
+Last Edited: February 20, 2026 11:30 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Factory, Festival, Train
-Characters: Family, Misc People
 Influences: Cart Ride (2008) (Roblox)
+Real/Media Characters: Family
 
 # Description
 

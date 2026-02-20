@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 14, 2025
-Last Edited: December 13, 2025 1:21 AM
+Last Edited: February 20, 2026 9:50 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Garage, Home
-Characters: Misc People
 
 # Description
 

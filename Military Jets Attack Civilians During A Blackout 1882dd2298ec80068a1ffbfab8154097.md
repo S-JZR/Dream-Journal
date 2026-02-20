@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: December 2, 2022
-Last Edited: December 29, 2025 1:24 AM
+Last Edited: February 20, 2026 9:42 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Military Base, Retail Strip, Supermarket
-Characters: Cashiers, Misc People, Soldiers
 
 # Description
 

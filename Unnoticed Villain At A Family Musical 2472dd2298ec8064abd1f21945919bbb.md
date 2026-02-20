@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: August 6, 2025
-Last Edited: December 12, 2025 2:41 AM
+Last Edited: February 20, 2026 11:35 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Church
-Characters: Actors, Family, Misc People
 Influences: Personal Experiences, Too Many Cooks (2014)
+Real/Media Characters: Family
 
 # Description
 

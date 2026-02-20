@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: August 6, 2025
-Last Edited: February 16, 2026 3:24 AM
+Last Edited: February 20, 2026 11:35 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Highway, Town
-Characters: Family, Robots, Workers
 Influences: Mad God (2021)
+Real/Media Characters: Family
 
 # Description
 

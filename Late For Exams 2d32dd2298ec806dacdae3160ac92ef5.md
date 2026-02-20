@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: November 29, 2025
-Last Edited: December 28, 2025 4:31 PM
+Last Edited: February 20, 2026 11:37 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home, Secondary School, Street Market
-Characters: Cashiers, Chefs, Family, Misc People
 Influences: Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

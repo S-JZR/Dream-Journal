@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 17, 2026
-Last Edited: February 12, 2026 4:34 PM
+Last Edited: February 20, 2026 10:06 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Arcade, City
-Characters: Misc People, Monsters
 
 # Description
 

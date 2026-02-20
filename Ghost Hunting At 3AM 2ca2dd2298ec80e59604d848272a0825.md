@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: November 26, 2024
-Last Edited: February 12, 2026 3:59 PM
+Last Edited: February 20, 2026 11:31 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Ghosts, Misc People, Tabitha
 Influences: Online Videos
+Real/Media Characters: Tabitha
 
 # Description
 

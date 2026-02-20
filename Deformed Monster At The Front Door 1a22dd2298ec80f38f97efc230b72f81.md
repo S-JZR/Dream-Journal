@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: June 19, 2024
-Last Edited: December 24, 2025 4:41 PM
+Last Edited: February 20, 2026 11:30 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Deformed Creature, Family, First Responders
 Influences: Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

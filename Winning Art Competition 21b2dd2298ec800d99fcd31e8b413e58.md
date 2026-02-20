@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: June 21, 2025
-Last Edited: December 13, 2025 3:43 AM
+Last Edited: February 20, 2026 11:34 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Secondary School
-Characters: Katherine P, Mrs Brown, Students, Teachers
 Influences: News, Personal Experiences
+Real/Media Characters: Katherine P, Mrs Brown
 
 # Description
 

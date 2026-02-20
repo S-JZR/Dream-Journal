@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: March 14, 2024
-Last Edited: February 12, 2026 3:41 PM
+Last Edited: February 20, 2026 11:29 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Family, Misc People, Tentacle Creature
 Influences: Christianity, The Shining (1980)
+Real/Media Characters: Family
 
 # Description
 

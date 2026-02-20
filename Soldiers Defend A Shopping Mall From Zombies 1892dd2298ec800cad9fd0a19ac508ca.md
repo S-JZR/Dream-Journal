@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: May 7, 2024
-Last Edited: February 12, 2026 3:53 PM
+Last Edited: February 20, 2026 9:46 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Rural, Shopping Mall
-Characters: Misc People, Robots, Soldiers, Zombies
 
 # Description
 

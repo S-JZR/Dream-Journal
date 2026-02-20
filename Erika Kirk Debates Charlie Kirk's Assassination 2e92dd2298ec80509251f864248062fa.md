@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 15, 2026
-Last Edited: February 12, 2026 4:33 PM
+Last Edited: February 20, 2026 11:38 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Building
-Characters: Erika Kirk, Misc People
 Influences: News
+Real/Media Characters: Erika Kirk
 
 # Description
 

@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: March 16, 2024
-Last Edited: December 12, 2025 10:38 PM
+Last Edited: February 20, 2026 9:44 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Bus Stop, Suburb
-Characters: Effigy Creature, Misc People
 
 # Description
 

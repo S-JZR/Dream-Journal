@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: May 26, 2025
-Last Edited: December 12, 2025 1:08 AM
+Last Edited: February 20, 2026 9:55 PM
 Type: Half-Asleep
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Room
-Characters: Robots
 
 # Description
 

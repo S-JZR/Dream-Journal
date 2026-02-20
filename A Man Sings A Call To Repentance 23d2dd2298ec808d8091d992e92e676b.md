@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: July 18, 2025
-Last Edited: December 13, 2025 3:55 AM
+Last Edited: February 20, 2026 10:02 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Suburb
-Characters: Misc People
 Influences: Mad God (2021)
 
 # Description

@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: December 9, 2020
-Last Edited: December 28, 2025 10:42 PM
+Last Edited: February 20, 2026 11:26 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Embarrassment
-Locations: Home, Neighbourhood
-Characters: Neighbours (Fake), PewDiePie
 Influences: Online Videos
+Real/Media Characters: PewDiePie
 
 # Description
 

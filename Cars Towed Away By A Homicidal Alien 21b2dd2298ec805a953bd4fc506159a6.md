@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: June 21, 2025
-Last Edited: February 16, 2026 2:32 AM
+Last Edited: February 20, 2026 11:34 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Bus Station, Secondary School
-Characters: Aliens, Family, Misc People, Police
 Influences: Christianity, Lilo And Stitch (2002)
+Real/Media Characters: Family
 
 # Description
 

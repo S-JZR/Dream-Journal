@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2017
-Last Edited: December 28, 2025 7:18 PM
+Last Edited: February 20, 2026 9:37 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Church, Heaven
-Characters: Misc People
 Influences: Christianity, Personal Experiences
 
 # Description

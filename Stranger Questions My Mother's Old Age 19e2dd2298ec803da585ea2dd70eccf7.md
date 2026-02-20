@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: February 15, 2025
-Last Edited: December 13, 2025 1:41 AM
+Last Edited: February 20, 2026 11:32 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Shopping Mall
-Characters: Family, Misc People
 Influences: Personal Thoughts
+Real/Media Characters: Family
 
 # Description
 

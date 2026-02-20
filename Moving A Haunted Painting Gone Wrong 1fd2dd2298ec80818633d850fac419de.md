@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: May 14, 2025
-Last Edited: February 15, 2026 10:56 PM
+Last Edited: February 20, 2026 9:55 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Art Gallery
-Characters: Ghosts, Staff
 Influences: The Anguished Man (n.d)
 
 # Description

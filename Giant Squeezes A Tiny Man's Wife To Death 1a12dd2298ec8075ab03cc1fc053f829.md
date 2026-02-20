@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2013
-Last Edited: December 13, 2025 6:47 PM
+Last Edited: February 20, 2026 9:36 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Room
-Characters: Giants, Misc People
 
 # Description
 

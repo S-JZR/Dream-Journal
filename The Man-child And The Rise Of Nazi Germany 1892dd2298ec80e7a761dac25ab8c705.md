@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: December 19, 2024
-Last Edited: February 12, 2026 4:02 PM
+Last Edited: February 20, 2026 11:31 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
-Locations: Farm, Home, Palace, Primary School, Shopping Mall, Town
-Characters: Julien C, Misc People, Nazis
 Influences: Christianity, Cool Runnings (1993), News, Personal Experiences, The Philosophy Book: Big Ideas Simply Explained (2017)
+Real/Media Characters: Julien C
 
 # Description
 

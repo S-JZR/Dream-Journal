@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: December 29, 2024
-Last Edited: December 13, 2025 1:17 AM
+Last Edited: February 20, 2026 9:49 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: City
-Characters: Disembodied Voice, Misc People
 Influences: Christianity
 
 # Description

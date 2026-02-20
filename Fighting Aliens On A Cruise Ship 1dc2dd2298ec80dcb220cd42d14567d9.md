@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: April 14, 2025
-Last Edited: December 13, 2025 2:56 AM
+Last Edited: February 20, 2026 11:33 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Cruise Ship
-Characters: Aliens, Misc People
 Influences: Left 4 Dead 2 (2009), Shadow The Hedgehog (2005)
 
 # Description

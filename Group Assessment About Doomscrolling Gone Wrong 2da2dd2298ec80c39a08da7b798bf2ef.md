@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: December 31, 2025
-Last Edited: February 12, 2026 4:30 PM
+Last Edited: February 20, 2026 10:06 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: University
-Characters: Students, Teachers
 Influences: Personal Experiences
 
 # Description

@@ -2,11 +2,10 @@
 
 Favourite: No
 Date: January 1, 2018
-Last Edited: December 11, 2025 3:28 PM
+Last Edited: February 20, 2026 7:53 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Home
 
 # Description
 

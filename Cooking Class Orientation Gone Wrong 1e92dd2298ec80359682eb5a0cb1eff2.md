@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: April 28, 2025
-Last Edited: December 13, 2025 4:52 PM
+Last Edited: February 20, 2026 9:54 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Cooking School, Ski Slope
-Characters: Chefs
 Influences: Hell's Kitchen (2005)
 
 # Description

@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: June 11, 2024
-Last Edited: December 11, 2025 7:13 PM
+Last Edited: February 20, 2026 11:30 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Home, Secondary School
-Characters: Family, Students, Teachers
 Influences: Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

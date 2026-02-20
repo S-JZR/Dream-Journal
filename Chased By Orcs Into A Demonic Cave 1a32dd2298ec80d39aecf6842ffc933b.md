@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: November 2, 2020
-Last Edited: December 18, 2025 7:44 PM
+Last Edited: February 20, 2026 9:40 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Cave
-Characters: Orcs
 Influences: Christianity, TY The Tasmanian Tiger 2 (2004), World Of Warcraft (2004)
 
 # Description

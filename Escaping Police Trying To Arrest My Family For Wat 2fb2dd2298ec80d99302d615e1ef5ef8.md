@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: February 2, 2026
-Last Edited: February 16, 2026 3:23 AM
+Last Edited: February 20, 2026 11:38 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home, Neighbourhood
-Characters: Dogs, Family, Police
 Influences: A Super Progressive Movie (2026), News
+Real/Media Characters: Family
 
 # Description
 

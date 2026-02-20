@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: December 11, 2024
-Last Edited: December 13, 2025 1:08 AM
+Last Edited: February 20, 2026 9:49 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: City, Highway, Police Station
-Characters: Mafia, Misc People, Police
 
 # Description
 

@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: January 19, 2024
-Last Edited: January 28, 2026 6:47 PM
+Last Edited: February 20, 2026 11:29 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
-Locations: Desert, Harbour, Lab, Military Base
-Characters: Jackie Chan, Refugees, Soldiers
+Real/Media Characters: Jackie Chan
 
 # Description
 

@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: April 16, 2025
-Last Edited: December 13, 2025 2:57 AM
+Last Edited: February 20, 2026 11:33 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Cruise Ship, Ocean, Park
-Characters: MacGyver, Misc People, Robots, Soldiers
 Influences: MacGyver (1985)
+Real/Media Characters: MacGyver
 
 # Description
 

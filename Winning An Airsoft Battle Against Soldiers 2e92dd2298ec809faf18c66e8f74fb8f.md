@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 15, 2026
-Last Edited: February 15, 2026 10:43 PM
+Last Edited: February 20, 2026 10:06 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Field, Military Base
-Characters: Misc People, Soldiers
 
 # Description
 

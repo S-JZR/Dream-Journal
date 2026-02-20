@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: March 24, 2017
-Last Edited: February 12, 2026 4:53 PM
+Last Edited: February 20, 2026 11:25 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Void
-Characters: Family
 Influences: Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

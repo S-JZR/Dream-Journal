@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 1, 2005
-Last Edited: December 13, 2025 5:21 PM
+Last Edited: February 20, 2026 11:22 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Gromit
 Influences: Wallace And Gromit: The Curse Of The Were-Rabbit (2005)
+Real/Media Characters: Gromit
 
 # Description
 

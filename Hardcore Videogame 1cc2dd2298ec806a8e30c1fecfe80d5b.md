@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: April 4, 2025
-Last Edited: December 13, 2025 6:52 PM
+Last Edited: February 20, 2026 11:33 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Beach, Cave, City, Room, Virtual/Videogame
-Characters: Dogs, Fishes, Nazis, Robots, Security Guards, Vanoss Crew, Werewolf
 Influences: Online Videos, Team Fortress 2 (2007)
+Real/Media Characters: Vanoss Crew
 
 # Description
 

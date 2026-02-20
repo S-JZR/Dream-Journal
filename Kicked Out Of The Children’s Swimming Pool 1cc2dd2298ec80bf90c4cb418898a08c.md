@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: April 1, 2025
-Last Edited: December 12, 2025 1:35 AM
+Last Edited: February 20, 2026 9:52 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Primary School, Swimming Pool
-Characters: Students, Teachers
 Influences: Mr Bean (1990), Personal Experiences
 
 # Description

@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: March 17, 2024
-Last Edited: December 8, 2025 12:21 AM
+Last Edited: February 20, 2026 9:44 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: City
-Characters: Criminals, Friends (Fake), Misc People
 
 # Description
 

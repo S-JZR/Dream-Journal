@@ -2,11 +2,10 @@
 
 Favourite: Yes
 Date: May 27, 2025
-Last Edited: February 16, 2026 2:49 AM
+Last Edited: February 20, 2026 6:47 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Virtual/Videogame
 Influences: Personal Experiences, Personal Thoughts, Road Trip Adventure (2002)
 
 # Description

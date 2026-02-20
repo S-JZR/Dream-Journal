@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: November 26, 2024
-Last Edited: February 15, 2026 9:55 PM
+Last Edited: February 20, 2026 11:31 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Facility
-Characters: Dejan C, MatPat, Misc People
 Influences: Online Videos, Squid Game (2021)
+Real/Media Characters: Dejan C
 
 # Description
 

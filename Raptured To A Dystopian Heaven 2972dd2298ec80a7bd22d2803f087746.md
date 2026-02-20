@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 1, 2017
-Last Edited: February 15, 2026 9:19 PM
+Last Edited: February 20, 2026 11:25 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Heaven
-Characters: Family, Misc People
 Influences: Christianity, Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

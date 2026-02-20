@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: January 15, 2025
-Last Edited: December 13, 2025 1:26 AM
+Last Edited: February 20, 2026 11:31 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Hell, Train Station
-Characters: Criminals, Mafia, Misc People, Pilots, Saxton Hale
 Influences: Team Fortress 2 (2007)
+Real/Media Characters: Saxton Hale
 
 # Description
 

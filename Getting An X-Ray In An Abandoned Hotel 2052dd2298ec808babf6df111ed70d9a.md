@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: May 29, 2025
-Last Edited: December 12, 2025 1:21 AM
+Last Edited: February 20, 2026 11:34 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Carpark, Hotel
-Characters: Family, Misc People
 Influences: Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

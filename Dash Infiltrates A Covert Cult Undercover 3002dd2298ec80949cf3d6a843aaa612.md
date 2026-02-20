@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: February 8, 2026
-Last Edited: February 16, 2026 3:00 AM
+Last Edited: February 20, 2026 10:07 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Hall
-Characters: Criminals, Superheroes
 Influences: Metal Arms Glitch In The System (2003), The Incredibles 2 (2018)
 
 # Description

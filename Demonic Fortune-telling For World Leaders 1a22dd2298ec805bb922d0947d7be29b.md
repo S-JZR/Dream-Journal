@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: September 19, 2023
-Last Edited: December 11, 2025 5:25 PM
+Last Edited: February 20, 2026 9:43 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Room
-Characters: Demons, World Leaders
 Influences: Personal Experiences
 
 # Description

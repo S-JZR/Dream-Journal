@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 1, 2017
-Last Edited: December 12, 2025 8:30 PM
+Last Edited: February 20, 2026 11:24 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Family
 Influences: Indiana Jones And The Kingdom Of The Crystal Skull (2008)
+Real/Media Characters: Family
 
 # Description
 

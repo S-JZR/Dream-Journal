@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: August 6, 2025
-Last Edited: December 6, 2025 4:30 AM
+Last Edited: February 20, 2026 11:35 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Carpark
-Characters: Family, Misc People
+Real/Media Characters: Family
 
 # Description
 

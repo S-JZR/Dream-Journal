@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: May 7, 2024
-Last Edited: December 11, 2025 7:11 PM
+Last Edited: February 20, 2026 9:46 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Island, Virtual/Videogame
-Characters: Soldiers
 Influences: Beyond All Reason (2019)
 
 # Description

@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: November 4, 2025
-Last Edited: February 12, 2026 4:26 PM
+Last Edited: February 20, 2026 10:05 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
-Locations: Home
-Characters: Criminals, Taxi Driver
 
 # Description
 

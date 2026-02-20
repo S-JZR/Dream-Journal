@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: August 24, 2025
-Last Edited: December 12, 2025 3:30 AM
+Last Edited: February 20, 2026 10:03 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Building, Field, Virtual/Videogame
-Characters: Misc People, Zombies
 Influences: Fortnite (2017), Team Fortress 2 (2007)
 
 # Description

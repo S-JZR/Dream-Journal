@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: June 5, 2025
-Last Edited: February 15, 2026 10:25 PM
+Last Edited: February 20, 2026 9:55 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Hydroelectric Power Plant
-Characters: Workers
 Influences: Personal Experiences
 
 # Description

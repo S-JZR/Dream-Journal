@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: July 29, 2025
-Last Edited: January 28, 2026 6:52 PM
+Last Edited: February 20, 2026 11:35 PM
 Type: Normal
 Age Rating: NSFW
 Main Emotion: Surprise
-Locations: Home
-Characters: Family, Prostitute
 Influences: Online Videos, Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

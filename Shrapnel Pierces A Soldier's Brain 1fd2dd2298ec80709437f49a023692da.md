@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2016
-Last Edited: December 12, 2025 8:20 PM
+Last Edited: February 20, 2026 9:37 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Shed
-Characters: Soldiers
 Influences: Personal Experiences
 
 # Description

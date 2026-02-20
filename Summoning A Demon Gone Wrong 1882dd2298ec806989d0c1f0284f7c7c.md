@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: February 6, 2023
-Last Edited: February 15, 2026 9:39 PM
+Last Edited: February 20, 2026 11:28 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
-Locations: Bus Station, City, Secondary School, Suburb
-Characters: Dejan C, Demons, Feminist, Ghosts, Goth, Julien C, Michael C, Misc People, Sam And Colby, Satanist, Soldiers, Students, Wolves
 Influences: Online Videos, Personal Experiences
+Real/Media Characters: Dejan C, Julien C, Michael C, Sam And Colby
 
 # Description
 

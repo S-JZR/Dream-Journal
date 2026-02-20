@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: February 12, 2014
-Last Edited: December 13, 2025 6:48 PM
+Last Edited: February 20, 2026 11:23 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Planet
-Characters: Glitch
 Influences: Metal Arms Glitch In The System (2003), Online Videos
+Real/Media Characters: Glitch
 
 # Description
 

@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: September 2, 2024
-Last Edited: February 12, 2026 3:58 PM
+Last Edited: February 20, 2026 9:47 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Hotel
-Characters: Misc People, Statue Creature, Vine Creature
 Influences: Doors (2021) (Roblox), Lost Rooms (2022) (Roblox), Skibidi Toilet (2023)
 
 # Description

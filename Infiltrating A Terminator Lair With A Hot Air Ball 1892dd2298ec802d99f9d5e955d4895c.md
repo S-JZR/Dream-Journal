@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 3, 2024
-Last Edited: February 16, 2026 3:05 AM
+Last Edited: February 20, 2026 9:43 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Facility, Suburb
-Characters: Friends (Fake), Misc People, Robots
 Influences: Robots (2005), Siren Head (2018), Terminator (1984)
 
 # Description

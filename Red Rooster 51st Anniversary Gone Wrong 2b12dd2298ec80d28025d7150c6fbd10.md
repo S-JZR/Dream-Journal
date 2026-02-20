@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: November 20, 2025
-Last Edited: February 12, 2026 6:47 PM
+Last Edited: February 20, 2026 11:37 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Fast-food Restaurant
-Characters: Family, Fast Food Workers, Misc People
+Real/Media Characters: Family
 
 # Description
 

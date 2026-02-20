@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: February 16, 2024
-Last Edited: December 12, 2025 10:28 PM
+Last Edited: February 20, 2026 9:44 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
-Locations: House
-Characters: Ghosts, Misc People
 
 # Description
 

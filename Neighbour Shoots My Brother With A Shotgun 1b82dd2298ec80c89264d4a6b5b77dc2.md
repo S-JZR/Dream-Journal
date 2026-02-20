@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 1, 2016
-Last Edited: February 16, 2026 3:23 AM
+Last Edited: February 20, 2026 11:23 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Family, Neighbours
 Influences: Personal Experiences
+Real/Media Characters: ? Neighbour, Family
 
 # Description
 

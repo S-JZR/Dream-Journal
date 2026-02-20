@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: May 1, 2025
-Last Edited: December 4, 2025 10:14 PM
+Last Edited: February 20, 2026 9:55 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Primary School
-Characters: Students, Teachers
 
 # Description
 

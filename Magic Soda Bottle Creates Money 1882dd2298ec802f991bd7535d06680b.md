@@ -2,11 +2,10 @@
 
 Favourite: No
 Date: January 1, 2010
-Last Edited: December 10, 2025 1:15 AM
+Last Edited: February 20, 2026 7:53 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Home
 
 # Description
 

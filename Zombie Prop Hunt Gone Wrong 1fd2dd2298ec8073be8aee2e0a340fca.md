@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: May 22, 2025
-Last Edited: December 13, 2025 3:30 AM
+Last Edited: February 20, 2026 9:55 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Spaceship Hangar, Virtual/Videogame
-Characters: Misc People, Zombies
 Influences: Team Fortress 2 (2007)
 
 # Description

@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: May 23, 2025
-Last Edited: February 16, 2026 2:49 AM
+Last Edited: February 20, 2026 9:55 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
-Locations: Field
-Characters: Misc People
 Influences: God Has A Wonderful Plan For Your Life (2010), News, Personal Thoughts
 
 # Description

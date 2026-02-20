@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: December 3, 2025
-Last Edited: February 15, 2026 10:36 PM
+Last Edited: February 20, 2026 10:06 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Sports Club
-Characters: Misc People, Staff
 Influences: Personal Experiences, Radio
 
 # Description

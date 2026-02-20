@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: July 5, 2024
-Last Edited: December 13, 2025 12:38 AM
+Last Edited: February 20, 2026 9:47 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Hotel
-Characters: Criminals, Explorers, Ghosts
 Influences: The Pilgrim's Progress (1678)
 
 # Description

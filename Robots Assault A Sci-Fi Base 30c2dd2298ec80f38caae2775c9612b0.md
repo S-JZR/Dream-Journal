@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2015
-Last Edited: February 19, 2026 6:21 PM
+Last Edited: February 20, 2026 9:37 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Forest
-Characters: Robots
 Influences: Personal Experiences
 
 <aside>

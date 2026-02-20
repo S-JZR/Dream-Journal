@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: February 4, 2025
-Last Edited: December 13, 2025 1:30 AM
+Last Edited: February 20, 2026 9:50 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Shopping Mall, Suburb
-Characters: Friends (Fake)
 
 # Description
 

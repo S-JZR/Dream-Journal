@@ -2,12 +2,11 @@
 
 Favourite: Yes
 Date: July 6, 2024
-Last Edited: January 17, 2026 9:45 PM
+Last Edited: February 20, 2026 11:30 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Secondary School
-Characters: Family, Misc People
+Real/Media Characters: Family
 
 # Description
 

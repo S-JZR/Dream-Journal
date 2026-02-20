@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 28, 2021
-Last Edited: December 12, 2025 9:26 PM
+Last Edited: February 20, 2026 9:42 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Fortress
-Characters: Robots, Soldiers
 Influences: Overwatch (2016), Team Fortress 2 (2007)
 
 # Description

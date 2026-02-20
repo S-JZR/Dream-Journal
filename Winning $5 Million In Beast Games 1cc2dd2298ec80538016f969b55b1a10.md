@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: April 1, 2025
-Last Edited: December 22, 2025 3:37 PM
+Last Edited: February 20, 2026 11:33 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Room, Theatre
-Characters: Misc People, MrBeast
 Influences: Online Videos
+Real/Media Characters: MrBeast
 
 # Description
 

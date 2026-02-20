@@ -2,11 +2,10 @@
 
 Favourite: No
 Date: April 19, 2024
-Last Edited: December 12, 2025 11:02 PM
+Last Edited: February 20, 2026 7:53 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
 Influences: Personal Thoughts
 
 # Description

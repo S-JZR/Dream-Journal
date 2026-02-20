@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: August 26, 2025
-Last Edited: February 15, 2026 10:33 PM
+Last Edited: February 20, 2026 11:35 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Hotel, Obstacle Course
-Characters: Family, Misc People, Mistletoebird
 Influences: Minecraft (2009), Team Fortress 2 (2007)
+Real/Media Characters: Family
 
 # Description
 

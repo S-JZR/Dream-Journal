@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: April 16, 2025
-Last Edited: December 13, 2025 2:57 AM
+Last Edited: February 20, 2026 11:33 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Building, Carpark, Shopping Mall
-Characters: Bearded Dragon, Family, Misc People, Zombies
+Real/Media Characters: Family
 
 # Description
 

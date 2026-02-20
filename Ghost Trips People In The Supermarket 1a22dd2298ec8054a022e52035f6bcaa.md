@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: December 17, 2020
-Last Edited: December 7, 2025 6:50 PM
+Last Edited: February 20, 2026 9:41 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Supermarket
-Characters: Ghosts, Misc People
 
 # Description
 

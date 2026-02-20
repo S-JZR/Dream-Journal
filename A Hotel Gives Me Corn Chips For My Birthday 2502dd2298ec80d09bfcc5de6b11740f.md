@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 1, 2025
-Last Edited: December 13, 2025 1:18 AM
+Last Edited: February 20, 2026 11:31 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Hotel
-Characters: Family, Misc People
 Influences: Personal Experiences
+Real/Media Characters: Family
 
 # Description
 

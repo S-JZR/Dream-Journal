@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: July 18, 2024
-Last Edited: February 12, 2026 6:34 PM
+Last Edited: February 20, 2026 9:47 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Automobile Repair Shop, Home, Neighbourhood, Recruitment Centre
-Characters: Mechanics, Misc People, Soldiers
 Influences: Mr Bean (1990), Online Videos, Personal Experiences
 
 # Description

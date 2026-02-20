@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: April 4, 2024
-Last Edited: November 29, 2025 7:13 PM
+Last Edited: February 20, 2026 9:45 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Primary School
-Characters: Pilots, TV Presenters
 
 # Description
 

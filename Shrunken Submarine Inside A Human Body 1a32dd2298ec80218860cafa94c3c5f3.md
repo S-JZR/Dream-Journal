@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 16, 2024
-Last Edited: December 11, 2025 6:16 PM
+Last Edited: February 20, 2026 9:43 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Body
-Characters: Misc People
 Influences: Innerspace (1987)
 
 # Description

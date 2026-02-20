@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: February 11, 2025
-Last Edited: December 13, 2025 6:57 PM
+Last Edited: February 20, 2026 11:32 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Home, Island
-Characters: Criminals, Logan Paul, MrBeast, Police
+Real/Media Characters: Logan Paul, MrBeast
 
 # Description
 

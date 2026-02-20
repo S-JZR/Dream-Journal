@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: July 10, 2020
-Last Edited: December 23, 2025 11:12 PM
+Last Edited: February 20, 2026 11:25 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Cafe
-Characters: Julien C, Misc People
 Influences: Christianity, Personal Thoughts
+Real/Media Characters: Julien C
 
 # Description
 

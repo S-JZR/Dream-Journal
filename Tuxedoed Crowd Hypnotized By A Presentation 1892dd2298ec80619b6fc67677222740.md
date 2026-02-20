@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: July 7, 2024
-Last Edited: December 13, 2025 12:43 AM
+Last Edited: February 20, 2026 9:47 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: City
-Characters: Misc People
 Influences: Commercials, The Library Of Babel (1941)
 
 # Description

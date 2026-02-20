@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 1, 2017
-Last Edited: February 12, 2026 3:22 PM
+Last Edited: February 20, 2026 11:24 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Void
-Characters: God (Abrahamic)
 Influences: Personal Experiences
+Real/Media Characters: God (Christianity)
 
 # Description
 

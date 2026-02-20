@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: August 8, 2025
-Last Edited: February 15, 2026 10:32 PM
+Last Edited: February 20, 2026 10:03 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Room, TV Studio
-Characters: Godzilla-like Creature
 Influences: Godzilla (1954), Sheep Dog 'n' Wolf (2001)
 
 # Description
