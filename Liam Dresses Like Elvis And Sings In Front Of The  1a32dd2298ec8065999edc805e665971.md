@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: February 7, 2025
-Last Edited: December 13, 2025 1:36 AM
+Last Edited: February 20, 2026 11:31 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Secondary School
-Characters: Liam B, Students, Teachers
 Influences: News
+Real/Media Characters: Liam B
 
 # Description
 

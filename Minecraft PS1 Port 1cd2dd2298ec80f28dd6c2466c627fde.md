@@ -2,11 +2,10 @@
 
 Favourite: No
 Date: January 1, 2013
-Last Edited: December 12, 2025 5:19 PM
+Last Edited: February 20, 2026 6:47 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Virtual/Videogame
 Influences: Minecraft Xbox Edition (2012), Personal Thoughts
 
 # Description

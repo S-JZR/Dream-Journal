@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: November 23, 2020
-Last Edited: December 12, 2025 9:00 PM
+Last Edited: February 20, 2026 9:41 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Misc People, Soldiers, Velociraptor
 Influences: Jerry Andrus’s Dragon Illusion
 
 # Description

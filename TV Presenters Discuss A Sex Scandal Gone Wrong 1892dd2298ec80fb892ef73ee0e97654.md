@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: April 4, 2024
-Last Edited: December 12, 2025 10:44 PM
+Last Edited: February 20, 2026 9:45 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Island
-Characters: TV Presenters
 Influences: News
 
 # Description

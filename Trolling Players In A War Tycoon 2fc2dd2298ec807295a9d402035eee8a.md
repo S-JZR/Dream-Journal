@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: February 3, 2026
-Last Edited: February 12, 2026 4:43 PM
+Last Edited: February 20, 2026 10:07 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Island, Military Base
-Characters: Misc People
 Influences: Military Tycoon (2021)
 
 # Description

@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: April 26, 2025
-Last Edited: January 28, 2026 6:51 PM
+Last Edited: February 20, 2026 11:33 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Sad
-Locations: Banquet, Convenience Store, House, Lake, Police Station, Suburb
-Characters: Family (Fake), Fast Food Workers, Friends (Fake), Jesus, Misc People, Neighbours (Fake), Police
+Real/Media Characters: Jesus
 
 # Description
 

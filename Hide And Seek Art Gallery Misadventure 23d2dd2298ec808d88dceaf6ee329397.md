@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: July 19, 2025
-Last Edited: February 15, 2026 10:32 PM
+Last Edited: February 20, 2026 11:35 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Art Gallery, Secondary School
-Characters: ? Co Art Teacher, ? Indian Student, Students
 Influences: Personal Experiences
+Real/Media Characters: ? Co Art Teacher, ? Indian Student
 
 # Description
 

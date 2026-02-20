@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2014
-Last Edited: January 28, 2026 6:45 PM
+Last Edited: February 20, 2026 11:23 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
-Locations: Room
-Characters: Misc People
 Influences: Personal Thoughts, The Goodies (1970)
 
 # Description

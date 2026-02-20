@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: April 18, 2024
-Last Edited: December 12, 2025 10:51 PM
+Last Edited: February 20, 2026 11:29 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Secondary School
-Characters: Brooke A, Patrick M, Students, Teachers
 Influences: Personal Experiences
+Real/Media Characters: Brooke A, Patrick M
 
 # Description
 

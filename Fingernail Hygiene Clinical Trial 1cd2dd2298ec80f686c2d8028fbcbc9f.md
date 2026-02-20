@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2016
-Last Edited: December 10, 2025 2:25 AM
+Last Edited: February 20, 2026 9:37 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Clinical Trial Room
-Characters: Doctors, Misc People
 Influences: Personal Experiences
 
 # Description

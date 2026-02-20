@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: November 1, 2025
-Last Edited: December 22, 2025 8:29 PM
+Last Edited: February 20, 2026 10:05 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: City, Home, Music School
-Characters: Bus Driver, Horses, Students, Teachers
 Influences: Personal Experiences
 
 # Description

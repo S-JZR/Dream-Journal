@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: February 19, 2026
-Last Edited: February 19, 2026 6:20 PM
+Last Edited: February 20, 2026 11:38 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: City, University
-Characters: Effigy Creature, Michael C
+Real/Media Characters: Michael C
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

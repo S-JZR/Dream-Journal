@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: October 4, 2024
-Last Edited: December 13, 2025 12:57 AM
+Last Edited: February 20, 2026 9:48 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home, Neighbourhood
-Characters: Neighbours (Fake), Police
 
 # Description
 

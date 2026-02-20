@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2013
-Last Edited: December 25, 2025 3:12 AM
+Last Edited: February 20, 2026 9:37 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Ocean
-Characters: Misc People
 
 # Description
 

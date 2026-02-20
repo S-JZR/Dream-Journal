@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: July 10, 2020
-Last Edited: December 28, 2025 9:23 PM
+Last Edited: February 20, 2026 9:40 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: City, Forest, Virtual/Videogame
-Characters: Aliens, Spiders
 Influences: Spiderman (2002), Team Fortress 2 (2007)
 
 # Description

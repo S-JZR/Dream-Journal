@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: November 6, 2025
-Last Edited: December 5, 2025 2:27 AM
+Last Edited: February 20, 2026 10:05 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Warehouse
-Characters: Chefs, Students, Teachers
 
 # Description
 

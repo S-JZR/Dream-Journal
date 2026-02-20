@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: November 21, 2025
-Last Edited: December 28, 2025 5:44 PM
+Last Edited: February 20, 2026 10:05 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: City, River
-Characters: Students, Teachers
 Influences: Personal Experiences
 
 # Description

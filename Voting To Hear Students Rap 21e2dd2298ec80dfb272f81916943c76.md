@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: June 26, 2025
-Last Edited: December 13, 2025 3:46 AM
+Last Edited: February 20, 2026 9:55 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Hall
-Characters: Students, Teachers
 Influences: Personal Experiences
 
 # Description

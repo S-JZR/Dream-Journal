@@ -6,7 +6,6 @@ Last Edited: December 22, 2025 3:44 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Void
 Influences: Personal Thoughts
 
 # Description

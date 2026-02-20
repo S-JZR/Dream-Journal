@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: June 19, 2024
-Last Edited: January 28, 2026 6:48 PM
+Last Edited: February 20, 2026 9:47 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Fear
-Locations: Forest, Home, Police Station
-Characters: Criminals, Cyborgs, Misc People, Police
 Influences: Astro Boy (1963)
 
 # Description

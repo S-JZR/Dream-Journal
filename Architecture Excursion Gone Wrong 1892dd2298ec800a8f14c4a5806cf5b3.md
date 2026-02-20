@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: January 1, 2024
-Last Edited: February 12, 2026 3:39 PM
+Last Edited: February 20, 2026 11:28 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: City
-Characters: Alexander Armstrong, Students, Teachers
 Influences: News, Personal Experiences
+Real/Media Characters: Alexander Armstrong
 
 # Description
 

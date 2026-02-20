@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: January 1, 2017
-Last Edited: February 16, 2026 2:22 AM
+Last Edited: February 20, 2026 9:37 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: City, Void
-Characters: Inventor, Misc People
 Influences: Personal Thoughts
 
 # Description

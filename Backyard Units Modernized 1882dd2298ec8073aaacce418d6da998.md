@@ -2,11 +2,10 @@
 
 Favourite: Yes
 Date: January 1, 2014
-Last Edited: February 16, 2026 3:28 AM
+Last Edited: February 20, 2026 7:53 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Home
 Influences: Personal Experiences
 
 # Description

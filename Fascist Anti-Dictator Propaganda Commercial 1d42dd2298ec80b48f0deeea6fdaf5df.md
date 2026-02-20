@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: January 13, 2025
-Last Edited: February 16, 2026 2:39 AM
+Last Edited: February 20, 2026 9:49 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Anger
-Locations: City, Room
-Characters: Misc People, Soldiers
 Influences: Personal Thoughts
 
 # Description

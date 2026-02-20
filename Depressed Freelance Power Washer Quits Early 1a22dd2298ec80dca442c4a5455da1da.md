@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: December 17, 2020
-Last Edited: December 20, 2025 1:26 AM
+Last Edited: February 20, 2026 11:26 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Home
-Characters: Family, Misc People
+Real/Media Characters: Family
 
 # Description
 

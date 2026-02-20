@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 13, 2026
-Last Edited: February 12, 2026 4:32 PM
+Last Edited: February 20, 2026 11:38 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Church
-Characters: Family, IShowSpeed, Misc People
 Influences: Christianity, Online Videos, Personal Experiences
+Real/Media Characters: Family, IShowSpeed
 
 # Description
 

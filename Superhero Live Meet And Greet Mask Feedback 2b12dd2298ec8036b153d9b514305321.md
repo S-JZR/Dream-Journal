@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: April 18, 2024
-Last Edited: February 12, 2026 3:50 PM
+Last Edited: February 20, 2026 11:29 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Theatre
-Characters: Misc People, Willem Dafoe
 Influences: Spiderman (2002)
+Real/Media Characters: Willem Dafoe
 
 # Description
 

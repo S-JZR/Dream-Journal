@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: May 27, 2025
-Last Edited: December 13, 2025 3:36 AM
+Last Edited: February 20, 2026 9:55 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home, Secondary School
-Characters: Crocodiles, Deers, Men In Black, Misc People
 Influences: Online Videos
 
 # Description

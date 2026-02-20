@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2014
-Last Edited: December 24, 2025 4:43 PM
+Last Edited: February 20, 2026 9:37 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: City, Docks, Office, River, Shopping Mall
-Characters: Criminals, Misc People
 
 # Description
 

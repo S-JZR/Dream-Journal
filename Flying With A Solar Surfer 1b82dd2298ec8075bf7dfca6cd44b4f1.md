@@ -2,11 +2,10 @@
 
 Favourite: No
 Date: January 1, 2016
-Last Edited: December 12, 2025 6:34 PM
+Last Edited: February 20, 2026 7:53 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Home, Neighbourhood
 Influences: Personal Thoughts, Treasure Planet (2002)
 
 # Description

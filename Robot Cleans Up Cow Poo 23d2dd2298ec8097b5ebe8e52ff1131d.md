@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: July 18, 2025
-Last Edited: December 12, 2025 2:08 AM
+Last Edited: February 20, 2026 10:02 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Field, Suburb
-Characters: Robots
 Influences: Personal Thoughts
 
 # Description

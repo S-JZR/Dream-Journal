@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: November 2, 2020
-Last Edited: February 12, 2026 3:29 PM
+Last Edited: February 20, 2026 9:40 PM
 Type: Nightmare
 Age Rating: NSFW
 Main Emotion: Happy
-Locations: Primary School
-Characters: Criminals, Misc People, Soldiers
 Influences: SpongeBob SquarePants (1999)
 
 # Description

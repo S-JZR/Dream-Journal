@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: June 11, 2025
-Last Edited: February 15, 2026 10:27 PM
+Last Edited: February 20, 2026 9:55 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Mansion
-Characters: Cats, Ghosts
 Influences: Personal Experiences
 
 # Description

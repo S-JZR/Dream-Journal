@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: January 1, 2013
-Last Edited: December 13, 2025 5:02 PM
+Last Edited: February 20, 2026 11:22 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home
-Characters: Slenderman
 Influences: Slender: The Eight Pages (2012)
+Real/Media Characters: Slenderman
 
 # Description
 

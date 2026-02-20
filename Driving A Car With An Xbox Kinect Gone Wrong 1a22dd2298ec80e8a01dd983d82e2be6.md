@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: September 19, 2020
-Last Edited: February 12, 2026 3:29 PM
+Last Edited: February 20, 2026 9:40 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Embarrassment
-Locations: Suburb
-Characters: Misc People
 Influences: Personal Experiences
 
 # Description

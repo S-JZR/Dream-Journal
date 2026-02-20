@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: July 18, 2025
-Last Edited: December 24, 2025 4:11 PM
+Last Edited: February 20, 2026 11:35 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Suburb
-Characters: Alan Seawright, CaseOh, Jonathan Decker
 Influences: Online Videos, Personal Thoughts
+Real/Media Characters: Alan Seawright, CaseOh, Jonathan Decker
 
 # Description
 

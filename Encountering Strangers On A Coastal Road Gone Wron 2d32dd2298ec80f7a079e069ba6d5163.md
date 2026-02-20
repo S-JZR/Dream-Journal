@@ -2,12 +2,11 @@
 
 Favourite: Yes
 Date: November 15, 2025
-Last Edited: December 28, 2025 4:03 PM
+Last Edited: February 20, 2026 11:37 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Coastline, Forest
-Characters: Clowns, Family, Misc People
+Real/Media Characters: Family
 
 # Description
 

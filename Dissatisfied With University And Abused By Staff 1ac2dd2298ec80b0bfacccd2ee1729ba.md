@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: March 4, 2025
-Last Edited: February 15, 2026 10:00 PM
+Last Edited: February 20, 2026 11:32 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
-Locations: Arcade, Art Museum, Convenience Store, Fast-food Restaurant, Restaurant, Supermarket, University
-Characters: Cashiers, Dejan C, Fast Food Workers, Feminist, Misc People, Students, Teachers, Tom B
 Influences: News, Personal Experiences
+Real/Media Characters: Dejan C, Tom B
 
 # Description
 

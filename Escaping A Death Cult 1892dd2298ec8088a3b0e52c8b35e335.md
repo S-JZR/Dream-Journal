@@ -2,13 +2,12 @@
 
 Favourite: No
 Date: April 4, 2024
-Last Edited: January 21, 2026 5:36 PM
+Last Edited: February 20, 2026 11:29 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Secondary School, Suburb
-Characters: Family, God (Abrahamic), Misc People, Police, Students, Teachers
 Influences: History
+Real/Media Characters: Family, God (Christianity)
 
 # Description
 

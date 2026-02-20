@@ -2,12 +2,10 @@
 
 Favourite: Yes
 Date: January 16, 2024
-Last Edited: February 12, 2026 3:40 PM
+Last Edited: February 20, 2026 9:44 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Bold
-Locations: Carnival, Church, Suburb
-Characters: Criminals, Misc People, Police, Prostitute
 Influences: Online Videos
 
 # Description

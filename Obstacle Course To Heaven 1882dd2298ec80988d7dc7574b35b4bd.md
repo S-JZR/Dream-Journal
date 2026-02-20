@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2014
-Last Edited: December 28, 2025 6:42 PM
+Last Edited: February 20, 2026 9:37 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Heaven, Obstacle Course, Space
-Characters: Ghosts
 Influences: Christianity, Personal Experiences
 
 # Description

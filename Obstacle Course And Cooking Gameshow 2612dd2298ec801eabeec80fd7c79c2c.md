@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2016
-Last Edited: December 12, 2025 6:36 PM
+Last Edited: February 20, 2026 9:37 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Obstacle Course
-Characters: Misc People
 Influences: Total Wipeout (2009)
 
 # Description

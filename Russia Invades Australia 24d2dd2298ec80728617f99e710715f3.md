@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: August 12, 2025
-Last Edited: December 12, 2025 4:09 AM
+Last Edited: February 20, 2026 10:03 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: City, River
-Characters: Misc People
 Influences: News
 
 # Description

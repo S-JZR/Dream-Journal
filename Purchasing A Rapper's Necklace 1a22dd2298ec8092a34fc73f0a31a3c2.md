@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: April 4, 2024
-Last Edited: February 12, 2026 3:48 PM
+Last Edited: February 20, 2026 9:45 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Locations: Primary School
-Characters: Misc People, Musicians
 
 # Description
 

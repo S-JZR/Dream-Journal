@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: November 29, 2023
-Last Edited: February 15, 2026 9:37 PM
+Last Edited: February 20, 2026 9:43 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Facility, Hospital
-Characters: Cats, Doctors, Misc People, Robots, Wolves, Zombies
 Influences: Lethal Company (2023)
 
 # Description

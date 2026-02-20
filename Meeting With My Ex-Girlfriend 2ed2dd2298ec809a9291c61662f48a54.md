@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: January 19, 2026
-Last Edited: February 12, 2026 6:50 PM
+Last Edited: February 20, 2026 11:38 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Home, University
-Characters: Family, Friends (Fake)
+Real/Media Characters: Family
 
 # Description
 

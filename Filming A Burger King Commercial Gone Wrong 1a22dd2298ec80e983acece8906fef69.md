@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: September 19, 2023
-Last Edited: December 12, 2025 9:49 PM
+Last Edited: February 20, 2026 9:43 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Fast-food Restaurant
-Characters: Actors, Film Crew, Misc People
 Influences: Commercials
 
 # Description

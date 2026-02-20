@@ -6,7 +6,6 @@ Last Edited: December 12, 2025 5:56 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
-Locations: Office
 Influences: Personal Experiences
 
 # Description

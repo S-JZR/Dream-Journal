@@ -2,13 +2,12 @@
 
 Favourite: Yes
 Date: February 19, 2025
-Last Edited: February 15, 2026 9:59 PM
+Last Edited: February 20, 2026 11:32 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
-Locations: Chicken House, University
-Characters: Chickens, Mrs Brown, Students, Teachers
 Influences: Personal Experiences
+Real/Media Characters: Mrs Brown
 
 # Description
 

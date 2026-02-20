@@ -2,12 +2,11 @@
 
 Favourite: No
 Date: January 25, 2020
-Last Edited: February 12, 2026 3:27 PM
+Last Edited: February 20, 2026 11:25 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Church
-Characters: Family, Mannequin Creature, Misc People, Pastors
+Real/Media Characters: Family
 
 # Description
 

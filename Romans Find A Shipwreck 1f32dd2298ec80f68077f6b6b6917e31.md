@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 11, 2020
-Last Edited: December 12, 2025 8:47 PM
+Last Edited: February 20, 2026 9:40 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Coastline
-Characters: Romans
 
 # Description
 

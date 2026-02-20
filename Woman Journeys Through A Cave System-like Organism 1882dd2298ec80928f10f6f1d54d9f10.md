@@ -2,12 +2,10 @@
 
 Favourite: No
 Date: January 1, 2005
-Last Edited: December 28, 2025 6:06 PM
+Last Edited: February 20, 2026 9:36 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
-Locations: Body, Cave, Virtual/Videogame
-Characters: Explorers, Giant Organism
 
 # Description
 
