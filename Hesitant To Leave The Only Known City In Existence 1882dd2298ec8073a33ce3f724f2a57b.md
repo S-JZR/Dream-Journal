@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: January 1, 2017
-Last Edited: February 20, 2026 9:37 PM
+Last Edited: February 21, 2026 9:46 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -10,9 +10,28 @@ Influences: Personal Thoughts
 
 # Description
 
-I was standing in the only known city in existence surrounded by a black void when I grew tired of dwelling there and decided to explore the universe to see what else was in it. After walking for some time, I looked back at the city in the distance when it dawned on me that I risked leaving behind everything with no guarantee of finding anything. Opting to return, I recognised the opportunity to contribute towards creating infinite complexity within a central point as society continued to innovate. Everything I ever needed was already within reach.
+I was in a black void standing in the only known city in existence when I grew tired of living there and decided to explore the universe to see what else was in it. After walking for some time, I looked back at the city in the distance when I realized that I risked leaving everything behind with no guarantee of finding anything. Instead of travelling across infinite space hoping to find something new or reach the end to satisfy my preconceived notion of completion, I could contribute to creating infinite complexity within a central point as society continued to innovate. Everything I ever needed was already within reach.
 
-Upon entering a building, a group of children gathered around a woman showcasing her latest invention, a barcode designed to drastically expand the combination limit by engraving the entire surface with microscopic numbers. The barcode reflected different colours at various angles, akin to the colour-shifting hologram on a banknote. The youths were quick to dismiss the idea, unaware of its significance, but I proceeded to express sincere gratitude and marvelled at it, eliciting a subtle smile from her.
+I returned to the city and entered a building with a woman showcasing her latest invention to a group of children around her but they were disinterested because they didn't understand its significance.
+
+> **Woman**: This is my new barcode design that increases the total combinations by covering the entire surface with microscopic numbers.
+> 
+
+> **Me**: Can I have a look at the barcode?
+> 
+
+> **Woman**: Sure, here you go.
+> 
+
+I looked at the barcode close up and titled it to see that one side was an optically variable device that changed colours. I was overcome with amazement because we could go further into eternity without hitting boundaries and store more data in a single point.
+
+> **Me**: Wow this is incredible!
+> 
+
+> **Me**: This will completely change the world!
+> 
+
+She showed a subtle smile and the children had confused expressions over why I was obsessed with it.
 
 # Interpretations
 

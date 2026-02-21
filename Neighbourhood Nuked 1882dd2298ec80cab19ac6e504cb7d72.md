@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 1, 2017
-Last Edited: February 20, 2026 11:24 PM
+Last Edited: February 21, 2026 6:46 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -11,7 +11,18 @@ Real/Media Characters: Family
 
 # Description
 
-I was lying on the bunk bed upstairs in my room in my unit, peeking through the blinds, when I noticed a distant fireball descending from the sky and instinctively knew it was a nuclear missile. I turned around, yelling at my family dispersed throughout the house to get inside the fridge, thinking that the lead lining would shield the imminent blast like in Indiana Jones. Suddenly, a colossal explosion erupted, unleashing a blinding white light that engulfed everything. Amid desperate screams, only silence escaped from my mouth. After a brief pause, my voice returned, rapidly increasing in volume until it became unbearable.
+I was lying on the bunk bed upstairs in my room in my unit, peeking through the blinds, when I noticed a distant fireball descending from the sky and instinctively knew it was a nuclear missile. I turned around to yell at my family dispersed throughout the house.
+
+> **Me**: Get inside the fridge!
+> 
+
+I thought that the fridge would offer protection with the lead lining like in Indiana Jones. A colossal explosion engulfed everything in a blinding white light and I couldn't see anything. I screamed at the top of my voice but there was a temporary silence until it rapidly increased in volume to become unbearable.
+
+> **Me**: ...
+> 
+
+> **Me**: aaaaaAAAAAH!
+> 
 
 # Interpretations
 
@@ -28,3 +39,7 @@ I was lying on the bunk bed upstairs in my room in my unit, peeking through the 
 ## Lessons
 
 - N/A.
+
+# Post Dream
+
+- I jolted awake in fear.

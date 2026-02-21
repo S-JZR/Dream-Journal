@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: January 1, 2017
-Last Edited: February 20, 2026 11:25 PM
+Last Edited: February 21, 2026 5:31 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Surprise
@@ -21,7 +21,10 @@ I was standing outside a church with my family and other Christians when we were
 - floor:
     - cobblestone.
 
-My dad worried about all the DVDs our family had collected over time, realizing we couldn’t bring any to heaven and it was ultimately futile.
+My Dad started to realize we couldn’t bring anything to heaven with a worried expression and the time my parents spent collecting DVDs was ultimately futile.
+
+> **Dad**: But what about all the DVDs we collected?
+> 
 
 # Interpretations
 
