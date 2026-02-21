@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: January 1, 2017
-Last Edited: February 21, 2026 9:46 PM
+Last Edited: February 21, 2026 10:06 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -23,7 +23,7 @@ I returned to the city and entered a building with a woman showcasing her latest
 > **Woman**: Sure, here you go.
 > 
 
-I looked at the barcode close up and titled it to see that one side was an optically variable device that changed colours. I was overcome with amazement because we could go further into eternity without hitting boundaries and store more data in a single point.
+I looked at the barcode closely and titled it, noticing that one side was an optically variable device that changed colours. I was overcome with amazement because we could go further into eternity without hitting boundaries and store more data in a single point.
 
 > **Me**: Wow this is incredible!
 > 
