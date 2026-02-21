@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: January 1, 2017
-Last Edited: February 21, 2026 9:51 PM
+Last Edited: February 21, 2026 10:00 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -21,14 +21,14 @@ I was walking through the countryside with Michael and Dejan, friends from secon
 
 We returned to a part of the city and saw:
 
-- Left:
-    - Overpass leading outside the city with wooden crates scattered across it.
-- Forward:
-    - Dimensional rift outside the city revealing God seated on a throne illuminated by a golden aurora behind him. A giant frozen circular wooden and gold clock levitated to his right.
-    - Mountains.
-- Right:
-    - Tall demonic black obelisk with a female voice and a diamond-shaped block on top with a glowing red eye that emitted a white spotlight.
-    - Small apartment buildings.
+- left:
+    - overpass leading outside the city with wooden crates scattered across it
+- forward:
+    - dimensional rift outside the city revealing God seated on a throne illuminated by a golden aurora behind him. A giant frozen circular wooden and gold clock levitated to his right
+    - mountains
+- right:
+    - tall demonic black obelisk with a female voice and a diamond-shaped block on top with a glowing red eye that emitted a white spotlight
+    - small apartment buildings.
 
 What happened was that demons froze God in a time stasis to rule the world indefinitely. The obelisk acted as a taskmaster, monitoring everything and forcing everyone it saw, including us, to perform forced labour around it.
 
