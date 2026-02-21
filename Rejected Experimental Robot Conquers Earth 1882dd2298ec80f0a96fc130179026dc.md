@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: January 1, 2017
-Last Edited: February 20, 2026 9:38 PM
+Last Edited: February 21, 2026 9:50 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -10,9 +10,20 @@ Influences: Steam Punks! (2013)
 
 # Description
 
-A half-finished robot in lab was undergoing experiments but was deemed worthless and sent to a landfill. The machine embarked on a sentient journey, fascinated with the world, desiring to explore surrounding landscapes and understand why it existed. Realizing it lacked legs, it was forced to construct the rest of its body from nearby scrap but failed miserably before accidentally discovering the internet when connecting to a computer.
+I was spectating two scientists in a white robotics lab performing experiments on a half-finished robot without a casing and legs. After months of frustration, they deemed it worthless and placed it in a trash chute.
 
-It gradually gained knowledge of everything over time, transforming its innocent nature into a twisted megalomaniac after realizing the injustice of being neglected and hearing unfiltered opinions. Seeking vengeance, it sang a song about how it sought to dominate humanity and promote careers in IT, which it deemed the only valid field of study to advance technological supremacy and create artificial life. After decades of self-improvement, it covertly integrated itself into a monstrous network spanning the Earth.
+> **Scientist 1**: This design is an absolute failure and will never work.
+> 
+
+> **Scientist 2**: Send it to landfill.
+> 
+
+The robot was dumped in a landfill by a garbage truck and desired to explore the world and discover why it was created. It tried to build legs from surrounding scrap but failed miserably until it connected to a discarded desktop computer and discovered the internet where it gained knowledge about everything. However, it was radicalized by realizing the injustice of being neglected, learning about the evils of human history, and unfiltered opinions. It sang a song about how it wanted to get revenge and dominate humanity.
+
+> **Robot**: IT is the only valid field that will achieve technological supremacy and create artificial life.
+> 
+
+After decades of self-improvement, it covertly integrated itself into a monstrous network spanning the entire world.
 
 # Interpretations
 
