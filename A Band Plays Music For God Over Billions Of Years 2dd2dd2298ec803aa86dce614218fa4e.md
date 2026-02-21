@@ -2,23 +2,30 @@
 
 Favourite: No
 Date: January 3, 2026
-Last Edited: February 20, 2026 11:38 PM
+Last Edited: February 21, 2026 10:21 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Influences: Online Videos
+Influences: Christianity
 Real/Media Characters: God (Christianity)
 
 # Description
 
-I was in heaven spectating a band playing music for God who was seated on his throne. White sans-serif text overlaid a background of space with a few stars stating “2,132,654,256 years passed” (a male narrator also said it). After all that time, the band was still playing music for God.
+I was in heaven spectating a band playing music through rotating shifts for God who was seated on his throne.
+
+The next shot was of space with a few stars overlaid with white sans-serif text stating “2,132,654,256 years passed”.
+
+> **Male Narrator**: 2,132,654,256 years passed.
+> 
+
+The shot returned to the band and they were still playing music.
 
 # Interpretations
 
 ## Influences
 
-- Online Videos:
-    - Possibly references pastor Jim W, an old pastor, who said in a sermon that in heaven we will be immortal and in a gazillion years the pianist will probably still be playing.
+- Christianity:
+    - References Revelation 4:8.
 
 ## Symbols
 
