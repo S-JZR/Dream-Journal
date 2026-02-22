@@ -2,14 +2,26 @@
 
 Favourite: No
 Date: February 4, 2025
-Last Edited: February 20, 2026 9:50 PM
+Last Edited: February 22, 2026 11:47 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 
 # Description
 
-I was walking down a dirt path with some shrubbery on both sides, between suburbs and a shopping mall when a blackout occurred. A fictional friend called to warn me that China was invading Australia and had launched an attack that severely damaged the power grid nationwide. We spent the next few minutes debating how to handle the situation given that most technology had become useless.
+I was walking along a mowed dirt path in a grassy paddock, between houses, towards a shopping mall when a blackout occurred and a fictional male friend called me.
+
+> **Man**: I just heard on the news that China is invading Australia and launched an attack that severely damaged power grids nationwide.
+> 
+
+> **Me**: What do you think we should do?
+> 
+
+> **Man**: There is no easy way around it as most tech is useless now and people will probably panic.
+> 
+
+> **Man**: Meet me at my place as quick as you can and we can go from there.
+> 
 
 # Interpretations
 

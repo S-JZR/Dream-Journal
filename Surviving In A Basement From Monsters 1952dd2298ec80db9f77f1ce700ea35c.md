@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: February 7, 2025
-Last Edited: February 20, 2026 9:50 PM
+Last Edited: February 23, 2026 1:56 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
@@ -10,11 +10,33 @@ Influences: FNAF (2014), Monsterum (2015), Zathura (2005)
 
 # Description
 
-I was standing in the upstairs room of a random house with many fictional children and a middle-aged woman when a Zorgon spaceship from Zathura flew past the window and revealed cannons primed to fire. We quickly huddled into the dumbwaiter which slowly descended to the basement to avoid being injured by cannon balls penetrating the house and flying debris.
+I was standing in the upstairs room of a random house with many fictional children and a middle-aged woman when a Zorgon spaceship from Zathura flew past the window and revealed cannons primed to fire. We quickly huddled into the dumbwaiter and slowly descended into the basement to avoid being harmed.
 
-Upon reaching the basement, we exited into an office room with a VHS player and a few tapes so I inserted them and said to the woman "it's been a long time since I've used this device". The first tape showed pre-recorded CCTV footage of the hallway outside the room, resembling something from Monsterum, where a green monster roamed. A narrator explained that we needed to keep track of wandering threats and navigate stealthily between rooms. The second tape contained irrelevant information so I fast forwarded at x8 speed.
+> **Woman**: Quick, get to the dumbwaiter!
+> 
 
-In another downstairs room, I was near a vent when it began to rumble as a male ogre slowly crawled through it, so I pulled down a nearby lever to lower a metal sheet that forced him to divert as he yelled "you've got to be f***ing kidding me!" Since only one vent could be closed at a time, I released it and radioed my brother upstairs, warning him that an ogre was climbing vertically to his floor so he could prepare to shut it.
+We exited into an office room with a VHS player and tapes on the desk.
+
+> **Me**: It's been a long time since I've used one of these.
+> 
+
+I inserted a tape which showed pre-recorded CCTV footage of the hallway outside the room, resembling something from Monsterum, where a green monster roamed and a male narrator spoke.
+
+> **Man**: To whoever finds this tape, I must warn you about imminent dangers within the facility.
+> 
+
+> **Me**: Various creatures have broken in and are periodically roaming hallways and rooms.
+> 
+
+> **Man**: You will be need to keep track of them and navigate stealthily to stay safe.
+> 
+
+I travelled through the hallway to a downstairs room with an air vent but it started rumbling as a male ogre slowly crawled through it. I forced him to divert by pulling a lever to the right of the vent which lowered a metal sheet in front of it.
+
+> **Ogre**: You've got to be f***ing kidding me!
+> 
+
+Since only one vent could be closed at a time in the area, I released it and warmed my brother upstairs via a walkie talkie that the ogre was climbing vertically to his floor.
 
 # Interpretations
 
@@ -25,7 +47,7 @@ In another downstairs room, I was near a vent when it began to rumble as a male 
 - Monsterum:
     - References escaping monsters on a cargo ship and hallway designs.
 - FNAF:
-    - References watching monsters roam hallways and vents on security cameras.
+    - References watching monsters roam hallways and vents via security cameras and only being able to close a few at a time.
 
 ## Symbols
 
