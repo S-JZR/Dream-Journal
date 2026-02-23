@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: March 4, 2025
-Last Edited: February 20, 2026 11:32 PM
+Last Edited: February 24, 2026 1:34 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Anger
@@ -80,7 +80,16 @@ He was angry that I stood up for myself. While walking away into the underground
 
 After arriving at Subway, I walked behind the counter as staff let me look around while they worked. However, the previous cashier also worked there and entered through the front door carrying a stainless steel tray of meatballs. Upon seeing me, he threw a tantrum by hurling a few at customers and activated the fire alarm behind the counter. He walked towards the customers and yelled as the manager passively confronted him and briefly held his arms but he continued.
 
-> **Manager**: Stop!… Stop!… Stop!
+> 
+> 
+> 
+> **Manager**: Excuse me sir...
+> 
+
+> **Manager**: Excuse me ...
+> 
+
+> **Manager**: You need to stop!
 > 
 
 # Interpretations
