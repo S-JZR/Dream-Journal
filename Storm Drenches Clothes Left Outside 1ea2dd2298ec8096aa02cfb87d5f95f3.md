@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: April 7, 2025
-Last Edited: February 20, 2026 11:33 PM
+Last Edited: February 24, 2026 2:36 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -10,7 +10,23 @@ Real/Media Characters: Family
 
 # Description
 
-I was standing in the lounge room of my unit with my brother in the kitchen when my mum hung lots of clothes on fold-out metal lines in the backyard and frontyard. Before leaving, she warned us that a storm was approaching and we needed to bring the clothes in at a specific time to prevent them from getting drenched. However, after getting distracted talking with my brother in the kitchen, it began to rain heavily. I suddenly remembered we had forgotten to bring in the clothes and suggested we split up to gather them but they were completely soaked by the time we got them inside.
+I was standing in the kitchen in my unit with my brother when my mum hung lots of clothes on fold-out metal lines in the backyard and frontyard. She warned us about a storm before leaving.
+
+> **Mum**: A storm is approaching our area.
+> 
+
+> **Mum**: You both need to bring in the clothes by 3pm to stop them from getting wet.
+> 
+
+My brother and I got distracted talking to each other for hours when it started raining heavily and I remembered that we forgot about the clothes.
+
+> **Me**: We forgot to bring in the clothes!
+> 
+
+> **Me**: Quick, you do the backyard and I'll do the frontyard!
+> 
+
+The clothes were completely soaked by the time we got them inside.
 
 # Interpretations
 
@@ -24,4 +40,4 @@ I was standing in the lounge room of my unit with my brother in the kitchen when
 
 ## Lessons
 
-- Set reminders and do things when you’re told to avoid forgetting about them.
+- Set reminders and do things when you’re told to avoid forgetting them.

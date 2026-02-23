@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: April 1, 2025
-Last Edited: February 20, 2026 9:52 PM
+Last Edited: February 24, 2026 2:16 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Sad
@@ -10,11 +10,24 @@ Influences: Mr Bean (1990), Personal Experiences
 
 # Description
 
-I was wearing inflatable armbands and struggling to swim in the shallow end of the pool at my primary school with various children and a male teacher supervisor sitting on a foldout chair on the other side. I was casually practicing floating on my back and front without submerging my face.
+I was wearing inflatable armbands and struggling to swim in the shallow end of the pool at my primary school with various children and a male teacher supervisor sitting on a foldout chair on the other side. I was casually practicing floating on my back and front without submerging my face while two boys stood beside me.
 
-When questioning two children beside me about why might people think going underwater is scary they said it’s because nobody wants to experience the discomfort of breathing in water. However, I suggested that the root causes were the fear of blacking out and death.
+> **Me**: Why might people think going underwater is scary?
+> 
 
-After attempting to swim laps across the entire pool by weaving between densely packed rectangular groups of children, the supervisor noticed and instructed me to leave and move to the adult pool.
+> **Boys**: Because nobody wants to experience the discomfort of breathing in water.
+> 
+
+> **Me**: Perhaps the root cause is the fear of blacking out and death.
+> 
+
+I attempted to swim laps across the entire pool by weaving between densely packed rectangular groups of children but the supervisor noticed me.
+
+> **Man**: You are not allowed to be here!
+> 
+
+> **Man**: Move to the adult pool!
+> 
 
 # Interpretations
 
