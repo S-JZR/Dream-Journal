@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: February 15, 2025
-Last Edited: February 20, 2026 11:32 PM
+Last Edited: February 24, 2026 12:55 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
@@ -11,14 +11,28 @@ Real/Media Characters: Family
 
 # Description
 
-I was walking through a shopping mall hallway with my parents when a middle-age woman approached to ask how old my mother was. My mum had the same appearance but with completely grey hair. My mum claimed to be 90 years old. This greatly disturbed me, knowing she likely had only a few years left to live. Noticing my expression, my mother asked what was wrong and I replied "it feels so surreal that I find it difficult to believe”.
+I was walking through a shopping mall hallway with my parents when a middle-age woman approached us. My mum had the same appearance but with completely grey hair.
+
+> **Woman**: Excuse me, would you mind if I asked how old is your mother?
+> 
+
+> **Mum**: I am 90 years old.
+> 
+
+I felt greatly disturbed knowing she likely had only a few years left to live. My mum noticed my expression and spoke to me.
+
+> **Mum**: What is wrong?
+> 
+
+> **Me**: It feels so surreal that I find it difficult to believe.
+> 
 
 # Interpretations
 
 ## Influences
 
 - Personal Thoughts:
-    - I worry about my parents dying all the time.
+    - My mum’s hair is turning grey and I worry about my parents dying all the time.
 
 ## Symbols
 
