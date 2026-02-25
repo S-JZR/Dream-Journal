@@ -2,7 +2,7 @@
 
 Favourite: No
 Date: December 26, 2025
-Last Edited: February 20, 2026 11:38 PM
+Last Edited: February 26, 2026 2:11 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -10,9 +10,18 @@ Real/Media Characters: Family
 
 # Description
 
-I was seated in my mum’s car being driven by my mum with the windows rolled down along a narrow long path made of light grey pebbles elevated three metres off the ground in a grassland. Another woman was driving a car in front of us and dust clouds flew across the windshield which obscured my mum’s vision. I rolled up the windows to keep the dust out. Mum didn’t know where the edge of the path was or if there were potholes so she drove slowly.
+I was seated in my mum’s car being driven by my mum with the windows rolled down along a narrow long path made of light grey pebbles elevated three metres off the ground in a grassland. Another woman was driving a car in front of us and dust clouds flew across the windshield which obscured my mum’s vision. I rolled up the windows to keep the dust out. My mum didn’t know where the edge of the path was or if there were potholes so she drove slowly.
 
-After reaching the other side, we travelled left through a curved three metre deep narrow trench and deviated into a descending spiralling path to the right until we encountered the back of a buried car. We reversed back, I placed a caution sign in front of the path, and I wrote the reason why it was dangerous on it with a permanent marker. A male bystander drove past and asked if everything was ok and whether anyone was buried alive in the car but I said that I didn’t know.
+After reaching the other side, we travelled left through a curved three metre deep narrow trench and deviated into a descending spiralling path to the right until we encountered the back of a buried car. We reversed back, I placed a caution sign in front of the path, and I wrote the reason why it was dangerous on it with a permanent marker. A male bystander drove past and spoke to me.
+
+> **Man**: Is everything ok?
+> 
+
+> **Man**: Is someone buried alive in that car?
+> 
+
+> **Me**: I don’t know.
+> 
 
 # Interpretations
 

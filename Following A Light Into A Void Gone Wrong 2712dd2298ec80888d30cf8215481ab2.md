@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: September 17, 2025
-Last Edited: February 20, 2026 10:04 PM
+Last Edited: February 26, 2026 4:00 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
@@ -12,20 +12,26 @@ Influences: Personal Experiences, Personal Thoughts
 
 I was one of many passengers seated in a train carriage with a red interior and black carpet when we were captivated by a supernatural flashing light above distant mountains that illuminated the entire sky. I pulled out a thick polaroid camera and tried looking through the view finder but I could barely see anything because I couldn’t get my eye close enough for some reason.
 
-Everyone stayed aboard to keep watching the strange phenomenon. The train transformed into a commercial airliner flying through a narrow shallow valley. The pilot was growing weary from being blinded by the light each time it came into view over the valley. Another female pilot offered to takeover but he insisted he was alright.
+Everyone stayed aboard to keep watching the strange phenomenon. The train transformed into a commercial airliner flying through a narrow shallow valley. The pilot was growing weary from being blinded by the light each time it came into view over the valley. A female co-pilot entered from behind and noticed his condition.
 
-Everyone was teleported into an alternative dimension featuring a white void and we decided to stay there for as long as possible to see what would happen next. However, a week passed without anyone noticing and while lying on the floor I fell into a psychosis where I drifted in and out of consciousness and had a vision of how things truly were. The floor was covered in pink goo and I saw myself standing silently with a sorrowful expression as it dripped from my open mouth before I melted into the floor. A disembodied male voice spoke to me.
+> **Woman**: Would you like me to take over?
+> 
 
-> **Man**: Is it necessary to stay here?
+> **Man 1**: No thanks, I'm quite alright.
+> 
+
+Everyone was teleported into an alternative dimension featuring a white void and we decided to stay there for as long as possible to see what would happen next. However, a week passed without anyone noticing and while lying on the floor I fell into a psychosis where I drifted in and out of consciousness and had a vision of how things truly were. The floor was covered in pink goo and I spectated myself standing silently with an exhausted sorrowful expression, a slightly open mouth, staring back. Goo started dripping from their mouth and they melted into the floor. A disembodied male voice spoke to me.
+
+> **Man 2**: Is it necessary to stay here?
 > 
 
 > **Me**: No.
 > 
 
-> **Man**: Run kid!
+> **Man 2**: Run kid!
 > 
 
-> **Man**: You already have one foot in the fire!
+> **Man 2**: You already have one foot in the fire!
 > 
 
 I was overcome with dread and sprinted away into the distance.
