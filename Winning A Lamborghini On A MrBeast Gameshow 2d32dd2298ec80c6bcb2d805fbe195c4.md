@@ -2,7 +2,7 @@
 
 Favourite: Yes
 Date: December 12, 2025
-Last Edited: February 20, 2026 11:38 PM
+Last Edited: February 26, 2026 2:57 AM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
@@ -11,9 +11,27 @@ Real/Media Characters: MrBeast
 
 # Description
 
-I was one of many contestants on a MrBeast gameshow standing in front of a wooden post-and-panel sign listing many prizes in a warehouse. Everyone was assigned into teams of two and I was paired with another man. MrBeast explained on a microphone that two teams would choose the same prize to compete for but each had a unique challenge that increased in difficulty with the value of the prize.
+I was one of many contestants on a MrBeast gameshow in a warehouse standing in front of a wooden post-and-panel sign listing many prizes. Everyone was assigned into teams of two to compete. I was paired with a man competing against two women. MrBeast spoke to us via a microphone.
 
-A team of women and my team chose to compete for a $1 million Lamborghini, laid down on a circular fake grass mat, and held down a red push button in the centre to see who would be the last to let go. My teammate immediately stood up and carried the button away so the opponents weren’t touching it anymore as they looked shocked. The camera cut to Jimmy holding the microphone and starring with a blank expression of disbelief accompanied by a vine boom sound effect. That was considered valid and we won the car.
+> **MrBeast**: Each pair of teams will choose the same prize to compete for.
+> 
+
+> **MrBeast**: But each challenge will be harder for more valuable prizes.
+> 
+
+> **MrBeast**: Have you all come to an agreement?
+> 
+
+> **Teams**: We will compete for the $1 million Lamborghini.
+> 
+
+We all laid down on a circular fake grass mat and held down a red push button in the centre to see who would let go last. My teammate immediately stood up and carried the button away so the opponents weren’t touching it anymore as they looked shocked. The camera cut to Jimmy holding the microphone and starring with a blank expression of disbelief accompanied by a vine boom sound effect.
+
+> **MrBeast**: I can't believe you just ended that so quickly.
+> 
+
+> **MrBeast**: Well congratulations you have just won a brand new Lamborghini!
+> 
 
 # Interpretations
 
