@@ -2,11 +2,11 @@
 
 Favourite: No
 Date: February 7, 2025
-Last Edited: February 23, 2026 1:56 AM
+Last Edited: March 11, 2026 4:32 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Fear
-Influences: FNAF (2014), Monsterum (2015), Zathura (2005)
+Influences: Five Nights At Freddy's (2014), Monsterum (2015), Zathura (2005)
 
 # Description
 
