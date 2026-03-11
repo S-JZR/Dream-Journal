@@ -2,11 +2,11 @@
 
 Favourite: No
 Date: July 2, 2025
-Last Edited: February 20, 2026 11:34 PM
+Last Edited: March 11, 2026 4:32 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
-Influences: FNAF: Secret Of The Mimic (2025), Mad God (2021), Meet The Robinsons (2007), Minecraft (2009), The Conquerors 3 (2009) (Roblox)
+Influences: Five Nights At Freddy's: Secret Of The Mimic (2025), Mad God (2021), Meet The Robinsons (2007), Minecraft (2009), The Conquerors 3 (2009) (Roblox)
 Real/Media Characters: Bowler Hat Guy, DOR-15
 
 # Description
