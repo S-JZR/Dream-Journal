@@ -2,12 +2,12 @@
 
 Favourite: No
 Date: March 6, 2026
-Last Edited: March 6, 2026 5:48 PM
+Last Edited: March 20, 2026 1:33 AM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Influences: Doors (2021) (Roblox)
-Real/Media Characters: Ruth R, Sheriff Woody
+Real/Media Characters: Ruth K, Sheriff Woody
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
