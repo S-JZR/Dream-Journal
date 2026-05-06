@@ -2,11 +2,18 @@
 
 Favourite: No
 Date: February 7, 2026
-Last Edited: February 20, 2026 10:07 PM
+Last Edited: May 3, 2026 5:17 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Surprise
 Influences: Genie 3 (2025), The Elevator (2018) (Roblox)
+
+<aside>
+<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+
+Needs editing.
+
+</aside>
 
 # Description
 

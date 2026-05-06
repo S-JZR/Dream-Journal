@@ -2,12 +2,19 @@
 
 Favourite: No
 Date: January 15, 2026
-Last Edited: February 20, 2026 11:38 PM
+Last Edited: May 3, 2026 5:16 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Sad
 Influences: News
 Real/Media Characters: Erika Kirk
+
+<aside>
+<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+
+Needs editing.
+
+</aside>
 
 # Description
 
