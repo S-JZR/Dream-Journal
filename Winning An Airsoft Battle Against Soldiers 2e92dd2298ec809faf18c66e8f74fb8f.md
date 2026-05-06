@@ -2,10 +2,17 @@
 
 Favourite: No
 Date: January 15, 2026
-Last Edited: February 20, 2026 10:06 PM
+Last Edited: May 3, 2026 5:16 PM
 Type: Normal
 Age Rating: SFW
 Main Emotion: Happy
+
+<aside>
+<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+
+Needs editing.
+
+</aside>
 
 # Description
 

@@ -2,11 +2,18 @@
 
 Favourite: No
 Date: January 14, 2026
-Last Edited: February 20, 2026 10:06 PM
+Last Edited: May 3, 2026 5:16 PM
 Type: Nightmare
 Age Rating: SFW
 Main Emotion: Fear
 Influences: Online Videos
+
+<aside>
+<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+
+Needs editing.
+
+</aside>
 
 # Description
 
