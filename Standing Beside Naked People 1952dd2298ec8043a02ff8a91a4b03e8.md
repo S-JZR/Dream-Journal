@@ -1,12 +1,12 @@
 # Standing Beside Naked People
 
-Favourite: No
-Date: January 1, 2016
-Last Edited: February 20, 2026 9:37 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Embarrassment
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: Yes
+date: January 1, 2016
+updated_at: June 4, 2026 9:07 PM
+type: Nightmare
+emotion: Embarrassment
+influences: Personal Experiences
 
 # Description
 

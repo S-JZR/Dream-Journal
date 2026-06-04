@@ -1,13 +1,13 @@
 # Winning A MrBeast Gameshow
 
-Favourite: No
-Date: June 15, 2024
-Last Edited: February 20, 2026 11:30 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Online Videos, Roblox (2006)
-Real/Media Characters: MrBeast
+is_favourite: No
+is_nsfw: No
+date: June 15, 2024
+updated_at: February 20, 2026 11:30 PM
+type: Normal
+emotion: Happy
+influences: Online Videos, Roblox (2006)
+characters: MrBeast
 
 # Description
 

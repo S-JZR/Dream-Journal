@@ -1,13 +1,13 @@
 # Firearm Training At School And Satan’s Challenge
 
-Favourite: No
-Date: February 11, 2025
-Last Edited: February 20, 2026 11:32 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: News, Online Videos
-Real/Media Characters: Donald Trump, Satan
+is_favourite: No
+is_nsfw: No
+date: February 11, 2025
+updated_at: February 20, 2026 11:32 PM
+type: Nightmare
+emotion: Fear
+influences: News, Online Videos
+characters: Donald Trump, Satan
 
 # Description
 

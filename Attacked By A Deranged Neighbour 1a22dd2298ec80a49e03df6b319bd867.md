@@ -1,11 +1,11 @@
 # Attacked By A Deranged Neighbour
 
-Favourite: No
-Date: December 9, 2020
-Last Edited: February 20, 2026 9:41 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: December 9, 2020
+updated_at: February 20, 2026 9:41 PM
+type: Nightmare
+emotion: Fear
 
 # Description
 

@@ -1,12 +1,12 @@
 # Robot Cleans Up Cow Poo
 
-Favourite: No
-Date: July 18, 2025
-Last Edited: February 20, 2026 10:02 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Personal Thoughts
+is_favourite: No
+is_nsfw: No
+date: July 18, 2025
+updated_at: February 20, 2026 10:02 PM
+type: Normal
+emotion: Happy
+influences: Personal Thoughts
 
 # Description
 

@@ -1,12 +1,12 @@
 # Police Island Shootout
 
-Favourite: No
-Date: February 11, 2025
-Last Edited: February 20, 2026 11:32 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Real/Media Characters: Logan Paul, MrBeast
+is_favourite: No
+is_nsfw: No
+date: February 11, 2025
+updated_at: February 20, 2026 11:32 PM
+type: Nightmare
+emotion: Sad
+characters: Logan Paul, MrBeast
 
 # Description
 

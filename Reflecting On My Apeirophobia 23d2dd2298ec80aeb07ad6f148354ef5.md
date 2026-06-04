@@ -1,13 +1,13 @@
 # Reflecting On My Apeirophobia
 
-Favourite: No
-Date: July 18, 2025
-Last Edited: February 20, 2026 11:35 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Online Videos, Personal Thoughts
-Real/Media Characters: Alan Seawright, CaseOh, Jonathan Decker
+is_favourite: No
+is_nsfw: No
+date: July 18, 2025
+updated_at: February 20, 2026 11:35 PM
+type: Normal
+emotion: Happy
+influences: Online Videos, Personal Thoughts
+characters: Alan Seawright, CaseOh, Jonathan Decker
 
 # Description
 

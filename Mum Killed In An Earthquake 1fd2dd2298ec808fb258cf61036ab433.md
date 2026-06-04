@@ -1,12 +1,12 @@
 # Mum Killed In An Earthquake
 
-Favourite: No
-Date: January 1, 2013
-Last Edited: February 20, 2026 11:22 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: January 1, 2013
+updated_at: February 20, 2026 11:22 PM
+type: Nightmare
+emotion: Sad
+characters: Family
 
 # Description
 

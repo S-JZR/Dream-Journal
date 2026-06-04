@@ -1,11 +1,11 @@
 # Giant Spider Under A Rock
 
-Favourite: No
-Date: January 1, 2010
-Last Edited: February 20, 2026 11:22 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: January 1, 2010
+updated_at: February 20, 2026 11:22 PM
+type: Nightmare
+emotion: Fear
 
 # Description
 

@@ -1,12 +1,12 @@
 # Rescuing Party Guests From A Gas Attack Gone Wrong
 
-Favourite: No
-Date: March 20, 2025
-Last Edited: February 20, 2026 9:52 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Batman (1989)
+is_favourite: No
+is_nsfw: No
+date: March 20, 2025
+updated_at: February 20, 2026 9:52 PM
+type: Nightmare
+emotion: Fear
+influences: Batman (1989)
 
 # Description
 

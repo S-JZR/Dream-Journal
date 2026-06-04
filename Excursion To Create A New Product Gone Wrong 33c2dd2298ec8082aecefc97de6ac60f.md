@@ -1,12 +1,12 @@
 # Excursion To Create A New Product Gone Wrong
 
-Favourite: Yes
-Date: April 8, 2026
-Last Edited: May 3, 2026 5:18 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Embarrassment
-Real/Media Characters: Bianca D, Thomas R
+is_favourite: Yes
+is_nsfw: No
+date: April 8, 2026
+updated_at: May 3, 2026 5:18 PM
+type: Nightmare
+emotion: Embarrassment
+characters: Bianca D, Thomas R
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

@@ -1,13 +1,13 @@
 # Casual Christian Meetup
 
-Favourite: No
-Date: November 4, 2025
-Last Edited: February 20, 2026 11:36 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Embarrassment
-Influences: Christianity, Online Videos, Personal Experiences
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: November 4, 2025
+updated_at: February 20, 2026 11:36 PM
+type: Normal
+emotion: Embarrassment
+influences: Christianity, Online Videos, Personal Experiences
+characters: Family
 
 # Description
 

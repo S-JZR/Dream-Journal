@@ -1,11 +1,11 @@
 # Playing A Videogame With Random Survival Horror Scenarios
 
-Favourite: No
-Date: June 3, 2026
-Last Edited: June 4, 2026 5:54 AM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: June 3, 2026
+updated_at: June 4, 2026 5:54 AM
+type: Normal
+emotion: Fear
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

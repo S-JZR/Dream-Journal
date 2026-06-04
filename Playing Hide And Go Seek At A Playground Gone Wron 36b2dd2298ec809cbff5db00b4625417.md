@@ -1,11 +1,11 @@
 # Playing Hide And Go Seek At A Playground Gone Wrong
 
-Favourite: No
-Date: May 25, 2026
-Last Edited: May 25, 2026 5:04 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
+is_favourite: No
+is_nsfw: No
+date: May 25, 2026
+updated_at: May 25, 2026 5:04 PM
+type: Nightmare
+emotion: Sad
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

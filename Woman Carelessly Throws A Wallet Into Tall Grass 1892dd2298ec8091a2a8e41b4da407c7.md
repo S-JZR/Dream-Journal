@@ -1,11 +1,11 @@
 # Woman Carelessly Throws A Wallet Into Tall Grass
 
-Favourite: No
-Date: August 3, 2024
-Last Edited: February 20, 2026 9:47 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Anger
+is_favourite: No
+is_nsfw: No
+date: August 3, 2024
+updated_at: February 20, 2026 9:47 PM
+type: Normal
+emotion: Anger
 
 # Description
 

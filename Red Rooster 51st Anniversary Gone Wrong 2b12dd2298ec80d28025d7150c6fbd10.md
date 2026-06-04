@@ -1,12 +1,12 @@
 # Red Rooster 51st Anniversary Gone Wrong
 
-Favourite: No
-Date: November 20, 2025
-Last Edited: February 20, 2026 11:37 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: November 20, 2025
+updated_at: February 20, 2026 11:37 PM
+type: Normal
+emotion: Surprise
+characters: Family
 
 # Description
 

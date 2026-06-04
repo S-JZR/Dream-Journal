@@ -1,13 +1,13 @@
 # Draining A Car Fuel Tank Gone Wrong
 
-Favourite: No
-Date: January 28, 2021
-Last Edited: February 20, 2026 11:28 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: MythBusters (2003)
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: January 28, 2021
+updated_at: February 20, 2026 11:28 PM
+type: Nightmare
+emotion: Fear
+influences: MythBusters (2003)
+characters: Family
 
 # Description
 

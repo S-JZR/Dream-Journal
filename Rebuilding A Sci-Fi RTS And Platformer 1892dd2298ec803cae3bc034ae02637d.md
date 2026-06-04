@@ -1,12 +1,12 @@
 # Rebuilding A Sci-Fi RTS And Platformer
 
-Favourite: No
-Date: October 17, 2024
-Last Edited: February 20, 2026 8:03 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Agar.io (2015), Battleship Forever (2007), Planetoid 3 (2009) (GameMaker)
+is_favourite: No
+is_nsfw: No
+date: October 17, 2024
+updated_at: February 20, 2026 8:03 PM
+type: Normal
+emotion: Happy
+influences: Agar.io (2015), Battleship Forever (2007), Planetoid 3 (2009) (GameMaker)
 
 # Description
 

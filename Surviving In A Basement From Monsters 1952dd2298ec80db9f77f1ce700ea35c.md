@@ -1,12 +1,12 @@
 # Surviving In A Basement From Monsters
 
-Favourite: No
-Date: February 7, 2025
-Last Edited: March 11, 2026 4:32 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Five Nights At Freddy's (2014), Monsterum (2015), Zathura (2005)
+is_favourite: No
+is_nsfw: No
+date: February 7, 2025
+updated_at: March 11, 2026 4:32 PM
+type: Normal
+emotion: Fear
+influences: Five Nights At Freddy's (2014), Monsterum (2015), Zathura (2005)
 
 # Description
 

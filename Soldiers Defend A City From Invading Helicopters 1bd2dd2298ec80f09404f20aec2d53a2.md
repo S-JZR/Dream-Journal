@@ -1,12 +1,12 @@
 # Soldiers Defend A City From Invading Helicopters
 
-Favourite: No
-Date: March 20, 2025
-Last Edited: February 20, 2026 9:52 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: News
+is_favourite: No
+is_nsfw: No
+date: March 20, 2025
+updated_at: February 20, 2026 9:52 PM
+type: Nightmare
+emotion: Fear
+influences: News
 
 # Description
 

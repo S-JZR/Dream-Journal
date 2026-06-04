@@ -1,13 +1,13 @@
 # Cleaning Houses Gone Wrong
 
-Favourite: No
-Date: September 5, 2025
-Last Edited: February 20, 2026 11:36 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences
-Real/Media Characters: Angus, Family
+is_favourite: No
+is_nsfw: No
+date: September 5, 2025
+updated_at: February 20, 2026 11:36 PM
+type: Normal
+emotion: Fear
+influences: Personal Experiences
+characters: Angus, Family
 
 # Description
 

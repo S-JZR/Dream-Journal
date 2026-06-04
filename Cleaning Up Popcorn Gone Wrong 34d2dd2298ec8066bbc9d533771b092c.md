@@ -1,11 +1,11 @@
 # Cleaning Up Popcorn Gone Wrong
 
-Favourite: No
-Date: April 25, 2026
-Last Edited: May 3, 2026 5:18 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
+is_favourite: No
+is_nsfw: No
+date: April 25, 2026
+updated_at: May 3, 2026 5:18 PM
+type: Nightmare
+emotion: Sad
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

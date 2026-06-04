@@ -1,11 +1,11 @@
 # Nose Piercing With A Vehicle Gone Wrong
 
-Favourite: No
-Date: January 15, 2025
-Last Edited: February 21, 2026 11:43 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Anger
+is_favourite: No
+is_nsfw: No
+date: January 15, 2025
+updated_at: February 21, 2026 11:43 PM
+type: Nightmare
+emotion: Anger
 
 # Description
 

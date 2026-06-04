@@ -1,12 +1,12 @@
 # Haunted Mannequin Outside Church
 
-Favourite: No
-Date: January 25, 2020
-Last Edited: February 20, 2026 11:25 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: January 25, 2020
+updated_at: February 20, 2026 11:25 PM
+type: Nightmare
+emotion: Fear
+characters: Family
 
 # Description
 

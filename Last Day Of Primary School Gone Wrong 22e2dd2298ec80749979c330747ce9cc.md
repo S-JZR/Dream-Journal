@@ -1,11 +1,11 @@
 # Last Day Of Primary School Gone Wrong
 
-Favourite: No
-Date: July 9, 2025
-Last Edited: February 20, 2026 10:02 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
+is_favourite: No
+is_nsfw: No
+date: July 9, 2025
+updated_at: February 20, 2026 10:02 PM
+type: Nightmare
+emotion: Sad
 
 # Description
 

@@ -1,12 +1,12 @@
 # School Sports Captain Becomes An Engineer
 
-Favourite: No
-Date: April 11, 2025
-Last Edited: February 20, 2026 9:53 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Thoughts
+is_favourite: No
+is_nsfw: No
+date: April 11, 2025
+updated_at: February 20, 2026 9:53 PM
+type: Normal
+emotion: Sad
+influences: Personal Thoughts
 
 # Description
 

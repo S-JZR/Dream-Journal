@@ -1,12 +1,12 @@
 # Driving Along Narrow Paths Gone Wrong
 
-Favourite: No
-Date: December 26, 2025
-Last Edited: February 26, 2026 2:11 AM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: December 26, 2025
+updated_at: February 26, 2026 2:11 AM
+type: Nightmare
+emotion: Fear
+characters: Family
 
 # Description
 

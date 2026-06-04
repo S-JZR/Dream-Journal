@@ -1,11 +1,11 @@
 # Playing A Wacky RTS Videogame
 
-Favourite: No
-Date: May 22, 2026
-Last Edited: May 22, 2026 6:19 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
+is_favourite: No
+is_nsfw: No
+date: May 22, 2026
+updated_at: May 22, 2026 6:19 PM
+type: Normal
+emotion: Surprise
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

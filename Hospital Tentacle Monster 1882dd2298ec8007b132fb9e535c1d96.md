@@ -1,12 +1,12 @@
 # Hospital Tentacle Monster
 
-Favourite: No
-Date: May 7, 2021
-Last Edited: February 20, 2026 9:42 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences, Would I Lie To You? (2007)
+is_favourite: No
+is_nsfw: No
+date: May 7, 2021
+updated_at: February 20, 2026 9:42 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Experiences, Would I Lie To You? (2007)
 
 # Description
 

@@ -1,11 +1,11 @@
 # China Invades Australia
 
-Favourite: No
-Date: February 4, 2025
-Last Edited: February 22, 2026 11:47 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: February 4, 2025
+updated_at: February 22, 2026 11:47 PM
+type: Nightmare
+emotion: Fear
 
 # Description
 

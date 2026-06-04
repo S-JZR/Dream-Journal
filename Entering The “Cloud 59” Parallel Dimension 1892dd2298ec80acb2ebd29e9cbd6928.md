@@ -1,12 +1,12 @@
 # Entering The “Cloud 59” Parallel Dimension
 
-Favourite: No
-Date: May 21, 2024
-Last Edited: February 20, 2026 11:30 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: May 21, 2024
+updated_at: February 20, 2026 11:30 PM
+type: Nightmare
+emotion: Fear
+characters: Family
 
 # Description
 

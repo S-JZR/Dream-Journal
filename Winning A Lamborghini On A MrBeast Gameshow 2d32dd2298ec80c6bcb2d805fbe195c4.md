@@ -1,13 +1,13 @@
 # Winning A Lamborghini On A MrBeast Gameshow
 
-Favourite: Yes
-Date: December 12, 2025
-Last Edited: February 26, 2026 2:57 AM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Online Videos
-Real/Media Characters: MrBeast
+is_favourite: Yes
+is_nsfw: No
+date: December 12, 2025
+updated_at: February 26, 2026 2:57 AM
+type: Normal
+emotion: Surprise
+influences: Online Videos
+characters: MrBeast
 
 # Description
 

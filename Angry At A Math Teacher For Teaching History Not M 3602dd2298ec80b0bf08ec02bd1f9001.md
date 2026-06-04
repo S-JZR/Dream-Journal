@@ -1,12 +1,12 @@
 # Angry At A Math Teacher For Teaching History Not Math
 
-Favourite: No
-Date: May 14, 2026
-Last Edited: May 14, 2026 7:32 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Anger
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: May 14, 2026
+updated_at: May 14, 2026 7:32 PM
+type: Normal
+emotion: Anger
+influences: Personal Experiences
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

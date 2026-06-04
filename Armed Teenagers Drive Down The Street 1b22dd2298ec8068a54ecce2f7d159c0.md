@@ -1,12 +1,12 @@
 # Armed Teenagers Drive Down The Street
 
-Favourite: No
-Date: January 1, 2017
-Last Edited: February 20, 2026 9:38 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: January 1, 2017
+updated_at: February 20, 2026 9:38 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Experiences
 
 # Description
 

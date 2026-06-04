@@ -1,12 +1,12 @@
 # Flying To A Recruitment Centre Gone Wrong
 
-Favourite: No
-Date: July 18, 2024
-Last Edited: February 20, 2026 9:47 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Mr Bean (1990), Online Videos, Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: July 18, 2024
+updated_at: February 20, 2026 9:47 PM
+type: Normal
+emotion: Fear
+influences: Mr Bean (1990), Online Videos, Personal Experiences
 
 # Description
 

@@ -1,12 +1,12 @@
 # Flying With Rocket Boots
 
-Favourite: No
-Date: January 1, 2015
-Last Edited: December 12, 2025 6:32 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Astro Boy (1963)
+is_favourite: No
+is_nsfw: No
+date: January 1, 2015
+updated_at: December 12, 2025 6:32 PM
+type: Normal
+emotion: Happy
+influences: Astro Boy (1963)
 
 # Description
 

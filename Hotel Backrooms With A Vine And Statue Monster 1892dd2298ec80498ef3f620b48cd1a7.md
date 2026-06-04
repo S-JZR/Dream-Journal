@@ -1,12 +1,12 @@
 # Hotel Backrooms With A Vine And Statue Monster
 
-Favourite: No
-Date: September 2, 2024
-Last Edited: February 20, 2026 9:47 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Doors (2021) (Roblox), Lost Rooms (2022) (Roblox), Skibidi Toilet (2023)
+is_favourite: No
+is_nsfw: No
+date: September 2, 2024
+updated_at: February 20, 2026 9:47 PM
+type: Nightmare
+emotion: Fear
+influences: Doors (2021) (Roblox), Lost Rooms (2022) (Roblox), Skibidi Toilet (2023)
 
 # Description
 

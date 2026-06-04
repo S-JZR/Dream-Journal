@@ -1,12 +1,12 @@
 # Disembodied Voice Gives Bad Prophecies
 
-Favourite: Yes
-Date: January 1, 2014
-Last Edited: February 20, 2026 9:37 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Thoughts
+is_favourite: Yes
+is_nsfw: No
+date: January 1, 2014
+updated_at: February 20, 2026 9:37 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Thoughts
 
 # Description
 

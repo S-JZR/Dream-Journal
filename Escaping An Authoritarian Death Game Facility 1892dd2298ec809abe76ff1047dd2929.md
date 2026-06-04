@@ -1,13 +1,13 @@
 # Escaping An Authoritarian Death Game Facility
 
-Favourite: No
-Date: November 26, 2024
-Last Edited: February 20, 2026 11:31 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Online Videos, Squid Game (2021)
-Real/Media Characters: Dejan C
+is_favourite: No
+is_nsfw: No
+date: November 26, 2024
+updated_at: February 20, 2026 11:31 PM
+type: Nightmare
+emotion: Fear
+influences: Online Videos, Squid Game (2021)
+characters: Dejan C
 
 # Description
 

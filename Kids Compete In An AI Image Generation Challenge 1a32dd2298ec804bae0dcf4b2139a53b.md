@@ -1,12 +1,12 @@
 # Kids Compete In An AI Image Generation Challenge
 
-Favourite: No
-Date: December 16, 2024
-Last Edited: February 20, 2026 9:49 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: News
+is_favourite: No
+is_nsfw: No
+date: December 16, 2024
+updated_at: February 20, 2026 9:49 PM
+type: Normal
+emotion: Happy
+influences: News
 
 # Description
 

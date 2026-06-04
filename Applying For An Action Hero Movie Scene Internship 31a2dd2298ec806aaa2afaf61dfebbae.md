@@ -1,12 +1,12 @@
 # Applying For An Action Hero Movie Scene Internship
 
-Favourite: No
-Date: March 5, 2026
-Last Edited: May 3, 2026 5:17 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Real/Media Characters: Ben Shapiro
+is_favourite: No
+is_nsfw: No
+date: March 5, 2026
+updated_at: May 3, 2026 5:17 PM
+type: Normal
+emotion: Surprise
+characters: Ben Shapiro
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

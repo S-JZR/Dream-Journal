@@ -1,13 +1,13 @@
 # Playing Minecraft With My Cousins And Installing A Giant Robot Mod
 
-Favourite: No
-Date: April 10, 2026
-Last Edited: May 3, 2026 5:18 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences
-Real/Media Characters: Gabbie K, Mercedes K
+is_favourite: No
+is_nsfw: No
+date: April 10, 2026
+updated_at: May 3, 2026 5:18 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Experiences
+characters: Gabbie K, Mercedes K
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

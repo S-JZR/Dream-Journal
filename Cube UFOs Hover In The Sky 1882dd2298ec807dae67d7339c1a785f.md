@@ -1,11 +1,11 @@
 # Cube UFOs Hover In The Sky
 
-Favourite: No
-Date: January 1, 2017
-Last Edited: February 21, 2026 10:19 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
+is_favourite: No
+is_nsfw: No
+date: January 1, 2017
+updated_at: February 21, 2026 10:19 PM
+type: Normal
+emotion: Surprise
 
 # Description
 

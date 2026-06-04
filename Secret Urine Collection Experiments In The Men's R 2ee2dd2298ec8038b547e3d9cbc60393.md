@@ -1,11 +1,11 @@
 # Secret Urine Collection Experiments In The Men's Restroom
 
-Favourite: No
-Date: January 20, 2026
-Last Edited: May 3, 2026 5:17 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Disgust
+is_favourite: No
+is_nsfw: Yes
+date: January 20, 2026
+updated_at: June 4, 2026 9:08 PM
+type: Nightmare
+emotion: Disgust
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

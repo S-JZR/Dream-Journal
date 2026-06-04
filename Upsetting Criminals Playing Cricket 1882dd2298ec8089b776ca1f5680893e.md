@@ -1,13 +1,13 @@
 # Upsetting Criminals Playing Cricket
 
-Favourite: No
-Date: January 7, 2021
-Last Edited: February 20, 2026 11:48 PM
-Type: Normal
-Age Rating: NSFW
-Main Emotion: Fear
-Influences: Commercials, Monsters Inc. (2001), Online Videos
-Real/Media Characters: Aleksandr Orlov, Family, James Sullivan, Mrs Claus, Santa, Sergei Orlov
+is_favourite: No
+is_nsfw: Yes
+date: January 7, 2021
+updated_at: June 4, 2026 9:07 PM
+type: Normal
+emotion: Fear
+influences: Commercials, Monsters Inc. (2001), Online Videos
+characters: Aleksandr Orlov, Family, James Sullivan, Mrs Claus, Santa, Sergei Orlov
 
 # Description
 

@@ -1,12 +1,12 @@
 # Industrial Room Team Deathmatch
 
-Favourite: No
-Date: July 16, 2025
-Last Edited: February 20, 2026 10:02 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Online Videos
+is_favourite: No
+is_nsfw: No
+date: July 16, 2025
+updated_at: February 20, 2026 10:02 PM
+type: Normal
+emotion: Fear
+influences: Online Videos
 
 # Description
 

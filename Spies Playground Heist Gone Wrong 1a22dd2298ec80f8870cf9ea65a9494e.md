@@ -1,12 +1,12 @@
 # Spies Playground Heist Gone Wrong
 
-Favourite: No
-Date: January 10, 2023
-Last Edited: February 20, 2026 9:42 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: The Bad Guys (2022)
+is_favourite: No
+is_nsfw: No
+date: January 10, 2023
+updated_at: February 20, 2026 9:42 PM
+type: Normal
+emotion: Happy
+influences: The Bad Guys (2022)
 
 # Description
 

@@ -1,11 +1,11 @@
 # Lazer Tag At A Floating Obstacle Course And Castle
 
-Favourite: No
-Date: February 18, 2025
-Last Edited: February 20, 2026 9:51 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
+is_favourite: No
+is_nsfw: No
+date: February 18, 2025
+updated_at: February 20, 2026 9:51 PM
+type: Normal
+emotion: Happy
 
 # Description
 

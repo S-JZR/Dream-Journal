@@ -1,11 +1,11 @@
 # Memory Reset Experiment
 
-Favourite: Yes
-Date: January 1, 2013
-Last Edited: February 20, 2026 9:36 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
+is_favourite: Yes
+is_nsfw: No
+date: January 1, 2013
+updated_at: February 20, 2026 9:36 PM
+type: Nightmare
+emotion: Sad
 
 # Description
 

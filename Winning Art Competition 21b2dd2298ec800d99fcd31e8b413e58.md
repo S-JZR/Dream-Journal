@@ -1,13 +1,13 @@
 # Winning Art Competition
 
-Favourite: No
-Date: June 21, 2025
-Last Edited: February 20, 2026 11:34 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: News, Personal Experiences
-Real/Media Characters: Katherine P, Mrs Brown
+is_favourite: No
+is_nsfw: No
+date: June 21, 2025
+updated_at: February 20, 2026 11:34 PM
+type: Normal
+emotion: Sad
+influences: News, Personal Experiences
+characters: Katherine P, Mrs Brown
 
 # Description
 

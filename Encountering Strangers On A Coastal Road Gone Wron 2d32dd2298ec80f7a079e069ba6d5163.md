@@ -1,12 +1,12 @@
 # Encountering Strangers On A Coastal Road Gone Wrong
 
-Favourite: Yes
-Date: November 15, 2025
-Last Edited: February 26, 2026 3:17 AM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Family
+is_favourite: Yes
+is_nsfw: No
+date: November 15, 2025
+updated_at: February 26, 2026 3:17 AM
+type: Nightmare
+emotion: Fear
+characters: Family
 
 # Description
 

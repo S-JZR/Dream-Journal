@@ -1,12 +1,12 @@
 # Hunting A Yeti Gone Wrong
 
-Favourite: No
-Date: August 17, 2024
-Last Edited: February 20, 2026 9:47 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Lost Rooms (2022) (Roblox)
+is_favourite: No
+is_nsfw: No
+date: August 17, 2024
+updated_at: February 20, 2026 9:47 PM
+type: Nightmare
+emotion: Fear
+influences: Lost Rooms (2022) (Roblox)
 
 # Description
 

@@ -1,11 +1,11 @@
 # Chased By A Wooden Effigy At A Bus Stop
 
-Favourite: No
-Date: March 16, 2024
-Last Edited: February 20, 2026 9:44 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: March 16, 2024
+updated_at: February 20, 2026 9:44 PM
+type: Nightmare
+emotion: Fear
 
 # Description
 

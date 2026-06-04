@@ -1,12 +1,12 @@
 # Shrunken Woman Falls Down A Shower Drain
 
-Favourite: No
-Date: January 1, 2005
-Last Edited: February 21, 2026 9:52 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Fear
-Influences: The Incredible Shrinking Man (1957)
+is_favourite: No
+is_nsfw: Yes
+date: January 1, 2005
+updated_at: June 4, 2026 9:00 PM
+type: Nightmare
+emotion: Fear
+influences: The Incredible Shrinking Man (1957)
 
 # Description
 

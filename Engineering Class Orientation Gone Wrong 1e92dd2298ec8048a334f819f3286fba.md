@@ -1,12 +1,12 @@
 # Engineering Class Orientation Gone Wrong
 
-Favourite: Yes
-Date: April 28, 2025
-Last Edited: February 20, 2026 9:54 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Experiences
+is_favourite: Yes
+is_nsfw: No
+date: April 28, 2025
+updated_at: February 20, 2026 9:54 PM
+type: Nightmare
+emotion: Sad
+influences: Personal Experiences
 
 # Description
 

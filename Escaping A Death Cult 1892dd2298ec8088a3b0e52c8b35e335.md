@@ -1,13 +1,13 @@
 # Escaping A Death Cult
 
-Favourite: No
-Date: April 4, 2024
-Last Edited: February 20, 2026 11:29 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: History
-Real/Media Characters: Family, God (Christianity)
+is_favourite: No
+is_nsfw: No
+date: April 4, 2024
+updated_at: February 20, 2026 11:29 PM
+type: Nightmare
+emotion: Fear
+influences: History
+characters: Family, God (Christianity)
 
 # Description
 

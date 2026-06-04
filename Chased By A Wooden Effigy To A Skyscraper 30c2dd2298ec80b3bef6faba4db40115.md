@@ -1,12 +1,12 @@
 # Chased By A Wooden Effigy To A Skyscraper
 
-Favourite: No
-Date: February 19, 2026
-Last Edited: May 3, 2026 5:17 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Michael C
+is_favourite: No
+is_nsfw: No
+date: February 19, 2026
+updated_at: May 3, 2026 5:17 PM
+type: Nightmare
+emotion: Fear
+characters: Michael C
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

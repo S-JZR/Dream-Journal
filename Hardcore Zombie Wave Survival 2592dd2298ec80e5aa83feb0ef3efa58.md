@@ -1,12 +1,12 @@
 # Hardcore Zombie Wave Survival
 
-Favourite: No
-Date: August 24, 2025
-Last Edited: February 20, 2026 10:03 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Fortnite (2017), Team Fortress 2 (2007)
+is_favourite: No
+is_nsfw: No
+date: August 24, 2025
+updated_at: February 20, 2026 10:03 PM
+type: Normal
+emotion: Fear
+influences: Fortnite (2017), Team Fortress 2 (2007)
 
 # Description
 

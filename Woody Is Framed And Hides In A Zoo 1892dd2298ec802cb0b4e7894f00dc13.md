@@ -1,13 +1,13 @@
 # Woody Is Framed And Hides In A Zoo
 
-Favourite: No
-Date: January 5, 2024
-Last Edited: February 20, 2026 11:49 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Chicken Run (2000)
-Real/Media Characters: Mrs Tweedy, Sheriff Woody
+is_favourite: No
+is_nsfw: No
+date: January 5, 2024
+updated_at: February 20, 2026 11:49 PM
+type: Nightmare
+emotion: Fear
+influences: Chicken Run (2000)
+characters: Mrs Tweedy, Sheriff Woody
 
 # Description
 

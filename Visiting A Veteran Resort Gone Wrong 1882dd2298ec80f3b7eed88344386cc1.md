@@ -1,13 +1,13 @@
 # Visiting A Veteran Resort Gone Wrong
 
-Favourite: No
-Date: January 10, 2020
-Last Edited: February 20, 2026 11:25 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences
-Real/Media Characters: Family, Mr Broadway, Mrs Itsikson
+is_favourite: No
+is_nsfw: No
+date: January 10, 2020
+updated_at: February 20, 2026 11:25 PM
+type: Normal
+emotion: Fear
+influences: Personal Experiences
+characters: Family, Mr Broadway, Mrs Itsikson
 
 # Description
 

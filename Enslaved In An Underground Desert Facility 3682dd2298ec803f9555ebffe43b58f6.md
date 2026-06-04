@@ -1,11 +1,11 @@
 # Enslaved In An Underground Desert Facility
 
-Favourite: No
-Date: May 22, 2026
-Last Edited: May 22, 2026 5:38 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Surprise
+is_favourite: No
+is_nsfw: No
+date: May 22, 2026
+updated_at: May 22, 2026 5:38 PM
+type: Nightmare
+emotion: Surprise
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

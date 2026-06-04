@@ -1,13 +1,13 @@
 # UFO Sighting At Video Ezy
 
-Favourite: No
-Date: January 1, 2005
-Last Edited: February 20, 2026 11:22 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Personal Experiences, Ratchet And Clank 3 (2004)
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: January 1, 2005
+updated_at: February 20, 2026 11:22 PM
+type: Normal
+emotion: Surprise
+influences: Personal Experiences, Ratchet And Clank 3 (2004)
+characters: Family
 
 # Description
 

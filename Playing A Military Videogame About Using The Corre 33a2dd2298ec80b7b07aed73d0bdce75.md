@@ -1,11 +1,11 @@
 # Playing A Military Videogame About Using The Correct Units
 
-Favourite: No
-Date: April 6, 2026
-Last Edited: May 3, 2026 5:18 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
+is_favourite: No
+is_nsfw: No
+date: April 6, 2026
+updated_at: May 3, 2026 5:18 PM
+type: Normal
+emotion: Surprise
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

@@ -1,13 +1,13 @@
 # Attacked By A Werewolf And Self-Replicating Nanobots
 
-Favourite: Yes
-Date: December 2, 2022
-Last Edited: February 20, 2026 11:28 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Online Videos, Personal Thoughts, Rick And Morty (2013)
-Real/Media Characters: MatPat
+is_favourite: Yes
+is_nsfw: No
+date: December 2, 2022
+updated_at: February 20, 2026 11:28 PM
+type: Nightmare
+emotion: Fear
+influences: Online Videos, Personal Thoughts, Rick And Morty (2013)
+characters: MatPat
 
 # Description
 

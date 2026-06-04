@@ -1,12 +1,12 @@
 # Building A Bunker To Survive Bombers
 
-Favourite: No
-Date: October 6, 2025
-Last Edited: February 20, 2026 11:36 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: October 6, 2025
+updated_at: February 20, 2026 11:36 PM
+type: Nightmare
+emotion: Fear
+characters: Family
 
 # Description
 

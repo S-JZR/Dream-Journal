@@ -1,12 +1,12 @@
 # Demonic Fortune-telling For World Leaders
 
-Favourite: No
-Date: September 19, 2023
-Last Edited: February 20, 2026 9:43 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: September 19, 2023
+updated_at: February 20, 2026 9:43 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Experiences
 
 # Description
 

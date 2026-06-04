@@ -1,12 +1,12 @@
 # Training To Become A Submariner
 
-Favourite: No
-Date: November 21, 2025
-Last Edited: February 20, 2026 10:05 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: November 21, 2025
+updated_at: February 20, 2026 10:05 PM
+type: Normal
+emotion: Surprise
+influences: Personal Experiences
 
 # Description
 

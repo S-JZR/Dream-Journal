@@ -1,11 +1,11 @@
 # Playing A Videogame About Strategically Robbing Houses
 
-Favourite: No
-Date: April 13, 2026
-Last Edited: May 5, 2026 8:45 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: April 13, 2026
+updated_at: May 5, 2026 8:45 PM
+type: Normal
+emotion: Fear
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

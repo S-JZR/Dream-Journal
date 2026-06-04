@@ -1,12 +1,12 @@
 # Line Art Of Primary School
 
-Favourite: No
-Date: January 1, 2023
-Last Edited: February 20, 2026 9:42 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: January 1, 2023
+updated_at: February 20, 2026 9:42 PM
+type: Normal
+emotion: Surprise
+influences: Personal Experiences
 
 # Description
 

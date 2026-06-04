@@ -1,12 +1,12 @@
 # Attending A Christian Meeting About Church Decline
 
-Favourite: Yes
-Date: May 23, 2025
-Last Edited: February 20, 2026 9:55 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Anger
-Influences: God Has A Wonderful Plan For Your Life (2010), News, Personal Thoughts
+is_favourite: Yes
+is_nsfw: No
+date: May 23, 2025
+updated_at: February 20, 2026 9:55 PM
+type: Normal
+emotion: Anger
+influences: God Has A Wonderful Plan For Your Life (2010), News, Personal Thoughts
 
 # Description
 

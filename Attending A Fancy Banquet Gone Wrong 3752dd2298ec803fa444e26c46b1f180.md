@@ -1,12 +1,12 @@
 # Attending A Fancy Banquet Gone Wrong
 
-Favourite: No
-Date: June 4, 2026
-Last Edited: June 4, 2026 6:35 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Embarrassment
-Real/Media Characters: Noah ?, Reece ?
+is_favourite: No
+is_nsfw: No
+date: June 4, 2026
+updated_at: June 4, 2026 6:35 PM
+type: Nightmare
+emotion: Embarrassment
+characters: Noah ?, Reece ?
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

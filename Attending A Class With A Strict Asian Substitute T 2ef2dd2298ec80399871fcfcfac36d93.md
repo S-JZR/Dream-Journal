@@ -1,11 +1,11 @@
 # Attending A Class With A Strict Asian Substitute Teacher
 
-Favourite: No
-Date: January 21, 2026
-Last Edited: May 3, 2026 5:17 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: January 21, 2026
+updated_at: May 3, 2026 5:17 PM
+type: Nightmare
+emotion: Fear
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

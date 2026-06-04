@@ -1,12 +1,12 @@
 # Revisiting The Studio In Sheep, Dog 'n' Wolf
 
-Favourite: No
-Date: August 8, 2025
-Last Edited: February 20, 2026 10:03 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Godzilla (1954), Sheep Dog 'n' Wolf (2001)
+is_favourite: No
+is_nsfw: No
+date: August 8, 2025
+updated_at: February 20, 2026 10:03 PM
+type: Normal
+emotion: Sad
+influences: Godzilla (1954), Sheep Dog 'n' Wolf (2001)
 
 # Description
 

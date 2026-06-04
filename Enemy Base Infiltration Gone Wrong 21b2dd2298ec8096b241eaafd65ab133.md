@@ -1,13 +1,13 @@
 # Enemy Base Infiltration Gone Wrong
 
-Favourite: No
-Date: June 20, 2025
-Last Edited: February 20, 2026 11:34 PM
-Type: Normal
-Age Rating: NSFW
-Main Emotion: Fear
-Influences: Ratchet And Clank 3 (2004)
-Real/Media Characters: Julien C
+is_favourite: No
+is_nsfw: Yes
+date: June 20, 2025
+updated_at: June 4, 2026 9:08 PM
+type: Normal
+emotion: Fear
+influences: Ratchet And Clank 3 (2004)
+characters: Julien C
 
 # Description
 

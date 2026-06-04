@@ -1,13 +1,13 @@
 # Stranger Questions My Mother's Old Age
 
-Favourite: Yes
-Date: February 15, 2025
-Last Edited: February 24, 2026 12:55 AM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Thoughts
-Real/Media Characters: Family
+is_favourite: Yes
+is_nsfw: No
+date: February 15, 2025
+updated_at: February 24, 2026 12:55 AM
+type: Nightmare
+emotion: Sad
+influences: Personal Thoughts
+characters: Family
 
 # Description
 

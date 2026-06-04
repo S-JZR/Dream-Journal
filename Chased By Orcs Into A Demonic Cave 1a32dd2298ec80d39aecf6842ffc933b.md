@@ -1,12 +1,12 @@
 # Chased By Orcs Into A Demonic Cave
 
-Favourite: No
-Date: November 2, 2020
-Last Edited: February 20, 2026 9:40 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Christianity, TY The Tasmanian Tiger 2 (2004), World Of Warcraft (2004)
+is_favourite: No
+is_nsfw: No
+date: November 2, 2020
+updated_at: February 20, 2026 9:40 PM
+type: Nightmare
+emotion: Fear
+influences: Christianity, TY The Tasmanian Tiger 2 (2004), World Of Warcraft (2004)
 
 # Description
 

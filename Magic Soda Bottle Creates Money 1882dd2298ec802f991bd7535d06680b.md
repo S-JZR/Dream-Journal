@@ -1,11 +1,11 @@
 # Magic Soda Bottle Creates Money
 
-Favourite: No
-Date: January 1, 2010
-Last Edited: February 20, 2026 7:53 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
+is_favourite: No
+is_nsfw: No
+date: January 1, 2010
+updated_at: February 20, 2026 7:53 PM
+type: Normal
+emotion: Happy
 
 # Description
 

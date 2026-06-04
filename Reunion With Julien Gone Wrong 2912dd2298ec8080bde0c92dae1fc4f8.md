@@ -1,13 +1,13 @@
 # Reunion With Julien Gone Wrong
 
-Favourite: No
-Date: October 13, 2025
-Last Edited: February 20, 2026 11:36 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Experiences
-Real/Media Characters: Julien C
+is_favourite: No
+is_nsfw: No
+date: October 13, 2025
+updated_at: February 20, 2026 11:36 PM
+type: Nightmare
+emotion: Sad
+influences: Personal Experiences
+characters: Julien C
 
 # Description
 

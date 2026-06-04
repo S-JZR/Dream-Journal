@@ -1,11 +1,11 @@
 # Questioning The Age Of An Ancient Robot
 
-Favourite: No
-Date: May 26, 2025
-Last Edited: February 20, 2026 9:55 PM
-Type: Half-Asleep
-Age Rating: SFW
-Main Emotion: Surprise
+is_favourite: No
+is_nsfw: No
+date: May 26, 2025
+updated_at: February 20, 2026 9:55 PM
+type: Half-Asleep
+emotion: Surprise
 
 # Description
 

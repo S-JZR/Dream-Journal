@@ -1,13 +1,13 @@
 # Dad Accidentally Clicks On A Disguised Porn Video
 
-Favourite: No
-Date: July 29, 2025
-Last Edited: February 20, 2026 11:35 PM
-Type: Normal
-Age Rating: NSFW
-Main Emotion: Surprise
-Influences: Online Videos, Personal Experiences
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: Yes
+date: July 29, 2025
+updated_at: June 4, 2026 9:08 PM
+type: Normal
+emotion: Surprise
+influences: Online Videos, Personal Experiences
+characters: Family
 
 # Description
 

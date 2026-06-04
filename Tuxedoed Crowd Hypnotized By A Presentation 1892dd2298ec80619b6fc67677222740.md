@@ -1,12 +1,12 @@
 # Tuxedoed Crowd Hypnotized By A Presentation
 
-Favourite: No
-Date: July 7, 2024
-Last Edited: February 20, 2026 9:47 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Commercials, The Library Of Babel (1941)
+is_favourite: No
+is_nsfw: No
+date: July 7, 2024
+updated_at: February 20, 2026 9:47 PM
+type: Nightmare
+emotion: Fear
+influences: Commercials, The Library Of Babel (1941)
 
 # Description
 

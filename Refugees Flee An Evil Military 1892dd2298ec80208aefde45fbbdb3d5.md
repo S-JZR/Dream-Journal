@@ -1,12 +1,12 @@
 # Refugees Flee An Evil Military
 
-Favourite: No
-Date: January 19, 2024
-Last Edited: February 20, 2026 11:29 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Fear
-Real/Media Characters: Jackie Chan
+is_favourite: No
+is_nsfw: Yes
+date: January 19, 2024
+updated_at: June 4, 2026 9:07 PM
+type: Nightmare
+emotion: Fear
+characters: Jackie Chan
 
 # Description
 

@@ -1,12 +1,12 @@
 # Spaceship Carrier Assault
 
-Favourite: No
-Date: May 7, 2024
-Last Edited: February 20, 2026 9:46 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Beyond All Reason (2019)
+is_favourite: No
+is_nsfw: No
+date: May 7, 2024
+updated_at: February 20, 2026 9:46 PM
+type: Normal
+emotion: Happy
+influences: Beyond All Reason (2019)
 
 # Description
 

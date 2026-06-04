@@ -1,12 +1,12 @@
 # Winning Big On A Coin Pusher
 
-Favourite: No
-Date: December 3, 2025
-Last Edited: February 26, 2026 3:09 AM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Personal Experiences, Radio
+is_favourite: No
+is_nsfw: No
+date: December 3, 2025
+updated_at: February 26, 2026 3:09 AM
+type: Normal
+emotion: Happy
+influences: Personal Experiences, Radio
 
 # Description
 

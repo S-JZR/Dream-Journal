@@ -1,12 +1,12 @@
 # Sick Neighbour Dragged On A Tricycle By Their Mum
 
-Favourite: No
-Date: January 1, 2014
-Last Edited: February 20, 2026 11:41 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Surprise
-Real/Media Characters: ? Mico's Mum, Mico
+is_favourite: No
+is_nsfw: No
+date: January 1, 2014
+updated_at: February 20, 2026 11:41 PM
+type: Nightmare
+emotion: Surprise
+characters: ? Mico's Mum, Mico
 
 # Description
 

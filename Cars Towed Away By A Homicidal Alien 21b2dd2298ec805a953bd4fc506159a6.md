@@ -1,13 +1,13 @@
 # Cars Towed Away By A Homicidal Alien
 
-Favourite: No
-Date: June 21, 2025
-Last Edited: February 20, 2026 11:34 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Christianity, Lilo And Stitch (2002)
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: June 21, 2025
+updated_at: February 20, 2026 11:34 PM
+type: Nightmare
+emotion: Fear
+influences: Christianity, Lilo And Stitch (2002)
+characters: Family
 
 # Description
 

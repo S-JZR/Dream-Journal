@@ -1,12 +1,12 @@
 # Corrupt Vet Arrested For Cat Abuse
 
-Favourite: No
-Date: April 11, 2025
-Last Edited: February 20, 2026 9:54 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Anger
-Influences: Mad God (2021)
+is_favourite: No
+is_nsfw: Yes
+date: April 11, 2025
+updated_at: June 4, 2026 9:08 PM
+type: Nightmare
+emotion: Anger
+influences: Mad God (2021)
 
 # Description
 

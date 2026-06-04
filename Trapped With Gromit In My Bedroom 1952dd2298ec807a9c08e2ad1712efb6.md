@@ -1,13 +1,13 @@
 # Trapped With Gromit In My Bedroom
 
-Favourite: No
-Date: January 1, 2005
-Last Edited: February 20, 2026 11:22 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Wallace And Gromit: The Curse Of The Were-Rabbit (2005)
-Real/Media Characters: Gromit
+is_favourite: No
+is_nsfw: No
+date: January 1, 2005
+updated_at: February 20, 2026 11:22 PM
+type: Nightmare
+emotion: Fear
+influences: Wallace And Gromit: The Curse Of The Were-Rabbit (2005)
+characters: Gromit
 
 # Description
 

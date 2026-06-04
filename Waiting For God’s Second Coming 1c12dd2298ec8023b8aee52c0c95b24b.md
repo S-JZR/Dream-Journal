@@ -1,12 +1,12 @@
 # Waiting For God’s Second Coming
 
-Favourite: No
-Date: January 1, 2013
-Last Edited: February 20, 2026 9:36 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Anticipation
-Influences: Christianity
+is_favourite: No
+is_nsfw: No
+date: January 1, 2013
+updated_at: February 20, 2026 9:36 PM
+type: Normal
+emotion: Anticipation
+influences: Christianity
 
 # Description
 

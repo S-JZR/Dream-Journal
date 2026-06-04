@@ -1,13 +1,13 @@
 # Exposing Demons In A Christian School
 
-Favourite: Yes
-Date: July 3, 2025
-Last Edited: February 20, 2026 11:34 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Christianity, Online Videos, Personal Experiences
-Real/Media Characters: Sarajah
+is_favourite: Yes
+is_nsfw: No
+date: July 3, 2025
+updated_at: February 20, 2026 11:34 PM
+type: Nightmare
+emotion: Surprise
+influences: Christianity, Online Videos, Personal Experiences
+characters: Sarajah
 
 # Description
 

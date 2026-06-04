@@ -1,13 +1,13 @@
 # Discovering A Fake Parade Audience
 
-Favourite: Yes
-Date: February 20, 2025
-Last Edited: February 24, 2026 2:44 AM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Online Videos
-Real/Media Characters: Family
+is_favourite: Yes
+is_nsfw: No
+date: February 20, 2025
+updated_at: February 24, 2026 2:44 AM
+type: Normal
+emotion: Surprise
+influences: Online Videos
+characters: Family
 
 # Description
 

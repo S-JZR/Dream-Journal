@@ -1,12 +1,12 @@
 # Road Trip Adventure Reflection
 
-Favourite: Yes
-Date: May 27, 2025
-Last Edited: February 20, 2026 6:47 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Experiences, Personal Thoughts, Road Trip Adventure (2002)
+is_favourite: Yes
+is_nsfw: No
+date: May 27, 2025
+updated_at: February 20, 2026 6:47 PM
+type: Normal
+emotion: Sad
+influences: Personal Experiences, Personal Thoughts, Road Trip Adventure (2002)
 
 # Description
 

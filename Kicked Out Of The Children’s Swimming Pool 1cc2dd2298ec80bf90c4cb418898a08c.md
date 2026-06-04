@@ -1,12 +1,12 @@
 # Kicked Out Of The Children’s Swimming Pool
 
-Favourite: No
-Date: April 1, 2025
-Last Edited: February 24, 2026 2:16 AM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Mr Bean (1990), Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: April 1, 2025
+updated_at: February 24, 2026 2:16 AM
+type: Normal
+emotion: Sad
+influences: Mr Bean (1990), Personal Experiences
 
 # Description
 

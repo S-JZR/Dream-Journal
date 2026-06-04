@@ -1,13 +1,13 @@
 # Friends Interrupt My Christian Infographic
 
-Favourite: No
-Date: August 29, 2025
-Last Edited: February 20, 2026 11:35 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Thoughts
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: August 29, 2025
+updated_at: February 20, 2026 11:35 PM
+type: Normal
+emotion: Sad
+influences: Personal Thoughts
+characters: Family
 
 # Description
 

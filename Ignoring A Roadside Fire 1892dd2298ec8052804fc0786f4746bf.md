@@ -1,12 +1,12 @@
 # Ignoring A Roadside Fire
 
-Favourite: Yes
-Date: July 6, 2024
-Last Edited: February 20, 2026 11:30 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Real/Media Characters: Family
+is_favourite: Yes
+is_nsfw: No
+date: July 6, 2024
+updated_at: February 20, 2026 11:30 PM
+type: Nightmare
+emotion: Sad
+characters: Family
 
 # Description
 

@@ -1,12 +1,12 @@
 # Hazmat Crew Cleans The School Toilets
 
-Favourite: No
-Date: April 18, 2024
-Last Edited: February 20, 2026 9:45 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: April 18, 2024
+updated_at: February 20, 2026 9:45 PM
+type: Normal
+emotion: Surprise
+influences: Personal Experiences
 
 # Description
 

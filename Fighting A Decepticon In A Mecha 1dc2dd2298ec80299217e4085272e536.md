@@ -1,12 +1,12 @@
 # Fighting A Decepticon In A Mecha
 
-Favourite: No
-Date: April 14, 2025
-Last Edited: February 20, 2026 9:54 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Anger
-Influences: Pacific Rim (2013), Transformers (1986)
+is_favourite: No
+is_nsfw: No
+date: April 14, 2025
+updated_at: February 20, 2026 9:54 PM
+type: Normal
+emotion: Anger
+influences: Pacific Rim (2013), Transformers (1986)
 
 # Description
 

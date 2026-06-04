@@ -1,12 +1,12 @@
 # Haunted Mansion Investigation Gone Wrong
 
-Favourite: No
-Date: June 11, 2025
-Last Edited: February 20, 2026 9:55 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: June 11, 2025
+updated_at: February 20, 2026 9:55 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Experiences
 
 # Description
 

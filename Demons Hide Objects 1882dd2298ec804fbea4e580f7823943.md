@@ -1,12 +1,12 @@
 # Demons Hide Objects
 
-Favourite: No
-Date: January 1, 2021
-Last Edited: February 20, 2026 9:41 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Christianity
+is_favourite: No
+is_nsfw: No
+date: January 1, 2021
+updated_at: February 20, 2026 9:41 PM
+type: Nightmare
+emotion: Fear
+influences: Christianity
 
 # Description
 

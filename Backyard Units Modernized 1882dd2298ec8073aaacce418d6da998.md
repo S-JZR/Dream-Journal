@@ -1,12 +1,12 @@
 # Backyard Units Modernized
 
-Favourite: Yes
-Date: January 1, 2014
-Last Edited: February 20, 2026 7:53 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Experiences
+is_favourite: Yes
+is_nsfw: No
+date: January 1, 2014
+updated_at: February 20, 2026 7:53 PM
+type: Normal
+emotion: Sad
+influences: Personal Experiences
 
 # Description
 

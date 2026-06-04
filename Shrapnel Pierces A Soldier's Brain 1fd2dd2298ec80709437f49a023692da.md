@@ -1,12 +1,12 @@
 # Shrapnel Pierces A Soldier's Brain
 
-Favourite: No
-Date: January 1, 2016
-Last Edited: February 20, 2026 9:37 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: January 1, 2016
+updated_at: February 20, 2026 9:37 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Experiences
 
 # Description
 

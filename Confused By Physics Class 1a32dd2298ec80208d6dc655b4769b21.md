@@ -1,13 +1,13 @@
 # Confused By Physics Class
 
-Favourite: No
-Date: April 18, 2024
-Last Edited: February 20, 2026 11:29 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Experiences
-Real/Media Characters: Brooke A, Patrick M
+is_favourite: No
+is_nsfw: No
+date: April 18, 2024
+updated_at: February 20, 2026 11:29 PM
+type: Nightmare
+emotion: Sad
+influences: Personal Experiences
+characters: Brooke A, Patrick M
 
 # Description
 

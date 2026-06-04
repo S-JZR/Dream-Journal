@@ -1,12 +1,12 @@
 # Rescuing My School From Terrorists
 
-Favourite: Yes
-Date: November 2, 2020
-Last Edited: February 20, 2026 9:40 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Happy
-Influences: SpongeBob SquarePants (1999)
+is_favourite: Yes
+is_nsfw: Yes
+date: November 2, 2020
+updated_at: June 4, 2026 9:07 PM
+type: Nightmare
+emotion: Happy
+influences: SpongeBob SquarePants (1999)
 
 # Description
 

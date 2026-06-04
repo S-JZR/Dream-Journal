@@ -1,12 +1,12 @@
 # Self-replicating Metal Bars Fill The Universe
 
-Favourite: Yes
-Date: January 1, 2017
-Last Edited: February 20, 2026 7:41 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Thoughts
+is_favourite: Yes
+is_nsfw: No
+date: January 1, 2017
+updated_at: February 20, 2026 7:41 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Thoughts
 
 # Description
 
