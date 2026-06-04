@@ -1,12 +1,12 @@
 # Warning Against Satan
 
-Favourite: No
-Date: January 1, 2005
-Last Edited: December 12, 2025 5:40 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Christianity
+is_favourite: No
+is_nsfw: No
+date: January 1, 2005
+updated_at: December 12, 2025 5:40 PM
+type: Normal
+emotion: Surprise
+influences: Christianity
 
 # Description
 

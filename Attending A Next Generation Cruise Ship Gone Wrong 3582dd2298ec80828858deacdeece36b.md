@@ -1,11 +1,11 @@
 # Attending A Next Generation Cruise Ship Gone Wrong
 
-Favourite: No
-Date: May 6, 2026
-Last Edited: May 6, 2026 4:53 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Surprise
+is_favourite: No
+is_nsfw: No
+date: May 6, 2026
+updated_at: May 6, 2026 4:53 PM
+type: Nightmare
+emotion: Surprise
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

@@ -1,13 +1,13 @@
 # Scary Sushi Impossible Difficulty
 
-Favourite: No
-Date: July 9, 2024
-Last Edited: February 20, 2026 11:30 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Scary Sushi (2024) (Roblox)
-Real/Media Characters: Hiroshi Kimura, Norman
+is_favourite: No
+is_nsfw: No
+date: July 9, 2024
+updated_at: February 20, 2026 11:30 PM
+type: Normal
+emotion: Happy
+influences: Scary Sushi (2024) (Roblox)
+characters: Hiroshi Kimura, Norman
 
 # Description
 

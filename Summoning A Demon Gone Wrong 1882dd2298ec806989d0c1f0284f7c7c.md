@@ -1,13 +1,13 @@
 # Summoning A Demon Gone Wrong
 
-Favourite: Yes
-Date: February 6, 2023
-Last Edited: February 20, 2026 11:28 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Fear
-Influences: Online Videos, Personal Experiences
-Real/Media Characters: Dejan C, Julien C, Michael C, Sam And Colby
+is_favourite: Yes
+is_nsfw: Yes
+date: February 6, 2023
+updated_at: June 4, 2026 9:07 PM
+type: Nightmare
+emotion: Fear
+influences: Online Videos, Personal Experiences
+characters: Dejan C, Julien C, Michael C, Sam And Colby
 
 # Description
 

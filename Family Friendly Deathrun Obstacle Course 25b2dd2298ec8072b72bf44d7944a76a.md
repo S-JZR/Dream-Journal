@@ -1,13 +1,13 @@
 # Family Friendly "Deathrun" Obstacle Course
 
-Favourite: No
-Date: August 26, 2025
-Last Edited: February 20, 2026 11:35 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Minecraft (2009), Team Fortress 2 (2007)
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: August 26, 2025
+updated_at: February 20, 2026 11:35 PM
+type: Normal
+emotion: Surprise
+influences: Minecraft (2009), Team Fortress 2 (2007)
+characters: Family
 
 # Description
 

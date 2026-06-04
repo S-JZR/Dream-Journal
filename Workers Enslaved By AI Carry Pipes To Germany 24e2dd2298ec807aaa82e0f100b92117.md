@@ -1,13 +1,13 @@
 # Workers Enslaved By AI Carry Pipes To Germany
 
-Favourite: No
-Date: August 6, 2025
-Last Edited: February 20, 2026 11:35 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Mad God (2021)
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: August 6, 2025
+updated_at: February 20, 2026 11:35 PM
+type: Nightmare
+emotion: Surprise
+influences: Mad God (2021)
+characters: Family
 
 # Description
 

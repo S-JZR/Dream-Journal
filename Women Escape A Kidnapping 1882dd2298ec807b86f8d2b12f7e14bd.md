@@ -1,12 +1,12 @@
 # Women Escape A Kidnapping
 
-Favourite: Yes
-Date: January 1, 2014
-Last Edited: February 20, 2026 9:37 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Fear
-Influences: Personal Experiences
+is_favourite: Yes
+is_nsfw: Yes
+date: January 1, 2014
+updated_at: June 4, 2026 9:00 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Experiences
 
 # Description
 

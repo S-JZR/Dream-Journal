@@ -1,12 +1,12 @@
 # Hawaii Vacation Gone Wrong
 
-Favourite: Yes
-Date: November 25, 2021
-Last Edited: February 20, 2026 11:28 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Anger
-Real/Media Characters: Family
+is_favourite: Yes
+is_nsfw: No
+date: November 25, 2021
+updated_at: February 20, 2026 11:28 PM
+type: Normal
+emotion: Anger
+characters: Family
 
 # Description
 

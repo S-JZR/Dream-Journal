@@ -1,12 +1,12 @@
 # Fascist Anti-Dictator Propaganda Commercial
 
-Favourite: Yes
-Date: January 13, 2025
-Last Edited: February 20, 2026 9:49 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Anger
-Influences: Personal Thoughts
+is_favourite: Yes
+is_nsfw: No
+date: January 13, 2025
+updated_at: February 20, 2026 9:49 PM
+type: Normal
+emotion: Anger
+influences: Personal Thoughts
 
 # Description
 

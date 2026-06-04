@@ -1,12 +1,12 @@
 # Becoming A Millionaire Via The Stock Market
 
-Favourite: No
-Date: January 1, 2014
-Last Edited: December 12, 2025 5:56 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: January 1, 2014
+updated_at: December 12, 2025 5:56 PM
+type: Normal
+emotion: Happy
+influences: Personal Experiences
 
 # Description
 

@@ -1,12 +1,12 @@
 # Art Museum Excursion Gone Wrong
 
-Favourite: No
-Date: February 28, 2025
-Last Edited: February 20, 2026 9:52 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: February 28, 2025
+updated_at: February 20, 2026 9:52 PM
+type: Normal
+emotion: Happy
+influences: Personal Experiences
 
 # Description
 

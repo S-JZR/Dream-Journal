@@ -1,13 +1,13 @@
 # Man Dies While Fighting The Mafia And Goes To Hell
 
-Favourite: Yes
-Date: January 15, 2025
-Last Edited: February 21, 2026 11:18 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Team Fortress 2 (2007)
-Real/Media Characters: Saxton Hale
+is_favourite: Yes
+is_nsfw: No
+date: January 15, 2025
+updated_at: February 21, 2026 11:18 PM
+type: Nightmare
+emotion: Surprise
+influences: Team Fortress 2 (2007)
+characters: Saxton Hale
 
 # Description
 

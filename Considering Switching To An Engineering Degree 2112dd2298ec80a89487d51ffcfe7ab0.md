@@ -1,12 +1,12 @@
 # Considering Switching To An Engineering Degree
 
-Favourite: No
-Date: June 11, 2025
-Last Edited: December 22, 2025 3:44 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Thoughts
+is_favourite: No
+is_nsfw: No
+date: June 11, 2025
+updated_at: December 22, 2025 3:44 PM
+type: Normal
+emotion: Sad
+influences: Personal Thoughts
 
 # Description
 

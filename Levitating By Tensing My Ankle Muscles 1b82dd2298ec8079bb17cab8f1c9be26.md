@@ -1,11 +1,11 @@
 # Levitating By Tensing My Ankle Muscles
 
-Favourite: No
-Date: January 1, 2018
-Last Edited: February 20, 2026 7:53 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
+is_favourite: No
+is_nsfw: No
+date: January 1, 2018
+updated_at: February 20, 2026 7:53 PM
+type: Normal
+emotion: Surprise
 
 # Description
 

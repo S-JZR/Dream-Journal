@@ -1,12 +1,12 @@
 # Visiting A 20 Storey Shopping Mall
 
-Favourite: No
-Date: January 25, 2020
-Last Edited: February 20, 2026 11:25 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: January 25, 2020
+updated_at: February 20, 2026 11:25 PM
+type: Normal
+emotion: Fear
+characters: Family
 
 # Description
 

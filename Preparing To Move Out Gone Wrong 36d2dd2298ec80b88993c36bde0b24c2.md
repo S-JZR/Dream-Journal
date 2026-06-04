@@ -1,12 +1,12 @@
 # Preparing To Move Out Gone Wrong
 
-Favourite: No
-Date: May 27, 2026
-Last Edited: May 27, 2026 5:31 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: May 27, 2026
+updated_at: May 27, 2026 5:31 PM
+type: Nightmare
+emotion: Sad
+characters: Family
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

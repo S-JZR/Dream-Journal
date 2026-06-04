@@ -1,13 +1,13 @@
 # Dissatisfied With University And Abused By Staff
 
-Favourite: Yes
-Date: March 4, 2025
-Last Edited: February 24, 2026 1:34 AM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Anger
-Influences: News, Personal Experiences
-Real/Media Characters: Dejan C, Tom B
+is_favourite: Yes
+is_nsfw: No
+date: March 4, 2025
+updated_at: February 24, 2026 1:34 AM
+type: Nightmare
+emotion: Anger
+influences: News, Personal Experiences
+characters: Dejan C, Tom B
 
 # Description
 

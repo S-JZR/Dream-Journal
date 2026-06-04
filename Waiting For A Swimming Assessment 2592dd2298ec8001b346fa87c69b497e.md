@@ -1,11 +1,11 @@
 # Waiting For A Swimming Assessment
 
-Favourite: No
-Date: August 23, 2025
-Last Edited: February 20, 2026 10:03 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
+is_favourite: No
+is_nsfw: No
+date: August 23, 2025
+updated_at: February 20, 2026 10:03 PM
+type: Normal
+emotion: Sad
 
 # Description
 

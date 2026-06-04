@@ -1,12 +1,12 @@
 # Storm Drenches Clothes Left Outside
 
-Favourite: No
-Date: April 7, 2025
-Last Edited: February 24, 2026 2:36 AM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: April 7, 2025
+updated_at: February 24, 2026 2:36 AM
+type: Normal
+emotion: Sad
+characters: Family
 
 # Description
 

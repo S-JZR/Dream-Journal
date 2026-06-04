@@ -1,13 +1,13 @@
 # Hiding From Slenderman On The Sofa
 
-Favourite: No
-Date: January 1, 2013
-Last Edited: February 20, 2026 11:22 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Slender: The Eight Pages (2012)
-Real/Media Characters: Slenderman
+is_favourite: No
+is_nsfw: No
+date: January 1, 2013
+updated_at: February 20, 2026 11:22 PM
+type: Nightmare
+emotion: Fear
+influences: Slender: The Eight Pages (2012)
+characters: Slenderman
 
 # Description
 

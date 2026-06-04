@@ -1,11 +1,11 @@
 # Woman Journeys Through A Cave System-like Organism
 
-Favourite: No
-Date: January 1, 2005
-Last Edited: February 20, 2026 9:36 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: January 1, 2005
+updated_at: February 20, 2026 9:36 PM
+type: Nightmare
+emotion: Fear
 
 # Description
 

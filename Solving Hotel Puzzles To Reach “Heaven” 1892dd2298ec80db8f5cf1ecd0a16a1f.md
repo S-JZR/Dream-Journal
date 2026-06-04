@@ -1,12 +1,12 @@
 # Solving Hotel Puzzles To Reach “Heaven”
 
-Favourite: No
-Date: July 5, 2024
-Last Edited: February 20, 2026 9:47 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: The Pilgrim's Progress (1678)
+is_favourite: No
+is_nsfw: No
+date: July 5, 2024
+updated_at: February 20, 2026 9:47 PM
+type: Normal
+emotion: Happy
+influences: The Pilgrim's Progress (1678)
 
 # Description
 

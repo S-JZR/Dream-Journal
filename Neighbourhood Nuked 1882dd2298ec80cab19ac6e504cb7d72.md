@@ -1,13 +1,13 @@
 # Neighbourhood Nuked
 
-Favourite: No
-Date: January 1, 2017
-Last Edited: February 21, 2026 6:46 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Indiana Jones And The Kingdom Of The Crystal Skull (2008)
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: January 1, 2017
+updated_at: February 21, 2026 6:46 PM
+type: Nightmare
+emotion: Fear
+influences: Indiana Jones And The Kingdom Of The Crystal Skull (2008)
+characters: Family
 
 # Description
 

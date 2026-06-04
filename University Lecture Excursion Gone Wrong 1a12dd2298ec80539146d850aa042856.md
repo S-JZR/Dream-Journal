@@ -1,13 +1,13 @@
 # University Lecture Excursion Gone Wrong
 
-Favourite: Yes
-Date: February 19, 2025
-Last Edited: February 20, 2026 11:32 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Experiences
-Real/Media Characters: Mrs Brown
+is_favourite: Yes
+is_nsfw: No
+date: February 19, 2025
+updated_at: February 20, 2026 11:32 PM
+type: Nightmare
+emotion: Sad
+influences: Personal Experiences
+characters: Mrs Brown
 
 # Description
 

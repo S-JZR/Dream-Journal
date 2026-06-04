@@ -1,13 +1,13 @@
 # Getting An X-Ray In An Abandoned Hotel
 
-Favourite: No
-Date: May 29, 2025
-Last Edited: February 20, 2026 11:34 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: May 29, 2025
+updated_at: February 20, 2026 11:34 PM
+type: Normal
+emotion: Fear
+influences: Personal Experiences
+characters: Family
 
 # Description
 

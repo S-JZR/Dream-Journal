@@ -1,7 +1,8 @@
 # Untitled
 
-Favourite: No
-Last Edited: May 3, 2026 5:15 PM
+is_favourite: No
+is_nsfw: No
+updated_at: May 3, 2026 5:15 PM
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

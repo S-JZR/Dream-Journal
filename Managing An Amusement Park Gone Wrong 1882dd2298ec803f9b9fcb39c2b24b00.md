@@ -1,13 +1,13 @@
 # Managing An Amusement Park Gone Wrong
 
-Favourite: No
-Date: December 17, 2020
-Last Edited: February 20, 2026 11:26 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Rugrats (1991), The Adventures Of Jimmy Neutron Boy Genius (2002)
-Real/Media Characters: Jimmy Neutron, Tommy Pickles
+is_favourite: No
+is_nsfw: No
+date: December 17, 2020
+updated_at: February 20, 2026 11:26 PM
+type: Normal
+emotion: Happy
+influences: Rugrats (1991), The Adventures Of Jimmy Neutron Boy Genius (2002)
+characters: Jimmy Neutron, Tommy Pickles
 
 # Description
 

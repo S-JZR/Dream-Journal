@@ -1,13 +1,13 @@
 # Promoted To Admin In A Towny Minecraft Server
 
-Favourite: No
-Date: January 1, 2014
-Last Edited: February 20, 2026 11:22 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Minecraft (2009)
-Real/Media Characters: RobyWounder
+is_favourite: No
+is_nsfw: No
+date: January 1, 2014
+updated_at: February 20, 2026 11:22 PM
+type: Normal
+emotion: Happy
+influences: Minecraft (2009)
+characters: RobyWounder
 
 # Description
 

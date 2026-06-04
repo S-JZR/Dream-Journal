@@ -1,11 +1,11 @@
 # Rescuing Clothes Outside During A Surprise Flood
 
-Favourite: No
-Date: May 16, 2026
-Last Edited: May 16, 2026 3:52 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
+is_favourite: No
+is_nsfw: No
+date: May 16, 2026
+updated_at: May 16, 2026 3:52 PM
+type: Normal
+emotion: Surprise
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

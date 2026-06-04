@@ -1,12 +1,12 @@
 # Scavenging An Abandoned Underground Facility
 
-Favourite: No
-Date: November 29, 2023
-Last Edited: February 20, 2026 9:43 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Lethal Company (2023)
+is_favourite: No
+is_nsfw: No
+date: November 29, 2023
+updated_at: February 20, 2026 9:43 PM
+type: Nightmare
+emotion: Fear
+influences: Lethal Company (2023)
 
 # Description
 

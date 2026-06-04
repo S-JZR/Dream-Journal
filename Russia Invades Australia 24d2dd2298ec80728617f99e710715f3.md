@@ -1,12 +1,12 @@
 # Russia Invades Australia
 
-Favourite: No
-Date: August 12, 2025
-Last Edited: February 20, 2026 10:03 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: News
+is_favourite: No
+is_nsfw: No
+date: August 12, 2025
+updated_at: February 20, 2026 10:03 PM
+type: Nightmare
+emotion: Fear
+influences: News
 
 # Description
 

@@ -1,11 +1,11 @@
 # Secret Agents Flee A Store Held Hostage By Criminals
 
-Favourite: No
-Date: May 19, 2026
-Last Edited: May 19, 2026 5:21 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: May 19, 2026
+updated_at: May 19, 2026 5:21 PM
+type: Nightmare
+emotion: Fear
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

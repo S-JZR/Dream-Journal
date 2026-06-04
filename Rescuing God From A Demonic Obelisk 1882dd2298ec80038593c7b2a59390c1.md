@@ -1,13 +1,13 @@
 # Rescuing God From A Demonic Obelisk
 
-Favourite: Yes
-Date: January 1, 2017
-Last Edited: February 21, 2026 10:00 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Thoughts
-Real/Media Characters: Dejan C, God (Christianity), Michael C
+is_favourite: Yes
+is_nsfw: No
+date: January 1, 2017
+updated_at: February 21, 2026 10:00 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Thoughts
+characters: Dejan C, God (Christianity), Michael C
 
 # Description
 

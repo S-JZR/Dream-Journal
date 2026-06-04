@@ -1,11 +1,11 @@
 # Occult Meeting Gone Wrong
 
-Favourite: No
-Date: September 25, 2024
-Last Edited: February 20, 2026 9:47 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: September 25, 2024
+updated_at: February 20, 2026 9:47 PM
+type: Nightmare
+emotion: Fear
 
 # Description
 

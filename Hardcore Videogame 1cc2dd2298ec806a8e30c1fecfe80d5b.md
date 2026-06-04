@@ -1,13 +1,13 @@
 # Hardcore Videogame
 
-Favourite: No
-Date: April 4, 2025
-Last Edited: February 20, 2026 11:33 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Online Videos, Team Fortress 2 (2007)
-Real/Media Characters: Vanoss Crew
+is_favourite: No
+is_nsfw: No
+date: April 4, 2025
+updated_at: February 20, 2026 11:33 PM
+type: Normal
+emotion: Happy
+influences: Online Videos, Team Fortress 2 (2007)
+characters: Vanoss Crew
 
 # Description
 

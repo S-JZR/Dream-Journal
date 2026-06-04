@@ -1,12 +1,12 @@
 # Robots Assault A Sci-Fi Base
 
-Favourite: No
-Date: January 1, 2015
-Last Edited: May 7, 2026 5:31 AM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: January 1, 2015
+updated_at: May 7, 2026 5:31 AM
+type: Normal
+emotion: Surprise
+influences: Personal Experiences
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

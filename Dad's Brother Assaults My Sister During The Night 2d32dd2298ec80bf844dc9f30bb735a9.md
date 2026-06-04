@@ -1,13 +1,13 @@
 # Dad's Brother Assaults My Sister During The Night
 
-Favourite: No
-Date: November 14, 2025
-Last Edited: February 20, 2026 11:55 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences
-Real/Media Characters: Family, Jack R
+is_favourite: No
+is_nsfw: No
+date: November 14, 2025
+updated_at: February 20, 2026 11:55 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Experiences
+characters: Family, Jack R
 
 # Description
 

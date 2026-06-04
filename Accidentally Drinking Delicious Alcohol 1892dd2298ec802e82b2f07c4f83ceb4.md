@@ -1,12 +1,12 @@
 # Accidentally Drinking Delicious Alcohol
 
-Favourite: No
-Date: April 19, 2024
-Last Edited: February 20, 2026 11:29 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: April 19, 2024
+updated_at: February 20, 2026 11:29 PM
+type: Normal
+emotion: Surprise
+characters: Family
 
 # Description
 

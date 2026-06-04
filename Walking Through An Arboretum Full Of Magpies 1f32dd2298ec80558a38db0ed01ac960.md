@@ -1,11 +1,11 @@
 # Walking Through An Arboretum Full Of Magpies
 
-Favourite: No
-Date: January 11, 2020
-Last Edited: February 20, 2026 9:40 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: January 11, 2020
+updated_at: February 20, 2026 9:40 PM
+type: Nightmare
+emotion: Fear
 
 # Description
 

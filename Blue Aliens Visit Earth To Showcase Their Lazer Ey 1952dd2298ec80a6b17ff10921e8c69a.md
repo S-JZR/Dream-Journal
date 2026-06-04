@@ -1,12 +1,12 @@
 # Blue Aliens Visit Earth To Showcase Their Lazer Eyes
 
-Favourite: No
-Date: February 5, 2025
-Last Edited: February 20, 2026 9:50 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Fantastic Planet (1973)
+is_favourite: No
+is_nsfw: No
+date: February 5, 2025
+updated_at: February 20, 2026 9:50 PM
+type: Normal
+emotion: Happy
+influences: Fantastic Planet (1973)
 
 # Description
 

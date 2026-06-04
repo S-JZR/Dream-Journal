@@ -1,13 +1,13 @@
 # Late For Exams
 
-Favourite: No
-Date: November 29, 2025
-Last Edited: February 20, 2026 11:37 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: November 29, 2025
+updated_at: February 20, 2026 11:37 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Experiences
+characters: Family
 
 # Description
 

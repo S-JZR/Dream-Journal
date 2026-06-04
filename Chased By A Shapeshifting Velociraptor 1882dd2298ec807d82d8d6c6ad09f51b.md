@@ -1,12 +1,12 @@
 # Chased By A Shapeshifting Velociraptor
 
-Favourite: No
-Date: November 23, 2020
-Last Edited: February 20, 2026 9:41 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Jerry Andrus’s Dragon Illusion
+is_favourite: No
+is_nsfw: No
+date: November 23, 2020
+updated_at: February 20, 2026 9:41 PM
+type: Nightmare
+emotion: Fear
+influences: Jerry Andrus’s Dragon Illusion
 
 # Description
 

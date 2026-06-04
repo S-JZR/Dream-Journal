@@ -1,12 +1,12 @@
 # Bullet Ricochet Self-Defence Training
 
-Favourite: No
-Date: January 28, 2021
-Last Edited: February 20, 2026 11:28 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Dejan C
+is_favourite: No
+is_nsfw: No
+date: January 28, 2021
+updated_at: February 20, 2026 11:28 PM
+type: Normal
+emotion: Fear
+characters: Dejan C
 
 # Description
 

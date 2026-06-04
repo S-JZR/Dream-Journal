@@ -1,12 +1,12 @@
 # Hall Seating Construction Gone Wrong
 
-Favourite: No
-Date: September 6, 2024
-Last Edited: February 20, 2026 11:30 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Brooke M, Jared K
+is_favourite: No
+is_nsfw: No
+date: September 6, 2024
+updated_at: February 20, 2026 11:30 PM
+type: Nightmare
+emotion: Fear
+characters: Brooke M, Jared K
 
 # Description
 

@@ -1,11 +1,11 @@
 # Entering A School Assembly While A Teacher Tries To Conduct A Survey
 
-Favourite: No
-Date: March 8, 2026
-Last Edited: May 3, 2026 5:17 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Anger
+is_favourite: No
+is_nsfw: No
+date: March 8, 2026
+updated_at: May 3, 2026 5:17 PM
+type: Normal
+emotion: Anger
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

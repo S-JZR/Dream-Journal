@@ -1,12 +1,12 @@
 # A Man Sings A Call To Repentance
 
-Favourite: No
-Date: July 18, 2025
-Last Edited: February 20, 2026 10:02 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Mad God (2021)
+is_favourite: No
+is_nsfw: No
+date: July 18, 2025
+updated_at: February 20, 2026 10:02 PM
+type: Normal
+emotion: Surprise
+influences: Mad God (2021)
 
 # Description
 

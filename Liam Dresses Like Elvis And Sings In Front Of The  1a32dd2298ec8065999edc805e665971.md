@@ -1,13 +1,13 @@
 # Liam Dresses Like Elvis And Sings In Front Of The School
 
-Favourite: No
-Date: February 7, 2025
-Last Edited: February 22, 2026 12:07 AM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: News
-Real/Media Characters: Liam B
+is_favourite: No
+is_nsfw: No
+date: February 7, 2025
+updated_at: February 22, 2026 12:07 AM
+type: Normal
+emotion: Happy
+influences: News
+characters: Liam B
 
 # Description
 

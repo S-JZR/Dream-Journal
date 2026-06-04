@@ -1,12 +1,12 @@
 # Dad Makes A Cake Out Of Honeycomb
 
-Favourite: No
-Date: September 16, 2025
-Last Edited: February 20, 2026 11:36 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Disgust
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: Yes
+date: September 16, 2025
+updated_at: June 4, 2026 9:08 PM
+type: Nightmare
+emotion: Disgust
+characters: Family
 
 # Description
 

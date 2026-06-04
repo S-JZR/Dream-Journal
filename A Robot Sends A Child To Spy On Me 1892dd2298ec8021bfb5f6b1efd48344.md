@@ -1,13 +1,13 @@
 # A Robot Sends A Child To Spy On Me
 
-Favourite: No
-Date: December 16, 2024
-Last Edited: February 20, 2026 11:31 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: News, Online Videos
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: December 16, 2024
+updated_at: February 20, 2026 11:31 PM
+type: Nightmare
+emotion: Fear
+influences: News, Online Videos
+characters: Family
 
 # Description
 

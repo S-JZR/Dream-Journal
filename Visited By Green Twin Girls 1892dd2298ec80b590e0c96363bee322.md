@@ -1,13 +1,13 @@
 # Visited By Green Twin Girls
 
-Favourite: No
-Date: March 14, 2024
-Last Edited: February 20, 2026 11:29 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Christianity, The Shining (1980)
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: March 14, 2024
+updated_at: February 20, 2026 11:29 PM
+type: Nightmare
+emotion: Fear
+influences: Christianity, The Shining (1980)
+characters: Family
 
 # Description
 

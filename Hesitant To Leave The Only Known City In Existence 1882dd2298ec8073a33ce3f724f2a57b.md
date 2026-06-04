@@ -1,12 +1,12 @@
 # Hesitant To Leave The Only Known City In Existence
 
-Favourite: Yes
-Date: January 1, 2017
-Last Edited: February 21, 2026 10:06 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Thoughts
+is_favourite: Yes
+is_nsfw: No
+date: January 1, 2017
+updated_at: February 21, 2026 10:06 PM
+type: Normal
+emotion: Fear
+influences: Personal Thoughts
 
 # Description
 

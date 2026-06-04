@@ -1,12 +1,12 @@
 # Creating Planets With Civilizations Gone Wrong
 
-Favourite: Yes
-Date: June 4, 2026
-Last Edited: June 4, 2026 6:21 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Real/Media Characters: Jordan Peterson
+is_favourite: Yes
+is_nsfw: No
+date: June 4, 2026
+updated_at: June 4, 2026 6:21 PM
+type: Nightmare
+emotion: Sad
+characters: Jordan Peterson
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

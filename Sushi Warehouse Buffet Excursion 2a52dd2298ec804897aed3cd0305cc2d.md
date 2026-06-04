@@ -1,11 +1,11 @@
 # Sushi Warehouse Buffet Excursion
 
-Favourite: No
-Date: November 6, 2025
-Last Edited: February 20, 2026 10:05 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: November 6, 2025
+updated_at: February 20, 2026 10:05 PM
+type: Normal
+emotion: Fear
 
 # Description
 

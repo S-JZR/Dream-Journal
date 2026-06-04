@@ -1,13 +1,13 @@
 # PewDiePie Moves Into My Neighbourhood
 
-Favourite: No
-Date: December 9, 2020
-Last Edited: February 20, 2026 11:26 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Embarrassment
-Influences: Online Videos
-Real/Media Characters: PewDiePie
+is_favourite: No
+is_nsfw: No
+date: December 9, 2020
+updated_at: February 20, 2026 11:26 PM
+type: Normal
+emotion: Embarrassment
+influences: Online Videos
+characters: PewDiePie
 
 # Description
 

@@ -1,11 +1,11 @@
 # Confronting Child Thieves
 
-Favourite: No
-Date: November 4, 2025
-Last Edited: February 20, 2026 10:05 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Anger
+is_favourite: No
+is_nsfw: No
+date: November 4, 2025
+updated_at: February 20, 2026 10:05 PM
+type: Nightmare
+emotion: Anger
 
 # Description
 

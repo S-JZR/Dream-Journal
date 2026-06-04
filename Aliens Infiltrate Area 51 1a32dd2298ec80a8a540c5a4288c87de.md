@@ -1,12 +1,12 @@
 # Aliens Infiltrate Area 51
 
-Favourite: No
-Date: November 2, 2020
-Last Edited: February 20, 2026 9:40 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Metal Arms Glitch In The System (2003)
+is_favourite: No
+is_nsfw: No
+date: November 2, 2020
+updated_at: February 20, 2026 9:40 PM
+type: Nightmare
+emotion: Fear
+influences: Metal Arms Glitch In The System (2003)
 
 # Description
 

@@ -1,12 +1,12 @@
 # Self-Aware Sleep Talking
 
-Favourite: Yes
-Date: January 1, 2010
-Last Edited: February 20, 2026 11:22 PM
-Type: Half-Asleep
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Family
+is_favourite: Yes
+is_nsfw: No
+date: January 1, 2010
+updated_at: February 20, 2026 11:22 PM
+type: Half-Asleep
+emotion: Fear
+characters: Family
 
 # Description
 

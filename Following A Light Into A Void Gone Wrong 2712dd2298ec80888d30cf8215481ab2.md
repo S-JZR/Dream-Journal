@@ -1,12 +1,12 @@
 # Following A Light Into A Void Gone Wrong
 
-Favourite: Yes
-Date: September 17, 2025
-Last Edited: February 26, 2026 4:00 AM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences, Personal Thoughts
+is_favourite: Yes
+is_nsfw: No
+date: September 17, 2025
+updated_at: February 26, 2026 4:00 AM
+type: Nightmare
+emotion: Fear
+influences: Personal Experiences, Personal Thoughts
 
 # Description
 

@@ -1,13 +1,13 @@
 # Water Park Excursion Gone Wrong
 
-Favourite: No
-Date: December 4, 2025
-Last Edited: February 20, 2026 11:38 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Fear
-Influences: Personal Experiences
-Real/Media Characters: Jayden M, Mrs Brown, Steven M
+is_favourite: No
+is_nsfw: Yes
+date: December 4, 2025
+updated_at: June 4, 2026 9:08 PM
+type: Nightmare
+emotion: Fear
+influences: Personal Experiences
+characters: Jayden M, Mrs Brown, Steven M
 
 # Description
 

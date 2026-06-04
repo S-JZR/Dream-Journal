@@ -1,13 +1,13 @@
 # Heavy Fuels A Train To Escape Dragons
 
-Favourite: No
-Date: January 22, 2024
-Last Edited: February 20, 2026 11:29 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Team Fortress 2 (2007)
-Real/Media Characters: Heavy
+is_favourite: No
+is_nsfw: No
+date: January 22, 2024
+updated_at: February 20, 2026 11:29 PM
+type: Nightmare
+emotion: Fear
+influences: Team Fortress 2 (2007)
+characters: Heavy
 
 # Description
 

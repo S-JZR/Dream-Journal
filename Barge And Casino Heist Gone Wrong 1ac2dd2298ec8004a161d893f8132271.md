@@ -1,11 +1,11 @@
 # Barge And Casino Heist Gone Wrong
 
-Favourite: No
-Date: February 28, 2025
-Last Edited: February 20, 2026 9:52 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: February 28, 2025
+updated_at: February 20, 2026 9:52 PM
+type: Normal
+emotion: Fear
 
 # Description
 

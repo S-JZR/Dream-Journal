@@ -1,12 +1,12 @@
 # Reenabling Sofa Cushions
 
-Favourite: No
-Date: September 5, 2025
-Last Edited: February 20, 2026 11:35 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: September 5, 2025
+updated_at: February 20, 2026 11:35 PM
+type: Normal
+emotion: Surprise
+characters: Family
 
 # Description
 

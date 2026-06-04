@@ -1,13 +1,13 @@
 # Chinese Market Gone Wrong
 
-Favourite: No
-Date: September 22, 2025
-Last Edited: February 20, 2026 11:36 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Anger
-Influences: News
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: September 22, 2025
+updated_at: February 20, 2026 11:36 PM
+type: Normal
+emotion: Anger
+influences: News
+characters: Family
 
 # Description
 

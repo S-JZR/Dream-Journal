@@ -1,13 +1,13 @@
 # Food Court Excursion Gone Wrong
 
-Favourite: No
-Date: April 5, 2025
-Last Edited: February 20, 2026 11:33 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Personal Experiences
-Real/Media Characters: Rhiannon C
+is_favourite: No
+is_nsfw: No
+date: April 5, 2025
+updated_at: February 20, 2026 11:33 PM
+type: Normal
+emotion: Surprise
+influences: Personal Experiences
+characters: Rhiannon C
 
 # Description
 

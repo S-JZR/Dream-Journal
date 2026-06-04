@@ -1,11 +1,11 @@
 # Hostage Negotiation Temporary Swap
 
-Favourite: No
-Date: March 17, 2024
-Last Edited: February 20, 2026 9:44 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: March 17, 2024
+updated_at: February 20, 2026 9:44 PM
+type: Normal
+emotion: Fear
 
 # Description
 

@@ -1,11 +1,11 @@
 # Mistakenly Thinking There Was A Demon In An Apartment
 
-Favourite: No
-Date: January 1, 2025
-Last Edited: February 20, 2026 9:49 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: January 1, 2025
+updated_at: February 20, 2026 9:49 PM
+type: Nightmare
+emotion: Fear
 
 # Description
 

@@ -1,13 +1,13 @@
 # Discussing God’s Eternal Vigilance With Elderly People
 
-Favourite: No
-Date: July 10, 2020
-Last Edited: February 20, 2026 11:25 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Christianity, Personal Thoughts
-Real/Media Characters: Julien C
+is_favourite: No
+is_nsfw: No
+date: July 10, 2020
+updated_at: February 20, 2026 11:25 PM
+type: Normal
+emotion: Surprise
+influences: Christianity, Personal Thoughts
+characters: Julien C
 
 # Description
 

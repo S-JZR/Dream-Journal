@@ -1,13 +1,13 @@
 # The Flintstones During The Great Depression
 
-Favourite: No
-Date: November 20, 2025
-Last Edited: February 20, 2026 11:37 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: The Flintstones (1960)
-Real/Media Characters: Barney Rubble, Fred Flintstone
+is_favourite: No
+is_nsfw: No
+date: November 20, 2025
+updated_at: February 20, 2026 11:37 PM
+type: Normal
+emotion: Surprise
+influences: The Flintstones (1960)
+characters: Barney Rubble, Fred Flintstone
 
 # Description
 

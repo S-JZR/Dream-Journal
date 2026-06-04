@@ -1,12 +1,12 @@
 # Autistic Brother Runs Away From Home
 
-Favourite: No
-Date: January 10, 2023
-Last Edited: February 20, 2026 9:42 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Star Wars Battlefront II (2017)
+is_favourite: No
+is_nsfw: No
+date: January 10, 2023
+updated_at: February 20, 2026 9:42 PM
+type: Normal
+emotion: Fear
+influences: Star Wars Battlefront II (2017)
 
 # Description
 

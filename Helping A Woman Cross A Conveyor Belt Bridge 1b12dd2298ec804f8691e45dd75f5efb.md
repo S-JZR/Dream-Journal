@@ -1,11 +1,11 @@
 # Helping A Woman Cross A Conveyor Belt Bridge
 
-Favourite: No
-Date: March 5, 2025
-Last Edited: February 24, 2026 1:37 AM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
+is_favourite: No
+is_nsfw: No
+date: March 5, 2025
+updated_at: February 24, 2026 1:37 AM
+type: Normal
+emotion: Happy
 
 # Description
 

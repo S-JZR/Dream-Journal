@@ -1,12 +1,12 @@
 # Squad Assaults Futuristic Fortress
 
-Favourite: No
-Date: January 28, 2021
-Last Edited: February 20, 2026 9:42 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Overwatch (2016), Team Fortress 2 (2007)
+is_favourite: No
+is_nsfw: No
+date: January 28, 2021
+updated_at: February 20, 2026 9:42 PM
+type: Normal
+emotion: Happy
+influences: Overwatch (2016), Team Fortress 2 (2007)
 
 # Description
 

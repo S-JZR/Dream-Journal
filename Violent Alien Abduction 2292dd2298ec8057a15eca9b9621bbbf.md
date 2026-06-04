@@ -1,11 +1,11 @@
 # Violent Alien Abduction
 
-Favourite: No
-Date: January 1, 2013
-Last Edited: February 20, 2026 9:36 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: Yes
+date: January 1, 2013
+updated_at: June 4, 2026 9:00 PM
+type: Nightmare
+emotion: Fear
 
 # Description
 

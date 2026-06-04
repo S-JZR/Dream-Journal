@@ -1,12 +1,12 @@
 # Shrunken Submarine Inside A Human Body
 
-Favourite: No
-Date: January 16, 2024
-Last Edited: February 20, 2026 9:43 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Innerspace (1987)
+is_favourite: No
+is_nsfw: No
+date: January 16, 2024
+updated_at: February 20, 2026 9:43 PM
+type: Normal
+emotion: Fear
+influences: Innerspace (1987)
 
 # Description
 

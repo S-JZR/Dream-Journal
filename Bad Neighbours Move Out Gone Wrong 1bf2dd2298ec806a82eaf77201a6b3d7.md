@@ -1,13 +1,13 @@
 # Bad Neighbours Move Out Gone Wrong
 
-Favourite: No
-Date: March 22, 2025
-Last Edited: February 20, 2026 11:33 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Personal Experiences
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: March 22, 2025
+updated_at: February 20, 2026 11:33 PM
+type: Normal
+emotion: Fear
+influences: Personal Experiences
+characters: Family
 
 # Description
 

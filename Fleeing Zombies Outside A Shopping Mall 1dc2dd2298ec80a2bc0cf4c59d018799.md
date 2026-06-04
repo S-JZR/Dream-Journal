@@ -1,12 +1,12 @@
 # Fleeing Zombies Outside A Shopping Mall
 
-Favourite: No
-Date: April 16, 2025
-Last Edited: February 20, 2026 11:33 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: April 16, 2025
+updated_at: February 20, 2026 11:33 PM
+type: Nightmare
+emotion: Fear
+characters: Family
 
 # Description
 

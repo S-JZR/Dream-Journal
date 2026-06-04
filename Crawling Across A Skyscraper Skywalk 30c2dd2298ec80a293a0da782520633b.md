@@ -1,11 +1,11 @@
 # Crawling Across A Skyscraper Skywalk
 
-Favourite: No
-Date: January 1, 2013
-Last Edited: May 7, 2026 5:30 AM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: January 1, 2013
+updated_at: May 7, 2026 5:30 AM
+type: Nightmare
+emotion: Fear
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

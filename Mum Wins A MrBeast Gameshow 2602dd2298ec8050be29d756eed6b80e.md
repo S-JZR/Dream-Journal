@@ -1,13 +1,13 @@
 # Mum Wins A MrBeast Gameshow
 
-Favourite: No
-Date: August 30, 2025
-Last Edited: February 20, 2026 11:35 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Online Videos
-Real/Media Characters: Family, MrBeast
+is_favourite: No
+is_nsfw: No
+date: August 30, 2025
+updated_at: February 20, 2026 11:35 PM
+type: Normal
+emotion: Fear
+influences: Online Videos
+characters: Family, MrBeast
 
 # Description
 

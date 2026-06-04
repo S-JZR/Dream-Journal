@@ -1,13 +1,13 @@
 # Ghost Hunting At 3AM
 
-Favourite: No
-Date: November 26, 2024
-Last Edited: February 20, 2026 11:31 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Online Videos
-Real/Media Characters: Tabitha
+is_favourite: No
+is_nsfw: No
+date: November 26, 2024
+updated_at: February 20, 2026 11:31 PM
+type: Normal
+emotion: Fear
+influences: Online Videos
+characters: Tabitha
 
 # Description
 

@@ -1,12 +1,12 @@
 # Escaping An Island From An Invading Navy
 
-Favourite: No
-Date: March 29, 2025
-Last Edited: February 20, 2026 9:52 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: The Conquerors 3 (2009) (Roblox)
+is_favourite: No
+is_nsfw: No
+date: March 29, 2025
+updated_at: February 20, 2026 9:52 PM
+type: Nightmare
+emotion: Fear
+influences: The Conquerors 3 (2009) (Roblox)
 
 # Description
 

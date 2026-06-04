@@ -1,11 +1,11 @@
 # Winning An Airsoft Battle Against Soldiers
 
-Favourite: No
-Date: January 15, 2026
-Last Edited: May 3, 2026 5:16 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
+is_favourite: No
+is_nsfw: No
+date: January 15, 2026
+updated_at: May 3, 2026 5:16 PM
+type: Normal
+emotion: Happy
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

@@ -1,12 +1,12 @@
 # Attacked By A Crazy Old Woman And Deformed Dog
 
-Favourite: No
-Date: February 8, 2025
-Last Edited: February 23, 2026 1:49 AM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: February 8, 2025
+updated_at: February 23, 2026 1:49 AM
+type: Nightmare
+emotion: Fear
+characters: Family
 
 # Description
 

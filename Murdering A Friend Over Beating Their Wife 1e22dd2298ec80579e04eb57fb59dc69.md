@@ -1,12 +1,12 @@
 # Murdering A Friend Over Beating Their Wife
 
-Favourite: No
-Date: April 26, 2025
-Last Edited: February 20, 2026 11:33 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Sad
-Real/Media Characters: Jesus
+is_favourite: No
+is_nsfw: Yes
+date: April 26, 2025
+updated_at: June 4, 2026 9:08 PM
+type: Nightmare
+emotion: Sad
+characters: Jesus
 
 # Description
 

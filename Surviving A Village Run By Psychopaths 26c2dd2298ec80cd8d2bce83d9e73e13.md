@@ -1,12 +1,12 @@
 # Surviving A Village Run By Psychopaths
 
-Favourite: No
-Date: September 12, 2025
-Last Edited: February 20, 2026 10:04 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: 99 Nights In The Forest (2025) (Roblox), The Outlast Trials (2023)
+is_favourite: No
+is_nsfw: No
+date: September 12, 2025
+updated_at: February 20, 2026 10:04 PM
+type: Nightmare
+emotion: Fear
+influences: 99 Nights In The Forest (2025) (Roblox), The Outlast Trials (2023)
 
 # Description
 

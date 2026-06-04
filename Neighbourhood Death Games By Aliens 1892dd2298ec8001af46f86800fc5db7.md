@@ -1,12 +1,12 @@
 # Neighbourhood Death Games By Aliens
 
-Favourite: No
-Date: March 17, 2024
-Last Edited: February 20, 2026 9:44 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: As The Gods Will (2014), Squid Game (2021)
+is_favourite: No
+is_nsfw: No
+date: March 17, 2024
+updated_at: February 20, 2026 9:44 PM
+type: Nightmare
+emotion: Fear
+influences: As The Gods Will (2014), Squid Game (2021)
 
 # Description
 

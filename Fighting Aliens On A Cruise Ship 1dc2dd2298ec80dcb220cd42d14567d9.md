@@ -1,12 +1,12 @@
 # Fighting Aliens On A Cruise Ship
 
-Favourite: No
-Date: April 14, 2025
-Last Edited: February 20, 2026 11:33 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Left 4 Dead 2 (2009), Shadow The Hedgehog (2005)
+is_favourite: No
+is_nsfw: No
+date: April 14, 2025
+updated_at: February 20, 2026 11:33 PM
+type: Nightmare
+emotion: Fear
+influences: Left 4 Dead 2 (2009), Shadow The Hedgehog (2005)
 
 # Description
 

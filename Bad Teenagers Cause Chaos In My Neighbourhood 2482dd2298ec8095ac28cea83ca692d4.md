@@ -1,13 +1,13 @@
 # Bad Teenagers Cause Chaos In My Neighbourhood
 
-Favourite: No
-Date: August 7, 2025
-Last Edited: February 20, 2026 11:35 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Pauline Hanson's Please Explain (2021), Personal Experiences
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: August 7, 2025
+updated_at: February 20, 2026 11:35 PM
+type: Nightmare
+emotion: Fear
+influences: Pauline Hanson's Please Explain (2021), Personal Experiences
+characters: Family
 
 # Description
 

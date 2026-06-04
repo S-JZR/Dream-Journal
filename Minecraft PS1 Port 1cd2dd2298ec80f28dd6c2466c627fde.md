@@ -1,12 +1,12 @@
 # Minecraft PS1 Port
 
-Favourite: No
-Date: January 1, 2013
-Last Edited: February 20, 2026 6:47 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Minecraft Xbox Edition (2012), Personal Thoughts
+is_favourite: No
+is_nsfw: No
+date: January 1, 2013
+updated_at: February 20, 2026 6:47 PM
+type: Normal
+emotion: Happy
+influences: Minecraft Xbox Edition (2012), Personal Thoughts
 
 # Description
 

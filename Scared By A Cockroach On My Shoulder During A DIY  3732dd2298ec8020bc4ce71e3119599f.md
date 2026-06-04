@@ -1,11 +1,11 @@
 # Scared By A Cockroach On My Shoulder During A DIY Project
 
-Favourite: No
-Date: June 2, 2026
-Last Edited: June 2, 2026 5:55 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: June 2, 2026
+updated_at: June 2, 2026 5:55 PM
+type: Nightmare
+emotion: Fear
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

@@ -1,12 +1,12 @@
 # Failing To Find An Injured Cat
 
-Favourite: No
-Date: May 20, 2026
-Last Edited: May 20, 2026 5:06 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: May 20, 2026
+updated_at: May 20, 2026 5:06 PM
+type: Nightmare
+emotion: Sad
+characters: Family
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

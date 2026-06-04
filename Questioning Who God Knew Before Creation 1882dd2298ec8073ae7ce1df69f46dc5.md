@@ -1,13 +1,13 @@
 # Questioning Who God Knew Before Creation
 
-Favourite: No
-Date: January 1, 2017
-Last Edited: February 20, 2026 11:24 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Personal Experiences
-Real/Media Characters: God (Christianity)
+is_favourite: No
+is_nsfw: No
+date: January 1, 2017
+updated_at: February 20, 2026 11:24 PM
+type: Normal
+emotion: Surprise
+influences: Personal Experiences
+characters: God (Christianity)
 
 # Description
 

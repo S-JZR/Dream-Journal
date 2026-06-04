@@ -1,13 +1,13 @@
 # Finding Jayba Who Ran Away
 
-Favourite: No
-Date: January 1, 2014
-Last Edited: February 20, 2026 11:23 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Personal Experiences
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: January 1, 2014
+updated_at: February 20, 2026 11:23 PM
+type: Normal
+emotion: Surprise
+influences: Personal Experiences
+characters: Family
 
 # Description
 

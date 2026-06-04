@@ -1,12 +1,12 @@
 # Western Roleplay Excursion Gone Wrong
 
-Favourite: No
-Date: July 17, 2025
-Last Edited: February 20, 2026 10:02 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: July 17, 2025
+updated_at: February 20, 2026 10:02 PM
+type: Normal
+emotion: Sad
+influences: Personal Experiences
 
 # Description
 

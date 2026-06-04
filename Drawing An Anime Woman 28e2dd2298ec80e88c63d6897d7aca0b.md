@@ -1,12 +1,12 @@
 # Drawing An Anime Woman
 
-Favourite: No
-Date: January 1, 2017
-Last Edited: December 12, 2025 8:25 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: January 1, 2017
+updated_at: December 12, 2025 8:25 PM
+type: Normal
+emotion: Surprise
+influences: Personal Experiences
 
 # Description
 

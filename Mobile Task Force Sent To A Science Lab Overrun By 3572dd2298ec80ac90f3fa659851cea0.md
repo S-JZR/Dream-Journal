@@ -1,11 +1,11 @@
 # Mobile Task Force Sent To A Science Lab Overrun By Monsters Gone Wrong
 
-Favourite: No
-Date: May 5, 2026
-Last Edited: May 7, 2026 5:30 AM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: May 5, 2026
+updated_at: May 7, 2026 5:30 AM
+type: Nightmare
+emotion: Fear
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

@@ -1,13 +1,13 @@
 # Troublesome Child At A Water Theme Park
 
-Favourite: No
-Date: March 5, 2025
-Last Edited: February 20, 2026 11:32 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Personal Experiences
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: March 5, 2025
+updated_at: February 20, 2026 11:32 PM
+type: Normal
+emotion: Surprise
+influences: Personal Experiences
+characters: Family
 
 # Description
 

@@ -1,12 +1,12 @@
 # Noticing Melanoma On My Leg
 
-Favourite: No
-Date: March 29, 2026
-Last Edited: May 3, 2026 5:18 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Real/Media Characters: Dejan C
+is_favourite: No
+is_nsfw: No
+date: March 29, 2026
+updated_at: May 3, 2026 5:18 PM
+type: Nightmare
+emotion: Fear
+characters: Dejan C
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

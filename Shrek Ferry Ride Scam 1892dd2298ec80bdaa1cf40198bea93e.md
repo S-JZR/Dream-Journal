@@ -1,13 +1,13 @@
 # Shrek Ferry Ride Scam
 
-Favourite: No
-Date: April 24, 2024
-Last Edited: February 20, 2026 11:30 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Anger
-Influences: Hell's Kitchen (2005), News
-Real/Media Characters: Family, Gordon Ramsay
+is_favourite: No
+is_nsfw: No
+date: April 24, 2024
+updated_at: February 20, 2026 11:30 PM
+type: Nightmare
+emotion: Anger
+influences: Hell's Kitchen (2005), News
+characters: Family, Gordon Ramsay
 
 # Description
 

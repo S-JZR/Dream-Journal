@@ -1,12 +1,12 @@
 # Alien Spider Survival
 
-Favourite: No
-Date: July 10, 2020
-Last Edited: February 20, 2026 9:40 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Spiderman (2002), Team Fortress 2 (2007)
+is_favourite: No
+is_nsfw: No
+date: July 10, 2020
+updated_at: February 20, 2026 9:40 PM
+type: Normal
+emotion: Happy
+influences: Spiderman (2002), Team Fortress 2 (2007)
 
 # Description
 

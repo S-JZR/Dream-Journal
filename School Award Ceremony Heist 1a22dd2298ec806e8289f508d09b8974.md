@@ -1,12 +1,12 @@
 # School Award Ceremony Heist
 
-Favourite: No
-Date: November 23, 2020
-Last Edited: February 20, 2026 11:26 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Real/Media Characters: Mr Nathan
+is_favourite: No
+is_nsfw: No
+date: November 23, 2020
+updated_at: February 20, 2026 11:26 PM
+type: Normal
+emotion: Happy
+characters: Mr Nathan
 
 # Description
 

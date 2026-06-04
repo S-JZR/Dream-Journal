@@ -1,12 +1,12 @@
 # Infiltrating A Terminator Lair With A Hot Air Balloon
 
-Favourite: No
-Date: January 3, 2024
-Last Edited: February 20, 2026 9:43 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Robots (2005), Siren Head (2018), Terminator (1984)
+is_favourite: No
+is_nsfw: No
+date: January 3, 2024
+updated_at: February 20, 2026 9:43 PM
+type: Normal
+emotion: Fear
+influences: Robots (2005), Siren Head (2018), Terminator (1984)
 
 # Description
 

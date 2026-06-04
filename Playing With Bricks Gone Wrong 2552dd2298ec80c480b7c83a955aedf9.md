@@ -1,11 +1,11 @@
 # Playing With Bricks Gone Wrong
 
-Favourite: No
-Date: August 20, 2025
-Last Edited: February 20, 2026 10:03 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
+is_favourite: No
+is_nsfw: No
+date: August 20, 2025
+updated_at: February 20, 2026 10:03 PM
+type: Normal
+emotion: Surprise
 
 # Description
 

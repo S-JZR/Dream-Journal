@@ -1,13 +1,13 @@
 # Architecture Excursion Gone Wrong
 
-Favourite: Yes
-Date: January 1, 2024
-Last Edited: February 20, 2026 11:28 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Influences: News, Personal Experiences
-Real/Media Characters: Alexander Armstrong
+is_favourite: Yes
+is_nsfw: No
+date: January 1, 2024
+updated_at: February 20, 2026 11:28 PM
+type: Nightmare
+emotion: Sad
+influences: News, Personal Experiences
+characters: Alexander Armstrong
 
 # Description
 

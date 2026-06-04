@@ -1,13 +1,13 @@
 # Watching The Minecraft Movie Gone Wrong
 
-Favourite: No
-Date: May 2, 2025
-Last Edited: February 20, 2026 11:34 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Fred Claus (2007), Minecraft (2025)
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: May 2, 2025
+updated_at: February 20, 2026 11:34 PM
+type: Nightmare
+emotion: Sad
+influences: Fred Claus (2007), Minecraft (2025)
+characters: Family
 
 # Description
 

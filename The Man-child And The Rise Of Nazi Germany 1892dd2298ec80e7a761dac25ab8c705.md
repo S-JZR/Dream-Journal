@@ -1,13 +1,13 @@
 # The Man-child And The Rise Of Nazi Germany
 
-Favourite: Yes
-Date: December 19, 2024
-Last Edited: February 20, 2026 11:31 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Fear
-Influences: Christianity, Cool Runnings (1993), News, Personal Experiences, The Philosophy Book: Big Ideas Simply Explained (2017)
-Real/Media Characters: Julien C
+is_favourite: Yes
+is_nsfw: Yes
+date: December 19, 2024
+updated_at: June 4, 2026 9:07 PM
+type: Nightmare
+emotion: Fear
+influences: Christianity, Cool Runnings (1993), News, Personal Experiences, The Philosophy Book: Big Ideas Simply Explained (2017)
+characters: Julien C
 
 # Description
 

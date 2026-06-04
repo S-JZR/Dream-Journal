@@ -1,11 +1,11 @@
 # Teenager Ski Jump Gone Wrong
 
-Favourite: No
-Date: February 17, 2025
-Last Edited: February 24, 2026 1:23 AM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
+is_favourite: No
+is_nsfw: No
+date: February 17, 2025
+updated_at: February 24, 2026 1:23 AM
+type: Nightmare
+emotion: Sad
 
 # Description
 

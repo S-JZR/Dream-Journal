@@ -1,12 +1,12 @@
 # Confronting An Abusive Substitute Teacher
 
-Favourite: Yes
-Date: May 1, 2025
-Last Edited: February 20, 2026 9:55 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Anger
-Influences: Personal Experiences
+is_favourite: Yes
+is_nsfw: No
+date: May 1, 2025
+updated_at: February 20, 2026 9:55 PM
+type: Nightmare
+emotion: Anger
+influences: Personal Experiences
 
 # Description
 

@@ -1,12 +1,12 @@
 # Building A Stone Shoe Statue
 
-Favourite: No
-Date: October 23, 2025
-Last Edited: February 20, 2026 10:05 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Anger
-Influences: News
+is_favourite: No
+is_nsfw: No
+date: October 23, 2025
+updated_at: February 20, 2026 10:05 PM
+type: Nightmare
+emotion: Anger
+influences: News
 
 # Description
 

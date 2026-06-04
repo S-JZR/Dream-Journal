@@ -1,12 +1,12 @@
 # The Heart's Desire
 
-Favourite: Yes
-Date: December 29, 2024
-Last Edited: February 20, 2026 9:49 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Christianity
+is_favourite: Yes
+is_nsfw: No
+date: December 29, 2024
+updated_at: February 20, 2026 9:49 PM
+type: Normal
+emotion: Surprise
+influences: Christianity
 
 # Description
 

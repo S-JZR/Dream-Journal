@@ -1,12 +1,12 @@
 # Preaching A Self-control Sermon
 
-Favourite: Yes
-Date: January 16, 2024
-Last Edited: February 20, 2026 9:44 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Bold
-Influences: Online Videos
+is_favourite: Yes
+is_nsfw: No
+date: January 16, 2024
+updated_at: February 20, 2026 9:44 PM
+type: Nightmare
+emotion: Bold
+influences: Online Videos
 
 # Description
 

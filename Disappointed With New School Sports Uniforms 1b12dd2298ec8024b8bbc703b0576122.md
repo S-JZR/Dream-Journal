@@ -1,13 +1,13 @@
 # Disappointed With New School Sports Uniforms
 
-Favourite: No
-Date: March 8, 2025
-Last Edited: February 20, 2026 11:33 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Experiences
-Real/Media Characters: ? Levi's Brother, Mrs Itsikson
+is_favourite: No
+is_nsfw: No
+date: March 8, 2025
+updated_at: February 20, 2026 11:33 PM
+type: Normal
+emotion: Sad
+influences: Personal Experiences
+characters: ? Levi's Brother, Mrs Itsikson
 
 # Description
 

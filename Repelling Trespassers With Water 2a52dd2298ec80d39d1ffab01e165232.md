@@ -1,11 +1,11 @@
 # Repelling Trespassers With Water
 
-Favourite: No
-Date: November 8, 2025
-Last Edited: February 20, 2026 10:05 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Anger
+is_favourite: No
+is_nsfw: No
+date: November 8, 2025
+updated_at: February 20, 2026 10:05 PM
+type: Normal
+emotion: Anger
 
 # Description
 

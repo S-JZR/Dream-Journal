@@ -1,11 +1,11 @@
 # Escaping A Psychiatric Ward And Fantasying About Being A Former Student
 
-Favourite: Yes
-Date: April 16, 2026
-Last Edited: May 3, 2026 5:18 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Surprise
+is_favourite: Yes
+is_nsfw: No
+date: April 16, 2026
+updated_at: May 3, 2026 5:18 PM
+type: Nightmare
+emotion: Surprise
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

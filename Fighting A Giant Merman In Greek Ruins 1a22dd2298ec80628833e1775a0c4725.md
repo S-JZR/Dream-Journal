@@ -1,12 +1,12 @@
 # Fighting A Giant Merman In Greek Ruins
 
-Favourite: No
-Date: October 17, 2024
-Last Edited: February 20, 2026 9:48 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Mythology (2011) (Sakisa)
+is_favourite: No
+is_nsfw: No
+date: October 17, 2024
+updated_at: February 20, 2026 9:48 PM
+type: Normal
+emotion: Happy
+influences: Mythology (2011) (Sakisa)
 
 # Description
 

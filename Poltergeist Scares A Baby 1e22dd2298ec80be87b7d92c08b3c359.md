@@ -1,11 +1,11 @@
 # Poltergeist Scares A Baby
 
-Favourite: No
-Date: February 16, 2024
-Last Edited: February 20, 2026 9:44 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Anger
+is_favourite: No
+is_nsfw: No
+date: February 16, 2024
+updated_at: February 20, 2026 9:44 PM
+type: Nightmare
+emotion: Anger
 
 # Description
 

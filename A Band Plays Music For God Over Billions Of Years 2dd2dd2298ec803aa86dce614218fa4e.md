@@ -1,13 +1,13 @@
 # A Band Plays Music For God Over Billions Of Years
 
-Favourite: No
-Date: January 3, 2026
-Last Edited: June 4, 2026 6:47 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Christianity
-Real/Media Characters: God (Christianity)
+is_favourite: No
+is_nsfw: No
+date: January 3, 2026
+updated_at: June 4, 2026 6:57 PM
+type: Normal
+emotion: Surprise
+influences: Christianity
+characters: God (Christianity)
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

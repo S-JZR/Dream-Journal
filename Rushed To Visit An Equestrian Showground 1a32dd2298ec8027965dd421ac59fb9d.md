@@ -1,12 +1,12 @@
 # Rushed To Visit An Equestrian Showground
 
-Favourite: No
-Date: October 4, 2024
-Last Edited: February 20, 2026 11:31 PM
-Type: Normal
-Age Rating: NSFW
-Main Emotion: Embarrassment
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: Yes
+date: October 4, 2024
+updated_at: June 4, 2026 9:07 PM
+type: Normal
+emotion: Embarrassment
+characters: Family
 
 # Description
 

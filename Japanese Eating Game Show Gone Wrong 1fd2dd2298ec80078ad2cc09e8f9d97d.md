@@ -1,11 +1,11 @@
 # Japanese Eating Game Show Gone Wrong
 
-Favourite: No
-Date: May 23, 2025
-Last Edited: February 20, 2026 9:55 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
+is_favourite: No
+is_nsfw: No
+date: May 23, 2025
+updated_at: February 20, 2026 9:55 PM
+type: Normal
+emotion: Happy
 
 # Description
 

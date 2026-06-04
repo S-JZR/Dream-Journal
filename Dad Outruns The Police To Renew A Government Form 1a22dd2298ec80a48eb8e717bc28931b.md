@@ -1,13 +1,13 @@
 # Dad Outruns The Police To Renew A Government Form
 
-Favourite: No
-Date: October 17, 2024
-Last Edited: February 20, 2026 11:31 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Personal Experiences
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: October 17, 2024
+updated_at: February 20, 2026 11:31 PM
+type: Normal
+emotion: Happy
+influences: Personal Experiences
+characters: Family
 
 # Description
 

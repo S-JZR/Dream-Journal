@@ -1,12 +1,12 @@
 # Voting To Hear Students Rap
 
-Favourite: No
-Date: June 26, 2025
-Last Edited: February 20, 2026 9:55 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Experiences
+is_favourite: No
+is_nsfw: No
+date: June 26, 2025
+updated_at: February 20, 2026 9:55 PM
+type: Normal
+emotion: Sad
+influences: Personal Experiences
 
 # Description
 

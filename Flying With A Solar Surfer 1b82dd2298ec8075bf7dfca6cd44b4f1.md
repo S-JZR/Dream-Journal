@@ -1,12 +1,12 @@
 # Flying With A Solar Surfer
 
-Favourite: No
-Date: January 1, 2016
-Last Edited: February 20, 2026 7:53 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Personal Thoughts, Treasure Planet (2002)
+is_favourite: No
+is_nsfw: No
+date: January 1, 2016
+updated_at: February 20, 2026 7:53 PM
+type: Normal
+emotion: Happy
+influences: Personal Thoughts, Treasure Planet (2002)
 
 # Description
 

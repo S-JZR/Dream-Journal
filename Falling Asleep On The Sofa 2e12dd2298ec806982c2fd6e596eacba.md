@@ -1,12 +1,12 @@
 # Falling Asleep On The Sofa
 
-Favourite: No
-Date: January 1, 2016
-Last Edited: February 20, 2026 11:24 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: January 1, 2016
+updated_at: February 20, 2026 11:24 PM
+type: Normal
+emotion: Surprise
+characters: Family
 
 # Description
 

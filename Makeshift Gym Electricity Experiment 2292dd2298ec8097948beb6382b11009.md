@@ -1,12 +1,12 @@
 # Makeshift Gym Electricity Experiment
 
-Favourite: No
-Date: July 5, 2025
-Last Edited: February 20, 2026 11:34 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: July 5, 2025
+updated_at: February 20, 2026 11:34 PM
+type: Normal
+emotion: Surprise
+characters: Family
 
 # Description
 

@@ -1,12 +1,12 @@
 # Zombie Prop Hunt Gone Wrong
 
-Favourite: No
-Date: May 22, 2025
-Last Edited: February 20, 2026 9:55 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Team Fortress 2 (2007)
+is_favourite: No
+is_nsfw: No
+date: May 22, 2025
+updated_at: February 20, 2026 9:55 PM
+type: Normal
+emotion: Fear
+influences: Team Fortress 2 (2007)
 
 # Description
 

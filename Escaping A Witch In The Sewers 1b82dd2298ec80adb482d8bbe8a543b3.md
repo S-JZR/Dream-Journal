@@ -1,11 +1,11 @@
 # Escaping A Witch In The Sewers
 
-Favourite: No
-Date: January 1, 2018
-Last Edited: February 20, 2026 9:38 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: January 1, 2018
+updated_at: February 20, 2026 9:38 PM
+type: Nightmare
+emotion: Fear
 
 # Description
 

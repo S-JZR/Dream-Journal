@@ -1,13 +1,13 @@
 # Mecha Army Raids An Alien Fortress
 
-Favourite: No
-Date: February 20, 2024
-Last Edited: February 20, 2026 11:29 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Resident Evil Village (2021), StarCraft II (2010)
-Real/Media Characters: Leon Kennedy
+is_favourite: No
+is_nsfw: No
+date: February 20, 2024
+updated_at: February 20, 2026 11:29 PM
+type: Normal
+emotion: Fear
+influences: Resident Evil Village (2021), StarCraft II (2010)
+characters: Leon Kennedy
 
 # Description
 

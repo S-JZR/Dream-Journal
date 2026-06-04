@@ -1,12 +1,12 @@
 # Father Turns A Miscarriage Into A Cyborg
 
-Favourite: Yes
-Date: June 19, 2024
-Last Edited: February 20, 2026 9:47 PM
-Type: Nightmare
-Age Rating: NSFW
-Main Emotion: Fear
-Influences: Astro Boy (1963)
+is_favourite: Yes
+is_nsfw: Yes
+date: June 19, 2024
+updated_at: June 4, 2026 9:07 PM
+type: Nightmare
+emotion: Fear
+influences: Astro Boy (1963)
 
 # Description
 

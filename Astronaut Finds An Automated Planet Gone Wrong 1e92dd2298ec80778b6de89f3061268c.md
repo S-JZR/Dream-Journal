@@ -1,13 +1,13 @@
 # Astronaut Finds An Automated Planet Gone Wrong
 
-Favourite: Yes
-Date: April 29, 2025
-Last Edited: February 20, 2026 11:34 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Star Wars (1987), Thunderbirds (1965)
-Real/Media Characters: James Carter
+is_favourite: Yes
+is_nsfw: No
+date: April 29, 2025
+updated_at: February 20, 2026 11:34 PM
+type: Nightmare
+emotion: Fear
+influences: Star Wars (1987), Thunderbirds (1965)
+characters: James Carter
 
 # Description
 

@@ -1,13 +1,13 @@
 # Metal Arms Gameover Screen
 
-Favourite: No
-Date: February 12, 2014
-Last Edited: February 20, 2026 11:23 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Metal Arms Glitch In The System (2003), Online Videos
-Real/Media Characters: Glitch
+is_favourite: No
+is_nsfw: No
+date: February 12, 2014
+updated_at: February 20, 2026 11:23 PM
+type: Normal
+emotion: Sad
+influences: Metal Arms Glitch In The System (2003), Online Videos
+characters: Glitch
 
 # Description
 

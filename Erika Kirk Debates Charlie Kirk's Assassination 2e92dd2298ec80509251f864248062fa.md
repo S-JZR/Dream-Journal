@@ -1,13 +1,13 @@
 # Erika Kirk Debates Charlie Kirk's Assassination
 
-Favourite: No
-Date: January 15, 2026
-Last Edited: May 3, 2026 5:16 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Influences: News
-Real/Media Characters: Erika Kirk
+is_favourite: No
+is_nsfw: No
+date: January 15, 2026
+updated_at: May 3, 2026 5:16 PM
+type: Nightmare
+emotion: Sad
+influences: News
+characters: Erika Kirk
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

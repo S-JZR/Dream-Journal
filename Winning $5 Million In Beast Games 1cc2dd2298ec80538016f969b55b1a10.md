@@ -1,13 +1,13 @@
 # Winning $5 Million In Beast Games
 
-Favourite: No
-Date: April 1, 2025
-Last Edited: February 20, 2026 11:33 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Happy
-Influences: Online Videos
-Real/Media Characters: MrBeast
+is_favourite: No
+is_nsfw: No
+date: April 1, 2025
+updated_at: February 20, 2026 11:33 PM
+type: Normal
+emotion: Happy
+influences: Online Videos
+characters: MrBeast
 
 # Description
 

@@ -1,13 +1,13 @@
 # Chased By A Tripod Alien
 
-Favourite: No
-Date: November 4, 2025
-Last Edited: February 20, 2026 11:36 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: War Of The Worlds (2005)
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: November 4, 2025
+updated_at: February 20, 2026 11:36 PM
+type: Nightmare
+emotion: Fear
+influences: War Of The Worlds (2005)
+characters: Family
 
 # Description
 

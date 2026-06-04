@@ -1,13 +1,13 @@
 # Rescuing A Sinking Cruise Ship
 
-Favourite: No
-Date: April 16, 2025
-Last Edited: February 20, 2026 11:33 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: MacGyver (1985)
-Real/Media Characters: MacGyver
+is_favourite: No
+is_nsfw: No
+date: April 16, 2025
+updated_at: February 20, 2026 11:33 PM
+type: Normal
+emotion: Surprise
+influences: MacGyver (1985)
+characters: MacGyver
 
 # Description
 

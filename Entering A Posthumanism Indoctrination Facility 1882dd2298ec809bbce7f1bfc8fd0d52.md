@@ -1,13 +1,13 @@
 # Entering A Posthumanism Indoctrination Facility
 
-Favourite: Yes
-Date: January 1, 2017
-Last Edited: February 20, 2026 11:25 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Christianity, Personal Experiences, Personal Thoughts
-Real/Media Characters: Brooke A, Satan
+is_favourite: Yes
+is_nsfw: No
+date: January 1, 2017
+updated_at: February 20, 2026 11:25 PM
+type: Nightmare
+emotion: Fear
+influences: Christianity, Personal Experiences, Personal Thoughts
+characters: Brooke A, Satan
 
 # Description
 

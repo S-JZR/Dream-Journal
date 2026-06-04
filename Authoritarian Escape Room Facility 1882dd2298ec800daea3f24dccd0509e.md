@@ -1,13 +1,13 @@
 # Authoritarian Escape Room Facility
 
-Favourite: No
-Date: October 24, 2023
-Last Edited: February 20, 2026 11:28 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
-Influences: Christianity, People Playground (2019), Personal Experiences, The Outlast Trials (2023)
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: October 24, 2023
+updated_at: February 20, 2026 11:28 PM
+type: Nightmare
+emotion: Fear
+influences: Christianity, People Playground (2019), Personal Experiences, The Outlast Trials (2023)
+characters: Family
 
 # Description
 

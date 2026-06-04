@@ -1,11 +1,11 @@
 # A Magical Plant In The Backyard Grows Steaks
 
-Favourite: No
-Date: May 16, 2026
-Last Edited: May 16, 2026 3:58 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Embarrassment
+is_favourite: No
+is_nsfw: No
+date: May 16, 2026
+updated_at: May 16, 2026 3:58 PM
+type: Normal
+emotion: Embarrassment
 
 <aside>
 <img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />

@@ -1,11 +1,11 @@
 # Staying At A Girl’s House Gone Wrong
 
-Favourite: No
-Date: April 7, 2025
-Last Edited: February 20, 2026 9:53 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Fear
+is_favourite: No
+is_nsfw: No
+date: April 7, 2025
+updated_at: February 20, 2026 9:53 PM
+type: Nightmare
+emotion: Fear
 
 # Description
 

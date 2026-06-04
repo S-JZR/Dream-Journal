@@ -1,12 +1,12 @@
 # Circling Birds Hallucination
 
-Favourite: No
-Date: January 1, 2008
-Last Edited: February 20, 2026 9:36 PM
-Type: Half-Asleep
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Looney Toons (1930)
+is_favourite: No
+is_nsfw: No
+date: January 1, 2008
+updated_at: February 20, 2026 9:36 PM
+type: Half-Asleep
+emotion: Surprise
+influences: Looney Toons (1930)
 
 # Description
 

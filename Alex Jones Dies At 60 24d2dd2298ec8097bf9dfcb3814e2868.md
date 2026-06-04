@@ -1,13 +1,13 @@
 # Alex Jones Dies At 60
 
-Favourite: No
-Date: August 1, 2025
-Last Edited: February 20, 2026 11:35 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Online Videos
-Real/Media Characters: Alex Jones
+is_favourite: No
+is_nsfw: No
+date: August 1, 2025
+updated_at: February 20, 2026 11:35 PM
+type: Nightmare
+emotion: Sad
+influences: Online Videos
+characters: Alex Jones
 
 # Description
 

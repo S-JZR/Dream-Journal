@@ -1,12 +1,12 @@
 # Depressed Freelance Power Washer Quits Early
 
-Favourite: No
-Date: December 17, 2020
-Last Edited: February 20, 2026 11:26 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: December 17, 2020
+updated_at: February 20, 2026 11:26 PM
+type: Normal
+emotion: Sad
+characters: Family
 
 # Description
 

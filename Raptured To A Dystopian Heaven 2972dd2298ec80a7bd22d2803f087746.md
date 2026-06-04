@@ -1,13 +1,13 @@
 # Raptured To A Dystopian Heaven
 
-Favourite: No
-Date: January 1, 2017
-Last Edited: February 21, 2026 5:31 PM
-Type: Nightmare
-Age Rating: SFW
-Main Emotion: Surprise
-Influences: Christianity, Personal Experiences
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: January 1, 2017
+updated_at: February 21, 2026 5:31 PM
+type: Nightmare
+emotion: Surprise
+influences: Christianity, Personal Experiences
+characters: Family
 
 # Description
 

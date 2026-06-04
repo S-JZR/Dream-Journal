@@ -1,13 +1,13 @@
 # Therapist Discusses Jayba’s Death
 
-Favourite: No
-Date: March 24, 2017
-Last Edited: February 20, 2026 11:25 PM
-Type: Normal
-Age Rating: SFW
-Main Emotion: Sad
-Influences: Personal Experiences
-Real/Media Characters: Family
+is_favourite: No
+is_nsfw: No
+date: March 24, 2017
+updated_at: February 20, 2026 11:25 PM
+type: Normal
+emotion: Sad
+influences: Personal Experiences
+characters: Family
 
 # Description
 
