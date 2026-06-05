@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: July 10, 2020
-updated_at: February 20, 2026 11:25 PM
+updated_at: June 5, 2026 12:48 AM
 type: Normal
 emotion: Sad
 characters: Julien C
-
-# Description
+lessons: Nothing is truly free and there’s usually a catch.
 
 I was walking through a shopping mall hallway with Julien, my friend from school, when we noticed a stall with a sign reading "Free Coca-Cola!" Eager for a drink, he approached the female vendor.
 
@@ -28,17 +27,3 @@ I was walking through a shopping mall hallway with Julien, my friend from school
 > 
 
 We took the cans and continued walking to the exit on the other side of the mall.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Nothing is truly free and there’s usually a catch.

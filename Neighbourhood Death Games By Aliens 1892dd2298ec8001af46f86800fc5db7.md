@@ -3,12 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: March 17, 2024
-updated_at: February 20, 2026 9:44 PM
+updated_at: June 5, 2026 1:37 AM
 type: Nightmare
 emotion: Fear
-influences: As The Gods Will (2014), Squid Game (2021)
-
-# Description
+influences:   • As The Gods Will (2014): References gods hosting death games and The Daruma doll only allowing one student to live.
+  • Squid Game (2021): References contestants hiding behind others to avoid being shot in Red Light, Green Light.
+symbols:   • Aliens: The fear of being helpless.
 
 I was walking up the slanted street to my unit complex when a hollow lattice sphere with an octagonal pattern and glowing orange core streaked across the sky. Eventually, it descended to the ground in the distance and caused a large explosion with an orange mushroom cloud. Everyone instinctively realized that they were on a twisted gameshow competing for survival.
 
@@ -29,22 +29,4 @@ The second challenge involved me entering a room to stand on a cylindrical podiu
 > 
 
 > **Woman**: 11 years.
-> 
-
-# Interpretations
-
-## Influences
-
-- As The Gods Will:
-    - References gods hosting death games and The Daruma doll only allowing one student to live.
-- Squid Game:
-    - References contestants hiding behind others to avoid being shot in Red Light, Green Light.
-
-## Symbols
-
-- Aliens:
-    - The fear of being helpless.
-
-## Lessons
-
-- N/A.
+>

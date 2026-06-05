@@ -3,20 +3,18 @@
 is_favourite: No
 is_nsfw: No
 date: April 27, 2026
-updated_at: May 3, 2026 5:18 PM
+updated_at: June 5, 2026 4:25 AM
 type: Normal
 emotion: Surprise
-influences: Personal Experiences
 characters: Gabe Newell
+influences: Primary school hygiene film is explained.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was walking into an apartment room, representing an abandoned Reddit community owned by a fictional famous male tech influencer who went missing from the public eye, and took ownership of it. The room featured:
 
@@ -73,18 +71,3 @@ A girl burst into tears and went to the male scientist who called her.
 > 
 
 It reminded me of watching a hygiene film in primary school that showed dust mites everywhere like on teddy bears and I started distancing myself from them.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - Primary school hygiene film is explained.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

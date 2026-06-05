@@ -3,19 +3,18 @@
 is_favourite: No
 is_nsfw: No
 date: January 14, 2026
-updated_at: May 3, 2026 5:16 PM
+updated_at: June 5, 2026 4:11 AM
 type: Nightmare
 emotion: Fear
-influences: Online Videos
+influences: References seeing an experiment like this: https://youtu.be/Fpz13fgZYU4?si=n4cHtXbpbtyuJnF9&t=151.
+lessons: Stay away from low hanging powerlines.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was following a boy and girl holding helium balloons across an elevated strip of grassy ground:
 
@@ -55,18 +54,3 @@ The women pulled the children away from the power poles to keep them safe. While
 The woman was surprised, not expecting a scientific answer, but acknowledged it.
 
 I walked backwards and teleported upstairs in a house. I saw powerline wires travelling through the kid’s rooms, connected to wire coils on the ceiling, and continuing downstairs. I considered how dangerous these exposed wires were and considered painting a yellow outline on the coils to alert others of their presence.
-
-# Interpretations
-
-## Influences
-
-- Online Videos:
-    - References seeing an experiment like this: [https://youtu.be/Fpz13fgZYU4?si=n4cHtXbpbtyuJnF9&t=151](https://youtu.be/Fpz13fgZYU4?si=n4cHtXbpbtyuJnF9&t=151).
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Stay away from low hanging powerlines.

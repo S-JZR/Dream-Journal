@@ -3,12 +3,16 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 23, 2025
-updated_at: February 20, 2026 9:55 PM
+updated_at: June 5, 2026 3:06 AM
 type: Normal
 emotion: Anger
-influences: God Has A Wonderful Plan For Your Life (2010), News, Personal Thoughts
-
-# Description
+influences:   • I feel like church is divided and could do better.
+  • God Has A Wonderful Plan For Your Life (2010): References challenging misconceptions about faith and churches failing to convert sinners.
+  • References religious affiliation declining: https://www.abs.gov.au/articles/religious-affiliation-australia.
+  • References church attendance declining since Covid-19: https://theothercheek.com.au/church-attendance-continues-to-recover-after-covid-baptists-and-pentecostals-rise/.
+symbols:   • Radio: Awareness that some people think religion is outdated and stupid.
+lessons: Effective goals require a clear strategy and actionable steps.
+notes: I added a brain dump of thoughts I've been having lately.
 
 I was driving to a Christian meeting when I tuned in the radio and heard a male commentator.
 
@@ -43,28 +47,3 @@ A fat middle-age female host stood at the centre trying to inspire everyone.
 > 
 
 I thought to myself what does she mean by "better"? Does she have a specific goal in mind or is she merely using vague exhortations to hype people up without a concrete plan and actionable steps to bring change?
-
-# Interpretations
-
-## Influences
-
-- Personal Thoughts:
-    - I feel like church is divided and could do better.
-- God Has A Wonderful Plan For Your Life:
-    - References challenging misconceptions about faith and churches failing to convert sinners.
-- News:
-    - References religious affiliation declining: [https://www.abs.gov.au/articles/religious-affiliation-australia](https://www.abs.gov.au/articles/religious-affiliation-australia).
-    - References church attendance declining since Covid-19: [https://theothercheek.com.au/church-attendance-continues-to-recover-after-covid-baptists-and-pentecostals-rise/](https://theothercheek.com.au/church-attendance-continues-to-recover-after-covid-baptists-and-pentecostals-rise/).
-
-## Symbols
-
-- Radio:
-    - Awareness that some people think religion is outdated and stupid.
-
-## Lessons
-
-- Effective goals require a clear strategy and actionable steps.
-
-# Notes
-
-- I added a brain dump of thoughts I've been having lately as a list.

@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: March 24, 2017
-updated_at: February 20, 2026 11:25 PM
+updated_at: June 5, 2026 12:43 AM
 type: Normal
 emotion: Sad
-influences: Personal Experiences
 characters: Family
-
-# Description
+influences: Jayba died recently and I was still getting over it: [details too sensitive to share].
+lessons: People process grief in different ways.
 
 I was in a black void, talking to the disembodied voice of a female therapist.
 
@@ -23,19 +22,4 @@ I was in a black void, talking to the disembodied voice of a female therapist.
 > 
 
 > **Therapist**: That’s okay, everyone handles emotions differently.
-> 
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - Jayba died recently and I was still getting over it: [details too sensitive to share].
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- People process grief in different ways.
+>

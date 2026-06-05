@@ -3,13 +3,17 @@
 is_favourite: No
 is_nsfw: No
 date: March 14, 2024
-updated_at: February 20, 2026 11:29 PM
+updated_at: June 5, 2026 1:34 AM
 type: Nightmare
 emotion: Fear
-influences: Christianity, The Shining (1980)
 characters: Family
-
-# Description
+influences:   • The Shining (1980): References the twins murdered by their father.
+  • Christianity: Reminds me of 1 Peter 5:8.
+symbols:   • The Twins: Represents how evil can infiltrate and destroy innocence.
+  • Devil Biscuits: Humanity is inclined to follow sinful lusts over God.
+  • Monsters: God and Satan fighting over people.
+lessons: Evil often hides behind what seems fun and innocent.
+notes: Nothing occurred the same day next year from what i'm aware.
 
 I was standing on the footpath outside my unit complex when I noticed two small twin girls with green skin nearby starring at me.
 
@@ -42,30 +46,4 @@ As night fell, enveloping surroundings in pitch blackness, I grew paranoid that 
 > 
 
 > **Brother**: (Joking) That sounds like they’re straight out of The Shining.
-> 
-
-# Interpretations
-
-## Influences
-
-- The Shinning:
-    - References the twins murdered by their father.
-- Christianity:
-    - Reminds me of 1 Peter 5:8.
-
-## Symbols
-
-- The Twins:
-    - Represents how evil can infiltrate and destroy innocence.
-- Devil Biscuits:
-    - Humanity is inclined to follow sinful lusts over God.
-- Monsters:
-    - God and Satan fighting over people.
-
-## Lessons
-
-- Evil often hides behind what seems fun and innocent.
-
-# Post Dream
-
-- Nothing occurred the same day next year from what i'm aware.
+>

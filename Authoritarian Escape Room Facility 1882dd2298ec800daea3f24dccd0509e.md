@@ -3,13 +3,17 @@
 is_favourite: No
 is_nsfw: No
 date: October 24, 2023
-updated_at: February 20, 2026 11:28 PM
+updated_at: June 5, 2026 1:21 AM
 type: Nightmare
 emotion: Fear
-influences: Christianity, People Playground (2019), Personal Experiences, The Outlast Trials (2023)
 characters: Family
-
-# Description
+influences:   • The Outlast Trials (2023):
+      ◦ References scientists studying the player through windows during experiments.
+      ◦ References doing crazy trials to escape.
+  • People Playground (2019): References creepy ambient sounds coming through walls.
+  • Christianity: References Genesis 4:15 but it’s distorted here as a mark for death.
+symbols:   • Prisoners: The fear of being held against my will.
+  • Programming Book: The fear of being a bad programmer and forgetting things.
 
 In a towering concrete facility, prisoners were forced to solve cryptic puzzles in themed escape rooms within five minutes otherwise a mentally unstable mutant monster would be released to kill them. Each monster could also be defeated by discovering their weakness.
 
@@ -38,26 +42,3 @@ The second room was identical to my bedroom but with minor differences:
 The task involved performing a lobotomy on a specific head to activate a button in the brain area. Realizing there were more intricate steps to the puzzle that eluded understanding, I experienced the consequences of failure, seeking refuge with my partner at the back of a deep cupboard with drawers in front. Tension peaked as a tall superhuman, clad in a black dress with grey skin and black eyes, frantically examined the room at an absurd pace before ultimately discovering the hiding spot and lunging at our heads.
 
 I was reunited with my family in a private office featuring a long table and rectangular glass windows fitted with metal bars, one of which was swung open letting in fresh air. A commotion ensued outside as a male inmate obscured from view advised everyone to seize the opportunity to escape by fleeing down the external stairwell. The situation escalated as a guard’s voice erupted in profanity, demanding everyone to immediately halt. While radioing for backup, they stated that Cain class personnel were attempting to escape.
-
-# Interpretations
-
-## Influences
-
-- The Outlast Trials:
-    - References scientists studying the player through windows during experiments.
-    - References doing crazy trials to escape.
-- People Playground:
-    - References creepy ambient sounds coming through walls.
-- Christianity:
-    - References Genesis 4:15 but it’s distorted here as a mark for death.
-
-## Symbols
-
-- Prisoners:
-    - The fear of being held against my will.
-- Programming Book:
-    - The fear of being a bad programmer and forgetting things.
-
-## Lessons
-
-- N/A.

@@ -3,13 +3,14 @@
 is_favourite: No
 is_nsfw: No
 date: January 11, 2020
-updated_at: February 20, 2026 11:25 PM
+updated_at: June 5, 2026 12:46 AM
 type: Normal
 emotion: Happy
-influences: Personal Experiences
 characters: Family, Rhiannon C
-
-# Description
+influences:   • Rhiannon and other female students often talked about everyday life during art class.
+  • My dad can be a rough driver at times.
+symbols:   • Telekinesis: The shadow self being a trickster.
+  • 45 Degree Road: Feeling anxious when my dad drives.
 
 I was standing in a local former church after the service finished when my mother explained that she had tickets for a family musical at another church later that day. Before leaving, I mischievously decided to amuse myself by attempting to startle those nearby using telekinesis to tidy up pamphlets on a table near the amphitheatre entrance, but the spectacle went unnoticed.
 
@@ -18,22 +19,3 @@ On the drive with my dad, there were only three teenage girls and me in the back
 The hilly suburban roads gradually became steeper as we reached a road with a 45-degree angle. My dad abruptly stomped on the gas pedal, causing the engine to roar as the car rapidly ascended. Fearful of becoming airborne, we all shrieked as the car briefly lifted before crashing onto level ground.
 
 Suddenly, my dad and I were involved in a criminal operation in a counterfeit ambulance. As a police car approached from the opposite side of the road, my dad instructed me to climb atop the roof and fix the paint job by applying a blue adhesive strip between the emergency lights. We parked in a shopping centre between concrete pillars and encountered two guards in orange vests talking to each other. I drew an MP7 and discharged an entire magazine, but they remained unscathed. We continued into the shopping centre and sat with a crowd in a two-storey amphitheatre adorned with gold patterns for the family musical.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - Rhiannon and other female students often talked about everyday life during art class.
-    - My dad can be a rough driver at times.
-
-## Symbols
-
-- Telekinesis:
-    - The shadow self being a trickster.
-- 45 Degree Road:
-    - Feeling anxious when my dad drives.
-
-## Lessons
-
-- N/A.

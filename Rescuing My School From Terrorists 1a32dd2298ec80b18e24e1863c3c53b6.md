@@ -3,12 +3,12 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: November 2, 2020
-updated_at: June 4, 2026 9:07 PM
+updated_at: June 5, 2026 12:53 AM
 type: Nightmare
 emotion: Happy
-influences: SpongeBob SquarePants (1999)
-
-# Description
+influences:   • SpongeBob SquarePants (1999): Likely references Baby Prunes who is bad-tempered and going deaf https://spongebob.fandom.com/wiki/Baby_Prunes.
+  • Likely references the trope that aliens are evil and shooting monsters in videogames.
+symbols: Terrorists: Desiring to stop injustice before anyone is harmed. The fear of experiencing a tragedy in a familiar location.
 
 I was wandering the lower field beside the year five block at my primary school when camouflaged soldiers emerged from the forest.
 
@@ -61,21 +61,3 @@ I travelled back in time and returned to the electrical room where I heard the v
 > 
 
 I secured his hands with cable ties.
-
-# Interpretations
-
-## Influences
-
-- SpongeBob SquarePants:
-    - Likely references Baby Prunes who is bad-tempered and going deaf [https://spongebob.fandom.com/wiki/Baby_Prunes](https://spongebob.fandom.com/wiki/Baby_Prunes).
-- Likely references the trope that aliens are evil and shooting monsters in videogames.
-
-## Symbols
-
-- Terrorists:
-    - Desiring to stop injustice before anyone is harmed.
-    - The fear of experiencing a tragedy in a familiar location.
-
-## Lessons
-
-- N/A.

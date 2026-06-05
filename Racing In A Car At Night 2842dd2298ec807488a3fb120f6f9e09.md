@@ -3,12 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: October 4, 2025
-updated_at: February 20, 2026 11:36 PM
+updated_at: June 5, 2026 3:55 AM
 type: Normal
 emotion: Fear
 characters: Family
-
-# Description
 
 I was walking toward my family who were standing around my mum’s car in the driveway outside the garage in my unit complex about to travel somewhere at night when a strange situation unfolded:
 
@@ -20,17 +18,3 @@ I asked my parents what was happening but my mother walked with me around the co
 While driving down the sloped road in our neighbourhood, I noticed the previous dark blue car, now with broken windows and a crumpled roof, was following closely behind and trying to ram us. My dad was seated in the left passenger seat and wirelessly driving with a black toy steering wheel for some reason. Since my dad’s vision was obscured, I warned him about two upcoming roads with sharp 90 degree turns. However, he was struggling so I instinctively applied the brakes to try drifting but we were nearly coming to a complete stop. We entered a large dead end road and needed to make a U-turn. I was worried we might get confused who is driving due to poor communication and was allowed to take over.
 
 Eventually, I approached a store containing a 10 storey switchback ramp and judges seated at a table on the top. I instinctively knew this was a race and began ascending. A moving cable looped through the railings somehow tracked my car’s position. The other driver tried to sabotage me by revving his front-right wheel on the cable but failed. After crossing the finish line, an adult male judge awarded me and the other driver 3rd and 4th place ribbons which surprised us since we wouldn’t have won anyway. In the car park, other family members of the Asian driver, covered in muck, got into the car and discussed how they also failed in their shady business. I leaned down to look through the windscreen and said I guess it runs in the family.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

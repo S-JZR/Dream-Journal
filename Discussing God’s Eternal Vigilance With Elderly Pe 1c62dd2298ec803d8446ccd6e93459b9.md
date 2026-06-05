@@ -3,33 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: July 10, 2020
-updated_at: February 20, 2026 11:25 PM
+updated_at: June 5, 2026 12:51 AM
 type: Normal
 emotion: Surprise
-influences: Christianity, Personal Thoughts
 characters: Julien C
-
-# Description
+influences:   • I’ve been afraid that people will try to create a new race of people and a robot god.
+  • Christianity:
+      ◦ I’ve heard some people say we need God’s eternal vigilance to maintain peace.
+      ◦ References that God and his laws are eternal.
+      ◦ References humanity trying to be like god and exist without him.
+symbols: Technology: Counterfeit to the divine. Playing god.
+lessons: We need an eternal and loving moral law.
 
 While walking on the sidewalk with Julien, we spoke with two elderly men seated outside a café about God and morality. We delved into humanity's inclination to replace the divine with technology and realized that everyone needs an eternal and unchanging moral law guided by someone who genuinely loves us.
-
-# Interpretations
-
-## Influences
-
-- Personal Thoughts:
-    - I’ve been afraid that people will try to create a new race of people and a robot god.
-- Christianity:
-    - I’ve heard some people say we need God’s eternal vigilance to maintain peace.
-    - References that God and his laws are eternal.
-    - References humanity trying to be like god and exist without him.
-
-## Symbols
-
-- Technology:
-    - Counterfeit to the divine.
-    - Playing god.
-
-## Lessons
-
-- We need an eternal and loving moral law.

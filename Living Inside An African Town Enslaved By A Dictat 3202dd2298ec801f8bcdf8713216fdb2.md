@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: March 11, 2026
-updated_at: May 3, 2026 5:17 PM
+updated_at: June 5, 2026 4:21 AM
 type: Nightmare
 emotion: Surprise
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was standing above a deep square concrete pit when I jumped down to the bottom and landed on orange containers filled with water stacked on top of each other. I moved through a side exit to an rural African town featuring dirt roads and modern one-storey buildings. Most adults and children were partaking in forced labour carrying bags of rice on their backs and pushing carts full of them. An old African man with a short white beard approached and spoke to me.
 
@@ -41,17 +39,3 @@ Two male police officers yelled at us from behind.
 > 
 
 While we started returning to the town I took one of the police officer’s pistols to shoot both of them and we fled as they fell down backwards in pain.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

@@ -3,20 +3,22 @@
 is_favourite: No
 is_nsfw: No
 date: February 2, 2026
-updated_at: May 3, 2026 5:17 PM
+updated_at: June 5, 2026 4:16 AM
 type: Nightmare
 emotion: Fear
-influences: A Super Progressive Movie (2026), News
 characters: Family
+influences:   • I have heard that people are being arrested in the UK for posting content on social media that the government deems hate speech.
+  • 20 January 2026: Australia recently passed vague hate speech laws to combat antisemitism: https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7422.
+  • Some people tried cancelling the A Super Progressive Movie because it was politically incorrect.
+  • A Super Progressive Movie (2026): I recently watched the film out of curiosity.
+lessons: Stay aware of changing laws that affect you.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was standing in the lounge room of my unit when a male news anchor presented breaking news on TV.
 
@@ -79,22 +81,3 @@ The same policeman returned to the front door.
 I quickly exited the front door to knock him out and we hid his body somewhere inside my unit.
 
 A red forensics vehicle later parked in front of my unit complex to search for the missing policemen. I fled to the neighbouring unit complex opposite ours and walked across the top of the wooden fence of the first unit as a dog barked at me from below. I considered falling left if I lost my balance to avoid being mauled. I climbed onto the red terracotta roof and moved to the other side. After waiting for a long time, I realized nobody was looking for me down the sidewalk and returned to my unit. The data backup finally finished so I took it and escaped with my family.
-
-# Interpretations
-
-## Influences
-
-- News:
-    - I have heard that people are being arrested in the UK for posting content on social media that the government deems hate speech.
-    - 20 January 2026: Australia recently passed vague hate speech laws to combat antisemitism: [https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7422](https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7422).
-    - Some people tried cancelling the A Super Progressive Movie because it was politically incorrect.
-- A Super Progressive Movie:
-    - I recently watched the film out of curiosity.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Stay aware of changing laws that affect you.

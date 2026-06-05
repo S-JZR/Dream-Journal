@@ -3,20 +3,25 @@
 is_favourite: No
 is_nsfw: No
 date: January 13, 2026
-updated_at: May 3, 2026 5:16 PM
+updated_at: June 5, 2026 4:10 AM
 type: Nightmare
 emotion: Fear
-influences: Christianity, Online Videos, Personal Experiences
 characters: Family, IShowSpeed
+influences:   • My brother has researched some political conspiracy theories.
+  • Christianity: References Revelation 13:16-17.
+  • Likely references Unholy by Sam Smith at the Grammy’s with red lights: https://youtu.be/iKkiIqwg15M?si=0tBmYNb16XsMnjX8&t=23.
+  • Likely references Jim Carrey’s secret hand signal skit: https://youtu.be/eG9i7d8yfKQ?si=ZhT4J1pLwfLyuMij&t=50.
+  • References IShowSpeed visiting a witch and leaving halfway through because he felt concerned: https://youtu.be/g7zFNRrXnME?si=sqnr-5P31LtnbpeQ&t=379.
+symbols:   • Red Lights: Evil.
+  • Forehead Chip: The mark of the beast.
+lessons: Always consider how technologies could be used negatively.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was one of many people, including my brother, seated in a grand cathedral in wooden pews around an elevated central dark grey square stage as the host was about to present a new technology. He started by lying down on a dark grey cushioned bench as the stage was illuminated by red lights that deactivated when he arose.
 
@@ -56,28 +61,4 @@ We hurriedly exited onto the footpath and encountered IShowSpeed who also left.
 > 
 
 > **IShowSpeed**: Yeah, something was weird about the red lights and chip.
-> 
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - My brother has researched some political conspiracy theories.
-- Christianity:
-    - References Revelation 13:16-17.
-- Online Videos:
-    - Likely references Unholy by Sam Smith at the Grammy’s with red lights: [https://youtu.be/iKkiIqwg15M?si=0tBmYNb16XsMnjX8&t=23](https://youtu.be/iKkiIqwg15M?si=0tBmYNb16XsMnjX8&t=23).
-    - Likely references Jim Carrey’s secret hand signal skit: [https://youtu.be/eG9i7d8yfKQ?si=ZhT4J1pLwfLyuMij&t=50](https://youtu.be/eG9i7d8yfKQ?si=ZhT4J1pLwfLyuMij&t=50).
-    - References IShowSpeed visiting a witch and leaving halfway through because he felt concerned: [https://youtu.be/g7zFNRrXnME?si=sqnr-5P31LtnbpeQ&t=379](https://youtu.be/g7zFNRrXnME?si=sqnr-5P31LtnbpeQ&t=379).
-
-## Symbols
-
-- Red Lights:
-    - Evil.
-- Forehead Chip:
-    - The mark of the beast.
-
-## Lessons
-
-- Always consider how technologies could be used negatively.
+>

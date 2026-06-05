@@ -3,19 +3,19 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 8, 2026
-updated_at: May 3, 2026 5:18 PM
+updated_at: June 5, 2026 4:23 AM
 type: Nightmare
 emotion: Embarrassment
 characters: Bianca D, Thomas R
+lessons:   • Don’t play games you can’t win.
+  • Write down ideas to avoid forgetting them.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was one of many secondary school students on an excursion to my local shopping mall where we had to explore different stores and eventually come up with an original product.
 
@@ -47,19 +47,4 @@ Everyone gathered around white fold-out tables with A3 pages and markers on top 
 > 
 
 > **Me**: You really have to write ideas down or you will inevitably forget them and it’s a horrible feeling.
-> 
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Don’t play games you can’t win.
-- Write down ideas to avoid forgetting them.
+>

@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2005
-updated_at: February 20, 2026 9:36 PM
+updated_at: June 4, 2026 11:48 PM
 type: Nightmare
 emotion: Fear
-
-# Description
+notes: Before the dream, I fell asleep in the computer room of a sports club because my mum was taking a long time transferring data to a floppy disk.
 
 The dream resembled an 8-bit 2D platformer videogame.
 
@@ -18,24 +17,4 @@ A female explorer travelled right through a grey cave system resembling an organ
 
 After following the top path everything gradually faded to white.
 
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.
-
-# Pre Dream
-
-- I fell asleep in the computer room of a sports club because my mum was taking a long time transferring data to a floppy disk.
-
-# Post Dream
-
-- I jolted awake from feeling uneasy.
+I jolted awake from feeling uneasy.

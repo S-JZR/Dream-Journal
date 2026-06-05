@@ -3,13 +3,19 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: February 6, 2023
-updated_at: June 4, 2026 9:07 PM
+updated_at: June 5, 2026 1:17 AM
 type: Nightmare
 emotion: Fear
-influences: Online Videos, Personal Experiences
 characters: Dejan C, Julien C, Michael C, Sam And Colby
-
-# Description
+influences:   • Sam And Colby: References Sam And Colby and the rumour that demons smell like rotting corpses.
+  • I believe I've had supernatural experiences where it felt like my heart was vibrating with an energy and telepathic messages told me to do things that aligned with events.
+symbols:   • Reddit: The fear that nobody will believe my supernatural experiences.
+  • Satanist, Feminist, and Goth: Can have beliefs or cultures that encourage rebellion against God and having full autonomy.
+  • Wolves: Looming danger and evil.
+  • War Planes: Dictators rejecting God’s ways and using knowledge for evil.
+  • Inner Voice: God leading me to safety.
+lessons:   • Document supernatural experiences as evidence.
+  • Don't blindly follow the crowd.
 
 I was collaborating with Sam and Colby, ghost hunters, to investigate an abandoned tall building and descended a black square metal stairwell into the basement:
 
@@ -61,33 +67,4 @@ We arrived at a fictional location combining various places including an undergr
 
 I obeyed the voice as the advice seemed reasonable considering it would prevent potential injuries from shrapnel if the planes had dropped bombs while flying overhead.
 
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I believe I've had supernatural experiences where it felt like my heart was vibrating with an energy and telepathic messages told me to do things that aligned with events.
-- Online Videos:
-    - References Sam And Colby and the rumour that demons smell like rotting corpses.
-
-## Symbols
-
-- Reddit:
-    - The fear that nobody will believe my supernatural experiences.
-- Satanist, Feminist, and Goth:
-    - Can have beliefs or cultures that encourage rebellion against God and having full autonomy.
-- Wolves:
-    - Looming danger and evil.
-- War Planes:
-    - Dictators rejecting God’s ways and using knowledge for evil.
-- Inner Voice:
-    - God leading me to safety.
-
-## Lessons
-
-- Document supernatural experiences as evidence.
-- Don't blindly follow the crowd.
-
-# Post Dream
-
-- I was overwhelmed by potentially seeing people die and jolted awake in fear.
+I was overwhelmed by potentially seeing people die and jolted awake in fear.

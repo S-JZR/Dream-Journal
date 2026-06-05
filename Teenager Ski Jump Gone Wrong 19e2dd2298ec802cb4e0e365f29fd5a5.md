@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: February 17, 2025
-updated_at: February 24, 2026 1:23 AM
+updated_at: June 5, 2026 2:24 AM
 type: Nightmare
 emotion: Sad
-
-# Description
+lessons: Consider the consequences of your actions.
 
 I was seated in a car with three fictional male teenagers being driven along an elevated highway with buildings and snowy hills to the left. The teen in the left passenger seat wearing skis made an announcement. Man: I'm going to open the door and jump through the gap in the guardrails coming. announced he was going to open the door and jump through a gap in the guardrails to descend the slope below.
 
@@ -34,17 +33,3 @@ After deviating into a nearby carpark, we hurried down to the incinerator to fin
 > 
 
 He calmed down and remained idle.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Consider the consequences of your actions.

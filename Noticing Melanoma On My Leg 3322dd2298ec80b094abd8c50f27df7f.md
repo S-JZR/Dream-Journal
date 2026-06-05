@@ -3,19 +3,17 @@
 is_favourite: No
 is_nsfw: No
 date: March 29, 2026
-updated_at: May 3, 2026 5:18 PM
+updated_at: June 5, 2026 4:21 AM
 type: Nightmare
 emotion: Fear
 characters: Dejan C
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was one of many secondary students in a classroom at my secondary school when I noticed melanoma on my leg and pointed it out to Dejan, my friend, who was sitting beside me. He was concerned and brought it to the attention of the male teacher on the opposite side of the room, who was also a first aid officer.
 
@@ -53,17 +51,3 @@ I pulled up my pant leg to reveal the nodule had fallen off and now resembled a 
 > 
 
 I checked my socks and retraced the path outside but couldn’t find it.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

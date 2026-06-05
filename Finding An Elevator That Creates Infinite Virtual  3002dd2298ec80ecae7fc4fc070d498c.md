@@ -3,19 +3,18 @@
 is_favourite: No
 is_nsfw: No
 date: February 7, 2026
-updated_at: May 3, 2026 5:17 PM
+updated_at: June 5, 2026 4:17 AM
 type: Normal
 emotion: Surprise
-influences: Genie 3 (2025), The Elevator (2018) (Roblox)
+influences:   • The Elevator (2018) (Roblox): Likely references random scenarios being revealed when the elevator doors open.
+  • Genie 3 (2025): Likely references generating infinite interactive AI worlds which was showcased last year: https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I walked beside the entrance of an indoor café and noticed a popular elevator upstairs that opened portals to different virtual worlds that were seemingly infinite in size. Some worlds featured NPCs that looked and behaved like real people. There was only an open door and speaker button with two modes including:
 
@@ -38,20 +37,3 @@ I had a few concerns including whether:
 - Moving objects could kill me.
 
 Despite my fears, I chose to give it a try when it was my turn and entered a randomly generated shopping mall hub in the afternoon when most stores were shut and various NPCs roamed. After travelling through a long hallway to the right and reaching city streets, I was worried about losing the elevator and being trapped in the world so I returned to exit.
-
-# Interpretations
-
-## Influences
-
-- The Elevator:
-    - Likely references random scenarios being revealed when the elevator doors open.
-- Genie 3**:**
-    - Likely references generating infinite interactive AI worlds which was showcased last year: [https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/).
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

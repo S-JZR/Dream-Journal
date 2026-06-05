@@ -3,18 +3,17 @@
 is_favourite: No
 is_nsfw: No
 date: April 25, 2026
-updated_at: May 3, 2026 5:18 PM
+updated_at: June 5, 2026 4:24 AM
 type: Nightmare
 emotion: Sad
+lessons: Own your mistakes.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was one of many secondary students outside the library at recess when I tore open a packet of popcorn but it split open too easily as its contents spilled onto the ground. I scooped up a handful of the popcorn with my hands and walked into the library to find a bin as a few pieces of popcorn fell to the ground along the way. I entered a side room to encounter a female Asian teacher and other students seated in a ring on the carpet learning about things and an open black rubbish bin beneath a counter. I proceeded to dump all the popcorn into the bin and the teacher tried to stop me but it was too late.
 
@@ -35,17 +34,3 @@ The teacher started crying because she didn’t want her learning interrupted an
 > 
 
 I carried the bin outside, picked up popcorn that fell earlier, and manually sorted everything to remove the popcorn then returned the bin.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Own your mistakes.

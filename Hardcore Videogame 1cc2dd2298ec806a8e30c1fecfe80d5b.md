@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: April 4, 2025
-updated_at: February 20, 2026 11:33 PM
+updated_at: June 5, 2026 2:45 AM
 type: Normal
 emotion: Happy
-influences: Online Videos, Team Fortress 2 (2007)
 characters: Vanoss Crew
-
-# Description
+influences:   • References watching a lot of Vanoss Crew gameplay for a month, specifically R.E.P.O.
+  • Team Fortress 2 (2007): References gameplay and rooftop maps.
 
 I was in a hardcore videogame with the Vanoss Crew, featuring multiple levels with content from diverse videogames.
 
@@ -20,20 +19,3 @@ In the second level we exited into a large yellow room from a rectangular brown 
 In the third level we were in a spacious underground cavern with a 50-meter-tall ceiling, dark green grassy hills, and two cobblestone pathways that symmetrically arced upwards into separate areas with monsters we had to avoid. A balustrade lined the front area, overlooking a large chasm. Everyone kept dying easily from monsters and was forced to spectate for a long time until everyone was eliminated. I suggested that we restart the game with respawns enabled and everyone agreed.
 
 In the fourth level we were spectating a shoreline with a sandy path and elevated grassy areas on the left. The game was a 3D rail point-and-click adventure game where many objects in the environment were interactable, like a junior adventure game, and each section was supposed to involve rapid problem-solving in a limited time. After successfully completing a section, the camera moved further along the path. Two different Doberman guard dogs with sharp collars moved into frame from both sides of the path and by clicking them they moved out of frame. As the camera moved around a curve in the path, a white brick wall ran along the elevated terrain. At the front, on the grass right of the wall, was a sandwich on a plate, with a male guard wearing a light blue uniform nearby, starring at the ocean on the sand. I woke up before figuring out what to do next.
-
-# Interpretations
-
-## Influences
-
-- Online Videos:
-    - References watching a lot of Vanoss Crew gameplay for a month, specifically R.E.P.O.
-- Team Fortress 2:
-    - References gameplay and rooftop maps.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

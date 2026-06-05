@@ -3,11 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: September 2, 2024
-updated_at: February 20, 2026 9:47 PM
+updated_at: June 5, 2026 1:56 AM
 type: Normal
 emotion: Happy
-
-# Description
 
 I was one of a few people playing an outdoor arcade game as we each stood in separate lanes with distant tall rectangle tunnels that emitted a series of rectangles:
 
@@ -18,17 +16,3 @@ I was one of a few people playing an outdoor arcade game as we each stood in sep
     - Invisible rectangles with outlines.
 
 Each score threshold offered higher prize tiers.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

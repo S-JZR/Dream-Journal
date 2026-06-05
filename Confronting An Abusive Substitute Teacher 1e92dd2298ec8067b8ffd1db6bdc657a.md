@@ -3,12 +3,16 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 1, 2025
-updated_at: February 20, 2026 9:55 PM
+updated_at: June 5, 2026 2:58 AM
 type: Nightmare
 emotion: Anger
-influences: Personal Experiences
-
-# Description
+influences:   • Teachers occasionally asked me to do errands in primary school.
+  • Mrs Barnes made me write lines after class for failing quiz questions.
+  • I’ve reported students in secondary school and been immediately targeted as the suspect.
+symbols:   • Abusive Teacher:
+      ◦ Inner critic accusing me of not being good enough and lazy.
+      ◦ Embodies the worst traits of different teachers.
+lessons: Expect backlash from those you report.
 
 I arrived 15 minutes late to my year 7 classroom at my primary school and encountered a super abusive blond female substitute teacher seated behind a desk.
 
@@ -45,22 +49,3 @@ As I followed her around the back of the library she texted a student named Tyle
 > 
 
 I had enough and walked directly to the administration office to report the incident and requested an immediate class change to avoid being the subject of abuse for filing the complaint.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - Teachers occasionally asked me to do errands in primary school.
-    - Mrs Barnes made me write lines after class for failing quiz questions.
-    - I’ve reported students in secondary school and been immediately targeted as the suspect.
-
-## Symbols
-
-- Abusive Teacher:
-    - Inner critic accusing me of not being good enough and lazy.
-    - Embodies the worst traits of different teachers.
-
-## Lessons
-
-- Expect backlash from those you report.

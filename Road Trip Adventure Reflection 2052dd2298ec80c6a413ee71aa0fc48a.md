@@ -3,12 +3,18 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 27, 2025
-updated_at: February 20, 2026 6:47 PM
+updated_at: June 5, 2026 3:11 AM
 type: Normal
 emotion: Sad
-influences: Personal Experiences, Personal Thoughts, Road Trip Adventure (2002)
-
-# Description
+influences:   • I took candid photos of TVs/Monitors as a child because I didn’t know the proper way.
+  • I’ve started working on Fandom wikis again this year.
+  • I’ve grown to dislike videogames because I feel like they’re a waste of time and hinder skill development.
+  • Road Trip Adventure (2002): references the gameplay.
+symbols:   • Gameplay: Nostalgia.
+lessons:   • Videogames are arbitrary constructs so be careful how much time you spend on them.
+  • Undocumented experiences are forgotten forever.
+notes:   • Road Trip Adventures featured Quick-Pic Shops everywhere not treasure chests.
+  • I added a brain dump of thoughts I've been having lately.
 
 I was seated at my computer in my unit and emulated Road Trip Adventure, one of my favourite childhood videogames. While exploring the world, I found various candid screenshots on my computer showing the locations of secret treasure chests in different terrain. However, I realized my childhood efforts were a waste of time as it lacked spatial context and would have been better documented on something like a Fandom map, allowing everyone to easily find each point.
 
@@ -20,28 +26,3 @@ After digging through the code, I toggled different developer flags that unlocke
 - Players are merely agreeing to engage in an adventure predefined by developers and being confined to its available choices and rules for the thrill of growth, strategy, and seeing a narrative unfold.
 - Everyone should only take what they need and move on.
 - Any undocumented experience will be forgotten anyway.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I took candid photos of TVs/Monitors as a child because I didn’t know the proper way.
-    - I’ve started working on Fandom wikis again this year.
-- Personal Thoughts:
-    - I’ve grown to dislike videogames because I feel like they’re a waste of time and hinder skill development.
-
-## Symbols
-
-- Gameplay:
-    - Nostalgia.
-
-## Lessons
-
-- Videogames are arbitrary constructs so be careful how much time you spend on them.
-- Undocumented experiences are forgotten forever.
-
-# Notes
-
-- Road Trip Adventures featured Quick-Pic Shops everywhere not treasure chests.
-- I added a brain dump of thoughts I've been having lately as a list.

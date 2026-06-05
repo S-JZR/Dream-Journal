@@ -3,13 +3,20 @@
 is_favourite: No
 is_nsfw: No
 date: March 22, 2025
-updated_at: February 20, 2026 11:33 PM
+updated_at: June 5, 2026 2:37 AM
 type: Normal
 emotion: Fear
-influences: Personal Experiences
 characters: Family
-
-# Description
+influences:   • Since last year we had bad neighbours move in that were the worst we’ve ever had to deal with that never accepted advice, constantly yelled at each other with poor family relationships, had no regard for noise, and manipulated to get their way.
+  • When learning to drive in the past, my dad would tell me to switch off the lights and engine when returning to the carpark in the unit complex to avoid disturbing the neighbours.
+  • I constantly struggle to park between the lines.
+symbols:   • Insect: My mum got overly upset by the neighbours but I didn’t let it bother me.
+  • Paint: Problems that others are trying to force upon me.
+  • Cycle Arguments: I dislike people who engage in endless petty arguments just to prove they’re right.
+  • Idol: My mum occasionally says foolish things or sweeping statements that make me cringe or unsure what to think about it.
+lessons: Control your emotions and don't let every negative event provoke a reaction.
+notes:   • Before the dream, my mum said the neighbours were officially moving out and put their property on the market.
+  • Possibly predicted the neighbours demanding money from another neighbour over suspicious circumstances about seven months later. [Classified for now].
 
 I was wandering through the streets in front of my unit complex at night with my family looking for something. I peaked back at their unit from a distance and noticed them seated outside on sofas watching a movie on a TV. Not wanting to be seen coming back late, we waited for hours until they went returned inside. After randomly falling asleep I dreamt about being in bed inside my unit but a small insect bothered me by flying ovals around me.
 
@@ -75,35 +82,3 @@ After being rebuked, my parents repeatedly walked in an oval to think of an argu
 > 
 
 Various people, including those on the Mezzanine above, laughed at her and I felt embarrassed.
-
-# Interpretations
-
-## Influences
-
-- Personal Experience:
-    - Since last year we had bad neighbours move in that were the worst we’ve ever had to deal with that never accepted advice, constantly yelled at each other with poor family relationships, had no regard for noise, and manipulated to get their way.
-    - When learning to drive in the past, my dad would tell me to switch off the lights and engine when returning to the carpark in the unit complex to avoid disturbing the neighbours.
-    - I constantly struggle to park between the lines.
-
-## Symbols
-
-- Insect:
-    - My mum got overly upset by the neighbours but I didn’t let it bother me.
-- Paint:
-    - Problems that others are trying to force upon me.
-- Cycle Arguments:
-    - I dislike people who engage in endless petty arguments just to prove they’re right.
-- Idol:
-    - My mum occasionally says foolish things or sweeping statements that make me cringe or unsure what to think about it.
-
-## Lessons
-
-- Control your emotions and don't let every negative event provoke a reaction.
-
-# Pre Dream
-
-- My mum said the neighbours were officially moving out and put their property on the market.
-
-# Post Dream
-
-- Possibly predicted the neighbours demanding money from another neighbour over suspicious circumstances about seven months later. [Classified for now].

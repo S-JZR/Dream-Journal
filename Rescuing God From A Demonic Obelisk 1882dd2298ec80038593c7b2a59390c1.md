@@ -3,13 +3,14 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: February 21, 2026 10:00 PM
+updated_at: June 5, 2026 12:28 AM
 type: Nightmare
 emotion: Fear
-influences: Personal Thoughts
 characters: Dejan C, God (Christianity), Michael C
-
-# Description
+influences: I often hear Atheists accuse God of being evil for annihilating unrepentant locations as a judgement. I’ve always wondered what would happen if God never intervened to stop evil.
+symbols:   • Obelisk: Ancient idolatry and sin.
+  • God Frozen: I’ve always struggled with believing in God and feel like he’s absent.
+lessons: The world would be a worse place if evil was never judged.
 
 I was walking through the countryside with Michael and Dejan, friends from secondary school, when a distant explosion rapidly engulfed the entire sky in a wave of flames until everything became pitch black.
 
@@ -41,21 +42,3 @@ I was determined to rescue God to liberate the world, so while the obelisk wasn'
 > 
 
 After hurrying to the other side, I set the clock back in motion to free God who restored order to the world.
-
-# Interpretations
-
-## Influences
-
-- Personal Thoughts:
-    - I often hear Atheists accuse God of being evil for annihilating unrepentant locations as a judgement. I’ve always wondered what would happen if God never intervened to stop evil.
-
-## Symbols
-
-- Obelisk:
-    - Ancient idolatry and sin.
-- God Frozen:
-    - I’ve always struggled with believing in God and feel like he’s absent.
-
-## Lessons
-
-- The world would be a worse place if evil was never judged.

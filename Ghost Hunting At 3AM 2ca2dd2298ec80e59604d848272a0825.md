@@ -3,13 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: November 26, 2024
-updated_at: February 20, 2026 11:31 PM
+updated_at: June 5, 2026 2:03 AM
 type: Normal
 emotion: Fear
-influences: Online Videos
 characters: Tabitha
-
-# Description
+influences: References the 3AM challenge: https://youtube.fandom.com/wiki/3AM_Challenges.
 
 I was standing in the paddock beside my unit complex when I met Tabitha, a member of a local former church.
 
@@ -23,18 +21,3 @@ I was standing in the paddock beside my unit complex when I met Tabitha, a membe
 > 
 
 To pass the time we watched The Incredibles in someone's unit.
-
-# Interpretations
-
-## Influences
-
-- Online Videos:
-    - References the 3AM challenge: [https://youtube.fandom.com/wiki/3AM_Challenges](https://youtube.fandom.com/wiki/3AM_Challenges).
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

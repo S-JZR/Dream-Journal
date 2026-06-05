@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: February 20, 2026 11:24 PM
+updated_at: June 5, 2026 12:33 AM
 type: Normal
 emotion: Surprise
-influences: Personal Experiences
 characters: God (Christianity)
-
-# Description
+influences:   • I’ve heard others ask what was God doing before the universe existed.
+  • I’ve heard Jesus existed eternally with God and planned to save the world before creation.
 
 I was spectating a black void when I questioned God who answered with a disembodied voice.
 
@@ -17,20 +16,4 @@ I was spectating a black void when I questioned God who answered with a disembod
 > 
 
 > **God**: I knew Jesus.
-> 
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I’ve heard others ask what was God doing before the universe existed.
-    - I’ve heard Jesus existed eternally with God and planned to save the world before creation.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.
+>

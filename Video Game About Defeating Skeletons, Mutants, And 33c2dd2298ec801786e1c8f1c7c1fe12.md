@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: April 3, 2026
-updated_at: May 3, 2026 5:18 PM
+updated_at: June 5, 2026 4:22 AM
 type: Normal
 emotion: Surprise
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was playing a videogame with multiple players about journeying through an Egyptian pyramid and were equipped with flare guns that had limited ammo. We travelled through an angled C-shaped hallway with smooth 50 metre tall walls when three enemy skeletons emerged in the distance. We shot multiple flares at them but they merely bounced off and didn’t ignite them. One skeleton proceeded to attack a man to my right.
 
@@ -35,17 +33,3 @@ To the right of the chamber, a hoard of zombies were breaking through boxes cove
 > 
 
 The other group slid machine guns and ammo through the tunnel to us and we removed the boards to fight the zombies.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

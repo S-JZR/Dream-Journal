@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: August 26, 2025
-updated_at: February 20, 2026 11:35 PM
+updated_at: June 5, 2026 3:48 AM
 type: Normal
 emotion: Surprise
-influences: Minecraft (2009), Team Fortress 2 (2007)
 characters: Family
-
-# Description
+influences:   • Team Fortress 2 (2007): References the death run gamemode.
+  • Minecraft (2009): References mining blocks.
 
 I was attending an outdoor family friendly obstacle course with my family as we followed a footpath through a series of obstacles.
 
@@ -29,20 +28,3 @@ In obstacle three I encountered a woman inside a rectangular cave filled with sn
 While hopping over the fence to approach the tree my parents yelled at me to stop as hundreds of Mistletoebird were flying around its branches, looking for a place to migrate and could attack me. Eventually, they flew away into the previous snow cave.
 
 My family entered a room in a nearby hotel at the complex to stay for the night. I noticed a pill bottle on drawers belonging to someone else. A male teenager walked past the front door and I asked him about it. He said it might belong to his father and that he would check. I explicitly told him to confirm if it was the exact bottle which made my family chuckle since it was already implied. I also found some white powder in a blue tray and dumped it into the bin outside the hallway.
-
-# Interpretations
-
-## Influences
-
-- Team Fortress 2:
-    - References the death run gamemode.
-- Minecraft:
-    - References mining blocks.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

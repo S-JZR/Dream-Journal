@@ -3,18 +3,16 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 16, 2026
-updated_at: May 3, 2026 5:18 PM
+updated_at: June 5, 2026 4:24 AM
 type: Nightmare
 emotion: Surprise
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was standing outside the science classroom at my secondary school on the last day of school waiting for the class to finish to meet with year 12 students inside. However, when the bell rang and everyone left there were only year 9 students and Angus, someone I knew from primary school, approached me. We travelled passed a blue fabric tunnel on the dirt beside the footpath towards the hall when I noticed a green Witchetty grub crawling across a side entrance.
 
@@ -98,17 +96,3 @@ I looked around to see the location transform into a bushland beside a suburban 
 > 
 
 I sprinted further into the bushland with a fictional female friend who was helping me escape and we climbed a palm tree to hide as the men and police searched for me below.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

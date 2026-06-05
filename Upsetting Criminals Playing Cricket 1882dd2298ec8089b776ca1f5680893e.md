@@ -3,13 +3,15 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 7, 2021
-updated_at: June 4, 2026 9:07 PM
+updated_at: June 5, 2026 1:04 AM
 type: Normal
 emotion: Fear
-influences: Commercials, Monsters Inc. (2001), Online Videos
 characters: Aleksandr Orlov, Family, James Sullivan, Mrs Claus, Santa, Sergei Orlov
-
-# Description
+influences:   • Compare The Market (2006): References Aleksandr and Sergei from Compare The Market.
+  • Monsters Inc. (2001): References Sullivan.
+  • References a song about NSA agents dressed as Santa spying on people: https://youtu.be/8pcWlyUu8U4?si=ARTFhn2dt-7MqtOx.
+symbols: Killing Criminals: The desire to bring justice to evil.
+lessons: Control your impulses before you cause unnecessary problems.
 
 During Christmas week, my family explored festive attractions along a riverside promenade beside a cantilever bridge with a concrete base.
 
@@ -100,23 +102,3 @@ We landed beside the warehouse and my family was already outside as a few people
 > 
 
 Unexpectedly, numerous senior military officers, wearing green uniforms adorned with medals, cheerfully escorted my parents away.
-
-# Interpretations
-
-## Influences
-
-- Commercials:
-    - References Aleksandr and Sergei from Compare The Market.
-- Online Videos:
-    - References a song about NSA agents dressed as Santa spying on people: [https://youtu.be/8pcWlyUu8U4?si=ARTFhn2dt-7MqtOx](https://youtu.be/8pcWlyUu8U4?si=ARTFhn2dt-7MqtOx).
-- Monsters, Inc.:
-    - References Sullivan.
-
-## Symbols
-
-- Killing Criminals:
-    - The desire to bring justice to evil.
-
-## Lessons
-
-- Control your impulses before you cause unnecessary problems.

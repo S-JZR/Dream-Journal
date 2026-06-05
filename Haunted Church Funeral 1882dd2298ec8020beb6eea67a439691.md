@@ -3,13 +3,13 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2020
-updated_at: February 20, 2026 11:25 PM
+updated_at: June 5, 2026 12:45 AM
 type: Nightmare
 emotion: Fear
-influences: Personal Experiences
 characters: Grim Reaper
-
-# Description
+influences: Recently my family has been attending the church.
+symbols: Empty Coffin: The fear of death.
+lessons: Life is finite.
 
 I was attending a funeral service in a small former church at night:
 
@@ -26,19 +26,3 @@ I was attending a funeral service in a small former church at night:
     - dimly lit by candles.
 
 While walking along the red carpet towards the coffin, all the ghosts turned their heads to look at me. After opening the coffin and realizing it was empty, all the candles in the main room extinguished and the veils dropped to the floor. A bright spotlight shone on the wall right of the entrance as the silhouette of the Grim Reaper holding a sickle emerged. I fled into the back room to barricade the door with various pieces of furniture and frantically searched the shelves for the key to the back door and escaped.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - Recently my family has been attending the church.
-
-## Symbols
-
-- Empty Coffin:
-    - The fear of death.
-
-## Lessons
-
-- Life is finite.

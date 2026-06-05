@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: February 4, 2025
-updated_at: February 22, 2026 11:47 PM
+updated_at: June 5, 2026 2:19 AM
 type: Nightmare
 emotion: Fear
-
-# Description
+symbols:   • Invasion: The fear of going to war.
 
 I was walking along a mowed dirt path in a grassy paddock, between houses, towards a shopping mall when a blackout occurred and a fictional male friend called me.
 
@@ -21,19 +20,4 @@ I was walking along a mowed dirt path in a grassy paddock, between houses, towar
 > 
 
 > **Man**: Meet me at my place as quick as you can and we can go from there.
-> 
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- Invasion:
-    - The fear of going to war.
-
-## Lessons
-
-- N/A.
+>

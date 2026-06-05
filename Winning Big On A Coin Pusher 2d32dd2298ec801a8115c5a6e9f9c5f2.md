@@ -3,12 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: December 3, 2025
-updated_at: February 26, 2026 3:09 AM
+updated_at: June 5, 2026 4:06 AM
 type: Normal
 emotion: Happy
-influences: Personal Experiences, Radio
-
-# Description
+influences:   • My parents used to take me and my brother to a sports club and put us in the kid’s room when we were younger.
+  • My parents used to take me and my brother to arcades when we were younger and sometimes we played modern coin pushers a lot like Fantastic Fever 3 and Medalink (Western Dream). The latter was easy to earn coins from.
+  • References an ABC radio host asking an electric car question during my morning alarm.
+lessons: Take advantage of opportunities while you still can.
 
 My parents dropped my brother and I off at a sports club:
 
@@ -29,22 +30,4 @@ The lights abruptly deactivated in the tall structure and everyone stopped movin
 When it was time to leave I talked to my brother.
 
 > **Me**: I should redeem a prize with all my tickets since we might never come back here again.
-> 
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - My parents used to take me and my brother to a sports club and put us in the kid’s room when we were younger.
-    - My parents used to take me and my brother to arcades when we were younger and sometimes we played modern coin pushers a lot like Fantastic Fever 3 and Medalink (Western Dream). The latter was easy to earn coins from.
-- Radio:
-    - References an ABC radio host asking an electric car question during my morning alarm.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Take advantage of opportunities while you still can.
+>

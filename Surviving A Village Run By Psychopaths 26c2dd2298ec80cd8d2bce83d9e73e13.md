@@ -3,12 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: September 12, 2025
-updated_at: February 20, 2026 10:04 PM
+updated_at: June 5, 2026 3:51 AM
 type: Nightmare
 emotion: Fear
-influences: 99 Nights In The Forest (2025) (Roblox), The Outlast Trials (2023)
-
-# Description
+influences:   • 99 Nights In The Forest (2025) (Roblox): Likely references seeing a wendigo in the thumbnail standing on two legs with long claws.
+  • The Outlast Trials (2023):
+      ◦ References a poor individual undergoing government experimentation.
+      ◦ References various psychopaths as obstacles in different trials.
 
 I was standing in a small carpark when a woman asked me to recall my experiences in a depraved village. I told her it was like The Outlasts Trials run by various psychopaths. Nobody was supposed to be outside during the night as they risked being shot and attacked by anthropomorphic nocturnal mutant deer guards that sluggishly roamed on two legs and held rifles.
 
@@ -31,21 +32,3 @@ An eight year old boy was sleeping on the sofa and was commanded to stay there a
 A deer tried climbing through the left window by slowly sliding its hands with long fingers and sharp claws into the frame. I grabbed a hammer and smacked its hands as it silently retreated. I rushed to haphazardly start boarding up openings. The boy was startled awake and I realized letting him sleep was a bad idea. I asked him for help but he hammered slowly and could only cover the bottom sections because he was short. After finishing, the same deer poked its rifle through gaps in the planks and fired a few shots at us so we hid behind the sofa.
 
 I repeated the scenario and immediately got the boy to help me board everything up without gaps and no deer attacked because they couldn’t see or hear us.
-
-# Interpretations
-
-## Influences
-
-- 99 Nights In The Forest:
-    - Likely references seeing a wendigo in the thumbnail standing on two legs with long claws.
-- The Outlast Trials:
-    - References a poor individual undergoing government experimentation.
-    - References various psychopaths as obstacles in different trials.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

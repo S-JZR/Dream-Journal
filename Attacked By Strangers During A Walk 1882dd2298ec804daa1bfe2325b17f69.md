@@ -3,12 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: September 19, 2023
-updated_at: February 20, 2026 9:43 PM
+updated_at: June 5, 2026 1:20 AM
 type: Normal
 emotion: Fear
-influences: Personal Experiences
-
-# Description
+influences:   • We live in a neighbourhood with a lot of government housing and are wary of people.
+  • I tend to be looking at the night sky at the right time and see things moving across it.
+lessons: Avoid walking alone at night.
 
 I was walking with a group of fictional friends outside the large house opposite my unit complex. Concerned for everyone's safety, we decided to walk each person back to their home as the sun began to set. However, while traversing a dirt path surrounded by dense shrubbery, I heard voices and noticed silhouettes. Rushing to the illuminated porch of the friend’s house, I turned back to catch glimpses of them.
 
@@ -56,19 +56,3 @@ I wrote the pronunciation on my left palm. While observing the night sky, a frie
 > 
 
 Continuing down the street, the shimmering lens of a security camera atop a tall pine tree caught my attention as it swivelled in our direction. We walked past, collectively acknowledging its presence.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - We live in a neighbourhood with a lot of government housing and are wary of people.
-    - I tend to be looking at the night sky at the right time and see things moving across it.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Avoid walking alone at night.

@@ -3,19 +3,17 @@
 is_favourite: No
 is_nsfw: No
 date: May 27, 2026
-updated_at: May 27, 2026 5:31 PM
+updated_at: June 5, 2026 4:27 AM
 type: Nightmare
 emotion: Sad
 characters: Family
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was one of many neighbours attending a gathering event in the car park of my unit complex when. I reflected on how malicious activities were increasing in the neighbour over the past few months but everyone seemed to be oblivious to it and how my parents have said that they wanted to move for years but haven’t followed through with it. A man approached me to have a discussion.
 
@@ -48,17 +46,3 @@ She walked past me and I turned around to see a new diagonal billboard to the ri
 > 
 
 I returned to my unit to tell my family about the incident. My mum became nervous and tried to make everything more presentable by pulling back the carpet and floorboards to vacuum hidden dirt. She also travelled to the garage where she vacuumed dirt on the roller doors and ceiling. I looked around at the belongings, keepsakes, containers, and cardboard boxes my mum archived and stacked up to the ceiling against all of the walls. I considered how my parents were constantly making it harder to move by accumulating more belongings and fragile items over time in the unit and garage that we would have to deal with later.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

@@ -3,12 +3,14 @@
 is_favourite: Yes
 is_nsfw: No
 date: November 25, 2021
-updated_at: February 20, 2026 11:28 PM
+updated_at: June 5, 2026 1:08 AM
 type: Normal
 emotion: Anger
 characters: Family
-
-# Description
+symbols:   • Impatient Driver: I always feel rushed and don’t have enough time to finish things.
+  • Garage: Fear of losing sentimental things and the past.
+  • Church Staff: Trying to do everything myself too much.
+lessons: Plan ahead.
 
 I was about to go on a vacation to Hawaii with my family but needed to retrieve valuables from a garage on a rural mountain in Japan. Hitching a ride on a pickup truck with a disgruntled male driver, we ascended halfway up to a vantage point overlooking an ocean bridge connecting the urban and rural regions.
 
@@ -76,22 +78,3 @@ We filled two duffle bags and the welcome team directed me back to the church ha
 > 
 
 I decided to send the packages to Australia given our short vacation and hoped we would return before they arrived. I hitched a ride with a church member who drove me across the bridge to the airport as night fell. I booked a flight to Hawaii and boarded the plane to reunite with my family.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- Impatient Driver:
-    - I always feel rushed and don’t have enough time to finish things.
-- Garage:
-    - Fear of losing sentimental things and the past.
-- Church Staff:
-    - Trying to do everything myself too much.
-
-## Lessons
-
-- Plan ahead.

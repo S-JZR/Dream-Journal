@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 15, 2025
-updated_at: February 21, 2026 11:43 PM
+updated_at: June 5, 2026 2:18 AM
 type: Nightmare
 emotion: Anger
-
-# Description
+lessons: Don’t be a bystander and stop others from making harmful decisions.
 
 I was a construction worker standing beside the road and tried to drive a sign into the ground covered in white pebbles using a hammer but to no avail. Eventually, a man arrived in a green specialized sign hammering vehicle with a vertical piston and an arm on the back with a pointed tip but he was rebellious and had no interest in working.
 
@@ -36,18 +35,4 @@ I overheard the conversation from a distance and sought to reprimand him.
 I looked away knowing it wouldn't end well and soon other workers cried out in terror.
 
 > **Woman 2**: Oh my God, she's bleeding everywhere!
-> 
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Don’t be a bystander and stop others from making harmful decisions.
+>
