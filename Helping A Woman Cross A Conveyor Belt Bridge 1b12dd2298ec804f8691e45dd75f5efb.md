@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: March 5, 2025
-updated_at: February 24, 2026 1:37 AM
+updated_at: June 5, 2026 2:31 AM
 type: Normal
 emotion: Happy
-
-# Description
+lessons: Providing examples makes learning easier.
 
 I was standing in a shopping mall when I saw an elderly Asian woman struggling to use a powered roller conveyor bridge connecting the two halves of the second floor. It detected the direction customers were moving and displayed arrows on square screens mounted on parallel poles at each entrance.
 
@@ -21,17 +20,3 @@ I was standing in a shopping mall when I saw an elderly Asian woman struggling t
 > 
 
 I demonstrated how to use it by standing fully on it, sliding a bit, and letting it carry me to the other side. We repeated this together three times.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Providing examples makes learning easier.

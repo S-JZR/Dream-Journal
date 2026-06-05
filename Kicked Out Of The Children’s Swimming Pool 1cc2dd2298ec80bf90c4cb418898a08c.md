@@ -3,12 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: April 1, 2025
-updated_at: February 24, 2026 2:16 AM
+updated_at: June 5, 2026 2:42 AM
 type: Normal
 emotion: Sad
-influences: Mr Bean (1990), Personal Experiences
-
-# Description
+influences:   • During primary school I was initially afraid to dive underwater and float on my back but learnt how to swim.
+  • Mr Bean (1990): Likely references Mr Bean being being told to leave the children’s pool by a lifeguard: https://youtu.be/FZoofVvPUC8?si=J7NteKkNRICHGztm&t=52.
+symbols: Breathing In Water: The fear of drowning.
 
 I was wearing inflatable armbands and struggling to swim in the shallow end of the pool at my primary school with various children and a male teacher supervisor sitting on a foldout chair on the other side. I was casually practicing floating on my back and front without submerging my face while two boys stood beside me.
 
@@ -27,22 +27,4 @@ I attempted to swim laps across the entire pool by weaving between densely packe
 > 
 
 > **Man**: Move to the adult pool!
-> 
-
-# Interpretations
-
-## Influences
-
-- Personal experience:
-    - During primary school I was initially afraid to dive underwater and float on my back but learnt how to swim.
-- Mr Bean:
-    - Likely references Mr Bean being being told to leave the children’s pool by a lifeguard: [https://youtu.be/FZoofVvPUC8?si=J7NteKkNRICHGztm&t=52](https://youtu.be/FZoofVvPUC8?si=J7NteKkNRICHGztm&t=52).
-
-## Symbols
-
-- Breathing In Water:
-    - The fear of drowning.
-
-## Lessons
-
-- N/A.
+>

@@ -3,19 +3,17 @@
 is_favourite: No
 is_nsfw: No
 date: May 20, 2026
-updated_at: May 20, 2026 5:06 PM
+updated_at: June 5, 2026 4:26 AM
 type: Nightmare
 emotion: Sad
 characters: Family
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was walking outside of my unit with my dad when we heard a cat meowing in pain which I instinctively knew was because it had a broken leg. The cat seemed to be located inside various bushes at the left side of unit 6’s backyard.
 
@@ -33,18 +31,4 @@ I opened the wooden gate to let ourselves in and we combed through all of the bu
 We walked to the park down the road and my dad expected me to enjoy myself by playing on the playground but I felt too unsettled to do anything.
 
 > **Me**: How do you expect me to be happy when I know an animal is suffering?
-> 
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.
+>

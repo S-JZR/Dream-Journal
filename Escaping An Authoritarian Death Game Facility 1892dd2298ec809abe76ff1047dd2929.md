@@ -3,13 +3,15 @@
 is_favourite: No
 is_nsfw: No
 date: November 26, 2024
-updated_at: February 20, 2026 11:31 PM
+updated_at: June 5, 2026 2:05 AM
 type: Nightmare
 emotion: Fear
-influences: Online Videos, Squid Game (2021)
 characters: Dejan C
-
-# Description
+influences:   • Squid Game (2021): References surviving multiple death game challenges.
+  • References Matpat renowned for analysing videogame lore.
+symbols: Facility: The fear of being held against my will.
+lessons:   • It pays to pay attention.
+  • Teamwork makes the dream work.
 
 I was one of many prisoners in a facility competing in a series of death games for freedom. Prisoners who completed challenges waited in holding bays beside each room for everyone else to finish. Various facilitators wearing casual clothing stood in each room and ensured everyone followed orders.
 
@@ -31,22 +33,3 @@ In the third room I entered a large rectangular room:
 Staff explained that until we progressed through more challenges this would be our eternal residence. I formed a team of four with Dejan, from my secondary school, and a few other fictional individuals. The team was discouraged and said they didn't want to struggle through more challenges. After passing through a gate into the small rectangular hockey area to compete against another team we were given metal bats and the floor was electrified as hundreds of lightning bolts visibly jumped around. The objective was to hit conductive pucks into opponents to kill them. After a member from both teams died, our team decided to lay the bats flat on the ground for a better defence than trying to hit it with the tip. After multiple failed attempts barely moving the puck a female member on the enemy team grew annoyed at the boring experience. I suggested they should quit so they left. A staff mistakenly thought they won so they opened a bi-parting vertical metal door in the corner. Noticing my two teammates standing obliviously, I quickly pulled them inside as the doors began to shut.
 
 In the fourth room we travelled through an L-shaped hallway, where three narrow glass strips revealed the outside. A voice on the speaker explained that everyone had one minute to enter a chamber at the end which would seal shut. Someone realized that everything was being recorded in the facility as a transcript from another page they had received earlier aligned with the description of the current room. Everyone hurried back through the hallway to find an escape route and rammed a log through a window to escape.
-
-# Interpretations
-
-## Influences
-
-- Squid Game:
-    - References surviving multiple death game challenges.
-- Online Videos:
-    - References Matpat renowned for analysing videogame lore.
-
-## Symbols
-
-- Facility:
-    - The fear of being held against my will.
-
-## Lessons
-
-- It pays to pay attention.
-- Teamwork makes the dream work.

@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 20, 2026
-updated_at: June 4, 2026 9:08 PM
+updated_at: June 5, 2026 4:14 AM
 type: Nightmare
 emotion: Disgust
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was walking through multiple rooms separated by doors in the men’s restroom when at the furthest one a toddler opened the door and walked inside. Their dad ran in, picked them up, and carried them out because they weren't supposed to be there. I caught a glimpse of a strange hidden facility inside the room and curiously entered into the centre of a large rectangular area resembling a gym:
 
@@ -32,17 +30,3 @@ Various people were partaking in scientific experiments that collected their uri
 - Running on treadmills.
 
 I felt uncomfortable and left as I tried to not look at anything by focusing on the ground and covering the sides of my eyes with my hands.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

@@ -3,13 +3,13 @@
 is_favourite: Yes
 is_nsfw: No
 date: December 12, 2025
-updated_at: February 26, 2026 2:57 AM
+updated_at: June 5, 2026 4:07 AM
 type: Normal
 emotion: Surprise
-influences: Online Videos
 characters: MrBeast
-
-# Description
+influences: References MrBeast often staring at the screen with the vine boom sound effect during awkward moments.
+symbols: MrBeast: Likely the subconscious desire to be on the gameshow.
+lessons: People can exploit loopholes that constraints don't address.
 
 I was one of many contestants on a MrBeast gameshow in a warehouse standing in front of a wooden post-and-panel sign listing many prizes. Everyone was assigned into teams of two to compete. I was paired with a man competing against two women. MrBeast spoke to us via a microphone.
 
@@ -31,20 +31,4 @@ We all laid down on a circular fake grass mat and held down a red push button in
 > 
 
 > **MrBeast**: Well congratulations you have just won a brand new Lamborghini!
-> 
-
-# Interpretations
-
-## Influences
-
-- Online Videos:
-    - References MrBeast often staring at the screen with the vine boom sound effect during awkward moments.
-
-## Symbols
-
-- MrBeast:
-    - Likely the subconscious desire to be on the gameshow.
-
-## Lessons
-
-- People can exploit loopholes that constraints don't address.
+>

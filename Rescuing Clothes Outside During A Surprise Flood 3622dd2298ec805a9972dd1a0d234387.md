@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: May 16, 2026
-updated_at: May 16, 2026 3:52 PM
+updated_at: June 5, 2026 4:26 AM
 type: Normal
 emotion: Surprise
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was standing in the lounge room of my unit as my dad sat on the sofa when I looked through the blinds outside to see that everything was flooded by 0.5 meters of murky water.
 
@@ -33,17 +31,3 @@ I was worried about how we were going to get the clothes inside without dropping
 > 
 
 We both hurriedly placed all of the clothes in a basket and my dad carried inside.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

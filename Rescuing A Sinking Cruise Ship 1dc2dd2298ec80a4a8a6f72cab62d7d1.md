@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: April 16, 2025
-updated_at: February 20, 2026 11:33 PM
+updated_at: June 5, 2026 2:49 AM
 type: Normal
 emotion: Surprise
-influences: MacGyver (1985)
 characters: MacGyver
-
-# Description
+influences: MacGyver (1985): References MacGyver.
+lessons: Prioritize tasks with the greatest impact.
 
 An international rescue agency received a distress call from a cruise ship slowly sinking in the middle of ocean that was already 70% submerged.
 
@@ -18,18 +17,3 @@ I was one of five rescue workers, including MacGyver, dispatched on a black heli
 We stealthily moved past them until we found a way into a dark control room dimly lit by red lights with computer terminals, servers, and machinery in the back. A one-eyed engineer robot with a unicycle leg was activated by our arrival and introduced itself. A woman jokingly asked it to repair everything but it said that was impractical given the limited time and urgent circumstances. A man asked it to reroute power to a specific zero-gravity component to lift the entire ship out of the ocean.
 
 We were uncertain which direction to travel without a GPS, so we continued flying in one direction, hoping to reach land. A call came over the computer terminal, but I failed to answer it in time. A voice message was left from a Chinese radio transmission as two jets flew parallel on the left side of the ship. Unable to call them back, we assumed they were warning us about violating their airspace. We turned 90 degrees left as they flew away and eventually reached the USA where we landed in a park as the entire ship was now a miniature.
-
-# Interpretations
-
-## Influences
-
-- MacGyver:
-    - References MacGyver.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Prioritize tasks with the greatest impact.

@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: May 22, 2026
-updated_at: May 22, 2026 5:38 PM
+updated_at: June 5, 2026 4:26 AM
 type: Nightmare
 emotion: Surprise
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was one of many people forced into slave labour in an underground desert facility ruled by a female dictator. She required daily exposure to sunlight to recharge otherwise her body would experience immense pain and slowly self-destruct. I spectated her sitting on her throne inside a large cave with servants scattered around:
 
@@ -46,18 +44,4 @@ I was walking through a grey metallic futuristic hallway with glass panels on bo
 > 
 
 > **Man**: Yeah, that would be good to factor in…
-> 
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.
+>

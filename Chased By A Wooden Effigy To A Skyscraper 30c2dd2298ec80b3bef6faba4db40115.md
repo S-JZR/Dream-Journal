@@ -3,19 +3,17 @@
 is_favourite: No
 is_nsfw: No
 date: February 19, 2026
-updated_at: May 3, 2026 5:17 PM
+updated_at: June 5, 2026 4:19 AM
 type: Nightmare
 emotion: Fear
 characters: Michael C
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was bicycling with Michael, a friend from secondary school, through a university at night with mostly grey concrete buildings when we encountered a fork in the path. The left path was in complete darkness and the straight path was illuminated by streetlights.
 
@@ -80,17 +78,3 @@ We entered the large storage room filled with square and rectangle boxes and cra
 > 
 
 After filling out the postage labels we sat inside the boxes and waited for delivery people who shipped us back to our houses.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

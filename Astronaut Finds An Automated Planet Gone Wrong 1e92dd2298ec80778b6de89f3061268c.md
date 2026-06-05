@@ -3,13 +3,14 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 29, 2025
-updated_at: February 20, 2026 11:34 PM
+updated_at: June 5, 2026 2:57 AM
 type: Nightmare
 emotion: Fear
-influences: Star Wars (1987), Thunderbirds (1965)
 characters: James Carter
-
-# Description
+influences:   • Thunderbirds (1965): References Thunderbird 3.
+  • Star Wars (1987): References the dark side.
+  • Rush Hour (1998): References Carter who is the comedic relief character.
+lessons: You’re not completely safe until you’re out of the danger zone.
 
 A blond astronaut was travelling through space in an egg-shaped camouflaged spaceship with four landing legs, trying to reach a destination. The entire time, he was in a radio call with other crew members at a remote HQ as the signal relayed across a chain of distant satellites. After accidentally getting lost, he encountered a red, green, and two grey planets that displayed on internal monitors. The green planet showed excessive signs of life covering the entire surface when scanned. Upon landing, it was discovered that Creepers from Minecraft had bred uncontrollably and covered the surface to conceal the grey stone beneath. The loud noise of the rocket scared them away into various nearby cave entrances where they couldn’t completely fit inside but eventually came out again to curiously surround it as he observed them through the hemisphere windows. The onboard AI system advised him not to open the door for his personal safety until it could be confirmed that they were not a threat. He requested backup to be on standby in case an emergency evacuation was needed.
 
@@ -20,22 +21,3 @@ He trespassed into a large restricted white ring-shaped storage facility resembl
 After exiting the facility through a fire exit, they ascending to the roof as other crew arrived, one of which was Carter from Rush Hour, wearing fully-body dark grey armour. He sassily tried to reason with the AI system embedded in the planet by talking to a sniper turret on a distant roof. Five separate shots, each with a brief pause between them, struck his chest plate and helmet, knocking him back repeatedly. However, he kept moving back into position to defiantly yell insults at it. The astronaut radioed him saying, “What the hell are you doing? Stop standing in the open! Are you trying to get yourself killed?” Carter then moved out of sight behind roof structures.
 
 As the astronaut and survivor descended the stairs to cross a large flat outdoor loading bay, the dark jedi emerged from behind to chase them. The survivor was fatally stabbed in the chest and the astronaut tripped onto the ground then turned to plead “Please don't kill me”. The dark jedi replied, "I sense darkness in you. Will you join the dark side?”
-
-# Interpretations
-
-## Influences
-
-- Thunderbirds:
-    - References Thunderbird 3.
-- Star Wars:
-    - References the dark side.
-- Rush Hour:
-    - References Carter who is the comedic relief character.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- You’re not completely safe until you’re out of the danger zone.

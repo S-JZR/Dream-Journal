@@ -3,27 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: February 20, 2026 9:37 PM
+updated_at: June 5, 2026 12:05 AM
 type: Nightmare
 emotion: Fear
-
-# Description
+symbols: Criminal: The fear of being held against my will.
+lessons: Never let fear or intimidation stop you from finding a way to escape.
 
 I was being held hostage by an armed male criminal who broke into a one-storey office beside an urban river with a small dock and forced me to help extract documents about another escaped individual from the file cabinets. While he was distracted, I seized the opportunity to flee outside onto an outboard motorboat floating on the water. It remained stubbornly unresponsive despite repeated attempts to start the engine by pulling the cord.
 
 As he emerged from the building and neared the boat, the engine roared to life. I navigated downstream for a considerable distance until the fuel depleted. While walking beside houses, I noticed someone nearby looking out of their window and talking with an unseen companion. Fearing the worst, I hurriedly entered a shopping mall to hide from view.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- Criminal:
-    - The fear of being held against my will.
-
-## Lessons
-
-- Never let fear or intimidation stop you from finding a way to escape.

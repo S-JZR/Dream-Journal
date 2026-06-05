@@ -3,33 +3,13 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: February 20, 2026 7:41 PM
+updated_at: June 5, 2026 12:37 AM
 type: Nightmare
 emotion: Fear
-influences: Personal Thoughts
-
-# Description
+influences: I used to have a strong fear of infinity about things like does true infinity exist? Can we achieve infinite experiences or are we limited to a finite cycle?
+symbols:   • Metal Bars: The exploration of possibilities.
+  • Universe’s Edge: The fear of being confined to a finite cycle of experiences.
 
 An overview shot of Earth showed self-replicating metal bars extending in all directions from the ground into space. They continued travelling to the edge of the universe where they were trapped in invisible boundaries and gradually consumed all remaining space to form a cube.
 
-# Interpretations
-
-## Influences
-
-- I used to have a strong fear of infinity about things like:
-    - Does true infinity exist? Can we achieve infinite experiences or are we limited to a finite cycle?
-
-## Symbols
-
-- Metal Bars:
-    - The exploration of possibilities.
-- Universe’s Edge:
-    - The fear of being confined to a finite cycle of experiences.
-
-## Lessons
-
-- N/A.
-
-# Post Dream
-
-- I jolted awake in fear.
+I jolted awake in fear.

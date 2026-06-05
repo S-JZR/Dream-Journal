@@ -3,27 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: February 20, 2026 9:38 PM
+updated_at: June 5, 2026 12:37 AM
 type: Nightmare
 emotion: Fear
-influences: Personal Experiences
-
-# Description
+influences: We live in a neighbourhood with a lot of government housing and are wary of people.
+symbols:   • Teenagers: Rebelliousness.
 
 I was standing on the footpath outside of my unit complex at night when a group of mischievous teenagers in a brown-red Toyota drove past. They leaned outside all four side door windows, holding raised machine guns and yelling like lunatics to amuse themselves, so I fled back inside.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - We live in a neighbourhood with a lot of government housing and are wary of people.
-
-## Symbols
-
-- Teenagers:
-    - Rebelliousness.
-
-## Lessons
-
-- N/A.

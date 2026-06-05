@@ -3,29 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: May 28, 2024
-updated_at: February 20, 2026 11:30 PM
+updated_at: June 5, 2026 1:48 AM
 type: Normal
 emotion: Happy
-influences: Cart Ride (2008) (Roblox)
 characters: Family
-
-# Description
+influences: Cart Ride (2008) (Roblox): Likely references the old ride a cart games.
 
 I was seated in my mum's car with my family being driven by my mum to a honey factory and noticed a tree beside it that reminded me of a festival where a minecart carried people around a track. Upon returning home, we planned to go next year, this time opting for a faster train journey.
 
 Onboard the passenger carriage, the room was nearly empty except for a dark blue carpet and a row of multi-purpose metal seats to one side that also served as toilets connected by a long pipe at the back. Upon reaching the destination, a festival was underway, so I partook in a looping cart ride that sharply arced over a tree before descending back to the ground.
-
-# Interpretations
-
-## Influences
-
-- Cart Ride:
-    - Likely references the old ride a cart games.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

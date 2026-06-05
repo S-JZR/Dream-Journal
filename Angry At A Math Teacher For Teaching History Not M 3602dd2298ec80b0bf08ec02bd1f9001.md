@@ -3,19 +3,17 @@
 is_favourite: No
 is_nsfw: No
 date: May 14, 2026
-updated_at: May 14, 2026 7:32 PM
+updated_at: June 5, 2026 4:25 AM
 type: Normal
 emotion: Anger
-influences: Personal Experiences
+influences: I was reading about signs of gaslighting yesterday.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was one of many secondary students seated at desks in a math classroom with a grey carpet as a female teacher discussed topics on the whiteboard while holding an open math textbook. I flicked through my personal textbook and realized 99% of it contained historical stories with text on the left pages and an illustration on the right pages. Most students knew something was wrong but were too afraid to speak up and leave the class.
 
@@ -33,18 +31,3 @@ I walked to the front of the classroom with my textbook and began tearing out al
 > 
 
 When I started walking out of the classroom, most students followed me.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I was reading about signs of gaslighting yesterday.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

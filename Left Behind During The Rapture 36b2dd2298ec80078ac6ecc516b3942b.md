@@ -3,19 +3,17 @@
 is_favourite: No
 is_nsfw: No
 date: May 25, 2026
-updated_at: May 25, 2026 7:04 PM
+updated_at: June 5, 2026 4:26 AM
 type: Nightmare
 emotion: Fear
 characters: Family
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was standing inside my unit at night when I overheard consecutive abnormally loud thunder claps and everyone in the unit complex exited their units to investigate.
 
@@ -56,17 +54,3 @@ I returned to the kitchen and brought her a small square plastic container full 
 > 
 
 The rest of my family returned inside and I locked the front fly screen and wooden door for our protection.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

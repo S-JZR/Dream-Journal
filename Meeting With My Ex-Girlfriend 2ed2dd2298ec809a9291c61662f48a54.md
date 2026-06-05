@@ -3,19 +3,17 @@
 is_favourite: No
 is_nsfw: No
 date: January 19, 2026
-updated_at: May 3, 2026 5:17 PM
+updated_at: June 5, 2026 4:13 AM
 type: Nightmare
 emotion: Fear
 characters: Family
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was seated at my computer in my unit when my fictional ex-girlfriend with blonde hair from university messaged me at 7AM.
 
@@ -68,17 +66,3 @@ Eventually, I arrived at the campus and met her in front of an elevator to the l
 > 
 
 We entered the elevator and ascended to the rooftop terrace which featured stone tiles, four wooden and metal benches, and a stone parapet.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

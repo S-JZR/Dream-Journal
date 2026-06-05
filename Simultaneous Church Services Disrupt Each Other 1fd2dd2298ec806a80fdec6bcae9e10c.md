@@ -3,11 +3,10 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 7, 2025
-updated_at: February 20, 2026 9:55 PM
+updated_at: June 5, 2026 3:00 AM
 type: Normal
 emotion: Anger
-
-# Description
+lessons: The church is meant to work together in unison not compete with each other.
 
 Two church groups were sharing attendance in a large modern church building located in a semi-remote wooded area beside a road to simultaneously perform services:
 
@@ -21,17 +20,3 @@ The first group arrived early, occupied the metal chairs, and proceeded into a s
 The second group arrived late, occupied the plastic chairs, and a female worship leader sang over the first service using a microphone, making it difficult to understand anything.
 
 The pastor of the first group politely asked them using a microphone to lower their volume. The sound team at the back gradually reduced the volume to a suitable level.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- The church is meant to work together in unison not compete with each other.

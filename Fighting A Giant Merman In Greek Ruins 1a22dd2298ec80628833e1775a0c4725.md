@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: October 17, 2024
-updated_at: February 20, 2026 9:48 PM
+updated_at: June 5, 2026 2:01 AM
 type: Normal
 emotion: Happy
-influences: Mythology (2011) (Sakisa)
-
-# Description
+influences: Mythology (2011) (Sakisa): I’ve been wanting to play Mythology for a while which likely influenced the Greek theme.
+notes: I stayed up late playing old GameMaker Sandbox games like Battleship Forever and lji.
 
 I was in a PS1-style videogame playing as a Greek warrior in a square environment:
 
@@ -29,22 +28,3 @@ I was in a PS1-style videogame playing as a Greek warrior in a square environmen
 Upon approaching the tower, a hostile giant merman, four-storeys tall with a cyan body and dark green scaly legs, emerged from the door, wielding a trident as he slowly trudged down the pathway, driven by a primitive AI with poor detection and responsiveness to nearby players.
 
 I attempted to slash their ankles with my sword, but despite my character barely moving inside their moving foot, the hitbox registered damage as if I were being stood on, killing me as I jumped into the air to land on my back. After respawning, I played more methodically, slashing from behind to provoke the giant to follow before ascending the tower stairs to the top level. However, the giant climbed to the top level and sat down, exhausted from dehydration, filling a cup from the waterfall to drink, providing an opportunity to attack.
-
-# Interpretations
-
-## Influences
-
-- Mythology:
-    - I’ve been wanting to play Mythology for a while which likely influenced the Greek theme.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.
-
-# Pre Dream
-
-- I stayed up late playing old GameMaker Sandbox games like Battleship Forever and lji.

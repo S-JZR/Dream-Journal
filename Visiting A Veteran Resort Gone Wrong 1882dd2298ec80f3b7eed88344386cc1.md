@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: January 10, 2020
-updated_at: February 20, 2026 11:25 PM
+updated_at: June 5, 2026 12:45 AM
 type: Normal
 emotion: Fear
-influences: Personal Experiences
 characters: Family, Mr Broadway, Mrs Itsikson
-
-# Description
+influences:   • The toilets at my secondary school were always dirty and unpleasant.
+  • Seventh graders often did silly things to amuse themselves.
 
 I was seated with my family in my mum's car being driven by my mum to a veterans resort to meet someone. We noticed two connected tennis ball courts beside the complex when we pulled into the parking lot and decided to play a game. However, before entering, a cleaning crew suddenly brought in their equipment to wash the floors, and a ride-on floor scrubber leaked a small white puddle near the entrance.
 
@@ -47,19 +46,3 @@ My voice echoing off the walls prompted three seventh graders in the stalls to y
 > 
 
 Mrs Itsikson and Mr Broadway, staff members, emerged from the bathroom hallway and I opened the door for them out of courtesy.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - The toilets at my secondary school were always dirty and unpleasant.
-    - Seventh graders often did silly things to amuse themselves.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

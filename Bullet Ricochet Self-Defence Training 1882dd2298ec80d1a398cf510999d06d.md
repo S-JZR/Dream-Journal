@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: January 28, 2021
-updated_at: February 20, 2026 11:28 PM
+updated_at: June 5, 2026 1:06 AM
 type: Normal
 emotion: Fear
 characters: Dejan C
-
-# Description
+lessons: Be aware of how your actions might impact the environment and wildlife.
 
 I was standing in the carpark of my unit complex, witnessing three individuals sharing a firearm self-defence technique to force an aggressor's legs together by ricocheting bullets off the ground and walls into their pelvis that was demonstrated on a dummy.
 
@@ -33,18 +32,4 @@ Eventually, I strolled along the concrete pathway to the right side of the garag
 Everyone walked over to investigate and we took photos of the animals. I was instantly teleported into a science classroom in my secondary school where I presented my findings with a slideshow projected at the front to the class. Dejan, a friend from secondary school, transitioned through the slides on a laptop.
 
 > **Dejan**: (muttering) Are these photos even real?
-> 
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Be aware of how your actions might impact the environment and wildlife.
+>

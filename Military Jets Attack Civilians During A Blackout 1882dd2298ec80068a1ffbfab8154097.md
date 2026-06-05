@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: December 2, 2022
-updated_at: February 20, 2026 9:42 PM
+updated_at: June 5, 2026 1:12 AM
 type: Nightmare
 emotion: Fear
-
-# Description
+symbols: Jets: The fear of being helpless.
 
 I was waiting in line at the checkouts in a Coles supermarket within a retail strip when an unexpected blackout occurred.
 
@@ -22,18 +21,3 @@ Determined to cease the unfolding tragedy, I traversed along the perimeter of a 
 > 
 
 As night fell and all aircraft cleared the area, I retraced my steps to flee the area.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- Jets:
-    - The fear of being helpless.
-
-## Lessons
-
-- N/A.

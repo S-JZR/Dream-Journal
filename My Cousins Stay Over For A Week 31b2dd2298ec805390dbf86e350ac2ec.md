@@ -3,20 +3,18 @@
 is_favourite: No
 is_nsfw: No
 date: March 6, 2026
-updated_at: May 3, 2026 5:17 PM
+updated_at: June 5, 2026 4:19 AM
 type: Nightmare
 emotion: Fear
-influences: Doors (2021) (Roblox)
 characters: Ruth K, Sheriff Woody
+influences: Doors (2021) (Roblox): Likely references Doors where you loot drawers, some cupboards and drawers are booby trapped, and there’s monsters everywhere.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was standing upstairs in my unit when Ruth, my mum’s sister, unexpectedly knocked on the door and brought over three fictional daughters to stay for a week which I wasn’t particularly happy about. I later walked in on the daughters and spoke to them.
 
@@ -100,18 +98,3 @@ The donkey asked me a few questions and riddles that I can’t remember. After a
 > 
 
 I fled upstairs to the edge of an interior balcony overlooking the front door and placed about 50 strips on the floor in front of us to give us a chance to escape if it found us.
-
-# Interpretations
-
-## Influences
-
-- Doors:
-    - Likely references Doors where you loot drawers, some cupboards and drawers are booby trapped, and there’s monsters everywhere.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

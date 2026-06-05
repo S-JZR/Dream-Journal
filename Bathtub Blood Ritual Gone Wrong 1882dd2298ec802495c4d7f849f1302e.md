@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: February 20, 2026 9:37 PM
+updated_at: June 5, 2026 12:13 AM
 type: Nightmare
 emotion: Fear
-influences: Freemasonry
-
-# Description
+influences: Freemasonry: References the obelisk and reflection in water that represents “as above, so below”. I’ve heard that during the initiation there is an oath of secrecy with a symbolic death penalty.
+lessons: Don’t meddle in bad business or you'll invite unnecessary trouble.
 
 I was standing in a dimly lit bathroom with a fictional teenage friend as we performed a ritual by:
 
@@ -23,19 +22,3 @@ The bloody water bubbled as a female human hand emerged, grabbed my neck, and pu
 > 
 
 After the hand submerged, my friend and I exchanged startled glances and silently departed the room.
-
-# Interpretations
-
-## Influences
-
-- Freemasonry:
-    - References the obelisk and reflection in water that represents “as above, so below”.
-    - I’ve heard that during the initation there is an oath of secrecy with a symbolic death penalty.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Don’t meddle in bad business or you'll invite unnecessary trouble.

@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: April 7, 2025
-updated_at: February 24, 2026 2:36 AM
+updated_at: June 5, 2026 2:46 AM
 type: Normal
 emotion: Sad
 characters: Family
-
-# Description
+lessons: Set reminders and do things when you’re told to avoid forgetting them.
 
 I was standing in the kitchen in my unit with my brother when my mum hung lots of clothes on fold-out metal lines in the backyard and frontyard. She warned us about a storm before leaving.
 
@@ -27,17 +26,3 @@ My brother and I got distracted talking to each other for hours when it started 
 > 
 
 The clothes were completely soaked by the time we got them inside.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Set reminders and do things when you’re told to avoid forgetting them.

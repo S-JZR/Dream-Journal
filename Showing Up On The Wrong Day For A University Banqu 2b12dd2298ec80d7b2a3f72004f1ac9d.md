@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: April 18, 2024
-updated_at: February 20, 2026 9:45 PM
+updated_at: June 5, 2026 1:43 AM
 type: Nightmare
 emotion: Sad
-influences: Personal Experiences
-
-# Description
+influences: I once accidentally showed up a day early to secondary school when juniors and seniors were scheduled to start on different days.
+lessons: Double check important dates and who it applies to.
 
 I was walking upstairs in a fancy building to a university class banquet where many students sat with their clients at long tables with course codes on A4 paper taped to the side.
 
@@ -24,19 +23,4 @@ I was confused by two tables with unit codes close to mine, one empty and full. 
 > 
 
 > **Teacher**: Your class starts next week.
-> 
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I once accidentally showed up a day early to secondary school when juniors and seniors were scheduled to start on different days.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Double check important dates and who it applies to.
+>

@@ -3,37 +3,18 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: February 20, 2026 9:37 PM
+updated_at: June 5, 2026 12:32 AM
 type: Normal
 emotion: Sad
-influences: Christianity, Personal Experiences
-
-# Description
+influences: Personal Experiences: I attended churches and didn’t understand why Christians felt happy.
+Christianity: Likely references Psalm 34:8 and Matthew 7:21.
+symbols:   • Cake: Tasting good because it’s well made.
+  • God's Work: Doing good. Higher principles.
+lessons: Joy comes from doing meaningful work that aligns with higher principles.
 
 I was standing in a church as a cheerful crowd surrounded a cake on a white circular table with the word joy written on it.
 
 I instantly teleported to the reception room in heaven where a line of cheerful individuals stood in front of me.
 
 > **Woman**: Only those who do God's work can enter his kingdom.
-> 
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I attended churches and didn’t understand why Christians felt happy.
-- Christianity:
-    - Likely references Psalm 34:8 and Matthew 7:21.
-
-## Symbols
-
-- Cake:
-    - Tasting good because it’s well made.
-- God's Work:
-    - Doing good.
-    - Higher principles.
-
-## Lessons
-
-- Joy comes from doing meaningful work that aligns with higher principles.
+>

@@ -3,13 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: May 2, 2025
-updated_at: February 20, 2026 11:34 PM
+updated_at: June 5, 2026 3:00 AM
 type: Nightmare
 emotion: Sad
-influences: Fred Claus (2007), Minecraft (2025)
 characters: Family
-
-# Description
+influences:   • Minecraft (2025): Reference the Chicken Jockey trend that was popular and people threw around food in cinemas: https://simple.wikipedia.org/wiki/A_Minecraft_Movie.
+  • Fred Claus (2007): The messy slurpy store reminds me of the scene where Santa and Clyde are shocked that the elves stopped working and restore order: https://youtu.be/nR2MtdrHCEs?si=-tkEbUUoCfTHEclR&t=88.
+lessons: Don’t split up in crowded places to avoid getting lost.
 
 I was walking down the street in the city with my brother when we realized we were near the cinema and decided to sneak into an auditorium to see if we could catch a glimpse of people doing the Chicken Jockey trend for the Minecraft movie:
 
@@ -35,20 +35,3 @@ I entered a nearby building outside, connected to the complex, that was almost c
 A couple walked along the walkway as the man complained of an upset stomach and vomited yellow liquid over the balustrade directly onto my head. It dripped down the back of my shirt and onto the floor. As he moved away into another area, still periodically vomiting, I stood back to yell at him, but they were so focused on their situation that they didn't notice me. I called out for a janitor, hoping to find one, but nobody came. While walking back to the previous building with the liquid still dripping off me, a stranger pointed me to a male janitor wearing a red uniform.
 
 I asked if there was a shower here, but he said no, so I guided him to all the spots he needed to clean. During the journey, various scam website ads popped up on my phone's web browser and I told him I felt like I was under a curse today as various bad things keep happening and he chuckled. Once upstairs, he cleaned the trail on the walkway and found a longer one leading further down a hallway but we skipped it for now. We continued to the slushie store and were both horrified to find it completely filthy, with grime covering the walls and slushie ice scattered across the floor. A female attendant, behind a glass screen to the right, was casually filling tubs with slushie ice and placing them on a conveyor belt that led to a back storage room. She turned to look at me and I sternly told her that the store needs to shutdown for cleaning, effective immediately. She replied, “I understand”.
-
-# Interpretations
-
-## Influences
-
-- Minecraft:
-    - Reference the Chicken Jockey trend that was popular and people threw around food in cinemas: [https://simple.wikipedia.org/wiki/A_Minecraft_Movie](https://simple.wikipedia.org/wiki/A_Minecraft_Movie).
-- Fred Claus:
-    - The messy slurpy store reminds me of the scene where Santa and Clyde are shocked that the elves stopped working and restore order: [https://youtu.be/nR2MtdrHCEs?si=-tkEbUUoCfTHEclR&t=88](https://youtu.be/nR2MtdrHCEs?si=-tkEbUUoCfTHEclR&t=88).
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Don’t split up in crowded places to avoid getting lost.

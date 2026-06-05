@@ -3,13 +3,27 @@
 is_favourite: Yes
 is_nsfw: No
 date: March 4, 2025
-updated_at: February 24, 2026 1:34 AM
+updated_at: June 5, 2026 2:30 AM
 type: Nightmare
 emotion: Anger
-influences: News, Personal Experiences
 characters: Dejan C, Tom B
+influences:   • I often feel like university is a waste of time.
+  • I had female students in a CI class once who were researching how women are oppressed by male dominated industries.
+  • I’m trying to finish a double degree and failed my CS capstone because I don’t feel skilled enough, teammates in my CI capstone were awful and made me do most of the work, and other simultaneous problems.
+  • My brother shared a story about how a university teacher emailed his class saying that nobody will hire them because they’re lazy and entitled.
 
-# Description
+  • News:
+      ◦ Student performance is declining: https://www.theguardian.com/australia-news/2023/nov/27/australian-education-in-long-term-decline-due-to-poor-curriculum-report-says.
+      ◦ More students are dropping out of university: https://ipa.org.au/read/fees-for-no-degrees.
+      ◦ Warnings were issued about Cyclone Alfred approaching the coast: https://en.wikipedia.org/wiki/Cyclone_Alfred.
+symbols:   • Convenience Store:
+      ◦ I feel like university and charities are purposefully trying to get money out of us even though we’re in debt.
+  • Cashier:
+      ◦ Feeling like I’m trapped in university and can’t do what I want.
+      ◦ Self-criticism about running away from my responsibilities and not achieving enough.
+  • Conceptual Art:
+      ◦ I feel like most conceptual art is confusing and the message is unclear or trivial.
+lessons: The education system may fail you but ultimately you're responsible for your learning.
 
 I was one of many students seated in a university lecture room listening to a middle-aged female staff member give an orientation presentation in front of a projector.
 
@@ -90,32 +104,4 @@ After arriving at Subway, I walked behind the counter as staff let me look aroun
 > 
 
 > **Manager**: You need to stop!
-> 
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I often feel like university is a waste of time.
-    - I had female students in a CI class once who were researching how women are oppressed by male dominated industries.
-    - I’m trying to finish a double degree and failed my CS capstone because I don’t feel skilled enough, teammates in my CI capstone were awful and made me do most of the work, and other simultaneous problems.
-    - My brother shared a story about how a university teacher emailed his class saying that nobody will hire them because they’re lazy and entitled.
-- News:
-    - Student performance is declining: [https://www.theguardian.com/australia-news/2023/nov/27/australian-education-in-long-term-decline-due-to-poor-curriculum-report-says](https://www.theguardian.com/australia-news/2023/nov/27/australian-education-in-long-term-decline-due-to-poor-curriculum-report-says).
-    - More students are dropping out of university: [https://ipa.org.au/read/fees-for-no-degrees](https://ipa.org.au/read/fees-for-no-degrees).
-    - Warnings were issued about Cyclone Alfred approaching the coast: [https://en.wikipedia.org/wiki/Cyclone_Alfred](https://en.wikipedia.org/wiki/Cyclone_Alfred).
-
-## Symbols
-
-- Convenience Store:
-    - I feel like university and charities are purposefully trying to get money out of us even though we’re in debt.
-- Cashier:
-    - Feeling like I’m trapped in university and can’t do what I want.
-    - Self-criticism about running away from my responsibilities and not achieving enough.
-- Conceptual Art:
-    - I feel like most conceptual art is confusing and the message is unclear or trivial.
-
-## Lessons
-
-- The education system may fail you but ultimately you're responsible for your learning.
+>

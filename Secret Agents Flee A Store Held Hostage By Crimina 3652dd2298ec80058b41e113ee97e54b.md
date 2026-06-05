@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: May 19, 2026
-updated_at: May 19, 2026 5:21 PM
+updated_at: June 5, 2026 4:26 AM
 type: Nightmare
 emotion: Fear
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was the sidekick of Asian secret agents who knew martial arts tasked with investigating leads to uncover a criminal organization. The agents had a slight grudge against me because I was new and lagged behind. We travelled to an Asian gourmet restaurant to discuss plans over a meal which featured:
 
@@ -108,17 +106,3 @@ The gun didn’t go off.
 > 
 
 I stayed where I was and the criminal dropped bank notes onto my lap. Eventually, the criminals were busy talking to each other beside the stove when I considered slowly crawling out the back door to escape.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

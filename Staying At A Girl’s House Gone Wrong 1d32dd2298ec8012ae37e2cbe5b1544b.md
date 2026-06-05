@@ -3,11 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 7, 2025
-updated_at: February 20, 2026 9:53 PM
+updated_at: June 5, 2026 2:46 AM
 type: Nightmare
 emotion: Fear
-
-# Description
 
 I was standing in my unit when a girl approached the front flyscreen door while it was raining.
 
@@ -115,17 +113,3 @@ However, nothing occurred so it must have been someone else. I suddenly remember
 > 
 
 I looked around and saw Margarette’s ghastly face blending into the top of the void.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

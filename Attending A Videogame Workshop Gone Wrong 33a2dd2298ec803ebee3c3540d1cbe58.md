@@ -3,19 +3,19 @@
 is_favourite: No
 is_nsfw: No
 date: April 4, 2026
-updated_at: May 3, 2026 5:18 PM
+updated_at: June 5, 2026 4:22 AM
 type: Nightmare
 emotion: Sad
-influences: Personal Experiences
+influences: I once had a group assessment in university where we had three members instead of the expected five and struggled to come up with ideas so we resorted to one that a different team member suggested a week earlier.
+lessons:   • You can only work with your available pool of ideas.
+  • Ensure scheduled events don't conflict.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was one of many university students attending a series of videogame workshops on campus after hearing about it via student emails. The female facilitator assigned us into different teams of five but mine only had three people so I confronted her.
 
@@ -59,20 +59,4 @@ I overheard someone yelling at me and saw an Asian man, who was a team member fr
 > 
 
 > **Me**: Can you send me some tasks to do as homework so I can contribute back.
-> 
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I once had a group assessment in university where we had three members instead of the expected five and struggled to come up with ideas so we resorted to one that a different team member suggested a week earlier.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- You can only work with your available pool of ideas.
-- Ensure scheduled events don't conflict.
+>

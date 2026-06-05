@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: January 14, 2026
-updated_at: May 3, 2026 5:16 PM
+updated_at: June 5, 2026 4:10 AM
 type: Normal
 emotion: Happy
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was following adults and children seated on a tram travelling slowly through a single-lane pedestrian-priority space resembling South Bank Grand Arbour at night:
 
@@ -33,17 +31,3 @@ Speakers mounted to different poles emitted music promoting the new super fast 5
 The children were surprised that I was being rebellious and kept looking back at me.
 
 We teleported to the top floor of a multi-storey shopping mall and the tram turned into a small empty cart with two cushioned seats. The cart travelled along train tracks beside small stage sets of fancy British lounge rooms as a speaker built into the cart commented on each room which I ignored. Nobody wanted to ride it and everyone, including a group of Japanese tourists, followed behind. The cart turned very slowly around sharp corners.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

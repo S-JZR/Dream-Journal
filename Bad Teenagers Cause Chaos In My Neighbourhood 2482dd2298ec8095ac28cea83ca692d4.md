@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: August 7, 2025
-updated_at: February 20, 2026 11:35 PM
+updated_at: June 5, 2026 3:43 AM
 type: Nightmare
 emotion: Fear
-influences: Pauline Hanson's Please Explain (2021), Personal Experiences
 characters: Family
-
-# Description
+influences: Personal Experiences,Pauline Hanson's Please Explain (2021): References National Insecurity cancelling National Security by spreading rumours about him to his YouTube subscribers: https://youtu.be/2pUQQx9EIOg?si=_XhP1ou-7hEN5zNJ&t=182.
+notes: May have predicted a car being firebombed in the street near my unit complex about three months later. [Classified for now].
 
 I was standing in my unit with my family when troublesome teenagers returned to disturb the peace by doing burnouts in the paddock and building a three storey fortress out of concrete T walls, scrap, and wood in the place of the new units. My parents and I went outside to investigate the commotion when the teenagers threw Molotov cocktails in the paddock and left of my garage beside the fortress to start fires that got the attention of all neighbours in the paddock who worked together to extinguish them. I turned on a tap beside my garage and connected a hose to extinguish fires and made it rain on plants and the wooden fence as a precaution to prevent future attacks. The teenagers claimed the government said they had no business being here so they defiantly started a store in the fortress to sell drinks for $3. My dad and I walked over to explore the fortress. I was afraid they would exit to confront us but he said they only emerge at specific times and handed me a scientific diagram of the sun and moon clock cycle.
 
@@ -18,24 +17,3 @@ I was in my garage doing things with the door open when the teenagers where unaw
 The government got involved and devised a plan to infiltrate the fortress by planting an injured male agent outside with his mouth sewn shut by wires. He groaned to get the attention of someone nearby to take him inside because he resembled other teenagers who were injured by neighbours.
 
 I was in my garage with another man holding a phone and a black woman when I shut the garage door but it was so noisy that it attracted the teenagers who approached the side window. We tried to stay low and hide but one of them mocked us and hacked his phone to send harmful messages to his followers across all his social media accounts. As they walked way, I told him not to worry as they might be bluffing but he said it's real. I gave him instructions on how to setup teleportation on his Notion app but he said it wasn’t possible since he got the phone from a neighbour and lacked full permissions. We quietly exited through the back door and moved to the front of the units.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - [Classified for now].
-- Pauline Hanson's Please Explain:
-    - References National Insecurity cancelling National Security by spreading rumours about him to his YouTube subscribers: [https://youtu.be/2pUQQx9EIOg?si=_XhP1ou-7hEN5zNJ&t=182](https://youtu.be/2pUQQx9EIOg?si=_XhP1ou-7hEN5zNJ&t=182).
-
-## Symbols
-
-- [Classified for now].
-
-## Lessons
-
-- N/A.
-
-# Post Dream
-
-- May have predicted a car being firebombed in the street near my unit complex about three months later. [Classified for now].

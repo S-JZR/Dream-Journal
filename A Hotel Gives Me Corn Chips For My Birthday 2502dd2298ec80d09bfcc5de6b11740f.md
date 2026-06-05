@@ -3,28 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2025
-updated_at: February 20, 2026 11:31 PM
+updated_at: June 5, 2026 2:13 AM
 type: Normal
 emotion: Surprise
-influences: Personal Experiences
 characters: Family
-
-# Description
+influences:   • I like eating corn chips and salsa once a week.
+  • My birthday is near.
 
 I was standing at a hotel reception desk with my family as my mum booked a room. The staff knew it was my birthday so they placed three bags of corn chips with different flavours including plain (yellow), avocado (green), and olive (black) on the wooden table in the room as gifts.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I like eating corn chips and salsa once a week.
-    - My birthday is near.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

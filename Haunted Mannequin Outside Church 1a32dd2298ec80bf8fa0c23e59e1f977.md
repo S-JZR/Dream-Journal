@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: January 25, 2020
-updated_at: February 20, 2026 11:25 PM
+updated_at: June 5, 2026 12:48 AM
 type: Nightmare
 emotion: Fear
 characters: Family
-
-# Description
+symbols: Waiting In Line/Preacher: Social anxiety.
 
 I was seated in my mum's car with my family being driven by my mum to a church service in the city during Christmas time. After parking beside the sidewalk, we descended a courtyard staircase with wide steps. To the right was a narrow alleyway with various restaurants built into the wall, followed by the church at the end.
 
@@ -49,18 +48,3 @@ A female preacher descended from the stage with a microphone, approaching everyo
 > 
 
 After the service, I examined it, confirming that it cycled through a range of head motions, and I overlooked a Santa Claus animatronic pressed against the wall behind it.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- Waiting In Line/Preacher:
-    - Social anxiety.
-
-## Lessons
-
-- N/A.

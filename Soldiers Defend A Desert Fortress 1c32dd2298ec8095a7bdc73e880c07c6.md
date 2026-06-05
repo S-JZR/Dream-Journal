@@ -3,12 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2016
-updated_at: February 20, 2026 9:37 PM
+updated_at: June 5, 2026 12:19 AM
 type: Nightmare
 emotion: Fear
-influences: Team Fortress 2 (2007)
-
-# Description
+influences: Team Fortress 2 (2007): References the Mann Vs Machine gamemode where a robot tank rams through the front gate.
 
 I was one of many soldiers lying prone in the desert in front of a fortress engaged in a firefight with distant soldiers. Everyone was equipped with rifles. We gradually adjusted our aim after each shot and puffs of sand erupted nearby from incoming bullets.
 
@@ -19,18 +17,3 @@ I was one of many soldiers lying prone in the desert in front of a fortress enga
 > 
 
 Everyone fled inside the fortress and stood on the parapet as a black enemy tank approached over the horizon, burst through the front gate, and travelled through the streets.
-
-# Interpretations
-
-## Influences
-
-- Team Fortress 2:
-    - References the Mann Vs Machine gamemode where a robot tank rams through the front gate.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

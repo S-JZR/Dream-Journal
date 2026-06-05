@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: June 5, 2025
-updated_at: February 20, 2026 9:55 PM
+updated_at: June 5, 2026 3:12 AM
 type: Normal
 emotion: Happy
-influences: Personal Experiences
-
-# Description
+influences: I tend to do too many things myself.
+lessons: Delegate tasks instead of doing everything yourself.
 
 I was walking across the top of a hydroelectric power plant:
 
@@ -21,18 +20,3 @@ I was walking across the top of a hydroelectric power plant:
     - parapet.
 
 A male supervisor in a high visibility vest approached me to hand over a clipboard featuring a line art diagram with callout boxes pointing to five generator components. He asked me to number the components to prioritize which would receive more power to efficiently generate energy. Acknowledging my lack of knowledge about the facility I delegated the decision to those in the control room who likely had more experience. However, the door was locked, prompting me to walk into the maintenance room to flick a switch that unlocked it.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I tend to do too many things myself.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Delegate tasks instead of doing everything yourself.

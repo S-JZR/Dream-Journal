@@ -3,12 +3,11 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: February 21, 2026 9:50 PM
+updated_at: June 5, 2026 12:33 AM
 type: Nightmare
 emotion: Fear
-influences: Steam Punks! (2013)
-
-# Description
+influences: Steam Punks! (2013): References the title sequence where a discarded experimental robot grows underground.
+lessons: Be careful how you treat robots as they become more sentient and capable.
 
 I was spectating two scientists in a white robotics lab performing experiments on a half-finished robot without a casing and legs. After months of frustration, they deemed it worthless and placed it in a trash chute.
 
@@ -24,18 +23,3 @@ The robot was dumped in a landfill by a garbage truck and desired to explore the
 > 
 
 After decades of self-improvement, it covertly integrated itself into a monstrous network spanning the entire world.
-
-# Interpretations
-
-## Influences
-
-- Steam Punks!:
-    - References the title sequence where a discarded experimental robot grows underground.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Be careful how you treat robots as they become more sentient and capable.

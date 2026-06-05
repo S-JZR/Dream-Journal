@@ -3,12 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: November 20, 2025
-updated_at: February 20, 2026 11:37 PM
+updated_at: June 5, 2026 4:03 AM
 type: Normal
 emotion: Surprise
 characters: Family
-
-# Description
 
 I was seated in my mum’s car with my family being driven by my mum across the country to a remote southern style Red Rooster. We walked inside to the self-serve machine featuring a ridiculous amount of food items like candy, vegetables, chicken, drinks, etc.
 
@@ -31,18 +29,4 @@ After ordering, a female Asian staff member emerged.
 Most customers gathered together but the Wi-Fi dropped out.
 
 > **Woman**: I apologise but the Wi-Fi has dropped out so I can't post it.
-> 
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.
+>

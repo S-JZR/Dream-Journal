@@ -3,11 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 4, 2024
-updated_at: February 20, 2026 9:45 PM
+updated_at: June 5, 2026 1:41 AM
 type: Normal
 emotion: Surprise
-
-# Description
 
 I was standing at the drop-off zone of my primary school with the fences removed during an era around the 1980s when a group of kids sat on the left side of the seating area on a strip of yellowing cut grass, watching passing cars. I drove a miniature light-green tractor towards them.
 
@@ -67,18 +65,4 @@ I pointed to Syske on a magazine cover.
 > 
 
 > **Me**: Just wait until he becomes an icon and his jewellery grows in value, then you'll see!
-> 
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.
+>

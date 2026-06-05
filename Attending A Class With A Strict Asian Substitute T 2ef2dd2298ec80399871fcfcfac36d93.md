@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: January 21, 2026
-updated_at: May 3, 2026 5:17 PM
+updated_at: June 5, 2026 4:14 AM
 type: Nightmare
 emotion: Fear
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was one of many secondary students seated at a desk in a remote classroom when an Asian man with an accent entered the room:
 
@@ -101,18 +99,4 @@ We moved to the carpark.
 I unexpectedly felt emotional saying the last line and burst into tears.
 
 > **Me**: How do you become resilient in life to deal with all the endless troubles that come your way?
-> 
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.
+>

@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: June 3, 2026
-updated_at: June 4, 2026 5:54 AM
+updated_at: June 5, 2026 4:27 AM
 type: Normal
 emotion: Fear
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs initial editing.
 
 </aside>
-
-# Description
 
 I was playing a multiplayer 2.5D mountain climbing simulator videogame with random men which was essentially a knockoff of Minecraft with the goal of building paths to cross a series of floating blocks. When reaching the mountain, we tunnelled a staircase to reach the top.
 
@@ -80,17 +78,3 @@ While everyone was busy looking at different objects I walked over to the stairc
 > 
 
 As we stood in darkness, we looked through the louvers as the killer descended, briefly stood in front of it and faced us, then left. After exiting we found a shotgun and mask in different rooms. One of the players pretended to be a killer which fooled two other killers who walked past the kitchen onto the balcony and shot them both in the back as they fell down dead.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

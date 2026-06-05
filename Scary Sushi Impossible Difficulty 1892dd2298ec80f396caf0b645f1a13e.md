@@ -3,13 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: July 9, 2024
-updated_at: February 20, 2026 11:30 PM
+updated_at: June 5, 2026 1:53 AM
 type: Normal
 emotion: Happy
-influences: Scary Sushi (2024) (Roblox)
 characters: Hiroshi Kimura, Norman
-
-# Description
+influences: Scary Sushi (2024) (Roblox): I played it recently and didn’t attempt the hard difficulty but wondered what it would be like.
 
 I was in the Scary Sushi videogame on a fictional impossible difficulty with the following changes:
 
@@ -19,18 +17,3 @@ I was in the Scary Sushi videogame on a fictional impossible difficulty with the
 - Ingredients were limited and players voted on what to purchase for the next round.
 - Multiple giant Norman's, the janitor monster, roamed the hallways with small gaps between them.
 - If players took too long, Hiroshi Kimura, the villain chef, sabotaged the game by sending levitating robots with malicious dishes in trays on top to the conveyor belt that everyone had to discard before it reached the customers.
-
-# Interpretations
-
-## Influences
-
-- Scary Sushi:
-    - I played it recently and didn’t attempt the hard difficulty but wondered what it would be like.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

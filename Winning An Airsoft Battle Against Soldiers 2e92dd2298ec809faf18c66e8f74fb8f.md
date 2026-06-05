@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: January 15, 2026
-updated_at: May 3, 2026 5:16 PM
+updated_at: June 5, 2026 4:13 AM
 type: Normal
 emotion: Happy
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was walking through a rural airsoft area resembling a military base:
 
@@ -47,17 +45,3 @@ I was standing in a white cube office room with four other men, three sitting an
 > 
 
 I thought it was great because now I could spit fire.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

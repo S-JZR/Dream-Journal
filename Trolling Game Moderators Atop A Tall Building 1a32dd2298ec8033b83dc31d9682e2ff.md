@@ -3,12 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: April 18, 2024
-updated_at: February 20, 2026 9:45 PM
+updated_at: June 5, 2026 1:44 AM
 type: Normal
 emotion: Happy
-influences: Personal Experiences, Roblox (2006)
-
-# Description
+influences:   • I used to be afraid of swimming in primary school due to having a few bad experiences.
+  • I tend to find ways to break videogames.
+lessons: Ensure your own safety before trying to rescue others.
 
 I was in a sandbox videogame standing in a construction zone:
 
@@ -22,20 +22,3 @@ I ascended to the roof where I overheard moderators conversing and downed them w
 I went to the ground floor, but they were already pathfinding up the slanted exterior, so I entered indoors until encountering another player who offer to assist fighting. After asking whether he wanted a machine gun or shotgun, he requested the latter. While purchasing a spare, I levelled up all my stats and bought new gear like a jetpack. However, after firing a few shots, he didn't know how to reload. After pressing “R” failed, I tried demonstrating in VR with a hovering ammo UI, but accidentally triggered something, causing all attachments to fall. As metallic footsteps approached, I hurriedly picked up a few things, then fled upstairs alone for personal safety. Seeing robots atop the roof, I flew sideways, concealing myself in a balcony by laying down to evade their tracking as spectating moderators were audibly annoyed by my strategies.
 
 The entities continuously spawning caused severe server lag. Tired of playing, I sought to find her to surrender. Upon reaching the woman, I asked her to end the game by blowing me up, so she placed explosive at my feet then detonated them. After quitting the videogame I was 15 minutes late for class, I struggled to recall what it was, initially thinking it was swimming. However, remembering I switched it to marathon running due to hating it, I fled to the school oval.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I used to be afraid of swimming in primary school due to having a few bad experiences.
-- Roblox:
-    - I tend to find ways to break games.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Ensure your own safety before trying to rescue others.

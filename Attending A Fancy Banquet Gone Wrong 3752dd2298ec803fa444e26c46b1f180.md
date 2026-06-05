@@ -3,19 +3,17 @@
 is_favourite: No
 is_nsfw: No
 date: June 4, 2026
-updated_at: June 4, 2026 6:35 PM
+updated_at: June 5, 2026 4:28 AM
 type: Nightmare
 emotion: Embarrassment
 characters: Noah ?, Reece ?
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was attending a fancy banquet for memorial day. The room was spacious with many tables arranged in concentric ovals around a central flat wooden dance floor. The tables featured a white silk cloth, golden cutlery, wine glasses, flowers, and entrees. I was sitting on the outer ring facing the wall beside Noah and Reece, students I knew from primary school.
 
@@ -55,18 +53,4 @@ I figured that I didn’t need to be in there and could swap to the urinal.
 > 
 
 > **Man 2**: Thanks man.
-> 
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.
+>

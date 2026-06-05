@@ -3,13 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 15, 2025
-updated_at: February 21, 2026 11:18 PM
+updated_at: June 5, 2026 2:19 AM
 type: Nightmare
 emotion: Surprise
-influences: Team Fortress 2 (2007)
 characters: Saxton Hale
-
-# Description
+influences: Team Fortress 2 (2007): References Saxton Hale.
+lessons: Confronting your past is the first step towards redemption.
 
 I was spectating a man who was in debt to the mafia and stole a train to escape the country for a better life with his girlfriend. While driving along one of five straight tracks in a specialized train capable of performing speed boosts, the mafia got word of it and commanded nearby trains to form a blockade by parking on each track far ahead. However, the last train was running late and as it approached over the horizon there was a gap that led to a turning track that curved to the right of it so he accelerated at full speed. The front wheels sparked vigorously as they started to loosen so he sent her to fix it.
 
@@ -43,18 +42,3 @@ Saxton Hale then created two portals with text and presented two options.
 > 
 
 The man walked through the portal to go back in time.
-
-# Interpretations
-
-## Influences
-
-- Team Fortress 2:
-    - References Saxton Hale.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Confronting your past is the first step towards redemption.

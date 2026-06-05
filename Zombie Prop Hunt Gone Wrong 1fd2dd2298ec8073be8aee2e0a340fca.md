@@ -3,12 +3,14 @@
 is_favourite: No
 is_nsfw: No
 date: May 22, 2025
-updated_at: February 20, 2026 9:55 PM
+updated_at: June 5, 2026 3:04 AM
 type: Normal
 emotion: Fear
-influences: Team Fortress 2 (2007)
-
-# Description
+influences:   • Team Fortress 2 (2007):
+      ◦ References the Medic Vs Engineer zombie gamemode.
+      ◦ References Demoman sticky jumping.
+lessons:   • Don't repeat the same mistakes and expect different results.
+  • Be willing to take risks if it gives a greater reward.
 
 I was one of many players in a prop hunt videogame where the hunters were zombies that instantly infected players. The map featured a large rectangular spaceship hangar with one long side open to grassy mountains and the ocean, a rectangular two-storey sci-fi facility on the right, and a network of interconnected back hallways.
 
@@ -16,23 +18,4 @@ I was with a group of players who ascended to the second floor of the sci-fi fac
 
 I followed the female player across a series of elevated indoor catwalks over water to a large gap leading to other distant pathways but she was hesitant to cross. As zombies sprinted from behind they caught her and I spontaneously put sticky bombs down in a panic to successfully launch across, forcing them to find another route. Eventually, I returned to the original building and ascended to the second floor balcony to climb across blue electrical conduits hanging from the ceiling to reach a tall circular podium but the zombies were close behind.
 
-# Interpretations
-
-## Influences
-
-- Team Fortress 2:
-    - References the Medic Vs Engineer zombie gamemode.
-    - References Demoman sticky jumping.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Don't repeat the same mistakes and expect different results.
-- Be willing to take risks if it gives a greater reward.
-
-# Post Dream
-
-- The dream ended abruptly before I knew the outcome.
+The dream ended abruptly before I knew the outcome.

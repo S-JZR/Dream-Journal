@@ -3,20 +3,18 @@
 is_favourite: No
 is_nsfw: No
 date: March 11, 2026
-updated_at: May 3, 2026 5:17 PM
+updated_at: June 5, 2026 4:20 AM
 type: Nightmare
 emotion: Fear
-influences: Five Nights At Freddy's (2014)
 characters: Chica, Freddy Fazbear
+influences: Five Nights At Freddy's (2014): References the hallucinations of animatronic heads randomly appearing during the night.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was standing in a three-storey house on a remote hill surrounded by trees with lots of glass doors on the ground floor with my mum. I looked outside on both sides of the house and noticed the heads of Freddy and Chica from Five Nights At Freddy’s levitating besides trees in the distance. I told my mum about it but she ignored me and the heads gradually faded away.
 
@@ -29,18 +27,3 @@ I was standing in a three-storey house on a remote hill surrounded by trees with
 A storm settled in during the night and I slept in the attic when I had a nightmare from the perspective of a monster sprinting towards the house and jumping through a glass door that shattered with a loud noise which jolted me awake. I wasn’t sure if I heard someone breaking in or if it was my dream playing tricks on me.
 
 I quietly walked down to the bottom floor with a flashlight but decided not to turn it on to avoid exposing myself to a potential threat. I couldn’t hear anything moving and none of the glass doors and windows were broken so I went back to bed.
-
-# Interpretations
-
-## Influences
-
-- Five Nights At Freddy's:
-    - References the hallucinations of animatronic heads randomly appearing during the night.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

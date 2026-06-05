@@ -3,19 +3,17 @@
 is_favourite: Yes
 is_nsfw: No
 date: June 4, 2026
-updated_at: June 4, 2026 6:21 PM
+updated_at: June 5, 2026 4:28 AM
 type: Nightmare
 emotion: Sad
 characters: Jordan Peterson
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was the captain of a spaceship seated in the cockpit beside the co-pilot where I pressed a button that emitted a giant white scanner ray into space. The ray created 9 different coloured planets full of people and futuristic buildings in layers using a random seed.
 
@@ -62,17 +60,3 @@ I looked over at my co-pilot.
 > 
 
 I continued to press the button and the planets were overwritten with 6 new planets and we flew away into space.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

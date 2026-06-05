@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 19, 2024
-updated_at: June 4, 2026 9:07 PM
+updated_at: June 5, 2026 1:29 AM
 type: Nightmare
 emotion: Fear
 characters: Jackie Chan
-
-# Description
+lessons: The more drama you cause, the harder it’s to hide.
 
 I was one of many refugees fleeing soldiers invading a city towards a harbour they controlled. Arriving at a cluster of small two-story square buildings within a desert biome, we ascended a square staircase winding around the interior, eventually finding concealment behind a wall in an upstairs room. Peering through a rectangular opening in the left side of the wall, I spotted a military figure climbing the staircase to investigate. Instinctively, I maneuvererd through a square window on the left side, descending from awnings with the refugees following suit. Eventually, we reached a border crossing managed by the same military group connected to the harbour. After presenting our identification, we were promptly granted entry.
 
@@ -19,17 +18,3 @@ To alter the course of events, I returned to the initial border crossing, notici
 Recognising that the gunfire likely attracted attention, I fled to a secluded laboratory nestled in a corner of the compound. Ascending to an exterior roof with a sniper rifle bolted to it, I witnessed a distressed teenager strapped down as a scientist drilled a metallic object into their arm. Despite repeated pleas for pain killers, the scientist claimed there was none left and continued.
 
 Lockdown sirens played loudly, prompting everyone to gather at a central location. Recognizing the peril of my identity being exposed through security camera footage and wanting to avoid drawing attention while alone outside, I quickly unscrewed the sniper rifle with my bare hands to arm myself and escaped through an alternative exterior gate.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- The more drama you cause, the harder it’s to hide.

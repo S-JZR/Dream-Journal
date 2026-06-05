@@ -3,13 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: November 4, 2025
-updated_at: February 20, 2026 11:36 PM
+updated_at: June 5, 2026 4:01 AM
 type: Normal
 emotion: Embarrassment
-influences: Christianity, Online Videos, Personal Experiences
 characters: Family
-
-# Description
+influences:   • My mum is quick to be against anything that is worldly.
+  • Christianity: References 1 Peter 3:7.
+  • References Bryce being outspoken and getting tattoos after becoming a Christian: https://youtu.be/q806cx4YiVc?si=_5pUFNT5kZbK4RBx&t=1453.
+  • Reminds me of various Christians discussing things together in The Christian Avengers.
+symbols: Walking Dead Shirt: Being interested in mainstream media because everyone else is.
+lessons: People act according to their values and beliefs.
 
 I was standing in the lounge room of my unit with my family when three young Christian adults came over to chat. After hearing a noisy motorbike, I looked out the kitchen window to see Bryce Crawford driving a noisy red motorbike down and up the alleyway behind the units before parking beside the footpath. Everyone moved to unit 7 for a discussion. A woman was wearing a red dress. Bryce was wearing a Walking Dead T-shirt with grey zombies crawling on the ground.
 
@@ -35,24 +38,3 @@ I was standing in the lounge room of my unit with my family when three young Chr
 > 
 
 Two men escorted her to the store.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - My mum is quick to be against anything that is worldly.
-- Christianity:
-    - References 1 Peter 3:7.
-- Online Videos:
-    - References Bryce being outspoken and getting tattoos after becoming a Christian: [https://youtu.be/q806cx4YiVc?si=_5pUFNT5kZbK4RBx&t=1453](https://youtu.be/q806cx4YiVc?si=_5pUFNT5kZbK4RBx&t=1453).
-    - Reminds me of various Christians discussing things together in The Christian Avengers.
-
-## Symbols
-
-- Walking Dead Shirt:
-    - Being interested in mainstream media because everyone else is.
-
-## Lessons
-
-- People act according to their values and beliefs.

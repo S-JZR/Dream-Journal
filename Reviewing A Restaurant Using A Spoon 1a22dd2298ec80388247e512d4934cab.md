@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: March 17, 2024
-updated_at: February 20, 2026 9:44 PM
+updated_at: June 5, 2026 1:36 AM
 type: Normal
 emotion: Surprise
-influences: Personal Experiences
-
-# Description
+influences: I visited a hotel last year that sold a lot of its own overpriced merchandise.
+lessons: Avoid buying things from hotels because it's usually overpriced.
 
 I was seated at a round table covered in a white silk cloth in a fancy restaurant with a male waiter nearby.
 
@@ -29,18 +28,3 @@ A waitress approached and gave me a spoon with a line of five tiny beads in its 
 > 
 
 I pressed a bead with my pencil and the beads corresponding to the rating glowed red.
-
-# Interpretations
-
-## Influences
-
-- Personal Experiences:
-    - I visited a hotel last year that sold a lot of its own overpriced merchandise.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Avoid buying things from hotels because it's usually overpriced.

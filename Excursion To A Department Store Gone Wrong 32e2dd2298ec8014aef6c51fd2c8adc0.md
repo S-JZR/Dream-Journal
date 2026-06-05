@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: March 25, 2026
-updated_at: May 3, 2026 5:18 PM
+updated_at: June 5, 2026 4:21 AM
 type: Nightmare
 emotion: Fear
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was with many secondary and primary school students in a school located within a city when our male teacher spoke to us.
 
@@ -38,17 +36,3 @@ While inside the store I was confused by why everyone was holding books so I ask
 > 
 
 I felt embarrassed for being oblivious and while everyone was waiting in line I decided to make the trip worthwhile by browsing for items I could take with me like candy. However, when returning to the checkouts I realized that everyone left without me.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

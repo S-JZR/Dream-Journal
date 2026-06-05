@@ -3,19 +3,19 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 8, 2026
-updated_at: May 3, 2026 5:17 PM
+updated_at: June 5, 2026 4:18 AM
 type: Nightmare
 emotion: Fear
-influences: Metal Arms Glitch In The System (2003), The Incredibles 2 (2018)
+influences:   • Metal Arms Glitch In The System (2003): References the images of Grunts, fascist robots, T-posing with L-shaped arms that I recently uploaded to the Fandom: https://metalarms.fandom.com/wiki/File:Grunt-Red-Model.png.
+  • The Incredibles 2 (2018): Likely references the Screenslaver who wore a full body black uniform with cyan eyes.
+lessons: Question authority and beware groupthink.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 Dash from The Incredible was sent undercover to investigate Auto Co, a suspicious food autonomation company, run by an old man and woman with grey hair. The founders were going to host their own stall at an upcoming summer camp event and secretly operate a cult that conditioned people by framing everything as a fun game. Dash entered a large function hall where Auto Co and Doughnut King had two temporary rectangular structures on opposite sides of the room serving free food. The Auto Co structure was grey and smooth with a front door on the left and a glass display with individual compartments on the right, and a compact fully autonomous kitchen inside with robot arms.
 
@@ -67,20 +67,3 @@ Dash used his super speed to kick open grills along an air vent shaft until ente
 > 
 
 The other barrels exploded and Dash used the shockwave to launch into the ceiling of the hall which was now made of various layers of translucent white fabric. He tore holes through the fabric which loosened and struggled to climb up because he couldn’t get solid footing as a large muscular male henchman wearing black started rapidly climbing up towards him.
-
-# Interpretations
-
-## Influences
-
-- Metal Arms Glitch In The System:
-    - References the images of Grunts, fascist robots, T-posing with L-shaped arms that I recently uploaded to the Fandom: [https://metalarms.fandom.com/wiki/File:Grunt-Red-Model.png](https://metalarms.fandom.com/wiki/File:Grunt-Red-Model.png).
-- The Incredibles 2:
-    - Likely references the Screenslaver who wore a full body black uniform with cyan eyes.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Question authority and beware groupthink.

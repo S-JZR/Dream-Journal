@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: November 29, 2023
-updated_at: February 20, 2026 9:43 PM
+updated_at: June 5, 2026 1:22 AM
 type: Nightmare
 emotion: Fear
-influences: Lethal Company (2023)
-
-# Description
+influences: Lethal Company (2023): References various types of monsters and purchasing decorations for the cargo ship.
+lessons: Weigh risks vs rewards.
 
 I was one of five scavengers on a square cargo spaceship with a flat top:
 
@@ -30,18 +29,3 @@ As everything settled, we ventured deeper into the facility through a series of 
 I was in a hospital leaning on two crutches as a female receptionist directed me through the front swinging doors toward a treatment area. However, a woman in the prior room growled and convulsed so everyone scattered. A staff member urgently instructed me to secure the locks on my side. Frantically looking around, all I could find were comedically small barrel bolt locks placed atop and below the doors.
 
 Returning to the ship at midnight, the central lantern illuminated the space as everyone gathered around one crew member cooking sausages on a barbecue. Eventually, multiple strangers were spotted lurking in the nearby woods, glowing from a campfire. As a precaution, the light was deactivated, and the pilot began to ascend, suggesting we should evacuate due to the potential risk. However, I rebutted to wait until we clear out the equipment and loot below to avoid unnecessary losses and wasting our invested time. A crew member volunteered to make multiple trips, carrying items up to the ship, while the ladder was dropped and a spotlight illuminated the area below, aiding their work. While reminding them to collect the indoor sentries, a pair of glowing eyes appeared in the dark, revealed to be a wolf. We instructed them to come up immediately since the situation was becoming overly hazardous, then departed to another location, gliding over trees.
-
-# Interpretations
-
-## Influences
-
-- Lethal Company:
-    - References various types of monsters and purchasing decorations for the cargo ship.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Weigh risks vs rewards.

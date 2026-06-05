@@ -3,12 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: January 10, 2023
-updated_at: February 20, 2026 9:42 PM
+updated_at: June 5, 2026 1:14 AM
 type: Normal
 emotion: Fear
-influences: Star Wars Battlefront II (2017)
-
-# Description
+influences: Star Wars Battlefront II (2017): References the gameplay.
+symbols:   • Camera Shy: I’m introverted. The fear of everyone remembering my mistakes forever.
+  • Crumbling Clock Tower: Overcoming death.
 
 I was one of many people running through a city square playing a Star Wars laser tag game. Everyone was armed with lazer machine guns. Michael, a socially introverted autistic teenager who was part of my fictional family, requested a turn before eventually wandering off. After the game ended I travelled to my fictional house in a three-story modern glass building.
 
@@ -33,20 +33,3 @@ After a brief knock, they departed when their calls went unanswered.
 Later a creepy rustic witch adorned with dark grey clothes appeared and the same scenario played out.
 
 We discovered that Michael had strategically planned his whereabouts using hidden files on his computer’s C drive and he eventually returned. Half of the room opened into a theatre below where Michael lay in a bed onstage, battling a severe illness marked by rashes across his face. A fictional sister played a crucial role, aiding him by absorbing half of the sickness. An anime-style ending theme song played, accompanying the surreal scene of individuals adorned in sports attire ascending crumbling clock towers and effortlessly leaping between buildings.
-
-## Influences
-
-- Star Wars Battlefront II:
-    - References the gameplay.
-
-## Symbols
-
-- Camera Shy:
-    - I’m introverted.
-    - The fear of everyone remembering my mistakes forever.
-- Crumbling Clock Tower:
-    - Overcoming death.
-
-## Lessons
-
-- N/A.

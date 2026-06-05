@@ -3,19 +3,18 @@
 is_favourite: No
 is_nsfw: No
 date: March 5, 2026
-updated_at: May 3, 2026 5:17 PM
+updated_at: June 5, 2026 4:19 AM
 type: Normal
 emotion: Surprise
 characters: Ben Shapiro
+lessons: Jobs have high standards.
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was applying for an internship at a company owned by Ben Shapiro and had to perform a difficult action hero movie scene.
 
@@ -34,17 +33,3 @@ A man handed me a white cat to hold and I sprinted up a square concrete stairwel
 > 
 
 I fled to a sand dune beside the frames and dived behind it just in time as the barrels exploded. I returned to the frames to jump down a deep square pit and passed through a side opening to the next area.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- Jobs have high standards.

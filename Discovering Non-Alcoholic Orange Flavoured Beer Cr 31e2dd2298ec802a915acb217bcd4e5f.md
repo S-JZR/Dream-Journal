@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: March 9, 2026
-updated_at: May 3, 2026 5:17 PM
+updated_at: June 5, 2026 4:20 AM
 type: Nightmare
 emotion: Fear
 
 <aside>
-<img src="https://www.notion.so/icons/warning_gray.svg" alt="https://www.notion.so/icons/warning_gray.svg" width="40px" />
+<img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
 
 Needs editing.
 
 </aside>
-
-# Description
 
 I was browsing items in a small 7-Eleven convenience store when I discovered non-alcoholic orange flavoured beer bottles created by Optus which I thought was strange and carried them in my arms. After standing at the front of the store for a long time without buying anything the female cashier was annoyed.
 
@@ -51,17 +49,3 @@ I returned to my apartment room which was directly beside a store in the hallway
 > 
 
 She approached me and I showed her the receipt. I returned to my apartment to drink a beer but I was disappointed to discover it merely tasted like ordinary orange juice.
-
-# Interpretations
-
-## Influences
-
-- N/A.
-
-## Symbols
-
-- N/A.
-
-## Lessons
-
-- N/A.

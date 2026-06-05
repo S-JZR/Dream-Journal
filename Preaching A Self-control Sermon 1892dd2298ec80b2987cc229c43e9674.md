@@ -3,12 +3,20 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 16, 2024
-updated_at: February 20, 2026 9:44 PM
+updated_at: June 5, 2026 1:29 AM
 type: Nightmare
 emotion: Bold
-influences: Online Videos
-
-# Description
+influences:   • I have encountered and reported YouTube and Internet Archive accounts mixing porn videos with children’s cartoon videos.
+  • Some ASMR creators share SFW content on YouTube and sell NSFW content on external websites to adhere community guidelines. They create topics that can appeal to broad audiences but also subtly advertise it in some way to get customers like:
+  • Hidden offsite links.
+  • Suggestive thumbnails without content in the video.
+  • Wearing suggestive clothing.
+  • Having sexual undertones to intimate gestures.
+  • Incorporating soft BDSM like mommy doms and praise.
+symbols:   • Gang: Rebellion against authority and the law.
+  • Suggestive Women: Content made to seem innocent and caring but with a hidden sexual agenda.
+  • Sermon: Feeling like people mindlessly waste their time on distractions and vain things.
+lessons: We live in a fallen world so stay vigilant and disciplined.
 
 I was one of many police officers walking back to our police cars when we encountered a hostile gang, equipped with bats and knives, blocking them. As they taunted us and charged forward, we were forced to shoot them in self-defence.
 
@@ -26,30 +34,4 @@ While revisiting the Springwood House of Praise church various tables of food sp
 > 
 
 > **Me**: Those who remain steadfast in the spirit focus on what is eternal and discipline themselves to achieve higher standards that contribute value to their communities.
-> 
-
-# Interpretations
-
-## Influences
-
-- Online Videos:
-    - I have encountered and reported YouTube and Internet Archive accounts mixing porn videos with children’s cartoon videos.
-    - Some ASMR creators share SFW content on YouTube and sell NSFW content on external websites to adhere community guidelines. They create topics that can appeal to broad audiences but also subtly advertise it in some way to get customers like:
-        - Hidden offsite links.
-        - Suggestive thumbnails without content in the video.
-        - Wearing suggestive clothing.
-        - Having sexual undertones to intimate gestures.
-        - Incorporating soft BDSM like mommy doms and praise.
-
-## Symbols
-
-- Gang:
-    - Rebellion against authority and the law.
-- Suggestive Women:
-    - Content made to seem innocent and caring but with a hidden sexual agenda.
-- Sermon:
-    - Feeling like people mindlessly waste their time on distractions and vain things.
-
-## Lessons
-
-- We live in a fallen world so stay vigilant and disciplined.
+>
