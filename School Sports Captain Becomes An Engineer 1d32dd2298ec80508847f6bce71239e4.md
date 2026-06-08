@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 11, 2025
-updated_at: June 5, 2026 2:46 AM
+updated_at: June 7, 2026 10:19 PM
 type: Normal
 emotion: Sad
 influences: I’ve worried about my career choices a bit.

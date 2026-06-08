@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 2, 2025
-updated_at: June 5, 2026 3:00 AM
+updated_at: June 9, 2026 12:33 AM
 type: Nightmare
 emotion: Sad
 characters: Family
@@ -22,16 +22,86 @@ I was walking down the street in the city with my brother when we realized we we
 - wall:
     - red bricks.
 
-It was completely packed with diverse teenage and adult people, so we split up to find spare seats. My brother went right down the aisles, and I went left along the back row, repeatedly saying “excuse me” as I brushed past people’s legs while some pulled them back to make space. However, when sitting down between two groups of women, everyone to the right of me started moving out, and I realized the film had finished and was now showing behind the scenes footage of the cast discussing how the film was made. Another scene showed people dressed as Minecraft mobs in a room who played the roles instead of CGI, exiting through a door and going offscreen, and some viewers criticized the graphics as unrealistic. Eventually, everyone else started leaving, and I wasn't sure if my brother had left or not, so I checked the aisles and outside, but to no avail.
+It was completely packed with diverse teenagers and adults.
+
+> **Me**: There’s probably not many spare seats left so we need to split up.
+> 
+
+> **Me**: I’ll go along the back left row.
+> 
+
+> **Brother**: I’ll try the aisles.
+> 
+
+While moving through the aisle, I brushed past people’s legs as some pulled them back to make space.
+
+> **Me**: Excuse me.. excuse me… excuse me.
+> 
+
+However, when sitting down between two groups of women, everyone to the right of me started moving out and I realized the film finished. The screen now showed behind the scenes footage of the cast discussing how the film was made. The next fixed shot showed people dressed as Minecraft mobs in a room exiting the door and going both directions down a hallway.
+
+> **Male Teenager**: Those graphics look so unrealistic.
+> 
+
+Eventually, everyone else started leaving, and I wasn't sure if my brother had left so I checked the aisles and outside, but to no avail.
 
 I entered a nearby building outside, connected to the complex, that was almost completely white, featuring:
 
 - Front: wide staircase leading upstairs.
 - Left:
     - Second storey narrow walkway with a glass balustrade
-    - Slushy store to the left.
+    - Slushy store to the left
     - Hallway in the middle.
 
-A couple walked along the walkway as the man complained of an upset stomach and vomited yellow liquid over the balustrade directly onto my head. It dripped down the back of my shirt and onto the floor. As he moved away into another area, still periodically vomiting, I stood back to yell at him, but they were so focused on their situation that they didn't notice me. I called out for a janitor, hoping to find one, but nobody came. While walking back to the previous building with the liquid still dripping off me, a stranger pointed me to a male janitor wearing a red uniform.
+A couple walked along the walkway when the boyfriend clutched his chest and bent over.
 
-I asked if there was a shower here, but he said no, so I guided him to all the spots he needed to clean. During the journey, various scam website ads popped up on my phone's web browser and I told him I felt like I was under a curse today as various bad things keep happening and he chuckled. Once upstairs, he cleaned the trail on the walkway and found a longer one leading further down a hallway but we skipped it for now. We continued to the slushie store and were both horrified to find it completely filthy, with grime covering the walls and slushie ice scattered across the floor. A female attendant, behind a glass screen to the right, was casually filling tubs with slushie ice and placing them on a conveyor belt that led to a back storage room. She turned to look at me and I sternly told her that the store needs to shutdown for cleaning, effective immediately. She replied, “I understand”.
+> **Woman**: What’s wrong?
+> 
+
+> **Man 1**: I don’t feel so good in my stomach.
+> 
+
+He vomited yellow liquid over the balustrade directly onto my head which splashed everywhere, dripped down the back of my shirt, and pooled on the floor. I stood back to yell at him but they were so focused on their situation that they didn't notice me.
+
+> **Me**: Hey…
+> 
+
+They moved through the middle hallway as I overheard him periodically vomiting.
+
+I walked back to the previous building as the liquid still dripped off me.
+
+> **Me**: Is there a janitor here?!
+> 
+
+> **Man 2**: I saw a dude in the back wearing a red uniform.
+> 
+
+I approached the male janitor.
+
+> **Me**: Is there a shower in here?
+> 
+
+> **Man 3**: No showers in this place, I’m afraid.
+> 
+
+> **Man 3**: Can you show me where all of the messes are?
+> 
+
+> **Me**: Sure, follow me.
+> 
+
+During the journey, various scam website ads popped up on my phone's web browser.
+
+> **Me**: I swear I’m under a curse today as one bad thing happens after another.
+> 
+
+> **Man 3**: *Chuckle*
+> 
+
+Once upstairs, he cleaned the trail on the walkway and found a longer one leading further down the middle hallway a hallway. We continued to the slushie store and were both horrified to find it completely filthy, with grime covering the walls and slushie ice scattered across the floor. A female attendant, behind a glass screen to the right, was casually filling tubs with slushie ice and placing them on a conveyor belt that led to a back storage room. She turned to look at me.
+
+> **Me**: The store needs to shutdown for cleaning, effective immediately.
+> 
+
+> **Woman**: I understand.
+>
