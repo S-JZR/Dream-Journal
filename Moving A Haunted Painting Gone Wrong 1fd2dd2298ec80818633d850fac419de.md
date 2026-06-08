@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 14, 2025
-updated_at: June 5, 2026 3:02 AM
+updated_at: June 8, 2026 10:20 PM
 type: Nightmare
 emotion: Sad
 influences: The Anguished Man (n.d): References a distressed painting that allegedly contains the artist’s blood and is haunted.
@@ -36,4 +36,16 @@ I was walking through a small art gallery room with huge rectangular portrait-or
 - background:
     - smooth wall and floor.
 
-A female staff member moved the painting onto a wall in the back storage room and it began swinging back and forth, loudly thumping. A disembodied female voice groaned in pain and multiple small fires flickered across the original spot. The staff claimed this was a regular occurrence, claiming that the artist’s soul still resides in it from the bloodstain and desires perpetual attention.
+A female staff member moved the painting onto a wall in the back storage room and it began swinging back and forth, thumping loudly, as multiple small fires flickered across the original spot.
+
+> **Female Voice**: *Groan*!
+> 
+
+> **Woman**: This happens all the time.
+> 
+
+> **Woman**: The artist’s soul still resides in the painting because of the blood stain.
+> 
+
+> **Woman**: She will cry out in agony if she doesn't get perpetual attention.
+>

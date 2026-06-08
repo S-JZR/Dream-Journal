@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 16, 2025
-updated_at: June 5, 2026 2:49 AM
+updated_at: June 8, 2026 1:02 AM
 type: Normal
 emotion: Surprise
 characters: MacGyver
@@ -14,6 +14,52 @@ An international rescue agency received a distress call from a cruise ship slowl
 
 I was one of five rescue workers, including MacGyver, dispatched on a black helicopter to rescue any remaining survivors. After landing, we noticed everything was desolate and navigated through floors overlooking flooded staircases and rooms below. After travelling through a large metal sewage pipe to a T-intersection, we overheard two crew members on the left talking to each other as they stood beside an illuminated camping lantern on the floor. We realized most passengers had resorted to cannibalism and joined different factions to hunt others down.
 
-We stealthily moved past them until we found a way into a dark control room dimly lit by red lights with computer terminals, servers, and machinery in the back. A one-eyed engineer robot with a unicycle leg was activated by our arrival and introduced itself. A woman jokingly asked it to repair everything but it said that was impractical given the limited time and urgent circumstances. A man asked it to reroute power to a specific zero-gravity component to lift the entire ship out of the ocean.
+> **Man 1**: Did you see where he ran off to?
+> 
 
-We were uncertain which direction to travel without a GPS, so we continued flying in one direction, hoping to reach land. A call came over the computer terminal, but I failed to answer it in time. A voice message was left from a Chinese radio transmission as two jets flew parallel on the left side of the ship. Unable to call them back, we assumed they were warning us about violating their airspace. We turned 90 degrees left as they flew away and eventually reached the USA where we landed in a park as the entire ship was now a miniature.
+> **Man 1**: I lost him in the cabins and I didn't want to stick around.
+> 
+
+> **Man 1**: Another faction is there and they’ll probably butcher him before we can.
+> 
+
+We stealthily moved past them until we found a way into a dark control room dimly lit by red lights with computer terminals, servers, and machinery in the back. A one-eyed engineer robot with a unicycle leg was activated by our arrival.
+
+> **Robot**: Welcome to the control room.
+> 
+
+> **Robot**: I notice that the ship’s status remains in a state of emergency and it has taken on a significant amount of water.
+> 
+
+> **Robot**: Is there anything you need me to repair?
+> 
+
+> **Woman**: How about you fix everything.
+> 
+
+> **Robot**: That is impractical given our limited time and urgent circumstances.
+> 
+
+> **Man 1**: Reroute power to the anti-gravity pads, we might be able to lift the entire ship out of the ocean.
+> 
+
+The robot activated the anti-gravity pads and the cruise ship levitated into the sky as water poured down on all sides.
+
+> **Me**: The GPS is dead.
+> 
+
+> **Me**: Which way should we go?
+> 
+
+> **Man**: Keep travelling straight and we will reach land eventually.
+> 
+
+A call came over the computer terminal but I failed to answer it in time as a voice message in Chinese was left and two Chinese jets flew parallel on the left side of the ship.
+
+> **Man 2**: (Radio) Unidentified vessel, you have violated sovereign airspace. Divert your course immediately.
+> 
+
+> **Me**: I can't call them back, we must be violating their airspace.
+> 
+
+I turned 90 degrees to the left and they flew away. Eventually, we reached the USA where we landed in a park as the entire ship was now a miniature.

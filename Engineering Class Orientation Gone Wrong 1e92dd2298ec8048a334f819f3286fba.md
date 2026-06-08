@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 28, 2025
-updated_at: June 5, 2026 2:54 AM
+updated_at: June 8, 2026 5:07 PM
 type: Nightmare
 emotion: Sad
 influences:   • I only learnt maths A in secondary school and worry that I’ve limited my future success.
@@ -15,8 +15,51 @@ symbols:   • Engineering Class: The fear that I should have become an engineer
 lessons:   • Success requires full commitment.
   • Honour is earned by merit.
 
-I was one of many university students waiting in a line outside my primary school to attend an engineering orientation class. I personally wanted to evaluate how difficult the career path was and the extent of my knowledge gap. A female teacher approached the front of the line, warning us that a few students had listed year 7-level mathematics as their only experience on their applications. She emphasized that this won’t cut it, as we needed to be willing to put in the hard work to develop competence in advanced mathematics, or we wouldn’t make it in the real world.
+I was one of many university students waiting in a line outside my primary school to attend an engineering orientation class. I personally wanted to evaluate how difficult the career path was and the extent of my knowledge gap. A female teacher approached the front of the line.
 
-Everyone moved through the year 7 block, where the teacher asked a bunch of children standing nearby what the school's learning motto was and they replied "honour is not freely given but earned by merit". While entering my old year 7 classroom, we were told to sit on the floor in front of all the desks as she asked everyone to raise their hands based on the reason they were interested in engineering and move to sit at a desk with an exam paper on it. Most students had a specific specialization in mind, but I was one of the remaining few who didn't have a clear reason and resorted to "other".
+> **Woman**: I looked over your applications and noticed a few students have listed year 7-level mathematics as their only experience.
+> 
 
-As I sat in the front row with the teacher's desk in front, she called my name aloud to ask me a question but I instinctively said "here" as everyone chuckled. She humorously pointed out that she wasn’t my care teacher from prior schooling and that things were done differently at university.
+> **Woman**: This won’t cut it.
+> 
+
+> **Woman**: You need to be willing to put in the hard work to develop competence in advanced mathematics or you won’t make it in the real world.
+> 
+
+Everyone moved through the year 7 block where we encountered children scattered around.
+
+> **Woman**: What is the school's motto?
+> 
+
+> **Children**: Honour is not freely given but earned by merit.
+> 
+
+We entered my old year 7 classroom with an exam paper on each desk.
+
+> **Woman**: Sit on the carpet in front of the desks.
+> 
+
+> **Woman**: I’m going to call out different reasons for joining engineering.
+> 
+
+> **Woman**: Raise your hand when a reason aligns with you and take a seat at a desk.
+> 
+
+Most students had a specialization in mind but I was one of the remaining few who didn't have a clear reason and resorted to "other".
+
+I sat in the front row with the teacher's desk in front of me and she tried to ask me a question.
+
+> **Woman**: [My name]!
+> 
+
+> **Me**: Here!
+> 
+
+> **Students**: *Chuckle*
+> 
+
+> **Woman**: I’m not your care teacher from prior schooling.
+> 
+
+> **Woman**: Things are done differently at university.
+>

@@ -3,12 +3,21 @@
 is_favourite: No
 is_nsfw: No
 date: January 13, 2025
-updated_at: June 5, 2026 2:17 AM
+updated_at: June 5, 2026 7:00 PM
 type: Nightmare
 emotion: Sad
 influences:   • Mini Empires (2022) (Roblox): References the tile system and units sharing your team colour.
 lessons: Be precise in reports to avoid miscommunication.
 
-I was in an RTS videogame walking across a world map and commanding armies to attack. The map comprised hexagon tiles with outlines, mini buildings, and mini terrain. While trying to eliminate international threats like China by capturing all their territories, my army camped some distance away as a series of rockets was launched towards us but after running out of fuel they landed in front of our tile.
+I was playing an RTS videogame, walking across a world map with my armies, to eliminate international threats by capturing their territories. The map featured outlined hexagon tiles, miniature buildings, and miniature terrain. After capturing multiple countries, we camped a few tiles behind a beach with China in the distance. They launched a series of rockets towards us but they ran out of fuel, landed on the tile in front of us, and exploded. They also sent a few yellow naval vessels around coastal mountains to the left to attack our docks on the other side of the world so I travelled back to radio the defending squads.
 
-Eventually, a few yellow naval vessels were sent around mountains on the adjacent coast to attack our docks on the other side of the world so I travelled back to radio the defending squads to prepare for the imminent attack. However, as they hurried to form a firing line they began shooting at every civilian boat already in view that were white with coloured stripes or coloured so I instructed them to wait for the enemy to arrive and how to properly identify them.
+> **Me**: (Radio) Prepare to defend against yellow vessels that are approaching from the coast.
+> 
+
+However, as they hurried to form a firing line they began shooting at every white civilian boat in view with any yellow colouring so I corrected them.
+
+> **Me**: (Radio) Hold your fire and wait for the enemy to arrive!
+> 
+
+> **Me**: (Radio) The vessels are completely yellow.
+>

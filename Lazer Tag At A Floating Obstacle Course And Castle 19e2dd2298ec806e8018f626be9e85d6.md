@@ -3,13 +3,29 @@
 is_favourite: No
 is_nsfw: No
 date: February 18, 2025
-updated_at: June 5, 2026 2:25 AM
+updated_at: June 5, 2026 11:12 PM
 type: Normal
 emotion: Happy
 lessons: Use an enemy’s weakness against them.
 
-I was standing in an arcade when a staff member invited me to participate in a more modern laser tag experience on a hollow rectangular prism platform in a sky void. It involved navigating a hovering obstacle course comprising grey blocks and ladders arranged in an oval formation until reaching a towering black brick castle on a floating island.
+I was standing in an arcade when a female staff member approached me.
 
-After ascending the stairs into a large room with dimly lit theatrical curtains at the front, a levitating giant eyeball emerged with a black pupil that transformed to glow red as it fired a series of narrow purple energy waves across the floor towards us. Realizing it would be easier to hit us if we stood together, I told everyone to spread out throughout the room. We had the choice to either shoot back or hold full-body ballistic shields to block attacks.
+> **Woman**: Would you like to participate in a newer lazer tag experience?
+> 
 
-Eventually, we defeated the boss and continued ascending the stairs. Someone claimed to have heard there were 300 levels in total and this is the first one. While looking through a window, I caught a glimpse of a much higher obstacle course.
+> **Me**: Sure.
+> 
+
+I followed her into an environment floating in a sky void, featuring a hollow grey rectangular prism and an obstacle course with grey blocks and ladders that curved 180 degrees around the prism to an island with a tall black gothic castle.
+
+After navigating to the castle, I ascended the stairs to meet other male teenagers standing in a spacious room with dimly lit theatrical curtains at the front. The curtains opened to reveal a levitating giant eyeball with a black pupil that glowed red every time it fired a series of narrow purple energy waves across the floor towards us.
+
+> **Me**: Spread out across the room so we can’t be easily hit!
+> 
+
+We were suddenly equipped with a lazer gun and full-body ballistic shield with the choice to either shoot back or block attacks. Eventually, we defeated the boss and continued ascending the stairs.
+
+> **Man**: I heard there are 300 levels and this is only the first one.
+> 
+
+I looked out an arched window and caught a glimpse of another obstacle course floating much higher.

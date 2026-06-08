@@ -3,14 +3,68 @@
 is_favourite: No
 is_nsfw: Yes
 date: April 11, 2025
-updated_at: June 5, 2026 2:47 AM
+updated_at: June 7, 2026 11:26 PM
 type: Nightmare
 emotion: Anger
 influences: Mad God (2021): Likely references the surgeons’ silhouettes while preparing the assassin for surgery.
 lessons: Corrupt businesses fabricate problems to exploit you.
 
-I was traveling across a levitating obstacle course made of cubes, with a black cat by my side hopping over everything, heading toward an airport in the distance. Upon entering, I noticed it had an eerie dark grey metallic interior with a few people sitting on benches and walking around. I took the cat to a two metre wide veterinary clinic built into a wall. The male vet was a corrupt conman, working with five nurses to treat fake illnesses for profit.
+I was traveling across a levitating obstacle course made of cubes, with a black cat by my side hopping over everything, heading toward an airport in the distance. Upon entering, I noticed it had an eerie dark grey metallic interior with a few people sitting on benches and walking around. I took the cat to a two metre wide veterinary clinic built into a wall. The male vet was a corrupt conman, working with five nurses to fabricate illnesses for profit.
 
-As staff covered the entrance with a fold-out Shoji screen, they placed the cat onto an operating table, and bright lights cast silhouettes of everything in the room. They shaved off all its fur except for a small hairdo on its head and amputated its back legs to replace them with prosthetics. Throughout the entire procedure, I stood waiting outside the store. When receiving the black cat back, I was horrified by what they did and exclaimed how they amputated its back legs which caused nearby bystanders to express concern. I immediately went into the store to complain, but the vet dismissed me, saying all purchases were final. He also claimed to be late for a flight on his personal jet, as a fake plane outside the window, with a metal skeleton encased in a series of large metal rings, moved toward a passenger boarding bridge.
+> **Me**: Hello, I brought in my cat because she hasn’t been acting herself lately and I was wondering if you were free to examine her.
+> 
 
-The vet ascended a nearly pitch-black stairwell to enter a side office filled with various scientific equipment. A few people followed me upstairs behind him and a woman helped me film the entire incident as evidence. It quickly became clear that he was a bit insane. He frantically rushed around preparing for the flight and exited his office twice to approach us with what looked like a thin plastic tube before returning. We weren't sure it was a knife so we backed away. He claimed to have heard a bomb ticking and opened a deep metal container to the right of a room, urging us to listen to a quiet rhythmic beat, which I instinctively knew was meant to be the hearts of animals he had torn out. Wanting to get a confession, I opted to play the role of a bad cop. I pressured him about knowing what he had in those containers, what he had been doing to animals, and called him a series of derogatory terms like animal abuser, corrupt, heartless, deranged, conman, and a disgusting creature on the planet. He collapsed onto the floor distraught and eventually confessed to abusing animals. We called the police and got him arrested with the botched cat and recorded confession as evidence.
+> **Man**: Yes absolutely, give your cat to one of my nurses and we’ll take care from here.
+> 
+
+As staff covered the entrance with a fold-out Shoji screen, they placed the cat onto an operating table, and bright lights cast silhouettes of everything in the room. They shaved off all its fur except for a small hairdo on its head and amputated its back legs to replace them with prosthetics. Throughout the entire procedure, I stood waiting outside the store. When receiving the black cat back, I was horrified by what they did.
+
+> **Me**: They amputated my cat’s back legs!
+> 
+
+Nearby bystanders were concerned and looked at me. I immediately went into the store to complain.
+
+> Me: Why the hell were you thinking?!
+> 
+
+> **Man**: All purchases are final.
+> 
+
+> **Man**: I would help you sort out this predicament but I’m late for my flight.
+> 
+
+I looked out the airport windows and saw his private jet moving towards a boarding bridge. Its metal skeleton was built out of many connected metal rings arranged haphazardly.
+
+The vet ascended a nearly pitch-black stairwell to enter a side office filled with various scientific equipment. A few people followed me upstairs behind him and a woman helped me film the entire incident as evidence when it quickly became clear that he was insane.
+
+> **Woman**: Are you serious right now?
+> 
+
+> **Woman**: you can’t just ignore him!
+> 
+
+He frantically rushed around to prepare for his flight and exited his office twice to approach us with a thin plastic tube before returning. We weren't sure it was a knife so we backed away. He opened a deep metal container to the right of his office that emitted a subtle rhythmic beating noise which I instinctively knew contained the hearts of animals he tore out.
+
+> **Man**: Listen… I hear a bomb ticking.
+> 
+
+I played the role of a bad cop to try pressuring him into giving a confession.
+
+> **Me**: I know exactly what’s in those containers and how you’ve been torturing helpless animals!
+> 
+
+> **Me**: Just confess, its over!
+> 
+
+> **Me**: You’re a f**king corrupt deranged heartless animal abuser conman!
+> 
+
+> **Me**: A disgusting creature that doesn't belong on this planet!
+> 
+
+Each word broke him more and he collapsed onto the floor distraught.
+
+> **Man**: I did it… I abused the animals!
+> 
+
+We called the police and had him arrested using my botched cat and his recorded confession as evidence.

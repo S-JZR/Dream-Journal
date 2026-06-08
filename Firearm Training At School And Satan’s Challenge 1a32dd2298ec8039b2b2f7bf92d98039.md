@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 11, 2025
-updated_at: June 5, 2026 2:23 AM
+updated_at: June 5, 2026 8:17 PM
 type: Nightmare
 emotion: Fear
 characters: Donald Trump, Satan
@@ -13,10 +13,58 @@ symbols:   • War Of The Gods: The fear of everyone playing god.
 lessons:   • Evil comes in many forms.
   • You don't need a fancy solution to solve a simple problem.
 
-As an initiative to increase national defences and prevent school shootings, Donald Trump trialled a program to teach an entire primary school how to operate firearms. Each student received an empty Glock pistol at their desk which I was unsure where to point with others so close together. The instructor asked everyone what four key things someone should know about handling firearms. A few students gave answers like “make sure it’s fully loaded” and “clean it often”. The instructor remained positive but wanted to hear the safety rules.
+As an initiative to increase national defences and prevent school shootings, Donald Trump trialled a program to teach an entire primary school how to operate firearms. Each student received an empty Glock pistol at their desk which I was unsure where to point with others so close together. The instructor asked everyone what four key things someone should know about handling firearms.
 
-During recess while overhearing a religious discussion by a few other students in a room, I said that if a central god responsible for managing everything died then order would devolve as control is fought by individuals in a war of the gods.
+> **Boy**: Make sure it’s fully loaded.
+> 
 
-When walking past a separate building, staff members inside became demon possessed and tried to kill me by shooting from inside or pointing guns out the window so I fled to a bathroom where various individuals were wandering around. Satan emerged from a toilet stall wearing a white smiling horned oni mask with grey sparkly cheeks and challenged me to a game outside for secret knowledge with my life on the line. The game involved spotting him moving towards me from different places before he reached me. Each time he was about to appear, there were hints like his face peering around a wall or a yellow object being raised amidst the crowd. Sometimes he disguised himself as others but his clothes always had sparkly areas. Everything occurred in rapid succession as he disappeared in a cloud of smoke once spotted and changed position. Eventually, I beat the game and the devil handed me the drawing of a secret plan as a reward and threatened to drag me to hell if he ever saw me again. As he stood idly starring at the same spot, I fled in the opposite direction with it wrapped up in a black rubbish bag.
+> **Girl**: Clean it often.
+> 
 
-After entering the open garage of a log building with a triangle roof, showcasing a single column of cars on dark grey circular mats, a German man standing behind me asked if I was part of the technical team. I said yes to blend in and he led me through a side door on the right, down a narrow hallway, and to the centre of a room where about 20 men sat around two rectangular tables drawing car designs on A3 pages. After introducing me to the group as a fellow countryman, I asked whether they have fancier protective tubes for storing drawings but they replied “why not use regular cardboard tubes since they’re cost-effective?”
+> **Man 1**: Those things are helpful, but I want to hear the safety rules.
+> 
+
+During recess I overheard a religious discussion by a few other students in a room and interjected.
+
+> **Me**: If a central god responsible for managing everything died then order would devolve as control would be fought over by individuals in a war of the gods.
+> 
+
+When walking past a separate building, staff members inside became demon possessed and tried to kill me by shooting from inside or pointing guns out the window. I fled to a bathroom where various individuals were wandering around and Satan emerged from a toilet stall wearing a white smiling horned oni mask with grey sparkly cheeks.
+
+> **Satan**: I challenge you to a game for secret knowledge but you must bet your life.
+> 
+
+> **Satan**: You must spot me moving towards you from different places before I reach you.
+> 
+
+> **Me**: I’m in.
+> 
+
+Each time he was about to appear, there were hints like his face peering around a wall or a yellow object being raised amidst the crowd. Sometimes he disguised himself as others but his clothes always had sparkly areas. Everything occurred in rapid succession as he disappeared in a cloud of smoke once spotted and changed position. Eventually, I beat the game and the devil handed me the drawing of a secret plan as a reward.
+
+> **Satan**: If I ever see you again, I will drag you to hell.
+> 
+
+While he stood motionless starring away at the same spot, I wrapped it in a black rubbish bag and fled in the opposite direction.
+
+After entering the open garage of a log building with a triangle roof, showcasing a single column of cars on dark grey circular mats, a German man approached me from behind.
+
+> **Man 2**: Are you part of the technical team?
+> 
+
+> **Me**: Yes
+> 
+
+> **Man 2**: Follow me.
+> 
+
+He led me through a side door on the right, down a narrow hallway, and to the centre of a room where about 20 men sat around two rectangular tables drawing car designs on A3 pages.
+
+> **Man 2**: Everyone, this is a new member of our team who is a fellow countryman.
+> 
+
+> **Me**: Do you have fancier protective tubes for storing drawings?
+> 
+
+> **Man 3**: Why not use regular cardboard tubes since they’re cost-effective?
+>
