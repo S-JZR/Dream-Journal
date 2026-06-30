@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: December 3, 2025
-updated_at: June 5, 2026 4:06 AM
+updated_at: July 2, 2026 4:37 PM
 type: Normal
 emotion: Happy
 influences:   • My parents used to take me and my brother to a sports club and put us in the kid’s room when we were younger.
