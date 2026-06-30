@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: November 26, 2024
-updated_at: June 5, 2026 2:03 AM
+updated_at: July 2, 2026 4:42 PM
 type: Normal
 emotion: Fear
 characters: Tabitha
