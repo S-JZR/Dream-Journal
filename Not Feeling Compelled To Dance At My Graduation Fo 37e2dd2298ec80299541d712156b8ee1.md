@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: June 13, 2026
-updated_at: June 13, 2026 5:25 PM
+updated_at: July 5, 2026 5:39 PM
 type: Nightmare
 emotion: Sad
 characters: ? Ben

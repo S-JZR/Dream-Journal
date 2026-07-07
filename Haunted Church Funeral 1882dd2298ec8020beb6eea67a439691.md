@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2020
-updated_at: June 5, 2026 12:45 AM
+updated_at: July 5, 2026 6:05 PM
 type: Nightmare
 emotion: Fear
 characters: Grim Reaper

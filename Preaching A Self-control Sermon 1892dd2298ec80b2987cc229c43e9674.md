@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 16, 2024
-updated_at: July 2, 2026 5:15 PM
+updated_at: July 5, 2026 4:47 PM
 type: Nightmare
 emotion: Bold
 influences:   • I have encountered and reported YouTube and Internet Archive accounts mixing porn videos with children’s cartoon videos.

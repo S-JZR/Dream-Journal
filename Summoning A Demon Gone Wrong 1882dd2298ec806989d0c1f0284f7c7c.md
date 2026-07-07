@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: February 6, 2023
-updated_at: July 2, 2026 5:05 PM
+updated_at: July 4, 2026 11:34 PM
 type: Nightmare
 emotion: Fear
 characters: Dejan C, Julien C, Michael C, Sam And Colby

@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2024
-updated_at: June 5, 2026 1:24 AM
+updated_at: July 5, 2026 6:38 PM
 type: Nightmare
 emotion: Sad
 characters: Alexander Armstrong
