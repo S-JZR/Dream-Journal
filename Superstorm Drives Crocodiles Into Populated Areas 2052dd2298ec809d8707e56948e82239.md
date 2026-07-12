@@ -3,16 +3,14 @@
 is_favourite: No
 is_nsfw: No
 date: May 27, 2025
-updated_at: June 5, 2026 3:09 AM
+updated_at: July 13, 2026 2:17 AM
 type: Nightmare
 emotion: Fear
 influences: The agent reminds me of the case of John Lang: https://youtu.be/wsFBeetiYMs?si=Vs1sqtWgHBt2aZcI&t=410.
 symbols:   • AI: The fear of the truth being drowned out by AI.
   • Female Agent: The fear of losing privacy to invasive technologies.
 
-A superstorm passed over Queensland during the night, causing various wild animals to move into populated areas.
-
-I was walking onto the grass oval at my secondary school the next day and saw three thick 10 meter long crocodiles lying idle on their bellies beside each other. Red and white hazard tape formed a rectangular perimeter around them with padding inside. One had wandered slightly outside the taped area.
+I was spectating a superstorm passing over Queensland during the night, causing various wild animals to move into populated areas. I walked onto the grass oval at my secondary school the next day and saw three thick 10 meter long crocodiles lying idle on their bellies beside each other. Red and white hazard tape formed a rectangular perimeter around them with padding inside. One had wandered slightly outside the taped area.
 
 When returning to my unit at night, I was worried about my dad trying to get into his card to drive to nightshift work with wild animals around and considered leaving a warning on a note. While scrolling through social media on my phone, I saw various night-time videos, including AI generated monster clips that I skipped, and different people documenting large crocodiles on their properties. One showed someone opening their second storey water-textured sliding glass window to film a crocodile on the grass when it suddenly darted towards them, trying to climb the exterior wall to get inside, so they instinctively slammed the window shut to keep it out.
 

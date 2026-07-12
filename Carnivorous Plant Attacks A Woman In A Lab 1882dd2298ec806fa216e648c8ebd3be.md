@@ -3,13 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2005
-updated_at: July 12, 2026 8:58 PM
+updated_at: July 12, 2026 10:01 PM
 type: Nightmare
 emotion: Fear
 
-The dream resembled an 8-bit first-person point-and-click adventure videogame.
-
-A female lab staff member entered a hallway and confronted a giant carnivorous plant swaying in an idle animation.
+I was spectating the POV of a female lab staff member in an 8-bit first-person point-and-click adventure videogame where she entered a hallway and confronted a giant carnivorous plant swaying in an idle animation.
 
 > **Man**: (Radio) What are you doing?
 > 

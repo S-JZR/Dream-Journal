@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 2, 2026
-updated_at: July 8, 2026 12:51 AM
+updated_at: July 13, 2026 2:38 AM
 type: Nightmare
 emotion: Fear
 characters: Family
@@ -15,7 +15,7 @@ Needs editing.
 
 </aside>
 
-My brother and I were sitting at our computers in our room when I noticed a 15cm green spider with thin limbs motionless on the front face of a clock atop a shelf in front of me.
+I was sitting at my computer while my brother was at his in our room in my unit, when I noticed a 15cm green spider with thin limbs motionless on the front face of a clock atop a shelf in front of me.
 
 > **Me**: There’s a huge spider on the clock!
 > 

@@ -3,11 +3,11 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 7, 2025
-updated_at: July 12, 2026 9:26 PM
+updated_at: July 13, 2026 2:15 AM
 type: Normal
 emotion: Anger
 
-Two church groups were sharing attendance in a large modern church building located in a semi-remote wooded area beside a road to simultaneously perform services:
+I was spectating two church groups sharing attendance in a large modern church building located in a semi-remote wooded area beside a road to simultaneously perform services:
 
 - left:
     - 75% metal chairs

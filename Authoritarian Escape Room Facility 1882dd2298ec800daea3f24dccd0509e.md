@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: October 24, 2023
-updated_at: June 5, 2026 1:21 AM
+updated_at: July 13, 2026 12:48 AM
 type: Nightmare
 emotion: Fear
 characters: Family
@@ -15,9 +15,7 @@ influences:   • The Outlast Trials (2023):
 symbols:   • Prisoners: The fear of being held against my will.
   • Programming Book: The fear of being a bad programmer and forgetting things.
 
-In a towering concrete facility, prisoners were forced to solve cryptic puzzles in themed escape rooms within five minutes otherwise a mentally unstable mutant monster would be released to kill them. Each monster could also be defeated by discovering their weakness.
-
-I was one of many prisoners wearing orange jumpsuits standing in columns in a waiting area. Rumours spread that a fictional person I knew had achieved the rare feat of defeating a monster by uncovering their weakness and beat them to death over the head with a baseball bat.
+I was one of many prisoners wearing orange jumpsuits standing in columns in the waiting area of a towering concrete facility established by a dictatorship. Different configurations of prisoners were sent to solve cryptic puzzles in themed escape rooms within five minutes otherwise a mentally unstable mutant monster would be released to kill them. It was possible to defeat each monster by discovering their weakness. The prisoners spread rumours that a fictional man I knew had achieved the rare feat of defeating a monster by uncovering their weakness and beating them to death over the back of the head with a baseball bat.
 
 The first room resembled a dusty rural outback:
 

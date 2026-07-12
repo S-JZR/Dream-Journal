@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: December 19, 2024
-updated_at: July 12, 2026 9:23 PM
+updated_at: July 13, 2026 1:48 AM
 type: Nightmare
 emotion: Fear
 characters: Julien C
@@ -29,7 +29,7 @@ symbols:   • 24 Year Old: Self-criticism that I’m a man-child. I’m still d
 • Dead Teenager: Parallels the 24 year old man who is not providing for himself.
 • Children’s Book/Wicked Ruler: Retelling of Nazi Germany and Adolf Hitler.
 
-On a remote rural farm, a 24-year-old man was allowed by his father to live a privileged coddled life without needing to work. He was a pacifist who wore a white robe and was naïve about the world, behaving like a man-child unconcerned about the future and pursued endless pleasures. His father wanting him to mature to get a job drove him into the city to start advertising his labour to others. For some reason, they decided to visit the royal palace first, perhaps at the son’s unrealistic initial request, to see if any jobs were available. However, after parking some distance away behind a large boulder on flat grassy land, a room on the top floor underwent multiple explosions from a terrorist attack as shattered glass from the windows flew outwards, prompting them to drive away in fear.
+I was spectating a 24-year-old man on a remote rural farm who was allowed by his father to live a privileged coddled life without needing to work. He was a pacifist who wore a white robe and was naïve about the world, behaving like a man-child unconcerned about the future and pursued endless pleasures. His father wanting him to mature to get a job drove him into the city to start advertising his labour to others. For some reason, they decided to visit the royal palace first, perhaps at the son’s unrealistic initial request, to see if any jobs were available. However, after parking some distance away behind a large boulder on flat grassy land, a room on the top floor underwent multiple explosions from a terrorist attack as shattered glass from the windows flew outwards, prompting them to drive away in fear.
 
 A few years later the father tragically died and the son’s income gradually dwindled to nothing as he struggled to provide for himself. Julien, my friend from school, and I were sent to help prepare him for the real world to become self-sufficient with a job. The son stood at a distance, onlooking his majestic house on a hill that was repossessed and being demolished by construction workers using excavators. We stayed in the carpark of my unit complex, watching workers pass by and carelessly trample insects covering the entire pavement.
 

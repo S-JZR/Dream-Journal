@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 8, 2026
-updated_at: July 12, 2026 9:31 PM
+updated_at: July 13, 2026 2:28 AM
 type: Nightmare
 emotion: Fear
 influences:   • Metal Arms Glitch In The System (2003): References the images of Grunts, fascist robots, T-posing with L-shaped arms that I recently uploaded to the Fandom: https://metalarms.fandom.com/wiki/File:Grunt-Red-Model.png.
@@ -16,7 +16,7 @@ Needs editing.
 
 </aside>
 
-Dash from The Incredible was sent undercover to investigate Auto Co, a suspicious food autonomation company, run by an old man and woman with grey hair. The founders were going to host their own stall at an upcoming summer camp event and secretly operate a cult that conditioned people by framing everything as a fun game. Dash entered a large function hall where Auto Co and Doughnut King had two temporary rectangular structures on opposite sides of the room serving free food. The Auto Co structure was grey and smooth with a front door on the left and a glass display with individual compartments on the right, and a compact fully autonomous kitchen inside with robot arms.
+I was spectating Dash from The Incredibles sent undercover to investigate Auto Co, a suspicious food autonomation company, run by an old man and woman with grey hair. The founders were going to host their own stall at an upcoming summer camp event and secretly operate a cult that conditioned people by framing everything as a fun game. Dash entered a large function hall where Auto Co and Doughnut King had two temporary rectangular structures on opposite sides of the room serving free food. The Auto Co structure was grey and smooth with a front door on the left and a glass display with individual compartments on the right, and a compact fully autonomous kitchen inside with robot arms.
 
 Everyone was assigned to either Auto Co or Doughnut King based on the first letter of their name. Dash was sent to Auto Co and the group was given grey shirts to put on. When the male founder opened the door to move inside, a curious male teenager tried peeking at the machinery.
 

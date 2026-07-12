@@ -3,15 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: April 16, 2025
-updated_at: July 12, 2026 9:25 PM
+updated_at: July 13, 2026 2:10 AM
 type: Normal
 emotion: Surprise
 characters: MacGyver
 influences: MacGyver (1985): References MacGyver.
 
-An international rescue agency received a distress call from a cruise ship slowly sinking in the middle of ocean that was already 70% submerged.
-
-I was one of five rescue workers, including MacGyver, dispatched on a black helicopter to rescue any remaining survivors. After landing, we noticed everything was desolate and navigated through floors overlooking flooded staircases and rooms below. After travelling through a large metal sewage pipe to a T-intersection, we overheard two crew members on the left talking to each other as they stood beside an illuminated camping lantern on the floor. We realized most passengers had resorted to cannibalism and joined different factions to hunt others down.
+I was one of five rescue workers from an international rescue agency, including MacGyver, dispatched in a black helicopter on a rescue mission. We were responding to a distress call about a cruise ship slowly sinking in the middle of the ocean that was already 70% submerged and had to save remaining survivors. After landing, we noticed everything was desolate and navigated through floors overlooking flooded staircases and rooms below. After travelling through a large metal sewage pipe to a T-intersection, we overheard two crew members on the left talking to each other as they stood beside an illuminated camping lantern on the floor. We realized most passengers had resorted to cannibalism and joined different factions to hunt others down.
 
 > **Man 1**: Did you see where he ran off to?
 > 

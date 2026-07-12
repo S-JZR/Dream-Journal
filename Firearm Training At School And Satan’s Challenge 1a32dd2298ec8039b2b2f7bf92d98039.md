@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 11, 2025
-updated_at: July 12, 2026 9:24 PM
+updated_at: July 13, 2026 1:55 AM
 type: Nightmare
 emotion: Fear
 characters: Donald Trump, Satan
@@ -11,7 +11,7 @@ influences:   • References the USA debate about arming teachers in schools: ht
   • References Poland’s mandatory firearm training for students: https://youtu.be/QO_NRejn6dU?si=5LBOerOAmOdpZvVF.
 symbols:   • War Of The Gods: The fear of everyone playing god.
 
-As an initiative to increase national defences and prevent school shootings, Donald Trump trialled a program to teach an entire primary school how to operate firearms. Each student received an empty Glock pistol at their desk which I was unsure where to point with others so close together. The instructor asked everyone what four key things someone should know about handling firearms.
+I was one of many primary school students seated at their desk in a classroom. I instinctively knew that Donald Trump launched an initiative to increase national defences and prevent school shootings, and trialled a program to exclusively teach our school how to operate firearms. Each student received an empty Glock pistol on their desk which I was unsure where to point with others so close together. The instructor asked everyone what four key things someone should know about handling firearms.
 
 > **Boy**: Make sure it’s fully loaded.
 > 
