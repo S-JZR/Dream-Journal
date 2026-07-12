@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: May 29, 2025
-updated_at: June 5, 2026 3:12 AM
+updated_at: July 12, 2026 9:27 PM
 type: Normal
 emotion: Fear
 characters: Family
 influences: I’m squeamish about seeing the inside of body parts.
-lessons: Always check you have everything before leaving.
 
 I was one of many passengers seated on a white tour bus ascending a somewhat abandoned ten-storey carpark with an elevator, graffiti, and trash piled in a few spots. Upon arriving at the top, we dismounted into a hotel where I went into a room with my mum. The room featured a warm industrial theme with earth colours, a brown table with a rectangular dental kit on it, creamy walls, and a brick wall at the front with a black plasma TV mounted on it.
 

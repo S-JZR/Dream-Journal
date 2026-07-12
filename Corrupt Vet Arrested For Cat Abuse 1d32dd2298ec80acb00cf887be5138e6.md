@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: Yes
 date: April 11, 2025
-updated_at: June 7, 2026 11:26 PM
+updated_at: July 12, 2026 9:25 PM
 type: Nightmare
 emotion: Anger
 influences: Mad God (2021): Likely references the surgeons’ silhouettes while preparing the assassin for surgery.
-lessons: Corrupt businesses fabricate problems to exploit you.
 
 I was traveling across a levitating obstacle course made of cubes, with a black cat by my side hopping over everything, heading toward an airport in the distance. Upon entering, I noticed it had an eerie dark grey metallic interior with a few people sitting on benches and walking around. I took the cat to a two metre wide veterinary clinic built into a wall. The male vet was a corrupt conman, working with five nurses to fabricate illnesses for profit.
 

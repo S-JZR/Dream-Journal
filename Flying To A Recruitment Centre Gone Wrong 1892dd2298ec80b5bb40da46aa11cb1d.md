@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: July 18, 2024
-updated_at: June 5, 2026 1:55 AM
+updated_at: July 12, 2026 9:22 PM
 type: Normal
 emotion: Fear
 influences:   • Before excursions in primary school teachers used to say warnings like, “If you don’t behave, I’ll drive you there myself.”
   • References someone saying the US military has 5 year contracts and you can’t freely quit.
   • Mr Bean (1990): References Mr Bean mixing up the green and white exam papers: https://youtu.be/9LhLjpsstPY?si=XF78ESMXemOzCDXf&t=301.
-lessons: People often bully those they perceive as strange or weak.
 
 I was one of many soldiers equipped with parachutes, boarding a military helicopter in the carpark of my unit complex to travel to a recruitment centre. Shortly after taking off with the crew doors still open, the engine began to malfunction seven stories above ground, causing the helicopter to drastically decelerate and start to yaw. Fearing that the pilot would lose control I proceeded to jump out.
 

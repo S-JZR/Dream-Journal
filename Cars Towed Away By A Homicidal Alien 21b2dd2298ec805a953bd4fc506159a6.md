@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: June 21, 2025
-updated_at: June 5, 2026 3:19 AM
+updated_at: July 12, 2026 9:27 PM
 type: Nightmare
 emotion: Fear
 characters: Family
 influences:   • Lilo And Stitch (2002): Likely references Jumba and Pleakley trying to capture Stitch.
   • Christianity: References biblical angels with many eyes.
-lessons: Appearances can be deceiving.
 
 I was seated in the library beside a window facing the front of my secondary school, with my family roaming nearby, when I saw my dad’s old teal Holden Barina being towed away from the grassy parking lot for illegally parking on a concrete slab around a tree. I asked my dad if he was going to intervene but he remained unfazed and didn’t stop it. Initially we thought the school was responsible, but after my family walked along the left and right footpaths outside the school, we realized multiple cars were being towed away.
 

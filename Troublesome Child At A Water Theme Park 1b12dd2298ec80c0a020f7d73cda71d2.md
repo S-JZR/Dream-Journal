@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: March 5, 2025
-updated_at: June 6, 2026 12:52 AM
+updated_at: July 12, 2026 9:24 PM
 type: Normal
 emotion: Surprise
 characters: Family
 influences: My brother is still learning to drive and sometimes gets too close to cars parked at the curb.
-lessons: Don’t let one bad moment ruin your day.
 
 I was floating in a a small central circular wave pool in a water theme park with my family and a fictional younger brother. Eventually, we exited and the child entered a separate building with people sitting at a row of customer service counters with glass shields. He took a seat as a diagram for a strategy game featuring graph theory was laid on the counter.
 

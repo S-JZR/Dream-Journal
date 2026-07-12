@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: February 18, 2025
-updated_at: June 5, 2026 11:12 PM
+updated_at: July 12, 2026 9:24 PM
 type: Normal
 emotion: Happy
-lessons: Use an enemy’s weakness against them.
 
 I was standing in an arcade when a female staff member approached me.
 

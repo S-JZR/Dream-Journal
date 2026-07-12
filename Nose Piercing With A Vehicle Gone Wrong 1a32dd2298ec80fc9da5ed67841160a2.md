@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 15, 2025
-updated_at: June 5, 2026 2:18 AM
+updated_at: July 12, 2026 9:23 PM
 type: Nightmare
 emotion: Anger
-lessons: Don’t be a bystander and stop others from making harmful decisions.
 
 I was a construction worker standing beside the road and tried to drive a sign into the ground covered in white pebbles using a hammer but to no avail. Eventually, a man arrived in a green specialized sign hammering vehicle with a vertical piston and an arm on the back with a pointed tip but he was rebellious and had no interest in working.
 

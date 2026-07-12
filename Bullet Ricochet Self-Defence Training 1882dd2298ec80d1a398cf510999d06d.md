@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 28, 2021
-updated_at: June 5, 2026 1:06 AM
+updated_at: July 12, 2026 9:19 PM
 type: Normal
 emotion: Fear
 characters: Dejan C
-lessons: Be aware of how your actions might impact the environment and wildlife.
 
 I was standing in the carpark of my unit complex, witnessing three individuals sharing a firearm self-defence technique to force an aggressor's legs together by ricocheting bullets off the ground and walls into their pelvis that was demonstrated on a dummy.
 

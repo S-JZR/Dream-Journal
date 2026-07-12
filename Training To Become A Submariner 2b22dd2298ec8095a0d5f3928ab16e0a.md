@@ -3,14 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: November 21, 2025
-updated_at: June 5, 2026 4:04 AM
+updated_at: July 12, 2026 9:30 PM
 type: Normal
 emotion: Surprise
 influences:   • During IT class in secondary school, a few students occasionally messed around by playing loud strange audio clips.
   • During recess in secondary school, Reilly once flashed people with two gorillas having sex on his phone to see their reaction.
 symbols: Brooke: High achievement as a top student.
-lessons:   • A chain is only as strong as its weakest link.
-  • Rank doesn't guarantee competence.
 
 I was one of many secondary students training to become submariners in the Australian army.
 

@@ -3,15 +3,12 @@
 is_favourite: No
 is_nsfw: Yes
 date: April 26, 2025
-updated_at: June 8, 2026 2:13 AM
+updated_at: July 12, 2026 9:25 PM
 type: Nightmare
 emotion: Sad
 characters: Jesus
 symbols:   • Murder: Subconscious anger towards domestic abuse.
   • Banquet: The fear of letting others know my problems and being treated differently.
-lessons:   • Be careful who you share secrets with.
-  • If you can't do the time, don't do the crime.
-  • Confronting your past is the first step towards redemption.
 
 I was standing in a house in a remote suburb when Fredrick Peterson, a fictional black man I had known for years, came to dine with my fictional family and would use a signature plate we kept on the shelf. Afterwards, we travelled together onto a lake in a canoe.
 

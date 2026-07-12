@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: October 16, 2024
-updated_at: June 5, 2026 2:00 AM
+updated_at: July 12, 2026 9:22 PM
 type: Normal
 emotion: Surprise
 influences: Shark Tank (2009): References a pitch from the owner of Minus Cal who claimed they had an advanced scientific process to block fat and the data to back it up: https://youtu.be/pwf1UmbjQho?si=vQgT651dJwAqruW6&t=252.
-lessons: Advertisements can promise anything but what matters is whether they deliver.
 
 I was one of many students at my secondary school that attended an assembly in a small canyon-themed seating area:
 

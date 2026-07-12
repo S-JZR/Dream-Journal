@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: December 26, 2025
-updated_at: June 5, 2026 4:08 AM
+updated_at: July 12, 2026 9:30 PM
 type: Nightmare
 emotion: Fear
 characters: Family
-lessons: Warn others about dangers.
 
 I was seated in my mum’s car being driven by my mum with the windows rolled down along a narrow long path made of light grey pebbles elevated three metres off the ground in a grassland. Another woman was driving a car in front of us and dust clouds flew across the windshield which obscured my mum’s vision. I rolled up the windows to keep the dust out. My mum didn’t know where the edge of the path was or if there were potholes so she drove slowly.
 

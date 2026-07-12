@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: July 3, 2025
-updated_at: June 5, 2026 3:24 AM
+updated_at: July 12, 2026 9:27 PM
 type: Nightmare
 emotion: Surprise
 characters: Sarajah
@@ -22,8 +22,6 @@ symbols:   • Mess/Substitute Teacher: False, bad, and worldly teachings.
   • Confused Child: Feeling conflicted by God’s judgements in the Old Testament.
   • I fear people will reject the bible due to wrongly thinking it endorses sin, being intimidated by God’s judgements, and blindly accepting what society says about it.
   • Fire: The fire of God clears away the old self and false teachings.
-lessons:   • Know your bible and call out false, bad, and worldly teachings.
-  • Faith should be built on truth, understanding, and a relationship with God not worldly desires and emotional appeals.
 
 I was standing in the classroom of a Christian school with other students and a female teacher:
 

@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 28, 2025
-updated_at: June 8, 2026 5:07 PM
+updated_at: July 12, 2026 9:26 PM
 type: Nightmare
 emotion: Sad
 influences:   • I only learnt maths A in secondary school and worry that I’ve limited my future success.
@@ -12,8 +12,6 @@ influences:   • I only learnt maths A in secondary school and worry that I’v
 symbols:   • Engineering Class: The fear that I should have become an engineer to make a long-term impact.
   • No Specialization: Uncertain about my career.
   • Role Call: Still adjusting to the independence expected by university.
-lessons:   • Success requires full commitment.
-  • Honour is earned by merit.
 
 I was one of many university students waiting in a line outside my primary school to attend an engineering orientation class. I personally wanted to evaluate how difficult the career path was and the extent of my knowledge gap. A female teacher approached the front of the line.
 

@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: December 19, 2024
-updated_at: June 5, 2026 2:12 AM
+updated_at: July 12, 2026 9:23 PM
 type: Nightmare
 emotion: Fear
 characters: Julien C
@@ -28,11 +28,6 @@ symbols:   • 24 Year Old: Self-criticism that I’m a man-child. I’m still d
   • Monster Soldiers/Smiling Parents: Ordinary people can become monsters through radicalization.
 • Dead Teenager: Parallels the 24 year old man who is not providing for himself.
 • Children’s Book/Wicked Ruler: Retelling of Nazi Germany and Adolf Hitler.
-lessons:   • Your parents won’t always be there and you need to provide for yourself.
-  • Don’t stay ignorant.
-  • The world offers endless escapism that can trap us in comfort.
-  • Those who can't manage small things can't manage big things.
-  • Don't blindly accept ideas.
 
 On a remote rural farm, a 24-year-old man was allowed by his father to live a privileged coddled life without needing to work. He was a pacifist who wore a white robe and was naïve about the world, behaving like a man-child unconcerned about the future and pursued endless pleasures. His father wanting him to mature to get a job drove him into the city to start advertising his labour to others. For some reason, they decided to visit the royal palace first, perhaps at the son’s unrealistic initial request, to see if any jobs were available. However, after parking some distance away behind a large boulder on flat grassy land, a room on the top floor underwent multiple explosions from a terrorist attack as shattered glass from the windows flew outwards, prompting them to drive away in fear.
 

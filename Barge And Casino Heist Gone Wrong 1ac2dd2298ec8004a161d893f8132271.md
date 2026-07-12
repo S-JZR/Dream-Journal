@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: February 28, 2025
-updated_at: June 5, 2026 2:27 AM
+updated_at: July 12, 2026 9:24 PM
 type: Normal
 emotion: Fear
-lessons: Ensure you don't leave anything behind before you leave.
 
 I was one of five criminals standing on a ferry in the ocean at night when we dismounted into a yellow inflatable raft to rob a rectangular double-decker barge with a flat shallow back and chained linked fences. After colliding with the back, we peered through gaps in horizontal wooden planks to observe a male guard constantly scanning the surroundings. Each of us snuck past when he wasn't looking. Everyone independently explored the interior to find loot, including credit cards belonging to billionaires and a heavy chest. After jumping back into the raft, we rowed back toward the ferry but travelled faster than expected, realizing we had left the treasure behind due to lacking coordination. When those on the barge noticed the missing items, they rotated it to pursue us. We figured the ferry would take too long to start up, so we kept using the raft.
 

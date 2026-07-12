@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 23, 2025
-updated_at: June 6, 2026 2:58 AM
+updated_at: July 12, 2026 9:25 PM
 type: Normal
 emotion: Happy
 influences: Robocraft (2017): References building combat vehicles. The developers shut it down recently.

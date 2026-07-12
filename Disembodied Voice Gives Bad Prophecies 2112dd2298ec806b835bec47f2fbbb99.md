@@ -3,13 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2014
-updated_at: June 5, 2026 12:13 AM
+updated_at: July 12, 2026 9:17 PM
 type: Nightmare
 emotion: Fear
 influences: I constantly criticise my shortcomings.
 symbols:   • Trenches: Battlefield of the mind.
   • Bad Prophecies: Feeling like I won’t be successful because I’m too stupid, too cautious, and not good enough.
-lessons: Don’t internalize negative thoughts and judgments or they can become self-fulfilling prophecies.
 
 I was standing inside trenches with a middle-age man and woman when a disembodied male voice started giving bad prophecies over us and we each feared what it would say.
 

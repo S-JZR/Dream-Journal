@@ -3,14 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: September 2, 2024
-updated_at: June 5, 2026 1:58 AM
+updated_at: July 12, 2026 9:22 PM
 type: Nightmare
 emotion: Fear
 influences:   • Skibidi Toilet (2023): References the Skibidi Toilet trend that was popular: https://en.wikipedia.org/wiki/Skibidi_Toilet.
   • Doors (2021) (Roblox): References surviving monsters in a hotel. References the timed cupboard event with The Figure.
   • Lost Rooms (2022) (Roblox): References fighting monsters in the backrooms who come out at night. I craft the watch early to know when it will change to night.
-lessons:   • If you can’t defeat a threat then divert it away.
-  • Don’t stay silent during debates because it invites negative assumptions.
 
 I was walking through an arcade with various people when everyone fell through the floor into a large central hall of a fancy hotel. It had wooden walls with wainscoting, a red carpet with a golden pattern, drawers in a square formation, and a glass dome. Each night the lights deactivated and we had to survive different types of monsters.
 

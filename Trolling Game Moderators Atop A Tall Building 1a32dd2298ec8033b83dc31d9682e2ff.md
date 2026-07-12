@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: April 18, 2024
-updated_at: June 5, 2026 1:44 AM
+updated_at: July 12, 2026 9:21 PM
 type: Normal
 emotion: Happy
 influences:   • I used to be afraid of swimming in primary school due to having a few bad experiences.
   • I tend to find ways to break videogames.
-lessons: Ensure your own safety before trying to rescue others.
 
 I was in a sandbox videogame standing in a construction zone:
 

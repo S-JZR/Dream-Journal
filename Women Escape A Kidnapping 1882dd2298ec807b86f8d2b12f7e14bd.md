@@ -3,13 +3,11 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: January 1, 2014
-updated_at: June 5, 2026 12:09 AM
+updated_at: July 12, 2026 9:17 PM
 type: Nightmare
 emotion: Fear
 influences: We live in a neighbourhood with a lot of government housing and are wary of people.
 symbols: Slavery: The fear of being held against my will.
-lessons:   • Knowledge is power and brings freedom.
-  • Evil people keep others ignorant to control them.
 
 Three women near a subway exit were abducted by an insane man who took them back to his home to perform forced labour. Many individuals in a 4-kilometre radius in the suburb were complicit in the crime syndicate, ensuring prisoners remained captive by reporting on any escape attempts via radios. Initially, the women were permitted to roam the house, but failing to fulfil duties or attempts to escape would result in severe punishments.
 

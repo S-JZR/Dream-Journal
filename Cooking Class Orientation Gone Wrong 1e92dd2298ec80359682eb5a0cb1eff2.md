@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 28, 2025
-updated_at: June 8, 2026 5:47 PM
+updated_at: July 12, 2026 9:26 PM
 type: Nightmare
 emotion: Fear
 influences: Hell's Kitchen (2005): References Gordan Ramsay being strict and yelling at chefs to leave.
@@ -11,7 +11,6 @@ symbols:   • Skiing: Avoiding growth by being afraid to waste time and take ri
   • Doughnuts: The joy of success.
   • Cacti: The fear of failure.
   • Expelled: The fear of being unqualified to get a job.
-lessons: Success requires full commitment.
 
 I was one of many apprentice chefs in a cooking class when we were approached by a female instructor holding lots of aprons.
 

@@ -3,14 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: May 22, 2025
-updated_at: June 5, 2026 3:04 AM
+updated_at: July 12, 2026 9:26 PM
 type: Normal
 emotion: Fear
 influences:   • Team Fortress 2 (2007):
       ◦ References the Medic Vs Engineer zombie gamemode.
       ◦ References Demoman sticky jumping.
-lessons:   • Don't repeat the same mistakes and expect different results.
-  • Be willing to take risks if it gives a greater reward.
 
 I was one of many players in a prop hunt videogame where the hunters were zombies that instantly infected players. The map featured a large rectangular spaceship hangar with one long side open to grassy mountains and the ocean, a rectangular two-storey sci-fi facility on the right, and a network of interconnected back hallways.
 

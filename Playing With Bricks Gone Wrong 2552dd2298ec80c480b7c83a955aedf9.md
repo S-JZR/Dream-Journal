@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: August 20, 2025
-updated_at: June 5, 2026 3:46 AM
+updated_at: July 12, 2026 9:29 PM
 type: Normal
 emotion: Surprise
 symbols:   • Bricks: The fear of wasting time and being unproductive.
-lessons: Focus your time on meaningful and productive activities.
 
 I was standing on the grass to the left of my garage, watching two girls and one boy engaged in imaginative play, trying to build an empire by laying down a line of bricks. They played for hours until night fell but the boy couldn’t take it anymore due to being unbearably boring. In frustration, he picked up a brick and walked over to my neighbour’s adjacent garage to throw it at the window despite our pleas for him to stop. However, it didn’t break to everyone’s surprise so he threw it two more times with the same result.
 

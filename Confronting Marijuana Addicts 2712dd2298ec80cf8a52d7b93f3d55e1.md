@@ -3,15 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: September 17, 2025
-updated_at: June 5, 2026 3:52 AM
+updated_at: July 12, 2026 9:29 PM
 type: Normal
 emotion: Sad
 influences: I constantly think about how people settle for less and focus on instant gratification and mainstream content and attitudes promoted by society over critical and deeper thinking.
 symbols:   • Marijuana: Addictions, escapism, and pointless pleasure seeking.
   • Lecture/Explosives: Feeling annoyed at people wasting their potential and wanting them to change.
-lessons:   • People often don't want to be told how to live their lives.
-  • Don’t trade long-term gain for short-term pleasure.
-  • Change must come from within to last.
 
 I was standing in a building with two men who lacked higher ambitions and merely discussed what type of marijuana they would smoke later. They also had a young sister. I told them they could achieve so much more if they weren't obsessed with chasing cheap thrills and focused on intellectual and skill development. They were annoyed at being lectured about what to do with their lives and stood in front of me. Their sister made a strange false comparison and asked me what a term meant. I feared getting it wrong and seeming like a fraud so I gave a simple answer.
 

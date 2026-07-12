@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 19, 2024
-updated_at: June 5, 2026 1:51 AM
+updated_at: July 12, 2026 9:21 PM
 type: Nightmare
 emotion: Fear
 characters: Family
@@ -13,7 +13,6 @@ symbols:   • Monster: Urges and negative thoughts trying to cause chaos.
   • Feeling like I'm between between states.
   • Coughing: Feeling like my chest is occasionally full of darkness, weights, or barb wire.
   • Toilet: Failing to purge my problems and creating an unintended mess.
-lessons: Let go of negative desires and reach out for help if you need it.
 
 I was standing at the front fly screen door in my unit at night when a grotesque red-orange monster with claws and thick limbs approached the door to look inside. It poked a miniature elongated head from its shoulder through the screen to investigate the lounge room, prompting my brother to slam the door shut. The monster began pacing in long cycles between the door and a distant location beyond the parking lot, emitting faint growls. Occasionally, we peeked outside to check whether the creature would return.
 

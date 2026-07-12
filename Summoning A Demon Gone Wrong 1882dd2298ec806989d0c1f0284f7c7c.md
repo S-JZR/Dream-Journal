@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: February 6, 2023
-updated_at: July 4, 2026 11:34 PM
+updated_at: July 12, 2026 9:19 PM
 type: Nightmare
 emotion: Fear
 characters: Dejan C, Julien C, Michael C, Sam And Colby
@@ -14,8 +14,6 @@ symbols:   • Reddit: The fear that nobody will believe my supernatural experie
   • Wolves: Looming danger and evil.
   • War Planes: Dictators rejecting God’s ways and using knowledge for evil.
   • Inner Voice: God leading me to safety.
-lessons:   • Document supernatural experiences as evidence.
-  • Don't blindly follow the crowd.
 
 I was collaborating with Sam and Colby, ghost hunters, to investigate an abandoned tall building and descended a black square metal stairwell into the basement:
 

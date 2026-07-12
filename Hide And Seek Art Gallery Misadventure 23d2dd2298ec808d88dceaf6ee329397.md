@@ -3,13 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: July 19, 2025
-updated_at: June 5, 2026 3:33 AM
+updated_at: July 12, 2026 9:28 PM
 type: Normal
 emotion: Surprise
 characters: ? Co Art Teacher, ? Indian Student
 influences: During secondary school, the art teachers taped decorative black paper borders to our art without asking for the school art gala.
-lessons:   • Don't risk your life over trivial matters.
-  • Mistakes can lead to opportunities we wouldn’t have discovered otherwise.
 
 I was one of many secondary students playing hide and seek in the school when I considered hiding on a roof since it would be less obvious due to being inaccessible. However, I skipped the roof of a major building since it would attract too much attention and proceeded further to a metal staircase leading to a higher floor with an awning. I didn’t climb the exterior since there was a long drop. I kept searching upstairs and encountered a spacious art gallery with grey walls, a wooden floor, and a few paintings on the walls.
 

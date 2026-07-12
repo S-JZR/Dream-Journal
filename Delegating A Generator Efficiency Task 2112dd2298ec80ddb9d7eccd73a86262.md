@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: June 5, 2025
-updated_at: June 5, 2026 3:12 AM
+updated_at: July 12, 2026 9:27 PM
 type: Normal
 emotion: Happy
 influences: I tend to do too many things myself.
-lessons: Delegate tasks instead of doing everything yourself.
 
 I was walking across the top of a hydroelectric power plant:
 

@@ -3,14 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: April 24, 2024
-updated_at: June 5, 2026 1:47 AM
+updated_at: July 12, 2026 9:21 PM
 type: Nightmare
 emotion: Anger
 characters: Family, Gordon Ramsay
 influences:   • News: References the Willy's Chocolate Experience scam: https://en.wikipedia.org/wiki/Willy's_Chocolate_Experience.
   • Hell's Kitchen (2005): References Gordan Ramsay.
 symbols: Ski Lift: The fear of heights.
-lessons: Advertisements can promise anything but what matters is whether they deliver.
 
 I was walking down a street in a seaside city with my family:
 

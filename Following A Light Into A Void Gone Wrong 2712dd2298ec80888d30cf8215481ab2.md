@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: September 17, 2025
-updated_at: June 5, 2026 3:54 AM
+updated_at: July 12, 2026 9:29 PM
 type: Nightmare
 emotion: Fear
 influences:   • Likely references being on Discord servers where everyone always posts stupid memes and are overly obsessed with videogames and vain things.
@@ -20,8 +20,6 @@ symbols:   • Weary:
       ◦ Loss of self, time, and potential.
       ◦ The fear of dying without reaching my true potential.
   • One Foot In The Fire: I'm complacently behaving like everyone else and doing what I hate.
-lessons:   • Reach out for help if you’re struggling to resist temptations and addictions.
-  • Spectacles are prevalent and demand attention but don't waste your time pursuing them.
 
 I was one of many passengers seated in a train carriage with a red interior and black carpet when we were captivated by a supernatural flashing light above distant mountains that illuminated the entire sky. I pulled out a thick polaroid camera and tried looking through the view finder but I could barely see anything because I couldn’t get my eye close enough for some reason.
 

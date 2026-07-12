@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: September 19, 2023
-updated_at: June 5, 2026 1:18 AM
+updated_at: July 12, 2026 9:19 PM
 type: Normal
 emotion: Happy
 influences: References a Vanish Napisan commercial where scientists tested various cleaning products in a line of washing machines to show that Napisan was the best.
-lessons: Verify details early to prevent costly fixes later.
 
 The commercial used a vlog style and featured various shots zooming in on the store from afar and capturing diverse customers walking in.
 

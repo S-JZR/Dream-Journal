@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 16, 2024
-updated_at: July 5, 2026 4:47 PM
+updated_at: July 12, 2026 9:20 PM
 type: Nightmare
 emotion: Bold
 influences:   • I have encountered and reported YouTube and Internet Archive accounts mixing porn videos with children’s cartoon videos.
@@ -16,7 +16,6 @@ influences:   • I have encountered and reported YouTube and Internet Archive a
 symbols:   • Gang: Rebellion against authority and the law.
   • Suggestive Women: Content made to seem innocent and caring but with a hidden sexual agenda.
   • Sermon: Feeling like people mindlessly waste their time on distractions and vain things.
-lessons: We live in a fallen world so stay vigilant and disciplined.
 
 I was one of many police officers walking back to our police cars when we encountered a hostile gang, equipped with bats and knives, blocking them. As they taunted us and charged forward, we were forced to shoot them in self-defence.
 

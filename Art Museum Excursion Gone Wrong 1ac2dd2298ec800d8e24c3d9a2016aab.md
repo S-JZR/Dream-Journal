@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: February 28, 2025
-updated_at: June 6, 2026 12:29 AM
+updated_at: July 12, 2026 9:24 PM
 type: Normal
 emotion: Happy
 influences: I always had spare tissues in secondary school and sometimes students asked me for some.
-lessons: People turn to those who are most prepared in desperate situations.
 
 I was one of many secondary school students from art class on an excursion to tour an art museum in France that was divided between two isolated buildings. Everyone lined up to enter through metal detectors at the reception when seven of us at the back without white gloves realized only those wearing them were allowed to enter. A male student approached me to my left.
 

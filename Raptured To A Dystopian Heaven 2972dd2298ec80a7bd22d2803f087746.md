@@ -3,14 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: June 5, 2026 12:43 AM
+updated_at: July 12, 2026 9:18 PM
 type: Nightmare
 emotion: Surprise
 characters: Family
 influences: My parents still buy and collect DVDs.
 Christianity
 symbols:   • Dystopian Heaven: The fear that heaven won’t be desirable.
-lessons: Don’t get too attached to possessions because you can’t take them with you when you die.
 
 I was standing outside a church with my family and other Christians when we were instantly raptured to a dystopian heaven:
 

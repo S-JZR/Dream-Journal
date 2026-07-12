@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 6, 2026
-updated_at: June 5, 2026 4:22 AM
+updated_at: July 12, 2026 9:32 PM
 type: Normal
 emotion: Surprise
-lessons: Different tools excel in different situations.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: November 4, 2025
-updated_at: June 5, 2026 3:58 AM
+updated_at: July 12, 2026 9:29 PM
 type: Nightmare
 emotion: Anger
-lessons: Be careful inviting strangers into your home.
 
 I was standing in my unit when a few mischievous children knocked on the front door and asked to come inside so I let them in. However, when I briefly turned my back, they ran upstairs into my room to search through my possessions. One of them sneaked downstairs holding a green toy gun and I realized they were stealing.
 

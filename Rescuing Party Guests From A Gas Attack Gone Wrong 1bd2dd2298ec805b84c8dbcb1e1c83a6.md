@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: March 20, 2025
-updated_at: June 6, 2026 2:03 AM
+updated_at: July 12, 2026 9:24 PM
 type: Nightmare
 emotion: Fear
 influences: Batman (1989): References the Joker’s laughing gas.
-lessons: If a threat is too strong then it’s better to retreat.
 
 I was one of many guests dressed in fancy clothing descending stairs at night to attend a party in a building below the street. Later criminals emerged to spray green sleeping gas everywhere and assaulted guests. I tried rescuing everyone by shooting the criminals with a pistol but was knocked unconscious on the back of the head.
 

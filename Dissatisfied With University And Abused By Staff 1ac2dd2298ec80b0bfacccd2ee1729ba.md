@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: March 4, 2025
-updated_at: June 5, 2026 2:30 AM
+updated_at: July 12, 2026 9:24 PM
 type: Nightmare
 emotion: Anger
 characters: Dejan C, Tom B
@@ -23,7 +23,6 @@ symbols:   • Convenience Store:
       ◦ Self-criticism about running away from my responsibilities and not achieving enough.
   • Conceptual Art:
       ◦ I feel like most conceptual art is confusing and the message is unclear or trivial.
-lessons: The education system may fail you but ultimately you're responsible for your learning.
 
 I was one of many students seated in a university lecture room listening to a middle-aged female staff member give an orientation presentation in front of a projector.
 

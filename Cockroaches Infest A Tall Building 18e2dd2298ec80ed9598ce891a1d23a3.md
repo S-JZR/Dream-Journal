@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 14, 2025
-updated_at: June 5, 2026 7:39 PM
+updated_at: July 12, 2026 9:23 PM
 type: Nightmare
 emotion: Fear
 influences: Men In Black (1997): Likely references the Annelid aliens in the kitchen.
-lessons: Don’t blindly follow the crowd.
 
 I was standing with a crowd in the open space on the second highest floor of a multi-story concrete building with parapets between square pillars along the perimeter. After mingling for some time, cockroaches began raining down from the roof onto the floor, causing everyone to move away in panic. Some of us went to the stairs but they were were also infested with cockroaches crawling out from the lower levels. Many ascended to the top floor where they climbed over the parapets and proceeded to the end of a large L-shaped roof made of corrugated metal. However, after those in front, including myself, realized it led to a sharp drop we immediately tuned back and warned everyone.
 

@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 20, 2026
-updated_at: June 5, 2026 4:14 AM
+updated_at: July 12, 2026 9:31 PM
 type: Nightmare
 emotion: Sad
-lessons: Try before you buy.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

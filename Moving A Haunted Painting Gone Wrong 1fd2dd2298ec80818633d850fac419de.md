@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 14, 2025
-updated_at: June 8, 2026 10:20 PM
+updated_at: July 12, 2026 9:26 PM
 type: Nightmare
 emotion: Sad
 influences: The Anguished Man (n.d): References a distressed painting that allegedly contains the artist’s blood and is haunted.
@@ -17,7 +17,6 @@ symbols:   • Minimalism:
   • Ferns: Resilience and growth.
   • Blood: Internal struggles and past wounds.
   • Upset/Fire: Anger over being misunderstood and ignored.
-lessons: Supressing emotions and frustrations can cause unrest.
 
 I was walking through a small art gallery room with huge rectangular portrait-oriented paintings while two staff members roamed around when I encountered an extremely haunted portrait of a woman:
 

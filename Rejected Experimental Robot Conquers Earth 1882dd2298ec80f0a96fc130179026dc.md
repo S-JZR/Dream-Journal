@@ -3,11 +3,10 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: June 5, 2026 12:33 AM
+updated_at: July 12, 2026 9:18 PM
 type: Nightmare
 emotion: Fear
 influences: Steam Punks! (2013): References the title sequence where a discarded experimental robot grows underground.
-lessons: Be careful how you treat robots as they become more sentient and capable.
 
 I was spectating two scientists in a white robotics lab performing experiments on a half-finished robot without a casing and legs. After months of frustration, they deemed it worthless and placed it in a trash chute.
 

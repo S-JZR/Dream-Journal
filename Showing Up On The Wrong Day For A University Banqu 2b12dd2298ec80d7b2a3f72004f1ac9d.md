@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: April 18, 2024
-updated_at: June 5, 2026 1:43 AM
+updated_at: July 12, 2026 9:20 PM
 type: Nightmare
 emotion: Sad
 influences: I once accidentally showed up a day early to secondary school when juniors and seniors were scheduled to start on different days.
-lessons: Double check important dates and who it applies to.
 
 I was walking upstairs in a fancy building to a university class banquet where many students sat with their clients at long tables with course codes on A4 paper taped to the side.
 

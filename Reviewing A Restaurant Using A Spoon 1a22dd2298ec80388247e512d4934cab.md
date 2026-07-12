@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: March 17, 2024
-updated_at: June 5, 2026 1:36 AM
+updated_at: July 12, 2026 9:20 PM
 type: Normal
 emotion: Surprise
 influences: I visited a hotel last year that sold a lot of its own overpriced merchandise.
-lessons: Avoid buying things from hotels because it's usually overpriced.
 
 I was seated at a round table covered in a white silk cloth in a fancy restaurant with a male waiter nearby.
 

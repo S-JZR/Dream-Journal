@@ -3,10 +3,9 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 7, 2025
-updated_at: June 5, 2026 3:00 AM
+updated_at: July 12, 2026 9:26 PM
 type: Normal
 emotion: Anger
-lessons: The church is meant to work together in unison not compete with each other.
 
 Two church groups were sharing attendance in a large modern church building located in a semi-remote wooded area beside a road to simultaneously perform services:
 

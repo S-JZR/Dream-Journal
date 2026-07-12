@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 13, 2026
-updated_at: June 5, 2026 4:10 AM
+updated_at: July 12, 2026 9:31 PM
 type: Nightmare
 emotion: Fear
 characters: Family, IShowSpeed
@@ -14,7 +14,6 @@ influences:   • My brother has researched some political conspiracy theories.
   • References IShowSpeed visiting a witch and leaving halfway through because he felt concerned: https://youtu.be/g7zFNRrXnME?si=sqnr-5P31LtnbpeQ&t=379.
 symbols:   • Red Lights: Evil.
   • Forehead Chip: The mark of the beast.
-lessons: Always consider how technologies could be used negatively.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: August 6, 2025
-updated_at: June 5, 2026 3:41 AM
+updated_at: July 12, 2026 9:28 PM
 type: Nightmare
 emotion: Fear
 characters: Family
-lessons: Learn from your mistakes to avoid repeating them.
 
 I was walking on the grass beside a rectangular three storey carpark with my family when we heard adults arguing in the centre of the bottom floor. After noticing they were holding pistols, we were concerned about our safety, and followed the building’s perimeter to navigate around them. On the building’s left short side, I ran between concrete pillars for cover but they noticed me and fired shots that struck various surfaces. My family was afraid to keep moving but I said that the bullets had a travel delay of about 4 seconds so we could safely cross if we’re fast and strategically move between pillars. Eventually, we travelled along a remote dirt path until we encountered another multi-storey carpark and I said we have learnt our lesson and won’t enter another one again.

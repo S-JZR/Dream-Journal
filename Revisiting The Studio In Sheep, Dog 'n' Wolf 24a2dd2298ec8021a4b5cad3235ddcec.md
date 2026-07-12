@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: August 8, 2025
-updated_at: June 5, 2026 3:45 AM
+updated_at: July 12, 2026 9:29 PM
 type: Normal
 emotion: Sad
 influences:   • Sheep Dog 'n' Wolf (2001): References gameplay.
   • Godzilla (1954): References Godzilla.
 symbols: Abandoned Building: Neglected memories at the back of my mind.
-lessons: Nothing lasts forever so make the most of it while you can.
 
 I was in a videogame created by a Japanese developer and entered an abandoned dark building:
 

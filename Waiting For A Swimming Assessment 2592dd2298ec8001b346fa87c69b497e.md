@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: August 23, 2025
-updated_at: June 5, 2026 3:47 AM
+updated_at: July 12, 2026 9:29 PM
 type: Normal
 emotion: Sad
-lessons: No matter how good you there is probably someone better than you.
 
 I was one of many adults and children waiting beside a large pool to be individually assessed on swimming two laps. Everyone was asked to wait patiently as the process was expected to take two weeks but we could practice in the meantime given we don’t interfere with those being assessed. Throughout the pool were various people floating and practicing, and three large buoyant yellow blankets called islands available to rest on and carry around if necessary. A boy was trying to practice but got stuck halfway across the pool as he bobbed underwater so he frantically raised his hand and yelled at nearby teachers for help who quickly walked over to rescue him.
 

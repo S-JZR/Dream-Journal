@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 14, 2024
-updated_at: June 5, 2026 1:34 AM
+updated_at: July 12, 2026 9:20 PM
 type: Nightmare
 emotion: Fear
 characters: Family
@@ -12,7 +12,6 @@ influences:   • The Shining (1980): References the twins murdered by their fat
 symbols:   • The Twins: Represents how evil can infiltrate and destroy innocence.
   • Devil Biscuits: Humanity is inclined to follow sinful lusts over God.
   • Monsters: God and Satan fighting over people.
-lessons: Evil often hides behind what seems fun and innocent.
 notes: Nothing occurred the same day next year from what i'm aware.
 
 I was standing on the footpath outside my unit complex when I noticed two small twin girls with green skin nearby starring at me.

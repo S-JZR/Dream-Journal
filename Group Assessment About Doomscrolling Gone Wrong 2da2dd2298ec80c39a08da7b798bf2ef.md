@@ -3,13 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: December 31, 2025
-updated_at: June 5, 2026 4:08 AM
+updated_at: July 12, 2026 9:31 PM
 type: Normal
 emotion: Fear
 influences:   • For a creative industries group assessment at university, my team members were overly optimistic that we had similar personality types from the test at https://www.16personalities.com/ and we were going to do well and get a seven. By the end of the semester, they struggled to contribute due to other assessments. In the same class, women in another team were researching how women were oppressed by a male dominated industry.
   • For a solo creative industries assessment at university, I drew a simple 2D storyboard for a zine because I wasn’t skilled enough and was running out of time.
   • The storyboard was based on one of my real art ideas about being in barb wire and feeling trapped by simultaneous problems and constant upsetting media, all consuming me.
-lessons: Everyone fights their own battles.
 
 I was one of many university students seated in a creative industries classroom when my entire team was absent. We had a presentation due tomorrow that we didn’t start which involved showcasing a storyboard about a real world problem. Earlier in the semester, I proposed some vague ideas to my team about someone being addicted to their phone and a female team member claimed they would work hard on it later but didn’t. I messaged my team on social media:
 

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 5, 2024
-updated_at: June 5, 2026 1:52 AM
+updated_at: July 12, 2026 9:21 PM
 type: Normal
 emotion: Happy
 influences: The Pilgrim's Progress (1678): References a difficult journey to reach heaven and staying focused on the straight path.
@@ -11,7 +11,6 @@ symbols:   • Female Ghosts: Wisdom.
   • Book: Incomplete knowledge of how to navigate life.
   • Villain: Temptations, evil, and Satan trying to sabotage the journey.
   • Mountains: Challenging situations in life.
-lessons: Maintaining integrity and avoiding poor decisions makes life easier.
 
 I was one of five explorers entering a ten-storey spruce hotel lobby with a central atrium and a hutch desk with an open book beside a lounge area with a blue carpet. The pages of the book featured a flowchart with two columns of interlinked sentences enclosed in rectangles, converging into one at the top, though some items were missing with blank spaces. The top-half of a levitating blue translucent plus-size female ghost in elegant attire materialized to greet us. As the missing data in the book temporarily appeared with a flickering glow, she explained how we could reach a place called heaven atop the hotel by solving a series of puzzles but to remain vigilant for a villain intent on trying to sabotage our efforts.
 

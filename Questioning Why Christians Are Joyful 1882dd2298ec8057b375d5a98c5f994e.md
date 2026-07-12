@@ -3,14 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: June 5, 2026 12:32 AM
+updated_at: July 12, 2026 9:17 PM
 type: Normal
 emotion: Sad
 influences: Personal Experiences: I attended churches and didn’t understand why Christians felt happy.
 Christianity: Likely references Psalm 34:8 and Matthew 7:21.
 symbols:   • Cake: Tasting good because it’s well made.
   • God's Work: Doing good. Higher principles.
-lessons: Joy comes from doing meaningful work that aligns with higher principles.
 
 I was standing in a church as a cheerful crowd surrounded a cake on a white circular table with the word joy written on it.
 

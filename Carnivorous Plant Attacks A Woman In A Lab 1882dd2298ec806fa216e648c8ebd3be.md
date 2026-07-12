@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2005
-updated_at: June 4, 2026 11:44 PM
+updated_at: July 12, 2026 8:58 PM
 type: Nightmare
 emotion: Fear
-lessons: Don’t linger near active threats even if they seem harmless.
 
 The dream resembled an 8-bit first-person point-and-click adventure videogame.
 

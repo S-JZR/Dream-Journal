@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2024
-updated_at: July 5, 2026 6:38 PM
+updated_at: July 12, 2026 9:20 PM
 type: Nightmare
 emotion: Sad
 characters: Alexander Armstrong
@@ -12,7 +12,6 @@ influences:   • During a group assessment in university we proposed the design
 symbols:   • 3D Model: The fear that I’m not skilled enough for a job.
   • Forgetting Theory: At the end of university I was worried that I forget almost everything I learnt. Team members in group assessments often never read the prescribed reading.
   • Crazy Student: Feeling trapped in university and unable to work on my side projects.
-lessons: Success requires competence.
 
 I was one of many university students on an excursion to design a new building for Alexander Armstrong, the client. During the initial site visit beside an elevated riverside promenade, we examined a fish monument made from multiple layers of sheet metal. As we began conceptualizing a digital architectural model in thin air, it became apparent that we lacked the necessary skills. We travelled further downtown to the client's headquarters in a skyscraper with stairs spiralling down the exterior. We ascended a circular elevator to a fancy office on floor nine where we met the client who debriefed us on the project.
 

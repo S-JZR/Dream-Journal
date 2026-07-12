@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 23, 2025
-updated_at: June 5, 2026 3:06 AM
+updated_at: July 12, 2026 9:26 PM
 type: Normal
 emotion: Anger
 influences:   • I feel like church is divided and could do better.
@@ -11,7 +11,6 @@ influences:   • I feel like church is divided and could do better.
   • References religious affiliation declining: https://www.abs.gov.au/articles/religious-affiliation-australia.
   • References church attendance declining since Covid-19: https://theothercheek.com.au/church-attendance-continues-to-recover-after-covid-baptists-and-pentecostals-rise/.
 symbols:   • Radio: Awareness that some people think religion is outdated and stupid.
-lessons: Effective goals require a clear strategy and actionable steps.
 notes: I added a brain dump of thoughts I've been having lately.
 
 I was driving to a Christian meeting when I tuned in the radio and heard a male commentator.

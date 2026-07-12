@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: December 3, 2025
-updated_at: July 5, 2026 4:57 PM
+updated_at: July 12, 2026 9:30 PM
 type: Normal
 emotion: Happy
 influences:   • My parents used to take me and my brother to a sports club and put us in the kid’s room when we were younger.
   • My parents used to take me and my brother to arcades when we were younger and sometimes we played modern coin pushers a lot like Fantastic Fever 3 and Medalink (Western Dream). The latter was easy to earn coins from.
   • References an ABC radio host asking an electric car question during my morning alarm.
-lessons: Take advantage of opportunities while you still can.
 
 My parents dropped my brother and I off at a sports club:
 

@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 1, 2025
-updated_at: June 5, 2026 2:58 AM
+updated_at: July 12, 2026 9:26 PM
 type: Nightmare
 emotion: Anger
 influences:   • Teachers occasionally asked me to do errands in primary school.
@@ -12,7 +12,6 @@ influences:   • Teachers occasionally asked me to do errands in primary school
 symbols:   • Abusive Teacher:
       ◦ Inner critic accusing me of not being good enough and lazy.
       ◦ Embodies the worst traits of different teachers.
-lessons: Expect backlash from those you report.
 
 I arrived 15 minutes late to my year 7 classroom at my primary school and encountered a super abusive blond female substitute teacher seated behind a desk.
 

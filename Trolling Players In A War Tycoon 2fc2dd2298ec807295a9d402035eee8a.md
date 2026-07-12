@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: February 3, 2026
-updated_at: June 5, 2026 4:17 AM
+updated_at: July 12, 2026 9:31 PM
 type: Normal
 emotion: Happy
 influences: Military Tycoon (2021): Likely references seeing many military tycoons commonly on the front page of Roblox.
-lessons: Don't leave your door unlocked.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

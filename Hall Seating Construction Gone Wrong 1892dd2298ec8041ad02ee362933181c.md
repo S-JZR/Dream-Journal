@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: September 6, 2024
-updated_at: June 5, 2026 1:58 AM
+updated_at: July 12, 2026 9:22 PM
 type: Nightmare
 emotion: Fear
 characters: Brooke M, Jared K
-lessons: Don’t let fear decide your fate.
 
 I was standing on the oval beside the hall at my secondary school when I overheard the disembodied voice of a female reporter discussing a breaking news snippet from the future about the massacre of 50 students there that day. The cause was not explained, leaving me paranoid about how it would unfold. Staff indoors realized there was insufficient seating for the parade and instructed nearby students to assemble new benches above a narrow rectangular strip of deep water spanning the breadth of the space near the front of the hall. Students initially created a foundation by laying wooden planks with holes on both sides over parallel anchor bolts spaced about one metre apart across the gap. When nearing completion on the right side a student accidentally dropped some planks into the water and hesitated to retrieve them. After walking in circles, watching everyone work and contemplating whether I could reach the planks visible on the sandy bumpy floor by diving under, the supervisor grew annoyed and told me to leave since I wasn't needed. While travelling around to the diagonally opposite corner with other idle students, I feared that feeling left out would trigger me to become a psycho responsible for the massacre, but I reassured myself that this cannot be the case since I didn't want to harm anyone.
 

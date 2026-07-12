@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: May 7, 2021
-updated_at: June 5, 2026 1:07 AM
+updated_at: July 12, 2026 9:19 PM
 type: Nightmare
 emotion: Fear
 influences:   • Would I Lie To You? (2007): References the gameshow.
   • My mother is sensitive to gore and swearing so I need to be mindful of what I show her.
-lessons: Don't intentionally try to awaken and attract monsters.
 
 I was one of many contestants on a game show resembling "Would I Lie To You?" sharing a personal story as other participants guessed whether it was real or fake. I shared a tale about getting shot in the leg while working on a farm but realized I'd strayed far from the host's recommended scenario card received earlier, so I stuck with it to seem authentic.
 

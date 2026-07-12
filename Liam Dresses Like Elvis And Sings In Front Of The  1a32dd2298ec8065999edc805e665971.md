@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: February 7, 2025
-updated_at: June 5, 2026 2:20 AM
+updated_at: July 12, 2026 9:24 PM
 type: Normal
 emotion: Happy
 characters: Liam B
 influences: References Kamilla Harris inviting Beyoncé for a celebrity endorsement and it was rumoured she would perform but didn’t and guests got upset: https://www.yahoo.com/entertainment/kamala-harris-mocked-beyonc-fails-200958782.html.
-lessons: Broken promises lead to backlash.
 
 I was one of many students moving into the hall at my secondary school for a special assembly where Liam dressed as Elvis held onto the side of a central giant disco ball suspended by a chain.
 

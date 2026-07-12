@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: April 7, 2025
-updated_at: June 5, 2026 2:46 AM
+updated_at: July 12, 2026 9:25 PM
 type: Normal
 emotion: Sad
 characters: Family
-lessons: Set reminders and do things when you’re told to avoid forgetting them.
 
 I was standing in the kitchen in my unit with my brother when my mum hung lots of clothes on fold-out metal lines in the backyard and frontyard. She warned us about a storm before leaving.
 

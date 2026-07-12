@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: March 20, 2025
-updated_at: June 9, 2026 12:30 AM
+updated_at: July 12, 2026 9:25 PM
 type: Nightmare
 emotion: Fear
 influences: News,Gaza–Israel Conflict
 symbols: Army: The desire to stop evil from harming anyone.
-lessons: Everyone should focus on what they do best.
 
 I was one of many soldiers walking along the footpath in the city beside a tall rectangular building standing in the river with an aircraft hangar cut out of the top when there was a brief earthquake.
 

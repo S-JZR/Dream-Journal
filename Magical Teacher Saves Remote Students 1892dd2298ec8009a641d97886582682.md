@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: September 30, 2024
-updated_at: June 5, 2026 1:58 AM
+updated_at: July 12, 2026 9:22 PM
 type: Nightmare
 emotion: Anger
 characters: Jodie Whittaker
-lessons: Don’t throw the baby out with the bath water.
 
 I was standing in a rural bushland and followed a dirt path towards a distant primary school atop a tall hill. Upon arriving, a man outside watched me create portals and asked how it was possible. I explained that I recited a four-word African chant and slammed the ground with a wooden staff to create entrances and exits. Once inside, a strict teacher, who was also the accountant, kept scolding the children for making mistakes. For some reason, after being able to read a document of the school's financial history left on a table, I claimed to know how to do the job better and save thousands of dollars. After clarifying that I could travel to the location on time using portals, a vote was held among all present parents and staff who elected me as the new teacher. Eventually, food supplies were unexpectedly disrupted, prompting everyone to discuss how to resolve the issue before most joined another group, with a few following me. I recall saying something regarding a previous lesson about the strict teacher that "these are the kinds of people you should avoid and adhering their advice will lead to consequences."
 

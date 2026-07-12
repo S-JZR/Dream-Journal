@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: March 5, 2025
-updated_at: June 5, 2026 2:31 AM
+updated_at: July 12, 2026 9:24 PM
 type: Normal
 emotion: Happy
-lessons: Providing examples makes learning easier.
 
 I was standing in a shopping mall when I saw an elderly Asian woman struggling to use a powered roller conveyor bridge connecting the two halves of the second floor. It detected the direction customers were moving and displayed arrows on square screens mounted on parallel poles at each entrance.
 

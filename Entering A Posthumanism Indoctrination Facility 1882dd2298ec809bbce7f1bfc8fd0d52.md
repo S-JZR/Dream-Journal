@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: June 5, 2026 12:42 AM
+updated_at: July 12, 2026 9:18 PM
 type: Nightmare
 emotion: Fear
 characters: Brooke A, Satan
@@ -35,8 +35,6 @@ symbols:   • Amphitheatre: Upside down Tower of Babel. The world.
   • Brooke: The fear of being blinded by society and pride. don't think science itself is bad.
   • 1960’s TV: The start of the sexual revolution.
   • Dictator: Rebelliousness and hatred against God, his followers, and the natural order. The desire to be like god.
-lessons:   • Don't be conformed to the pattern of this world.
-  • Submit to God, resist the devil, and he will flee from you.
 notes: I don't remember the exact dialogue and this is a recreation.
 
 I was standing inside a complex with a crowd walking in a line through a spiral of chain-linked fences around a circular amphitheatre without seats, descending a continuously slanted floor that descended multiple levels. A central circular stage at the bottom featured a 1960s era television broadcasting a male charismatic dictator passionately yelling a message.

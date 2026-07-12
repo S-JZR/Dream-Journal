@@ -3,12 +3,10 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 8, 2026
-updated_at: June 5, 2026 4:23 AM
+updated_at: July 12, 2026 9:32 PM
 type: Nightmare
 emotion: Embarrassment
 characters: Bianca D, Thomas R
-lessons:   • Don’t play games you can’t win.
-  • Write down ideas to avoid forgetting them.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

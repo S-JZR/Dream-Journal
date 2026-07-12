@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 10, 2020
-updated_at: June 5, 2026 12:51 AM
+updated_at: July 12, 2026 9:18 PM
 type: Normal
 emotion: Happy
 influences:   • Spiderman (2002): References swinging between buildings.
@@ -11,7 +11,6 @@ influences:   • Spiderman (2002): References swinging between buildings.
       ◦ References grappling hooks.
       ◦ References the zombie gamemode where players defend different positions.
 symbols: Alien Spiders: The fear of spiders.
-lessons: Don't repeat the same mistakes and expect different results.
 
 I was one of many survivors in a team-based survival videogame that involved defending against alien spiders until the timer ran out.
 

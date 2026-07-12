@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 18, 2025
-updated_at: June 5, 2026 3:16 AM
+updated_at: July 12, 2026 9:27 PM
 type: Normal
 emotion: Fear
 characters: Julien C
@@ -11,8 +11,6 @@ influences: I had a fear of swimming in primary school due to multiple bad exper
 symbols:   • Darkness/Baby Crocodile: Fears and difficult challenges requiring discipline to overcome.
   • Hovercraft: Shortcuts with AI.
   • Warning: The fear of not having the skills necessary for a job.
-lessons:   • No pain, no gain.
-  • Shortcuts and reliance on AI may work temporarily but will backfire long-term.
 
 I was one of many secondary school students learning to swim in a rectangular grey concrete room while being supervised by a female teacher:
 

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 21, 2025
-updated_at: June 5, 2026 3:18 AM
+updated_at: July 12, 2026 9:27 PM
 type: Normal
 emotion: Sad
 characters: Katherine P, Mrs Brown
@@ -12,7 +12,6 @@ influences:   • 2018: I received the best artwork of year 12 award by public v
   • Other students and I fixed up laptops in the trolley at the end of classes in secondary school.
   • 2016: the government cut computer funding and the school adopted BYOD: https://www.abc.net.au/news/2016-12-16/queensland-schools-byod-laptop-program-a-burden-on-parents-qtu/8124588.
 symbols: Creators Block: The fear of running out of creative ideas.
-lessons: Your actions can have a greater impact on others than you realize.
 
 I was one of many secondary school students seated in the Digital Media Technology classroom as Mrs Brown started announcing the winners of an art competition at the front. I wasn’t expecting any awards but she said that I was voted crowd favourite and I walked up to receive a rectangular wooden lidded box with a gift card inside. She also mentioned that my brother had won an award but I told her that he was not present. Upon returning to my desk beside Katherine, I reflected on how one image could have such an effect on everyone and flipped through the corner of my art journal to catch glimpses of my old drawings.
 

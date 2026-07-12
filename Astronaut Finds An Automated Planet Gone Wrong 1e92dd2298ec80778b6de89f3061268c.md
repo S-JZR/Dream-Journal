@@ -3,14 +3,13 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 29, 2025
-updated_at: June 8, 2026 8:44 PM
+updated_at: July 12, 2026 9:26 PM
 type: Nightmare
 emotion: Fear
 characters: James Carter
 influences:   • Thunderbirds (1965): References Thunderbird 3.
   • Star Wars (1987): References the dark side.
   • Rush Hour (1998): References Carter who is the comedic relief character.
-lessons: You’re not completely safe until you’re out of the danger zone.
 
 A blond astronaut was travelling through space in an egg-shaped camouflaged spaceship with four landing legs, trying to reach a destination. The entire time, he was in a radio call with other crew members at a remote HQ as the signal relayed across a chain of distant satellites. After accidentally getting lost, he encountered a red, green, and two grey planets that displayed on internal monitors. The green planet showed excessive signs of life covering the entire surface when scanned. Upon landing, it was discovered that Creepers from Minecraft had bred uncontrollably and covered the surface to conceal the grey stone beneath. The loud noise of the rocket scared them away into various nearby cave entrances where they couldn’t completely fit inside but eventually came out again to curiously surround it as he observed them through the hemisphere windows.
 

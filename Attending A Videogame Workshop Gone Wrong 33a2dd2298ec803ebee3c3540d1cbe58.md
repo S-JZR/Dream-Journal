@@ -3,12 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: April 4, 2026
-updated_at: June 5, 2026 4:22 AM
+updated_at: July 12, 2026 9:31 PM
 type: Nightmare
 emotion: Sad
 influences: I once had a group assessment in university where we had three members instead of the expected five and struggled to come up with ideas so we resorted to one that a different team member suggested a week earlier.
-lessons:   • You can only work with your available pool of ideas.
-  • Ensure scheduled events don't conflict.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

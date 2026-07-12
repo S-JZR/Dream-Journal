@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: February 8, 2025
-updated_at: June 5, 2026 2:22 AM
+updated_at: July 12, 2026 9:24 PM
 type: Nightmare
 emotion: Fear
 characters: Family
-lessons: Beware strangers who pretend to know you and your friends.
 
 I was walking on the sidewalk into my unit complex when I saw a deformed white fluffy creature resembling a camel lying on its belly in front of my garage with its legs crossed and slid under the floor gutters. Upon noticing me, it stood up and morphed into a dog with an abnormally long and wide black nose. It walked towards me and tried to sniff my leg but I pushed it away with my foot.
 

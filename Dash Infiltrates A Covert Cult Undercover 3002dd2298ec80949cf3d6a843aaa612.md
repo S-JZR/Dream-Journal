@@ -3,12 +3,11 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 8, 2026
-updated_at: June 5, 2026 4:18 AM
+updated_at: July 12, 2026 9:31 PM
 type: Nightmare
 emotion: Fear
 influences:   • Metal Arms Glitch In The System (2003): References the images of Grunts, fascist robots, T-posing with L-shaped arms that I recently uploaded to the Fandom: https://metalarms.fandom.com/wiki/File:Grunt-Red-Model.png.
   • The Incredibles 2 (2018): Likely references the Screenslaver who wore a full body black uniform with cyan eyes.
-lessons: Question authority and beware groupthink.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

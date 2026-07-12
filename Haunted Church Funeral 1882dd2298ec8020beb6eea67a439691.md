@@ -3,13 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2020
-updated_at: July 5, 2026 6:05 PM
+updated_at: July 12, 2026 9:18 PM
 type: Nightmare
 emotion: Fear
 characters: Grim Reaper
 influences: Recently my family has been attending the church.
 symbols: Empty Coffin: The fear of death.
-lessons: Life is finite.
 
 I was attending a funeral service in a small former church at night:
 

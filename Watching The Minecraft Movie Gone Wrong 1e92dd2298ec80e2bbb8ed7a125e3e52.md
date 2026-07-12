@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: May 2, 2025
-updated_at: June 9, 2026 12:33 AM
+updated_at: July 12, 2026 9:26 PM
 type: Nightmare
 emotion: Sad
 characters: Family
 influences:   • Minecraft (2025): Reference the Chicken Jockey trend that was popular and people threw around food in cinemas: https://simple.wikipedia.org/wiki/A_Minecraft_Movie.
   • Fred Claus (2007): The messy slurpy store reminds me of the scene where Santa and Clyde are shocked that the elves stopped working and restore order: https://youtu.be/nR2MtdrHCEs?si=-tkEbUUoCfTHEclR&t=88.
-lessons: Don’t split up in crowded places to avoid getting lost.
 
 I was walking down the street in the city with my brother when we realized we were near the cinema and decided to sneak into an auditorium to see if we could catch a glimpse of people doing the Chicken Jockey trend for the Minecraft movie:
 

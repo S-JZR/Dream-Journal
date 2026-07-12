@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 13, 2025
-updated_at: June 5, 2026 2:16 AM
+updated_at: July 12, 2026 9:23 PM
 type: Normal
 emotion: Anger
 influences:   • I feel like so many things in society are trivial and stupid.
@@ -24,7 +24,6 @@ symbols:   • Façade:
   • Call To War:
       ◦ Angry at the injustice caused by dictators harming innocent people.
       ◦ In general I feel like everyone could achieve something greater, transcend our current limitations, and bring lasting change if we were all focused on meaningful things, disciplined, and rejected mediocrity.
-lessons: Survival should be valued more than luxury.
 notes: I don’t want to name any dictators because it would probably be considered inciting violence.
 
 I was spectating a military propaganda commercial featuring shots of diverse people performing basic jobs like selling fruit at a marketplace on the footpath beside Brisbane City.

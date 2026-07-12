@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 19, 2024
-updated_at: June 5, 2026 1:29 AM
+updated_at: July 12, 2026 9:20 PM
 type: Nightmare
 emotion: Fear
 characters: Jackie Chan
-lessons: The more drama you cause, the harder it’s to hide.
 
 I was one of many refugees fleeing soldiers invading a city towards a harbour they controlled. Arriving at a cluster of small two-story square buildings within a desert biome, we ascended a square staircase winding around the interior, eventually finding concealment behind a wall in an upstairs room. Peering through a rectangular opening in the left side of the wall, I spotted a military figure climbing the staircase to investigate. Instinctively, I maneuvererd through a square window on the left side, descending from awnings with the refugees following suit. Eventually, we reached a border crossing managed by the same military group connected to the harbour. After presenting our identification, we were promptly granted entry.
 

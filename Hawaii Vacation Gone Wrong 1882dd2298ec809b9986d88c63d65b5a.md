@@ -3,14 +3,13 @@
 is_favourite: Yes
 is_nsfw: No
 date: November 25, 2021
-updated_at: June 5, 2026 1:08 AM
+updated_at: July 12, 2026 9:19 PM
 type: Normal
 emotion: Anger
 characters: Family
 symbols:   • Impatient Driver: I always feel rushed and don’t have enough time to finish things.
   • Garage: Fear of losing sentimental things and the past.
   • Church Staff: Trying to do everything myself too much.
-lessons: Plan ahead.
 
 I was about to go on a vacation to Hawaii with my family but needed to retrieve valuables from a garage on a rural mountain in Japan. Hitching a ride on a pickup truck with a disgruntled male driver, we ascended halfway up to a vantage point overlooking an ocean bridge connecting the urban and rural regions.
 

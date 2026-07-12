@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 7, 2021
-updated_at: June 5, 2026 1:04 AM
+updated_at: July 12, 2026 9:19 PM
 type: Normal
 emotion: Fear
 characters: Aleksandr Orlov, Family, James Sullivan, Mrs Claus, Santa, Sergei Orlov
@@ -11,7 +11,6 @@ influences:   • Compare The Market (2006): References Aleksandr and Sergei fro
   • Monsters Inc. (2001): References Sullivan.
   • References a song about NSA agents dressed as Santa spying on people: https://youtu.be/8pcWlyUu8U4?si=ARTFhn2dt-7MqtOx.
 symbols: Killing Criminals: The desire to bring justice to evil.
-lessons: Control your impulses before you cause unnecessary problems.
 
 During Christmas week, my family explored festive attractions along a riverside promenade beside a cantilever bridge with a concrete base.
 

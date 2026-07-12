@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: September 25, 2024
-updated_at: June 5, 2026 1:58 AM
+updated_at: July 12, 2026 9:22 PM
 type: Nightmare
 emotion: Fear
-lessons: Don’t exaggerate reports to avoid unnecessary escalation.
 
 A child and I were attending an occult meeting wearing black hooded robes with golden halos. We emerged from a pine forest surrounding a meadow to approach the front of an elevated small grey castle. While passing a group of 10 disgruntled people standing about 75 meters from the castle, we formed the outline of a triangle above our heads, feeling elitist for belonging to something they did not. Suddenly, one individual annoyed by our gaze, rhetorically questioned what we were looking at, and everyone simultaneously began chasing us with ill-intentions. As we dashed onto the concrete walkway at the front door, the child used a microphone on a stand plugged into the wall to warn the guards of a full-scale attack. Snipers on the balcony above began firing shots down at the fleeing attackers who were all killed. However, the castle went into lockdown, with distant members hiding behind circular hay bales scattered around the area while the guards prepared to fire on anyone, including their own members.
 

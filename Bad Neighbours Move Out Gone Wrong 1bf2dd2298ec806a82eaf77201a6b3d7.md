@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 22, 2025
-updated_at: June 5, 2026 2:37 AM
+updated_at: July 12, 2026 9:25 PM
 type: Normal
 emotion: Fear
 characters: Family
@@ -14,7 +14,6 @@ symbols:   • Insect: My mum got overly upset by the neighbours but I didn’t 
   • Paint: Problems that others are trying to force upon me.
   • Cycle Arguments: I dislike people who engage in endless petty arguments just to prove they’re right.
   • Idol: My mum occasionally says foolish things or sweeping statements that make me cringe or unsure what to think about it.
-lessons: Control your emotions and don't let every negative event provoke a reaction.
 notes:   • Before the dream, my mum said the neighbours were officially moving out and put their property on the market.
   • Possibly predicted the neighbours demanding money from another neighbour over suspicious circumstances about seven months later. [Classified for now].
 

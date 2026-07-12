@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: June 5, 2026 12:29 AM
+updated_at: July 12, 2026 9:17 PM
 type: Normal
 emotion: Fear
 influences: I used to have a severe fear of infinity about things like:
@@ -13,8 +13,6 @@ symbols:   • Universe: Feeling trapped and incomplete.
   • City: The current progress of knowledge and permutations of ideas.
   • Turning Back: The fear of losing what I already have.
   • Microscopic Barcode: Pushing the limits of what is possible.
-lessons:   • Think about problems from different perspectives and don't assume you have all the answers.
-  • Find the right audience that understands your work.
 
 I was in a black void standing in the only known city in existence when I grew tired of living there and decided to explore the universe to see what else was in it. After walking for some time, I looked back at the city in the distance when I realized that I risked leaving everything behind with no guarantee of finding anything. Instead of travelling across infinite space hoping to find something new or reach the end to satisfy my preconceived notion of completion, I could contribute to creating infinite complexity within a central point as society continued to innovate. Everything I ever needed was already within reach.
 
