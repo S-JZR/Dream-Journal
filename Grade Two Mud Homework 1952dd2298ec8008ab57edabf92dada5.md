@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 1, 2008
 updated_at: June 4, 2026 11:50 PM
-type: Normal
 emotion: Happy
 characters: Mrs Wardle
 influences: We were learning about the environment in class.

@@ -3,8 +3,8 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 8, 2026
-updated_at: July 13, 2026 2:28 AM
-type: Nightmare
+updated_at: August 22, 2026 3:22 AM
+sleep_phenomena: Nightmare
 emotion: Fear
 influences:   • Metal Arms Glitch In The System (2003): References the images of Grunts, fascist robots, T-posing with L-shaped arms that I recently uploaded to the Fandom: https://metalarms.fandom.com/wiki/File:Grunt-Red-Model.png.
   • The Incredibles 2 (2018): Likely references the Screenslaver who wore a full body black uniform with cyan eyes.
@@ -66,3 +66,5 @@ Dash used his super speed to kick open grills along an air vent shaft until ente
 > 
 
 The other barrels exploded and Dash used the shockwave to launch into the ceiling of the hall which was now made of various layers of translucent white fabric. He tore holes through the fabric which loosened and struggled to climb up because he couldn’t get solid footing as a large muscular male henchman wearing black started rapidly climbing up towards him.
+
+I jolted awake.

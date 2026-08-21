@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 18, 2024
-updated_at: July 12, 2026 9:20 PM
-type: Nightmare
+updated_at: August 22, 2026 3:08 AM
 emotion: Sad
 characters: Brooke A, Patrick M
 influences: I used to struggle a lot in physics class because I didn’t study enough.

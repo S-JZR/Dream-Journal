@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: July 24, 2026
-updated_at: July 24, 2026 12:21 PM
-type: Nightmare
+updated_at: August 22, 2026 4:30 AM
+sleep_phenomena: False Awakening, Nightmare
 emotion: Fear
 influences:   • References AI images that I generated recently with the sword pose and geometric monster.
 
@@ -24,3 +24,5 @@ I was having a false awakening where I starred at the doorway of my room while b
 > 
 
 The figure didn’t respond and I started making random groaning noises to try getting my family’s attention to rescue me but nobody came.
+
+I jolted awake.

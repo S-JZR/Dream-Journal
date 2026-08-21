@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: February 5, 2025
 updated_at: July 13, 2026 1:50 AM
-type: Normal
 emotion: Happy
 influences: Fantastic Planet (1973): References the Draag.
 

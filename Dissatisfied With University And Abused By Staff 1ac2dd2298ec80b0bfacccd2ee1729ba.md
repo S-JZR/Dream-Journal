@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: March 4, 2025
-updated_at: July 12, 2026 9:24 PM
-type: Nightmare
+updated_at: August 22, 2026 3:15 AM
 emotion: Anger
 characters: Dejan C, Tom B
 influences:   • I often feel like university is a waste of time.

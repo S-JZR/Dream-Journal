@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 27, 2025
-updated_at: July 13, 2026 2:17 AM
-type: Nightmare
+updated_at: August 22, 2026 3:17 AM
 emotion: Fear
 influences: The agent reminds me of the case of John Lang: https://youtu.be/wsFBeetiYMs?si=Vs1sqtWgHBt2aZcI&t=410.
 symbols:   • AI: The fear of the truth being drowned out by AI.

@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: November 23, 2020
-updated_at: July 12, 2026 9:19 PM
-type: Nightmare
+updated_at: August 22, 2026 2:38 AM
 emotion: Fear
 influences: Jerry Andrus’s Dragon Illusion: References the dragon’s design.
 

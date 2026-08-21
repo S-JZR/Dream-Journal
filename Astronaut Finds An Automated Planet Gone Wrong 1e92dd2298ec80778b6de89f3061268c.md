@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 29, 2025
-updated_at: July 13, 2026 2:13 AM
-type: Nightmare
+updated_at: August 22, 2026 3:16 AM
 emotion: Fear
 characters: James Carter
 influences:   • Thunderbirds (1965): References Thunderbird 3.

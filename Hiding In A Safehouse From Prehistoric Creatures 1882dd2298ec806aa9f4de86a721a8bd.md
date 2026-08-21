@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2021
-updated_at: July 13, 2026 12:05 AM
-type: Nightmare
+updated_at: August 22, 2026 2:39 AM
 emotion: Fear
 influences:   • A Quiet Place (2018): References the Death Angels that attack any noise source.
   • Likely references night vision videos.

@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 19, 2024
-updated_at: July 12, 2026 9:20 PM
-type: Nightmare
+updated_at: August 22, 2026 2:45 AM
 emotion: Fear
 characters: Jackie Chan
 

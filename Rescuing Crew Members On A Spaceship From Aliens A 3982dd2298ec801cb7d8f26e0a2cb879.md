@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 9, 2026
 updated_at: July 9, 2026 5:55 PM
-type: Normal
 emotion: Surprise
 characters: David Tennant
 

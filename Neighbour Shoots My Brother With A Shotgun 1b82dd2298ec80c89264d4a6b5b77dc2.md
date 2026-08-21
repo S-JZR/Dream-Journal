@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2016
-updated_at: June 5, 2026 12:20 AM
-type: Nightmare
+updated_at: August 22, 2026 2:24 AM
 emotion: Fear
 characters: ? Neighbour, Family
 influences: One of our neighbours did suspicious things and we were warry at the time.

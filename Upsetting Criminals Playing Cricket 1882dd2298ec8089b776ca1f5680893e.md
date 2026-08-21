@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 7, 2021
-updated_at: July 13, 2026 12:20 AM
-type: Normal
+updated_at: August 22, 2026 2:39 AM
 emotion: Fear
 characters: Aleksandr Orlov, Family, James Sullivan, Mrs Claus, Santa, Sergei Orlov
 influences:   • Compare The Market (2006): References Aleksandr and Sergei from Compare The Market.

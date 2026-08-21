@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: November 6, 2025
 updated_at: June 5, 2026 4:02 AM
-type: Normal
 emotion: Fear
 
 I was one of many secondary students on an excursion detouring to a sushi buffet distributed across multiple large warehouses to buy lunch. Everyone moved through aisles and hallways made of metal shelves with price tags to place items on their plate and at the end a team of 100 chefs would cook everything in an open commercial kitchen.

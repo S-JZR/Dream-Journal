@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: July 12, 2026 9:17 PM
-type: Nightmare
+updated_at: August 22, 2026 2:30 AM
 emotion: Fear
 characters: Dejan C, God (Christianity), Michael C
 influences: I often hear Atheists accuse God of being evil for annihilating unrepentant locations as a judgement. I’ve always wondered what would happen if God never intervened to stop evil.

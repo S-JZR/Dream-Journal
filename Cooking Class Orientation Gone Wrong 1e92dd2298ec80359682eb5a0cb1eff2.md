@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 28, 2025
-updated_at: July 12, 2026 9:26 PM
-type: Nightmare
+updated_at: August 22, 2026 3:16 AM
 emotion: Fear
 influences: Hell's Kitchen (2005): References Gordan Ramsay being strict and yelling at chefs to leave.
 symbols:   • Skiing: Avoiding growth by being afraid to waste time and take risks.

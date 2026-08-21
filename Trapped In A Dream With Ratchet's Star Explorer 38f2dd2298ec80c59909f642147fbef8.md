@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2008
-updated_at: July 2, 2026 4:44 PM
-type: Nightmare
+updated_at: August 22, 2026 4:19 AM
+sleep_phenomena: Trapped In A Dream
 emotion: Fear
 influences: Likely references playing Ratchet And Clank 3 at the time.
 notes: I forgot the rest of the dream.

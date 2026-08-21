@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: November 25, 2021
-updated_at: July 12, 2026 9:19 PM
-type: Normal
+updated_at: August 22, 2026 2:40 AM
 emotion: Anger
 characters: Family
 symbols:   • Impatient Driver: I always feel rushed and don’t have enough time to finish things.

@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: August 3, 2024
 updated_at: July 12, 2026 9:22 PM
-type: Normal
 emotion: Anger
 symbols: Maze: Navigating complexity in life.
 

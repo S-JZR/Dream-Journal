@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 13, 2026
-updated_at: July 12, 2026 9:31 PM
-type: Nightmare
+updated_at: August 22, 2026 3:21 AM
 emotion: Fear
 characters: Family, IShowSpeed
 influences:   • My brother has researched some political conspiracy theories.

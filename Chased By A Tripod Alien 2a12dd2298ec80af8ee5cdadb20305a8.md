@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: November 4, 2025
-updated_at: June 5, 2026 4:02 AM
-type: Nightmare
+updated_at: August 22, 2026 3:20 AM
 emotion: Fear
 characters: Family
 influences: War Of The Worlds (2005): References the tripod aliens.

@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: June 19, 2024
-updated_at: July 13, 2026 1:44 AM
-type: Nightmare
+updated_at: August 22, 2026 3:10 AM
 emotion: Fear
 influences:   • Astro Boy (1963): References Astro Boy, a robot, created to replace Tobio who died in a tragic accident.
   • Robots (2005): Likely references Rodney receiving new body parts for each stage of puberty so he can grow up.

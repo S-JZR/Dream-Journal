@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: September 22, 2025
 updated_at: July 12, 2026 9:29 PM
-type: Normal
 emotion: Anger
 characters: Family
 influences: We planned to visit the Taiwan Night Market at UQ on the 27th of September.

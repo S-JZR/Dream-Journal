@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2016
-updated_at: June 5, 2026 12:25 AM
-type: Normal
+updated_at: August 22, 2026 4:49 AM
+sleep_phenomena: False Awakening
 emotion: Surprise
 characters: Family
 

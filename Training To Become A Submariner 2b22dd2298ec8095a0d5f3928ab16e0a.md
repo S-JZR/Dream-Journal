@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: November 21, 2025
 updated_at: July 12, 2026 9:30 PM
-type: Normal
 emotion: Surprise
 influences:   • During IT class in secondary school, a few students occasionally messed around by playing loud strange audio clips.
   • During recess in secondary school, Reilly once flashed people with two gorillas having sex on his phone to see their reaction.

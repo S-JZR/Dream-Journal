@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2013
-updated_at: July 12, 2026 9:16 PM
-type: Nightmare
+updated_at: August 22, 2026 2:19 AM
 emotion: Sad
 characters: Family
 symbols: Death: The fear of losing my parents.

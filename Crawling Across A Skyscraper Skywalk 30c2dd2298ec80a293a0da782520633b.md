@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2013
-updated_at: June 5, 2026 12:03 AM
-type: Nightmare
+updated_at: August 22, 2026 2:20 AM
 emotion: Fear
 symbols: Heights: The fear of heights.
 

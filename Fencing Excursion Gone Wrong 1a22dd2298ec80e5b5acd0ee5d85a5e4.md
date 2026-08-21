@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: December 17, 2020
-updated_at: July 13, 2026 12:00 AM
-type: Normal
+updated_at: August 22, 2026 2:39 AM
 emotion: Fear
 
 I was one of many secondary students on an excursion to a fencing activity. We entered a changing room on a wooden pier at dusk with a dark overcast sky and dressed into four teams with different high-contrast solid-colour sports uniforms. After leaving the locker room, I headed towards the bridge and overheard an Asian student expressing concerns to the supervisor about his inability to swim. The supervisor reassured him that all activities were on land and spectators only needed to cheer for their teams, as the student smiled and confirmed his understanding.

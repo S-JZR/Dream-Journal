@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: June 11, 2025
 updated_at: July 12, 2026 9:27 PM
-type: Normal
 emotion: Sad
 influences: I’ve worried about my career choices a bit.
 symbols: Career Change: The fear that I choose the wrong career and won't make a lasting impact if I don't become an engineer.

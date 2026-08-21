@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 4, 2025
-updated_at: June 5, 2026 2:19 AM
-type: Nightmare
+updated_at: August 22, 2026 3:14 AM
 emotion: Fear
 symbols:   • Invasion: The fear of going to war.
 

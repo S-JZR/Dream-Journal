@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 28, 2021
-updated_at: July 12, 2026 9:19 PM
-type: Nightmare
+updated_at: August 22, 2026 2:39 AM
 emotion: Fear
 characters: Family
 influences: MythBusters (2003): References waiting five minutes to see if a failed explosive will self-detonate.

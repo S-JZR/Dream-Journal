@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 3, 2024
 updated_at: July 13, 2026 12:49 AM
-type: Normal
 emotion: Fear
 influences:   • Siren Head (2018): References a siren being a monster.
   • Robots (2005): Likely references the robot lamp post.

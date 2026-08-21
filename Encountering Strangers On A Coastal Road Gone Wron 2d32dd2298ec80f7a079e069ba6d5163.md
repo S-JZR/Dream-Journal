@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: November 15, 2025
-updated_at: July 13, 2026 2:23 AM
-type: Nightmare
+updated_at: August 22, 2026 3:20 AM
 emotion: Fear
 characters: Family
 

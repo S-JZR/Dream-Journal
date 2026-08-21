@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 21, 2026
-updated_at: June 5, 2026 4:14 AM
-type: Nightmare
+updated_at: August 22, 2026 3:21 AM
 emotion: Fear
 
 <aside>

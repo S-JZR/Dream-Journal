@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: September 5, 2025
 updated_at: June 5, 2026 3:50 AM
-type: Normal
 emotion: Fear
 characters: Angus, Family
 influences: Personal Experiences

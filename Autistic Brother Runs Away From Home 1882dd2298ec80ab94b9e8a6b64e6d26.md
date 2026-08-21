@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 10, 2023
-updated_at: June 5, 2026 1:14 AM
-type: Normal
+updated_at: August 22, 2026 2:43 AM
 emotion: Fear
 influences: Star Wars Battlefront II (2017): References the gameplay.
 symbols:   • Camera Shy: I’m introverted. The fear of everyone remembering my mistakes forever.

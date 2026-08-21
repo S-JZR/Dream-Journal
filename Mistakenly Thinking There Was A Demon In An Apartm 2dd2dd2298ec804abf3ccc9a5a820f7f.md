@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2025
-updated_at: July 12, 2026 9:23 PM
-type: Nightmare
+updated_at: August 22, 2026 3:13 AM
 emotion: Fear
 
 I was standing in the pitch black hallway on the top floor of a hotel with a fictional friend and opened my apartment door to see the silhouette of a figure running past an open window letting in the sunlight. I tried activating the light switch but it was unresponsive and I became concerned there was a demon inside the room.

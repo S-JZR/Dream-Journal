@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: Yes
 date: July 29, 2025
 updated_at: July 12, 2026 9:28 PM
-type: Normal
 emotion: Surprise
 characters: Family
 influences:   • Sometimes my dad briefly watches children’s TV shows to see what they’re showing the next generation.

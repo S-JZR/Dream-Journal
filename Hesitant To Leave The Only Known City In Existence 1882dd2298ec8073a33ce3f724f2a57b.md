@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: July 12, 2026 9:17 PM
-type: Normal
+updated_at: August 22, 2026 2:30 AM
 emotion: Fear
 influences: I used to have a severe fear of infinity about things like:
   • Is it possible to reach the end of the universe? The expectation of trying to reach something potentially infinite felt impossible and made me feel forever trapped and incomplete. However, I changed my perspective to consider that achieving absolute completion may not involve travelling over space to experience everything natural in-person but instead understand the fundamental workings of reality and achieve all permutations of possibilities within a single point.

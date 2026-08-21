@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 21, 2025
-updated_at: July 12, 2026 9:27 PM
-type: Nightmare
+updated_at: August 22, 2026 3:17 AM
 emotion: Fear
 characters: Family
 influences:   • Lilo And Stitch (2002): Likely references Jumba and Pleakley trying to capture Stitch.

@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: December 11, 2024
 updated_at: June 5, 2026 2:05 AM
-type: Normal
 emotion: Happy
 
 I was one of many students attending a workshop to learn construction skills in a large building with an outdoor semi-circle deck surrounded by a swamp with distant tiny monorail tracks and hills following the perimeter. The lessons were simple like tightening bolts on a metal beam. During lunch breaks most students stayed on the deck to eat and nobody was allowed to work or they would be scolded from afar by the instructor. In our own time we had to complete a 2D platformer video game on a Windows 7 laptop that taught different lessons throughout the journey. To avoid being noticed, I turned down the volume and neared completion, which inspired a few nearby students to do the same.

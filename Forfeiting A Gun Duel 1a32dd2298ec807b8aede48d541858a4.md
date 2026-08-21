@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 14, 2025
-updated_at: July 12, 2026 9:23 PM
-type: Nightmare
+updated_at: August 22, 2026 3:13 AM
 emotion: Fear
 symbols:   • Forfeit: The fear of being shot.
 

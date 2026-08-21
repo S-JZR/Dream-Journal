@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 10, 2020
-updated_at: June 5, 2026 12:45 AM
-type: Normal
+updated_at: August 22, 2026 2:34 AM
 emotion: Fear
 characters: Family, Mr Broadway, Mrs Itsikson
 influences:   • The toilets at my secondary school were always dirty and unpleasant.

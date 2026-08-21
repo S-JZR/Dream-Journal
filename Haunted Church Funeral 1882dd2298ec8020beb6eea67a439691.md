@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2020
-updated_at: July 12, 2026 9:18 PM
-type: Nightmare
+updated_at: August 22, 2026 2:34 AM
 emotion: Fear
 characters: Grim Reaper
 influences: Recently my family has been attending the church.

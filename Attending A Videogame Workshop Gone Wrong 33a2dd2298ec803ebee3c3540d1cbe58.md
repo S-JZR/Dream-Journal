@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 4, 2026
-updated_at: July 12, 2026 9:31 PM
-type: Nightmare
+updated_at: August 22, 2026 3:24 AM
 emotion: Sad
 influences: I once had a group assessment in university where we had three members instead of the expected five and struggled to come up with ideas so we resorted to one that a different team member suggested a week earlier.
 

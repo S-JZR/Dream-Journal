@@ -3,8 +3,8 @@
 is_favourite: Yes
 is_nsfw: No
 date: September 17, 2025
-updated_at: July 12, 2026 9:29 PM
-type: Nightmare
+updated_at: August 22, 2026 3:19 AM
+sleep_phenomena: Nightmare
 emotion: Fear
 influences:   • Likely references being on Discord servers where everyone always posts stupid memes and are overly obsessed with videogames and vain things.
   • I'm constantly worried that I'm letting myself go and wasting my life on videogames and other distractions.
@@ -54,3 +54,5 @@ I was overcome with dread and sprinted away into the distance.
 > 
 
 I ignored them and crossed a boundary that teleported me back to the real world.
+
+I jolted awake.

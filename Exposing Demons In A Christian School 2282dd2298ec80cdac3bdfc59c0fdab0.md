@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: July 3, 2025
-updated_at: July 12, 2026 9:27 PM
-type: Nightmare
+updated_at: August 22, 2026 3:17 AM
 emotion: Surprise
 characters: Sarajah
 influences:   • My brother, another church member, and I once attended a youth group event but my brother and I were appalled by its performative nature with a hot dog eating contest on fold-out tables, a few worship songs, and casual calls to give your life to Christ.

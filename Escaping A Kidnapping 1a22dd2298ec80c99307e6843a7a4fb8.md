@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: July 12, 2026 9:16 PM
-type: Nightmare
+updated_at: August 22, 2026 2:20 AM
 emotion: Fear
 symbols: Criminal: The fear of being held against my will.
 

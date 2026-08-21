@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: July 12, 2026 9:16 PM
-type: Normal
+updated_at: August 22, 2026 2:21 AM
 emotion: Surprise
 characters: Family
 influences: We often let Jayba outside the front of our unit and she occasionally wandered far away.

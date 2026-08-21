@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: May 22, 2025
 updated_at: July 12, 2026 9:26 PM
-type: Normal
 emotion: Fear
 influences:   • Team Fortress 2 (2007):
       ◦ References the Medic Vs Engineer zombie gamemode.

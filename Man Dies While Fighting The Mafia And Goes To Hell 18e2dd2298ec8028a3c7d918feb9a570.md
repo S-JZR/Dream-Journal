@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 15, 2025
-updated_at: July 12, 2026 9:23 PM
-type: Nightmare
+updated_at: August 22, 2026 3:14 AM
 emotion: Surprise
 characters: Saxton Hale
 influences: Team Fortress 2 (2007): References Saxton Hale.

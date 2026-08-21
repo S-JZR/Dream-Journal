@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: November 26, 2024
 updated_at: July 5, 2026 1:14 AM
-type: Normal
 emotion: Fear
 characters: Tabitha
 influences: References the 3AM challenge: https://youtube.fandom.com/wiki/3AM_Challenges.

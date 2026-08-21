@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: June 18, 2025
 updated_at: July 12, 2026 9:27 PM
-type: Normal
 emotion: Fear
 characters: Julien C
 influences: I had a fear of swimming in primary school due to multiple bad experiences.

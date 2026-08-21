@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 5, 2024
-updated_at: June 5, 2026 1:27 AM
-type: Nightmare
+updated_at: August 22, 2026 2:44 AM
 emotion: Fear
 characters: Mrs Tweedy, Sheriff Woody
 influences:   • Chicken Run (2000): References Mrs Tweedy.

@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 10, 2020
 updated_at: July 12, 2026 11:55 PM
-type: Normal
 emotion: Surprise
 characters: Julien C
 influences:   • I’ve been afraid that people will try to create a new race of people and a robot god.

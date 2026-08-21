@@ -4,7 +4,6 @@ is_favourite: Yes
 is_nsfw: No
 date: March 14, 2024
 updated_at: July 13, 2026 12:52 AM
-type: Normal
 emotion: Sad
 influences: I have thought about whether technology in the future could keep the universe alive forever.
 symbols: Eternal Universe: Staying optimistic and challenging the limits of reality.

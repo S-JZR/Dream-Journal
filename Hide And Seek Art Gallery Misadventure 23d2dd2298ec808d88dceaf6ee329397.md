@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 19, 2025
 updated_at: July 12, 2026 9:28 PM
-type: Normal
 emotion: Surprise
 characters: ? Co Art Teacher, ? Indian Student
 influences: During secondary school, the art teachers taped decorative black paper borders to our art without asking for the school art gala.

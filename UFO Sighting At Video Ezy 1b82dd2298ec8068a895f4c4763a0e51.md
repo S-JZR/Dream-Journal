@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 1, 2005
 updated_at: July 12, 2026 9:16 PM
-type: Normal
 emotion: Surprise
 characters: Family
 influences:   • During primary school, my family regularly visited Video Ezy to rent DVDs and PS2 videogames.

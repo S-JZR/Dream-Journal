@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: April 4, 2024
 updated_at: June 5, 2026 1:41 AM
-type: Normal
 emotion: Surprise
 
 I was standing at the drop-off zone of my primary school with the fences removed during an era around the 1980s when a group of kids sat on the left side of the seating area on a strip of yellowing cut grass, watching passing cars. I drove a miniature light-green tractor towards them.

@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: March 8, 2026
 updated_at: July 12, 2026 9:31 PM
-type: Normal
 emotion: Anger
 
 <aside>

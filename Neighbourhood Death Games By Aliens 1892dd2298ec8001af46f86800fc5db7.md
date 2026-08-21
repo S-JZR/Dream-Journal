@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 17, 2024
-updated_at: June 5, 2026 1:37 AM
-type: Nightmare
+updated_at: August 22, 2026 3:08 AM
 emotion: Fear
 influences:   • As The Gods Will (2014): References gods hosting death games and The Daruma doll only allowing one student to live.
   • Squid Game (2021): References contestants hiding behind others to avoid being shot in Red Light, Green Light.

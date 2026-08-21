@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 15, 2025
-updated_at: July 12, 2026 9:24 PM
-type: Nightmare
+updated_at: August 22, 2026 3:15 AM
 emotion: Sad
 characters: Family
 influences: My mum’s hair is turning grey and I worry about my parents dying all the time.

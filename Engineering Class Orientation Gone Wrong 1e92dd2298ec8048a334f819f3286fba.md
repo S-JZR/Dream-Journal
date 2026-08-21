@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 28, 2025
-updated_at: July 12, 2026 9:26 PM
-type: Nightmare
+updated_at: August 22, 2026 3:16 AM
 emotion: Sad
 influences:   • I only learnt maths A in secondary school and worry that I’ve limited my future success.
   • I’m still uncertain of where I want to end up in my career and haven't explored it too deeply.

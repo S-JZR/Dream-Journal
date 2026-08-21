@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: March 17, 2024
 updated_at: July 12, 2026 9:20 PM
-type: Normal
 emotion: Surprise
 influences: I visited a hotel last year that sold a lot of its own overpriced merchandise.
 

@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 11, 2025
-updated_at: July 12, 2026 9:24 PM
-type: Nightmare
+updated_at: August 22, 2026 3:15 AM
 emotion: Sad
 characters: Logan Paul, MrBeast
 symbols:   • MrBeast: Likely the subconscious desire to meet him.

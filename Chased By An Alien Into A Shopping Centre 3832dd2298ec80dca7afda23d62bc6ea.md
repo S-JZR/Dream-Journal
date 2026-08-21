@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 18, 2026
-updated_at: June 18, 2026 5:05 PM
-type: Nightmare
+updated_at: August 22, 2026 3:33 AM
 emotion: Fear
 influences:   • Possibly references the Ian Holm’s android in Alien with no legs and white liquid inside that I saw yesterday: https://youtu.be/LCpF7z4JszE?si=aPDORLNkgHmL1cFz&t=1930
 

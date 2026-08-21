@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: December 11, 2024
 updated_at: June 5, 2026 2:05 AM
-type: Normal
 emotion: Surprise
 symbols: Good Mafia: The desire to stop evil before it harms anyone.
 

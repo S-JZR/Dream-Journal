@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: March 8, 2025
 updated_at: July 12, 2026 9:24 PM
-type: Normal
 emotion: Sad
 characters: ? Levi's Brother, Mrs Itsikson
 influences:   • Students in secondary school disliked the new minimalist sports team logos because they replaced the previous intricate indigenous patterns.

@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2005
-updated_at: July 5, 2026 12:37 AM
-type: Nightmare
+updated_at: August 22, 2026 4:19 AM
+sleep_phenomena: Trapped In A Dream
 emotion: Fear
 characters: Gromit
 influences: Wallace And Gromit: The Curse Of The Were-Rabbit (2005): My brother entered a colouring-in competition and won a Gromit zip bag.

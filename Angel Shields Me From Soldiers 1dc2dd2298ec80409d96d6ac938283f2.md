@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 1, 2013
 updated_at: June 4, 2026 11:54 PM
-type: Normal
 emotion: Fear
 influences: Christianity: References angels being sent to protect God’s followers.
 

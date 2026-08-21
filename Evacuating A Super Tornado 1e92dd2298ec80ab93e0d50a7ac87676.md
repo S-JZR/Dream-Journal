@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 1, 2025
-updated_at: June 8, 2026 9:00 PM
-type: Nightmare
+updated_at: August 22, 2026 3:16 AM
 emotion: Fear
 
 I was walking along the path with an awning to the top oval beside the administration building of my primary school when a powerful tornado formed in the distance. A nearby female teacher pointed it out.

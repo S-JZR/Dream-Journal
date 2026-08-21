@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: April 19, 2024
 updated_at: July 12, 2026 9:21 PM
-type: Normal
 emotion: Surprise
 characters: Family
 

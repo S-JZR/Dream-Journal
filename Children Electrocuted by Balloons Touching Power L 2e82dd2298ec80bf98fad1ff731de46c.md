@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 14, 2026
-updated_at: July 12, 2026 9:31 PM
-type: Nightmare
+updated_at: August 22, 2026 3:21 AM
 emotion: Fear
 influences: References seeing an experiment like this: https://youtu.be/Fpz13fgZYU4?si=n4cHtXbpbtyuJnF9&t=151.
 

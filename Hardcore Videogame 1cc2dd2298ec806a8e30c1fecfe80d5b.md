@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: April 4, 2025
 updated_at: June 5, 2026 2:45 AM
-type: Normal
 emotion: Happy
 characters: Vanoss Crew
 influences:   • References watching a lot of Vanoss Crew gameplay for a month, specifically R.E.P.O.

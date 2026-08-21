@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2013
-updated_at: June 5, 2026 12:00 AM
-type: Nightmare
+updated_at: August 22, 2026 2:20 AM
 emotion: Fear
 characters: Slenderman
 influences: Slender: The Eight Pages (2012): References a popular trend at the time and many people spread rumours and photoshopped old photographs claiming to see him: https://en.wikipedia.org/wiki/Slender_Man. I never believed Slenderman existed but he was still creepy.

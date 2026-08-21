@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: September 19, 2023
-updated_at: June 5, 2026 1:19 AM
-type: Nightmare
+updated_at: August 22, 2026 2:44 AM
 emotion: Fear
 influences: I was recently digitizing my childhood drawings.
 

@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: February 28, 2025
 updated_at: July 12, 2026 9:24 PM
-type: Normal
 emotion: Happy
 influences: I always had spare tissues in secondary school and sometimes students asked me for some.
 

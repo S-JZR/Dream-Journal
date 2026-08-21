@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 4, 2026
 updated_at: July 8, 2026 12:46 AM
-type: Normal
 emotion: Surprise
 characters: Joshua O
 notes: I forgot most of the dream and dialogue.

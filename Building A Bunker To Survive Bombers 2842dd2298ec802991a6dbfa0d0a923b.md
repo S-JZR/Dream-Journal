@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: October 6, 2025
-updated_at: June 5, 2026 3:56 AM
-type: Nightmare
+updated_at: August 22, 2026 3:19 AM
 emotion: Fear
 characters: Family
 symbols:   • Bombings: The fear of going to war.

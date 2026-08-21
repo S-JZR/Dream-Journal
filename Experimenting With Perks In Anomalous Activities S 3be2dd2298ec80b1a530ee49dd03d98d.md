@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: August 16, 2026
 updated_at: August 17, 2026 12:25 AM
-type: Normal
 emotion: Fear
 influences: References Anomalous Activities: Sierra Protocol gameplay and the I.A.T.D Armor Plate that grants +40hp to absorb at least 1 hit from the monster
 

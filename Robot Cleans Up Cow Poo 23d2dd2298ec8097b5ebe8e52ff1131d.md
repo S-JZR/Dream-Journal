@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 18, 2025
 updated_at: June 5, 2026 3:28 AM
-type: Normal
 emotion: Happy
 influences: I’ve been thinking about ways robots could have a positive impact on the world.
 

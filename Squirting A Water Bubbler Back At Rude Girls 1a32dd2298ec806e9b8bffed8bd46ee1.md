@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: October 5, 2024
 updated_at: July 12, 2026 9:22 PM
-type: Normal
 emotion: Anger
 characters: ? Indian Student
 influences: In primary school, students often sprayed water everywhere from the water bubblers by blocking the nozzle with their thumbs.

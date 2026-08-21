@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: November 1, 2025
-updated_at: July 12, 2026 9:29 PM
-type: Nightmare
+updated_at: August 22, 2026 3:20 AM
 emotion: Sad
 influences:   • References semaphores from my university lecture in Systems Design.
   • During group assessments in university most students didn’t read the prescribed readings.

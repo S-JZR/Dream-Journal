@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: June 11, 2024
 updated_at: June 5, 2026 1:48 AM
-type: Normal
 emotion: Happy
 characters: Family
 influences: I formed a bad habit of sleeping in during the final years of secondary school.

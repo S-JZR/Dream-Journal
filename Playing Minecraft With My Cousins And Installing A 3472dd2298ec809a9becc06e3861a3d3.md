@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 10, 2026
-updated_at: June 5, 2026 4:23 AM
-type: Nightmare
+updated_at: August 22, 2026 3:29 AM
 emotion: Fear
 characters: Gabbie K, Mercedes K
 influences: References playing with my cousins in Minecraft a long time ago and installing mods like Orespawn and placing Robo Gunners everywhere: https://web.archive.org/web/20210301093532/http://www.orespawn.com/robo-gunner.html.

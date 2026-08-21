@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 1, 2016
-updated_at: June 5, 2026 12:25 AM
-type: Nightmare
+updated_at: August 22, 2026 2:29 AM
 emotion: Embarrassment
 influences: I think we were learning about sexual education in secondary school.
 symbols: Nudity: Feeling vulnerable and uncomfortable discussing sex.

@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 12, 2026
-updated_at: June 5, 2026 4:25 AM
-type: Nightmare
+updated_at: August 22, 2026 3:30 AM
 emotion: Surprise
 characters: Bonnie, Chica, Foxy, Freddy Fazbear
 

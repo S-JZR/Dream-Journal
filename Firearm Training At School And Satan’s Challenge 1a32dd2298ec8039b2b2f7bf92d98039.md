@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 11, 2025
-updated_at: July 13, 2026 1:55 AM
-type: Nightmare
+updated_at: August 22, 2026 3:15 AM
 emotion: Fear
 characters: Donald Trump, Satan
 influences:   • References the USA debate about arming teachers in schools: https://www.nea.org/nea-today/all-news-articles/arming-teachers-still-terrible-idea.

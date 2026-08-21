@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 14, 2024
-updated_at: July 12, 2026 9:20 PM
-type: Nightmare
+updated_at: August 22, 2026 3:07 AM
 emotion: Fear
 characters: Family
 influences:   • The Shining (1980): References the twins murdered by their father.

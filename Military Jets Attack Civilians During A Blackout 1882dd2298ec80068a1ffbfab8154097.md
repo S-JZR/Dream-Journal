@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: December 2, 2022
-updated_at: June 5, 2026 1:12 AM
-type: Nightmare
+updated_at: August 22, 2026 2:40 AM
 emotion: Fear
 symbols: Jets: The fear of being helpless.
 

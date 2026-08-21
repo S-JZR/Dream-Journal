@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: March 5, 2025
 updated_at: July 12, 2026 9:24 PM
-type: Normal
 emotion: Surprise
 characters: Family
 influences: My brother is still learning to drive and sometimes gets too close to cars parked at the curb.

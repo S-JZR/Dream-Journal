@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: July 12, 2026 9:17 PM
-type: Nightmare
+updated_at: August 22, 2026 2:22 AM
 emotion: Fear
 influences: Freemasonry: References the obelisk and reflection in water that represents “as above, so below”. I’ve heard that during the initiation there is an oath of secrecy with a symbolic death penalty.
 

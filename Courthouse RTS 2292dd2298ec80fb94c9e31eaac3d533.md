@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 2, 2025
 updated_at: June 5, 2026 3:22 AM
-type: Normal
 emotion: Surprise
 characters: Bowler Hat Guy, DOR-15
 influences:   • The Conquerors 3 (2009) (Roblox):

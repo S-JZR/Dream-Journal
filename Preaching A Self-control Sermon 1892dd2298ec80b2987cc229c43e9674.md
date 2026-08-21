@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 16, 2024
-updated_at: July 12, 2026 9:20 PM
-type: Nightmare
+updated_at: August 22, 2026 2:45 AM
 emotion: Bold
 influences:   • I have encountered and reported YouTube and Internet Archive accounts mixing porn videos with children’s cartoon videos.
   • Some ASMR creators share SFW content on YouTube and sell NSFW content on external websites to adhere community guidelines. They create topics that can appeal to broad audiences but also subtly advertise it in some way to get customers like:

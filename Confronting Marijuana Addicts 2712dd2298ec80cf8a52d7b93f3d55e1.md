@@ -4,7 +4,6 @@ is_favourite: Yes
 is_nsfw: No
 date: September 17, 2025
 updated_at: July 12, 2026 9:29 PM
-type: Normal
 emotion: Sad
 influences: I constantly think about how people settle for less and focus on instant gratification and mainstream content and attitudes promoted by society over critical and deeper thinking.
 symbols:   • Marijuana: Addictions, escapism, and pointless pleasure seeking.

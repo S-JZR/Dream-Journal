@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: September 16, 2025
-updated_at: June 5, 2026 3:51 AM
-type: Nightmare
+updated_at: August 22, 2026 3:18 AM
 emotion: Disgust
 characters: Family
 symbols: Bees Boiled: I try to avoid harming insects.

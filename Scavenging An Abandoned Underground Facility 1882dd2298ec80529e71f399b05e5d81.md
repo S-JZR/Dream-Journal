@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: November 29, 2023
-updated_at: July 12, 2026 9:20 PM
-type: Nightmare
+updated_at: August 22, 2026 2:44 AM
 emotion: Fear
 influences: Lethal Company (2023): References various types of monsters and purchasing decorations for the cargo ship.
 

@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: October 17, 2024
 updated_at: June 5, 2026 2:02 AM
-type: Normal
 emotion: Happy
 characters: Family
 influences: My dad can be a rough driver at times.

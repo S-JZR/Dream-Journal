@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: June 5, 2026 12:27 AM
-type: Nightmare
+updated_at: August 22, 2026 2:29 AM
 emotion: Fear
 symbols: Police: I always feel nervous being followed by police.
 

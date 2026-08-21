@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: August 6, 2025
 updated_at: July 12, 2026 9:28 PM
-type: Normal
 emotion: Surprise
 characters: Family
 influences:   • My family once left halfway through a Christmas church musical because the music focused on Santa and Reindeer over Jesus.

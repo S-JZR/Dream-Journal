@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: November 26, 2024
-updated_at: July 12, 2026 9:23 PM
-type: Nightmare
+updated_at: August 22, 2026 3:12 AM
 emotion: Fear
 characters: Dejan C
 influences:   • Squid Game (2021): References surviving multiple death game challenges.

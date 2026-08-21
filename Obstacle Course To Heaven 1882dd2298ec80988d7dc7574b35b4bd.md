@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: June 5, 2026 12:12 AM
-type: Nightmare
+updated_at: August 22, 2026 2:22 AM
 emotion: Sad
 influences:   • I’ve always struggled with believing in God.
   • Christianity: Betting limbs sounds like a morbid parody of Matthew 5:30.

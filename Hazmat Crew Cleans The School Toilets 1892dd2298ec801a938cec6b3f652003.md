@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: April 18, 2024
 updated_at: June 5, 2026 1:45 AM
-type: Normal
 emotion: Surprise
 influences: The toilets at secondary school were always dirty and unpleasant.
 symbols: Cleaning: Wanting the toilets to be cleaner.

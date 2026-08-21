@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: May 29, 2025
 updated_at: July 12, 2026 9:27 PM
-type: Normal
 emotion: Fear
 characters: Family
 influences: I’m squeamish about seeing the inside of body parts.

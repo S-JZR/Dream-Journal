@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: October 4, 2025
 updated_at: June 5, 2026 3:55 AM
-type: Normal
 emotion: Fear
 characters: Family
 

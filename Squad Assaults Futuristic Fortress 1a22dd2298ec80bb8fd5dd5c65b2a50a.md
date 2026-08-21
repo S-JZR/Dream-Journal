@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 28, 2021
 updated_at: June 5, 2026 1:06 AM
-type: Normal
 emotion: Happy
 influences:   • Team Fortress 2 (2007): References the Brass Beast and Gloves of Running Urgently.
   • Overwatch (2016): References Reinhardt with a giant hammer.

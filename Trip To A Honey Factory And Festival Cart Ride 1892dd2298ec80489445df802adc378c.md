@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: May 28, 2024
 updated_at: June 5, 2026 1:48 AM
-type: Normal
 emotion: Happy
 characters: Family
 influences: Cart Ride (2008) (Roblox): Likely references the old ride a cart games.

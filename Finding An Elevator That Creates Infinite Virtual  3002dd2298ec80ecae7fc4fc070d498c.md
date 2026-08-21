@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: February 7, 2026
 updated_at: June 5, 2026 4:17 AM
-type: Normal
 emotion: Surprise
 influences:   • The Elevator (2018) (Roblox): Likely references random scenarios being revealed when the elevator doors open.
   • Genie 3 (2025): Likely references generating infinite interactive AI worlds which was showcased last year: https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/.

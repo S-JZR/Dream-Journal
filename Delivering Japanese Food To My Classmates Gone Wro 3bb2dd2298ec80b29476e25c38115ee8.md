@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: August 13, 2026
-updated_at: August 14, 2026 12:08 AM
-type: Nightmare
+updated_at: August 22, 2026 3:36 AM
 emotion: Fear
 characters: Gavin W
 influences: References recently going to a mall in Brisbane City and buying Teriyaki Chicken which they put in a takeaway paper bowl and I thought it tasted amazing

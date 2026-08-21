@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: August 26, 2025
 updated_at: June 5, 2026 3:48 AM
-type: Normal
 emotion: Surprise
 characters: Family
 influences:   • Team Fortress 2 (2007): References the death run gamemode.

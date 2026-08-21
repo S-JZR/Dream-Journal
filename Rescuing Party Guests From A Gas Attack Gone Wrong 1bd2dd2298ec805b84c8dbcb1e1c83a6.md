@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 20, 2025
-updated_at: July 12, 2026 9:24 PM
-type: Nightmare
+updated_at: August 22, 2026 3:15 AM
 emotion: Fear
 influences: Batman (1989): References the Joker’s laughing gas.
 

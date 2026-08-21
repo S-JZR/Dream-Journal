@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 11, 2020
-updated_at: July 5, 2026 4:49 PM
-type: Normal
+updated_at: August 22, 2026 2:34 AM
 emotion: Happy
 characters: Family, Rhiannon C
 influences:   • Rhiannon and other female students often talked about everyday life during art class.

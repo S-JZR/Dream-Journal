@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: February 21, 2025
 updated_at: June 5, 2026 2:27 AM
-type: Normal
 emotion: Happy
 influences: I built a few maps in Minecraft a long time ago.
 symbols: Map: Reflecting on the technical aspects of the creation process.

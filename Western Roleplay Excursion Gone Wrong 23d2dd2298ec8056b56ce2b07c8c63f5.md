@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 17, 2025
 updated_at: June 5, 2026 3:28 AM
-type: Normal
 emotion: Sad
 influences: References a gold rush excursion in primary school with a bandit actor.
 

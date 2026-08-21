@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: November 2, 2020
-updated_at: June 5, 2026 12:53 AM
-type: Nightmare
+updated_at: August 22, 2026 2:37 AM
 emotion: Happy
 influences:   • SpongeBob SquarePants (1999): Likely references Baby Prunes who is bad-tempered and going deaf https://spongebob.fandom.com/wiki/Baby_Prunes.
   • Likely references the trope that aliens are evil and shooting monsters in videogames.

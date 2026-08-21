@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: August 7, 2025
-updated_at: June 8, 2026 10:49 PM
-type: Nightmare
+updated_at: August 22, 2026 3:18 AM
 emotion: Fear
 characters: Family
 influences: Pauline Hanson's Please Explain (2021): References National Insecurity cancelling National Security by spreading rumours about him to his YouTube subscribers: https://youtu.be/2pUQQx9EIOg?si=_XhP1ou-7hEN5zNJ&t=182.

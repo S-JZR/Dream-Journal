@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: March 24, 2017
 updated_at: July 12, 2026 9:18 PM
-type: Normal
 emotion: Sad
 characters: Family
 influences: Jayba died recently and I was still getting over it: [details too sensitive to share].

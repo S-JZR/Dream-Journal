@@ -4,7 +4,6 @@ is_favourite: Yes
 is_nsfw: No
 date: December 29, 2024
 updated_at: July 12, 2026 9:23 PM
-type: Normal
 emotion: Surprise
 influences: Christianity: Reminds me of Proverbs 4:23.
 symbols:   • Heart: The inner self.

@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 9, 2024
 updated_at: June 5, 2026 1:53 AM
-type: Normal
 emotion: Happy
 characters: Hiroshi Kimura, Norman
 influences: Scary Sushi (2024) (Roblox): I played it recently and didn’t attempt the hard difficulty but wondered what it would be like.

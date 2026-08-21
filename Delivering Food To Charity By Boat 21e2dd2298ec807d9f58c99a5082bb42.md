@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: June 26, 2025
 updated_at: June 5, 2026 3:20 AM
-type: Normal
 emotion: Happy
 symbols: Charity: The desire to help others and contribute to something greater.
 

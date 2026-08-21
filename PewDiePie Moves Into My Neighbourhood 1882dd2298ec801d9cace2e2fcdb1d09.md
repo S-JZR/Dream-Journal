@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: December 9, 2020
-updated_at: June 5, 2026 12:58 AM
-type: Normal
+updated_at: August 22, 2026 2:38 AM
 emotion: Embarrassment
 characters: PewDiePie
 influences: References watching PewDiePie a lot in the past.

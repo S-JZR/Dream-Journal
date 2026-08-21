@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2014
-updated_at: July 12, 2026 9:17 PM
-type: Nightmare
+updated_at: August 22, 2026 2:23 AM
 emotion: Fear
 influences: I constantly criticise my shortcomings.
 symbols:   • Trenches: Battlefield of the mind.

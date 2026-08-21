@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 8, 2026
-updated_at: July 12, 2026 9:32 PM
-type: Nightmare
+updated_at: August 22, 2026 3:29 AM
 emotion: Embarrassment
 characters: Bianca D, Thomas R
 

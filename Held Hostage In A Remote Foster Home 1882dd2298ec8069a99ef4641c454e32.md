@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: September 19, 2020
-updated_at: June 5, 2026 12:52 AM
-type: Nightmare
+updated_at: August 22, 2026 2:37 AM
 emotion: Fear
 symbols: Held Hostage: The fear of being held against my will.
 

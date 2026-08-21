@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: July 6, 2024
-updated_at: July 12, 2026 9:22 PM
-type: Nightmare
+updated_at: August 22, 2026 3:10 AM
 emotion: Sad
 characters: Family
 symbols: Fire: A problem in life.

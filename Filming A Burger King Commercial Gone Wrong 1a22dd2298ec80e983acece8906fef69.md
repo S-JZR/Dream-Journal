@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: September 19, 2023
 updated_at: July 13, 2026 12:31 AM
-type: Normal
 emotion: Happy
 influences: References a Vanish Napisan commercial where scientists tested various cleaning products in a line of washing machines to show that Napisan was the best.
 

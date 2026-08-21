@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: December 9, 2020
-updated_at: July 12, 2026 9:19 PM
-type: Nightmare
+updated_at: August 22, 2026 2:38 AM
 emotion: Fear
 symbols: Crazy Man: The shadow self being a trickster.
 

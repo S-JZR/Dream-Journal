@@ -4,7 +4,6 @@ is_favourite: Yes
 is_nsfw: No
 date: May 7, 2025
 updated_at: July 13, 2026 2:15 AM
-type: Normal
 emotion: Anger
 
 I was spectating two church groups sharing attendance in a large modern church building located in a semi-remote wooded area beside a road to simultaneously perform services:

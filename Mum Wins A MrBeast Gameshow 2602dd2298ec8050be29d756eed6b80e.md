@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: August 30, 2025
 updated_at: June 5, 2026 3:50 AM
-type: Normal
 emotion: Fear
 characters: Family, MrBeast
 influences:   • References MrBeast hosting crazy challenges.

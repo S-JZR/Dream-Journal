@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 28, 2021
 updated_at: July 12, 2026 9:19 PM
-type: Normal
 emotion: Fear
 characters: Dejan C
 

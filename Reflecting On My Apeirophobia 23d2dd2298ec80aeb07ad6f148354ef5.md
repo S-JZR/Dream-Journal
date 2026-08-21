@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 18, 2025
 updated_at: July 12, 2026 9:28 PM
-type: Normal
 emotion: Happy
 characters: Alan Seawright, CaseOh, Jonathan Decker
 influences:   • I used to have a strong fear of infinity about things like:

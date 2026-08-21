@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 1, 2025
 updated_at: June 5, 2026 2:13 AM
-type: Normal
 emotion: Surprise
 characters: Family
 influences:   • I like eating corn chips and salsa once a week.

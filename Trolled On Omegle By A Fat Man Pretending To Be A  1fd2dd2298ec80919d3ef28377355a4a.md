@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 24, 2025
-updated_at: July 12, 2026 9:26 PM
-type: Nightmare
+updated_at: August 22, 2026 3:17 AM
 emotion: Fear
 characters: Family
 influences: References an Omegle prank about someone pretending to be a girl.

@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 10, 2023
-updated_at: June 5, 2026 1:13 AM
-type: Normal
+updated_at: August 22, 2026 2:43 AM
 emotion: Happy
 influences: The Bad Guys (2022): References the characters.
 

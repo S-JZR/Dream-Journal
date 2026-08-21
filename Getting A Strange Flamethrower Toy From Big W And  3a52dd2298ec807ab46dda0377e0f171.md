@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 21, 2026
 updated_at: July 24, 2026 12:25 PM
-type: Normal
 emotion: Surprise
 
 <aside>

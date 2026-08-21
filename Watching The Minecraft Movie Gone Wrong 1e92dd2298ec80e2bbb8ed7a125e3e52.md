@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 2, 2025
-updated_at: July 12, 2026 9:26 PM
-type: Nightmare
+updated_at: August 22, 2026 3:17 AM
 emotion: Sad
 characters: Family
 influences:   • Minecraft (2025): Reference the Chicken Jockey trend that was popular and people threw around food in cinemas: https://simple.wikipedia.org/wiki/A_Minecraft_Movie.

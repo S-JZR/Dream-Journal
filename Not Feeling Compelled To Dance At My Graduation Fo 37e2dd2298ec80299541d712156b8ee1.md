@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: June 13, 2026
-updated_at: July 5, 2026 5:39 PM
-type: Nightmare
+updated_at: August 22, 2026 3:33 AM
 emotion: Sad
 characters: ? Ben
 influences: During my secondary school graduation formal I didn’t feel compelled to dance and stood watching everyone.

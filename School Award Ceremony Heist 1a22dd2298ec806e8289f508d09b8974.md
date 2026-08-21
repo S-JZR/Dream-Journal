@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: November 23, 2020
 updated_at: June 5, 2026 12:56 AM
-type: Normal
 emotion: Happy
 characters: Mr Nathan
 symbols:   • Heist: The desire to challenge what people think is impossible.

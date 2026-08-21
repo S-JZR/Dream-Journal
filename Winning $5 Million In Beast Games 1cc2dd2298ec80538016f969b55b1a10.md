@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: April 1, 2025
 updated_at: July 12, 2026 9:25 PM
-type: Normal
 emotion: Happy
 characters: MrBeast
 influences:   • References the final prize negotiation in the MrBeast Games: https://youtu.be/sF5LYGgKbUA?si=0Zu84Woqv-FjDcGF&t=1856.

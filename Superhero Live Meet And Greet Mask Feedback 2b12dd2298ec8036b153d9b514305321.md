@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: April 18, 2024
 updated_at: June 5, 2026 1:43 AM
-type: Normal
 emotion: Surprise
 characters: Willem Dafoe
 influences: Spiderman (2002): References Willem Dafoe.

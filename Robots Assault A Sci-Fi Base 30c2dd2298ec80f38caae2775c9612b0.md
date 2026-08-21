@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 1, 2015
 updated_at: June 5, 2026 12:19 AM
-type: Normal
 emotion: Surprise
 influences: The wall robot was a purposefully absurd idea that I once drew in class.
 notes: I was considering making a videogame and drew other robots designs but I scrapped the idea because it felt generic and unoriginal, I didn’t know what I wanted, it would take too much time, and I planned more than executing. I’m glad that I didn’t pursue it.

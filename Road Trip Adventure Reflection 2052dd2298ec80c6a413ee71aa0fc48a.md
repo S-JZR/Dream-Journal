@@ -4,7 +4,6 @@ is_favourite: Yes
 is_nsfw: No
 date: May 27, 2025
 updated_at: July 12, 2026 9:27 PM
-type: Normal
 emotion: Sad
 influences:   • I took candid photos of TVs/Monitors as a child because I didn’t know the proper way.
   • I’ve started working on Fandom wikis again this year.

@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: February 8, 2025
-updated_at: July 12, 2026 9:24 PM
-type: Nightmare
+updated_at: August 22, 2026 3:14 AM
+sleep_phenomena: Nightmare
 emotion: Fear
 characters: Family
 
@@ -57,4 +57,4 @@ My brother exited the unit to break me free and we fled inside and locked both d
 > **Brother**: She's trying to break in upstairs by using the creature to ascend the wall!
 > 
 
-I jolted awake in fear.
+I jolted awake.

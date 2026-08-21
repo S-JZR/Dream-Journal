@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: May 14, 2026
 updated_at: June 5, 2026 4:25 AM
-type: Normal
 emotion: Anger
 influences: I was reading about signs of gaslighting yesterday.
 

@@ -4,7 +4,6 @@ is_favourite: Yes
 is_nsfw: No
 date: February 20, 2025
 updated_at: June 5, 2026 2:26 AM
-type: Normal
 emotion: Surprise
 characters: Family
 influences: References someone claiming that an individual was a paid protestor which is something I’ve never heard of before.

@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 18, 2025
 updated_at: July 13, 2026 2:19 AM
-type: Normal
 emotion: Surprise
 influences: Mad God (2021): Likely references the “Woken” song.
 

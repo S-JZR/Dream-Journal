@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: April 11, 2025
-updated_at: July 12, 2026 9:25 PM
-type: Nightmare
+updated_at: August 22, 2026 3:16 AM
 emotion: Anger
 influences: Mad God (2021): Likely references the surgeons’ silhouettes while preparing the assassin for surgery.
 

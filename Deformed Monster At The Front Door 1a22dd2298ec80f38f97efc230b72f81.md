@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 19, 2024
-updated_at: July 12, 2026 9:21 PM
-type: Nightmare
+updated_at: August 22, 2026 3:10 AM
 emotion: Fear
 characters: Family
 symbols:   • Monster: Urges and negative thoughts trying to cause chaos.

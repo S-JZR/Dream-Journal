@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: August 6, 2025
-updated_at: June 5, 2026 3:42 AM
-type: Nightmare
+updated_at: August 22, 2026 3:18 AM
 emotion: Surprise
 characters: Family
 influences: Mad God (2021): References a cyborg dictator oppressing synthetic grey workers. I feel it’s like Nazism.

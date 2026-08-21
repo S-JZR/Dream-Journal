@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 1, 2017
 updated_at: June 5, 2026 12:26 AM
-type: Normal
 emotion: Surprise
 influences: I always wanted to draw anime in secondary school but wasn’t skilled enough.
 symbols: Art: The desire to clearly express my ideas.

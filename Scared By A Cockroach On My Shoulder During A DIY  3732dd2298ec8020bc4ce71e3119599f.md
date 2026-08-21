@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: June 2, 2026
-updated_at: June 5, 2026 4:27 AM
-type: Nightmare
+updated_at: August 22, 2026 3:32 AM
+sleep_phenomena: Nightmare
 emotion: Fear
 
 <aside>
@@ -30,4 +30,4 @@ I was collaborating with another man on a DIY project that involved building a h
 
 I frantically looked around the room but found nothing until I looked down to see a large motionless cockroach on my shoulder.
 
-I jolted awake out of fear.
+I jolted awake.

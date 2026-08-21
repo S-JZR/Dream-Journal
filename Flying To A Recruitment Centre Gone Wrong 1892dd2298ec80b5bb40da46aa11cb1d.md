@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 18, 2024
 updated_at: July 12, 2026 9:22 PM
-type: Normal
 emotion: Fear
 influences:   • Before excursions in primary school teachers used to say warnings like, “If you don’t behave, I’ll drive you there myself.”
   • References someone saying the US military has 5 year contracts and you can’t freely quit.

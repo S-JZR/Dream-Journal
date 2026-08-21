@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: August 24, 2025
 updated_at: June 5, 2026 3:48 AM
-type: Normal
 emotion: Fear
 influences:   • Team Fortress 2 (2007): References upgrading engineer buildings by hitting them with a wrench.
   • Fortnite (2017): References the purple fog and cube monsters.

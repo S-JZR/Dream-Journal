@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: April 5, 2025
 updated_at: June 6, 2026 3:11 AM
-type: Normal
 emotion: Surprise
 characters: Rhiannon C
 influences: During a secondary school Graphics excursion to IKEA we spent too much time exploring and skipped eating hotdogs halfway through to get back on the bus.

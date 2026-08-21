@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: March 22, 2025
 updated_at: July 12, 2026 9:25 PM
-type: Normal
 emotion: Fear
 characters: Family
 influences:   • Since last year we had bad neighbours move in that were the worst we’ve ever had to deal with that never accepted advice, constantly yelled at each other with poor family relationships, had no regard for noise, and manipulated to get their way.

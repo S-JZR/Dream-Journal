@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 12, 2016
 updated_at: July 12, 2026 9:17 PM
-type: Normal
 emotion: Happy
 characters: Family
 influences: The GUI node path resembles a videogame level progression menu.

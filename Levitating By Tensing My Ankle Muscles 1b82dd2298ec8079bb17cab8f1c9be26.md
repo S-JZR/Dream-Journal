@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 1, 2018
 updated_at: June 5, 2026 12:44 AM
-type: Normal
 emotion: Surprise
 symbols: Levitating: I probably had a subconscious desire to fly.
 notes: I tried it after waking up despite knowing it wouldn't work.

@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: June 3, 2026
 updated_at: June 5, 2026 4:27 AM
-type: Normal
 emotion: Fear
 
 <aside>

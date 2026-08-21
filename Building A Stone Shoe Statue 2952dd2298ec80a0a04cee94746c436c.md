@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: October 23, 2025
-updated_at: June 5, 2026 3:57 AM
-type: Nightmare
+updated_at: August 22, 2026 3:19 AM
 emotion: Anger
 influences: I feel like so many things in society are trivial and stupid.
 symbols: World War 3: The fear of going to war.

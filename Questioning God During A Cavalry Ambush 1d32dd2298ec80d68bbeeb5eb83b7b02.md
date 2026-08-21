@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 12, 2025
-updated_at: June 8, 2026 12:10 AM
-type: Nightmare
+updated_at: August 22, 2026 3:16 AM
 emotion: Sad
 influences: I question why God allows us to endure suffering.
 symbols: War: The fear of going to war.

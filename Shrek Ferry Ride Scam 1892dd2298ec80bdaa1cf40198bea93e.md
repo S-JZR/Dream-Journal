@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 24, 2024
-updated_at: July 12, 2026 9:21 PM
-type: Nightmare
+updated_at: August 22, 2026 3:08 AM
 emotion: Anger
 characters: Family, Gordon Ramsay
 influences:   • News: References the Willy's Chocolate Experience scam: https://en.wikipedia.org/wiki/Willy's_Chocolate_Experience.

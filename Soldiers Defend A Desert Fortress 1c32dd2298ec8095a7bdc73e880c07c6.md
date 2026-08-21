@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2016
-updated_at: June 5, 2026 12:19 AM
-type: Nightmare
+updated_at: August 22, 2026 2:24 AM
 emotion: Fear
 influences: Team Fortress 2 (2007): References the Mann Vs Machine gamemode where a robot tank rams through the front gate.
 

@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 14, 2025
-updated_at: July 12, 2026 9:23 PM
-type: Nightmare
+updated_at: August 22, 2026 3:13 AM
 emotion: Fear
 influences: Men In Black (1997): Likely references the Annelid aliens in the kitchen.
 

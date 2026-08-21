@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 22, 2024
-updated_at: July 13, 2026 2:56 AM
-type: Nightmare
+updated_at: August 22, 2026 2:46 AM
 emotion: Fear
 characters: Heavy
 influences: Team Fortress 2 (2007): References the Heavy.

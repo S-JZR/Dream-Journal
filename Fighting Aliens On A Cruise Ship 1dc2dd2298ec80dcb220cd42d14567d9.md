@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 14, 2025
-updated_at: July 12, 2026 9:25 PM
-type: Nightmare
+updated_at: August 22, 2026 3:16 AM
 emotion: Fear
 influences:   • Left 4 Dead 2 (2009): References surviving different classes of zombies.
   • Shadow The Hedgehog (2005): References the Black Arms and Death Leeches.

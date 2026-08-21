@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: August 1, 2025
-updated_at: June 8, 2026 10:57 PM
-type: Nightmare
+updated_at: August 22, 2026 3:18 AM
 emotion: Sad
 characters: Alex Jones
 influences: References his recent involvement in the Sandy Hook defamation lawsuit: https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting_conspiracy_theories.

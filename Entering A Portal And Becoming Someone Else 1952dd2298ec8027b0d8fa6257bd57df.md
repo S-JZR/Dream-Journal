@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: June 5, 2026 12:08 AM
-type: Nightmare
+updated_at: August 22, 2026 2:21 AM
 emotion: Sad
 symbols: Identity Shift: The fear of being someone else who lives a mundane life, bad life, or avoids deep thoughts.
 

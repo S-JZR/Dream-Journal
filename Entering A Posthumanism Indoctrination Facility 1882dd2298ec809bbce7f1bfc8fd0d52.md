@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: July 12, 2026 9:18 PM
-type: Nightmare
+updated_at: August 22, 2026 2:33 AM
 emotion: Fear
 characters: Brooke A, Satan
 influences:   • During religious education I saw Brooke sitting at the row of computer desks to the left of the classroom studying science textbooks because she was probably an atheist.

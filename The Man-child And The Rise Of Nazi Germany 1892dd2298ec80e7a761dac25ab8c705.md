@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: December 19, 2024
-updated_at: July 13, 2026 1:48 AM
-type: Nightmare
+updated_at: August 22, 2026 3:12 AM
 emotion: Fear
 characters: Julien C
 influences:   • Cool Runnings (1993): References Yul Brenner who has a naïve dream about living in Buckingham Palace if he works hard enough but doesn’t realize it’s exclusive to the royal family: https://youtu.be/RvzpuAa1QVs?si=7_LtXeh2s5QpQ85A.

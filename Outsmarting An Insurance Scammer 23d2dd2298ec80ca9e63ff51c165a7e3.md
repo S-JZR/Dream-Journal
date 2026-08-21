@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 18, 2025
 updated_at: June 5, 2026 3:29 AM
-type: Normal
 emotion: Happy
 influences: References insurance scammers playing the victim but fleeing when you have a dashcam.
 

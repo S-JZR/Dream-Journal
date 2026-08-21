@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: June 26, 2025
 updated_at: June 5, 2026 3:20 AM
-type: Normal
 emotion: Sad
 influences:   • I found lots of loose change around my secondary school.
   • I feel detached from activities that feel non-productive and superficial.

@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: June 5, 2025
 updated_at: July 12, 2026 9:27 PM
-type: Normal
 emotion: Happy
 influences: I tend to do too many things myself.
 

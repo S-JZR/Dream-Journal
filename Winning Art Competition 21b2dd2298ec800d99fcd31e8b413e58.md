@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: June 21, 2025
 updated_at: July 12, 2026 9:27 PM
-type: Normal
 emotion: Sad
 characters: Katherine P, Mrs Brown
 influences:   • 2018: I received the best artwork of year 12 award by public vote. I didn’t expect to win at all.

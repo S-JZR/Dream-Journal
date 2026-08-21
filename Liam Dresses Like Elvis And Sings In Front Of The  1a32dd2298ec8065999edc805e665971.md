@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: February 7, 2025
 updated_at: July 12, 2026 9:24 PM
-type: Normal
 emotion: Happy
 characters: Liam B
 influences: References Kamilla Harris inviting Beyoncé for a celebrity endorsement and it was rumoured she would perform but didn’t and guests got upset: https://www.yahoo.com/entertainment/kamala-harris-mocked-beyonc-fails-200958782.html.

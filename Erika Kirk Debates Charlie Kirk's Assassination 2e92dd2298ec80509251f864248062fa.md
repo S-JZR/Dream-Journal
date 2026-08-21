@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 15, 2026
-updated_at: June 5, 2026 4:13 AM
-type: Nightmare
+updated_at: August 22, 2026 3:21 AM
 emotion: Sad
 characters: Erika Kirk
 influences: References Charlie Kirk’s assassination on the 10th of September 2025: https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk.

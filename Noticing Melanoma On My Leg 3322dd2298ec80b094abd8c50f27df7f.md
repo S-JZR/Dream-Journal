@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 29, 2026
-updated_at: June 5, 2026 4:21 AM
-type: Nightmare
+updated_at: August 22, 2026 3:24 AM
 emotion: Fear
 characters: Dejan C
 

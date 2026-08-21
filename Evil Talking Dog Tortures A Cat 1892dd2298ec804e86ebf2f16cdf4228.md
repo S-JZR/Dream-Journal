@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: February 16, 2024
-updated_at: June 5, 2026 1:31 AM
-type: Nightmare
+updated_at: August 22, 2026 2:47 AM
 emotion: Fear
 symbols: Dog: The shadow self being a trickster.
 

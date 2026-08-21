@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: February 12, 2014
 updated_at: July 12, 2026 10:19 PM
-type: Normal
 emotion: Sad
 characters: Glitch
 influences:   • Metal Arms Glitch In The System (2003): References Glitch.

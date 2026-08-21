@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2005
-updated_at: July 12, 2026 9:56 PM
-type: Nightmare
+updated_at: August 22, 2026 2:26 AM
+sleep_phenomena: Nightmare
 emotion: Fear
 notes: Before the dream, I fell asleep in the computer room of a sports club because my mum was taking a long time transferring data to a floppy disk.
 
@@ -15,4 +15,4 @@ I was spectating a female explorer in an 8-bit 2D platformer videogame travellin
 
 After following the top path everything gradually faded to white.
 
-I jolted awake from feeling uneasy.
+I jolted awake.

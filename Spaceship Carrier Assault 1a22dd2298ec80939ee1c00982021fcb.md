@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: May 7, 2024
 updated_at: June 5, 2026 1:47 AM
-type: Normal
 emotion: Happy
 influences: Beyond All Reason (2019): I recently played a little bit of it.
 

@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 17, 2026
-updated_at: June 17, 2026 2:25 PM
-type: Nightmare
+updated_at: August 22, 2026 3:33 AM
 emotion: Sad
 characters: Mr Krabs, Spongebob, Squidward
 influences:   • References Squidward's Suicide creepypasta that was viral at some point: https://creepypasta.fandom.com/wiki/Squidward%27s_Suicide

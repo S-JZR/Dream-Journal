@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: December 4, 2025
-updated_at: June 5, 2026 4:07 AM
-type: Nightmare
+updated_at: August 22, 2026 3:20 AM
 emotion: Fear
 characters: Jayden M, Mrs Brown, Steven M
 influences: Steven and Jayden bullied many people in primary school, including me.

@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 3, 2026
 updated_at: June 5, 2026 4:09 AM
-type: Normal
 emotion: Surprise
 characters: God (Christianity)
 influences: Christianity: References Revelation 4:8.

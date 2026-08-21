@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: October 13, 2025
-updated_at: July 12, 2026 9:29 PM
-type: Nightmare
+updated_at: August 22, 2026 3:19 AM
 emotion: Sad
 characters: Julien C
 influences:   • I have lost contact with Julien, my friend from school, and miss him.

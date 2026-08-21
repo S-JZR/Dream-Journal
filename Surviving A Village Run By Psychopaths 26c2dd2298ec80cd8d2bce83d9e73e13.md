@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: September 12, 2025
-updated_at: June 8, 2026 11:25 PM
-type: Nightmare
+updated_at: August 22, 2026 3:18 AM
 emotion: Fear
 influences:   • 99 Nights In The Forest (2025) (Roblox): Likely references seeing a wendigo in the thumbnail standing on two legs with long claws.
   • The Outlast Trials (2023):

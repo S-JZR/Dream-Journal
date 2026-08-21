@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: October 24, 2023
-updated_at: July 13, 2026 12:48 AM
-type: Nightmare
+updated_at: August 22, 2026 2:44 AM
 emotion: Fear
 characters: Family
 influences:   • The Outlast Trials (2023):

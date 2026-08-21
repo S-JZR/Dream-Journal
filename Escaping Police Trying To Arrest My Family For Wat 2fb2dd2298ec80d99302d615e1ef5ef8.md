@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 2, 2026
-updated_at: July 12, 2026 9:31 PM
-type: Nightmare
+updated_at: August 22, 2026 3:21 AM
 emotion: Fear
 characters: Family
 influences:   • I have heard that people are being arrested in the UK for posting content on social media that the government deems hate speech.

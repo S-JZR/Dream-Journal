@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 1, 2015
 updated_at: June 5, 2026 12:17 AM
-type: Normal
 emotion: Happy
 influences: Astro Boy (1963): References flying with rocket boots.
 symbols: Flying: I likely had a subconscious desire to fly.

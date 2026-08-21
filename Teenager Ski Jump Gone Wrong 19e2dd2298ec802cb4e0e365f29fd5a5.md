@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 17, 2025
-updated_at: July 12, 2026 9:24 PM
-type: Nightmare
+updated_at: August 22, 2026 3:15 AM
 emotion: Sad
 
 I was seated in a car with three fictional male teenagers being driven along an elevated highway with buildings and snowy hills to the left. The teen in the left passenger seat wearing skis made an announcement. Man: I'm going to open the door and jump through the gap in the guardrails coming. announced he was going to open the door and jump through a gap in the guardrails to descend the slope below.

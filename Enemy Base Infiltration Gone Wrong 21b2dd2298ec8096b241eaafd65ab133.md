@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: Yes
 date: June 20, 2025
 updated_at: June 5, 2026 3:17 AM
-type: Normal
 emotion: Fear
 characters: Julien C
 influences: Ratchet And Clank 3 (2004): references floating spinning obstacles with spikes and fire.

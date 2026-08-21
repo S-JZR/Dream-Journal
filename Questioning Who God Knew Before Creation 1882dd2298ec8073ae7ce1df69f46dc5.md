@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 1, 2017
 updated_at: June 5, 2026 12:33 AM
-type: Normal
 emotion: Surprise
 characters: God (Christianity)
 influences:   • I’ve heard others ask what was God doing before the universe existed.

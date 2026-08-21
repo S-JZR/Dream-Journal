@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: November 29, 2025
-updated_at: July 12, 2026 9:30 PM
-type: Nightmare
+updated_at: August 22, 2026 3:20 AM
 emotion: Fear
 characters: Family
 influences:   • During my initial years at university I tried to remember assessment due dates mentally which worked for a time but eventually caused problems.

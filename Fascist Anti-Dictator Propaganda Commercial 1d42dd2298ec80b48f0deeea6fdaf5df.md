@@ -4,7 +4,6 @@ is_favourite: Yes
 is_nsfw: No
 date: January 13, 2025
 updated_at: July 12, 2026 9:23 PM
-type: Normal
 emotion: Anger
 influences:   • I feel like so many things in society are trivial and stupid.
   • I fear that as populations, knowledge, and technology grows it will increase the destructive potential of malicious individuals and nations.

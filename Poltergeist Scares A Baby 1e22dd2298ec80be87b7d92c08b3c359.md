@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 16, 2024
-updated_at: June 5, 2026 1:30 AM
-type: Nightmare
+updated_at: August 22, 2026 2:46 AM
 emotion: Anger
 symbols:   • Poltergeist/TV: Corruption and harmful influences in the world.
   • Baby: Innocence.

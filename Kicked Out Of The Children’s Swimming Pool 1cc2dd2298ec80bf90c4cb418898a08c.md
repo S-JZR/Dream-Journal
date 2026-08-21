@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: April 1, 2025
 updated_at: July 12, 2026 9:25 PM
-type: Normal
 emotion: Sad
 influences:   • During primary school I was initially afraid to dive underwater and float on my back but learnt how to swim.
   • Mr Bean (1990): Likely references Mr Bean being being told to leave the children’s pool by a lifeguard: https://youtu.be/FZoofVvPUC8?si=J7NteKkNRICHGztm&t=52.

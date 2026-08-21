@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: November 4, 2025
 updated_at: July 12, 2026 9:29 PM
-type: Normal
 emotion: Embarrassment
 characters: Family
 influences:   • My mum is quick to be against anything that is worldly.

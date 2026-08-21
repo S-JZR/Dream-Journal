@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: April 16, 2025
 updated_at: July 13, 2026 2:10 AM
-type: Normal
 emotion: Surprise
 characters: MacGyver
 influences: MacGyver (1985): References MacGyver.

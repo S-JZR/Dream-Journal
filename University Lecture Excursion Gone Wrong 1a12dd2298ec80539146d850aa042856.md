@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 19, 2025
-updated_at: June 5, 2026 11:56 PM
-type: Nightmare
+updated_at: August 22, 2026 3:15 AM
 emotion: Sad
 characters: Mrs Brown, Sarajah
 influences: I often feel like university is a waste of time.

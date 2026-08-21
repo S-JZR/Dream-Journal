@@ -4,7 +4,6 @@ is_favourite: Yes
 is_nsfw: No
 date: December 12, 2025
 updated_at: July 12, 2026 9:30 PM
-type: Normal
 emotion: Surprise
 characters: MrBeast
 influences: References MrBeast often staring at the screen with the vine boom sound effect during awkward moments.

@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 6, 2026
-updated_at: June 5, 2026 4:19 AM
-type: Nightmare
+updated_at: August 22, 2026 3:23 AM
 emotion: Fear
 characters: Ruth K, Sheriff Woody
 influences: Doors (2021) (Roblox): Likely references Doors where you loot drawers, some cupboards and drawers are booby trapped, and there’s monsters everywhere.

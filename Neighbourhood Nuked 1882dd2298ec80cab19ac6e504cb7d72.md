@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: June 5, 2026 12:30 AM
-type: Nightmare
+updated_at: August 22, 2026 2:30 AM
+sleep_phenomena: Nightmare
 emotion: Fear
 characters: Family
 influences: Indiana Jones And The Kingdom Of The Crystal Skull (2008): References Indiana Jones surviving a nuke by climbing into a lead-lined fridge.
@@ -23,4 +23,4 @@ I thought that the fridge would offer protection with the lead lining like in In
 > **Me**: aaaaaAAAAAH!
 > 
 
-I jolted awake in fear.
+I jolted awake.

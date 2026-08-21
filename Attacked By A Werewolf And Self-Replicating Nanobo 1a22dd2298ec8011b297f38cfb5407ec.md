@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: December 2, 2022
-updated_at: June 5, 2026 1:12 AM
-type: Nightmare
+updated_at: August 22, 2026 2:40 AM
 emotion: Fear
 characters: MatPat
 influences:   • The Game Theorists: References The Film Theorists recently releasing a Rick And Morty episode.

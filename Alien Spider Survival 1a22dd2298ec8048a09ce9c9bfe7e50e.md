@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: July 10, 2020
 updated_at: July 12, 2026 9:18 PM
-type: Normal
 emotion: Happy
 influences:   • Spiderman (2002): References swinging between buildings.
   • Team Fortress 2 (2007):

@@ -4,7 +4,6 @@ is_favourite: Yes
 is_nsfw: No
 date: May 23, 2025
 updated_at: July 12, 2026 9:26 PM
-type: Normal
 emotion: Anger
 influences:   • I feel like church is divided and could do better.
   • God Has A Wonderful Plan For Your Life (2010): References challenging misconceptions about faith and churches failing to convert sinners.

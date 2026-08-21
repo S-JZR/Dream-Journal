@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: September 2, 2024
-updated_at: July 12, 2026 9:22 PM
-type: Nightmare
+updated_at: August 22, 2026 3:12 AM
 emotion: Fear
 influences:   • Skibidi Toilet (2023): References the Skibidi Toilet trend that was popular: https://en.wikipedia.org/wiki/Skibidi_Toilet.
   • Doors (2021) (Roblox): References surviving monsters in a hotel. References the timed cupboard event with The Figure.

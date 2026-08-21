@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: August 20, 2026
 updated_at: August 20, 2026 5:30 PM
-type: Normal
 emotion: Fear
 characters: Dejan C
 influences: I saw Frieda Pilkington in the Animal Farm trailer

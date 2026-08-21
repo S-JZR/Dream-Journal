@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: April 26, 2025
-updated_at: July 12, 2026 9:25 PM
-type: Nightmare
+updated_at: August 22, 2026 3:16 AM
 emotion: Sad
 characters: Jesus
 symbols:   • Murder: Subconscious anger towards domestic abuse.

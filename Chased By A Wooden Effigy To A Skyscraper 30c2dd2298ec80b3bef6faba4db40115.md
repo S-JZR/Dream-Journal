@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 19, 2026
-updated_at: June 5, 2026 4:19 AM
-type: Nightmare
+updated_at: August 22, 2026 3:23 AM
 emotion: Fear
 characters: Michael C
 

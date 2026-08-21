@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: August 12, 2025
-updated_at: June 5, 2026 3:45 AM
-type: Nightmare
+updated_at: August 22, 2026 3:18 AM
 emotion: Fear
 influences: The Russia-Ukraine war is still going: https://en.wikipedia.org/wiki/Russo-Ukrainian_war. Russia has rejected all Western peace treaty proposals.
 symbols:   • Bombing: The fear of going to war.

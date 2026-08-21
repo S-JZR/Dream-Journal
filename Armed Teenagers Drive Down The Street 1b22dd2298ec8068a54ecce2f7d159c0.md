@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: June 5, 2026 12:37 AM
-type: Nightmare
+updated_at: August 22, 2026 2:33 AM
 emotion: Fear
 influences: We live in a neighbourhood with a lot of government housing and are wary of people.
 symbols:   • Teenagers: Rebelliousness.

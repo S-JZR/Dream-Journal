@@ -3,8 +3,8 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: February 6, 2023
-updated_at: July 12, 2026 9:19 PM
-type: Nightmare
+updated_at: August 22, 2026 2:43 AM
+sleep_phenomena: Nightmare
 emotion: Fear
 characters: Dejan C, Julien C, Michael C, Sam And Colby
 influences:   • Sam And Colby: References Sam And Colby and the rumour that demons smell like rotting corpses.
@@ -65,4 +65,4 @@ We arrived at a fictional location combining various places including an undergr
 
 I obeyed the voice as the advice seemed reasonable considering it would prevent potential injuries from shrapnel if the planes had dropped bombs while flying overhead.
 
-I was overwhelmed by potentially seeing people die and jolted awake in fear.
+I was overwhelmed by potentially seeing people die and jolted awake.

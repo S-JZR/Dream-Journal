@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 11, 2020
 updated_at: July 12, 2026 9:18 PM
-type: Normal
 emotion: Surprise
 symbols: Kidnapped: The fear of being held against my will.
 

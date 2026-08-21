@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 13, 2026
-updated_at: July 13, 2026 4:44 PM
-type: Nightmare
+updated_at: August 22, 2026 3:34 AM
 emotion: Fear
 influences:   • I was recently watching a few lectures about databases that I got earlier in my CS course which I somewhat felt weren’t as good as I remember.
   • I studied online because of Covid-19 and I voluntarily chose it to avoid wasting time travelling to university classes which I thought weren’t worthwhile anyway. I watched most of my lectures live or as recordings through a computer. Some lecture videos were recycled from previous years.

@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 13, 2025
-updated_at: July 12, 2026 9:23 PM
-type: Nightmare
+updated_at: August 22, 2026 3:13 AM
 emotion: Sad
 influences:   • Mini Empires (2022) (Roblox): References the tile system and units sharing your team colour.
 

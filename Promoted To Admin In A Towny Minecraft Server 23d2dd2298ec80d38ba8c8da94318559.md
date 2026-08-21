@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: January 1, 2014
 updated_at: June 5, 2026 12:04 AM
-type: Normal
 emotion: Happy
 characters: RobyWounder
 influences: Minecraft (2009): I built a few bases on the server and met different people. I was interested in applying to be an admin on different servers because it seemed cool.

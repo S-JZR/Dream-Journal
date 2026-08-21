@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: January 15, 2025
-updated_at: July 12, 2026 9:23 PM
-type: Nightmare
+updated_at: August 22, 2026 3:14 AM
+sleep_phenomena: Nightmare
 emotion: Anger
 
 I was a construction worker standing beside the road and tried to drive a sign into the ground covered in white pebbles using a hammer but to no avail. Eventually, a man arrived in a green specialized sign hammering vehicle with a vertical piston and an arm on the back with a pointed tip but he was rebellious and had no interest in working.
@@ -34,4 +34,6 @@ I overheard the conversation from a distance and sought to reprimand him.
 I looked away knowing it wouldn't end well and soon other workers cried out in terror.
 
 > **Woman 2**: Oh my God, she's bleeding everywhere!
->
+> 
+
+I jolted awake.

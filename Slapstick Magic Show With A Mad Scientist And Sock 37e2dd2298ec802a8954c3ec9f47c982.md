@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: June 13, 2026
 updated_at: June 13, 2026 6:54 PM
-type: Normal
 emotion: Happy
 
 <aside>

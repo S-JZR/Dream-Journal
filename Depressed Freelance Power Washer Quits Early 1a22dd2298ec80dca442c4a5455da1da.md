@@ -4,7 +4,6 @@ is_favourite: No
 is_nsfw: No
 date: December 17, 2020
 updated_at: July 12, 2026 9:19 PM
-type: Normal
 emotion: Sad
 characters: Family
 symbols: Depressed Woman: Occasionally feeling lethargic and questioning whether what I'm doing matters.

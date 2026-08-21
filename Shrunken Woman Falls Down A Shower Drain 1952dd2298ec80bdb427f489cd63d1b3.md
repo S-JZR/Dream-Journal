@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 1, 2005
-updated_at: July 13, 2026 3:00 AM
-type: Nightmare
+updated_at: August 22, 2026 2:11 AM
 emotion: Fear
 influences: The Incredible Shrinking Man (1957): I think I remember seeing snippets of the main character fighting off a giant spider as a child when someone was flicking through TV channels which made me feel unsettled and worried about his safety.
 symbols: Shrinking: The fear of being helpless.
