@@ -3,11 +3,11 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 15, 2025
-updated_at: August 22, 2026 3:15 AM
+updated_at: August 22, 2026 7:11 PM
 emotion: Sad
-characters: Family
 influences: My mum’s hair is turning grey and I worry about my parents dying all the time.
 symbols: Grey Hair: The fear of losing my parents.
+people_i_know: Family
 
 I was walking through a shopping mall hallway with my parents when a middle-age woman approached us. My mum had the same appearance but with completely grey hair.
 

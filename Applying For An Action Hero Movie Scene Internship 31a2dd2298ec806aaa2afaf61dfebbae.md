@@ -5,7 +5,7 @@ is_nsfw: No
 date: March 5, 2026
 updated_at: July 12, 2026 9:31 PM
 emotion: Surprise
-characters: Ben Shapiro
+people_in_the_media: Ben Shapiro
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

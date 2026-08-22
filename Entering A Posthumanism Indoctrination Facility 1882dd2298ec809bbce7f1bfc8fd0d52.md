@@ -3,9 +3,9 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 22, 2026 2:33 AM
+updated_at: August 22, 2026 7:05 PM
 emotion: Fear
-characters: Brooke A, Satan
+people_in_the_media: Satan
 influences:   • During religious education I saw Brooke sitting at the row of computer desks to the left of the classroom studying science textbooks because she was probably an atheist.
   • I’ve heard people claim Lucifer as a hero who rebelled against the perceived totalitarian rule of God who withheld knowledge and our true potential, and that we should question authority, be self-worshipers, and embrace complete autonomy.
   • I’ve heard people claim religion and traditions are outdated, oppressive, and hold us back from utopia and scientific progress so we should embrace a new era of science, reason, philosophy, progressivism, and humanism.
@@ -35,6 +35,7 @@ symbols:   • Amphitheatre: Upside down Tower of Babel. The world.
   • 1960’s TV: The start of the sexual revolution.
   • Dictator: Rebelliousness and hatred against God, his followers, and the natural order. The desire to be like god.
 notes: I don't remember the exact dialogue and this is a recreation.
+people_i_know: Brooke A
 
 I was standing inside a complex with a crowd walking in a line through a spiral of chain-linked fences around a circular amphitheatre without seats, descending a continuously slanted floor that descended multiple levels. A central circular stage at the bottom featured a 1960s era television broadcasting a male charismatic dictator passionately yelling a message.
 

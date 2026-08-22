@@ -5,7 +5,7 @@ is_nsfw: No
 date: January 5, 2024
 updated_at: August 22, 2026 2:44 AM
 emotion: Fear
-characters: Mrs Tweedy, Sheriff Woody
+people_in_the_media: Mrs Tweedy, Sheriff Woody
 influences:   • Chicken Run (2000): References Mrs Tweedy.
   • Toy Story (1995): References Woody.
 symbols:   • Framed: The fear of being falsely accused.

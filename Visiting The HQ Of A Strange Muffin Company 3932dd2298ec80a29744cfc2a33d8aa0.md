@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: July 4, 2026
-updated_at: July 8, 2026 12:46 AM
+updated_at: August 22, 2026 7:21 PM
 emotion: Surprise
-characters: Joshua O
 notes: I forgot most of the dream and dialogue.
+people_i_know: Joshua O
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

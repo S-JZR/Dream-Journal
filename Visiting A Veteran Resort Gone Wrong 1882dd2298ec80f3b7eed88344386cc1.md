@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: January 10, 2020
-updated_at: August 22, 2026 2:34 AM
+updated_at: August 22, 2026 7:06 PM
 emotion: Fear
-characters: Family, Mr Broadway, Mrs Itsikson
 influences:   • The toilets at my secondary school were always dirty and unpleasant.
   • Seventh graders often did silly things to amuse themselves.
+people_i_know: Family, Mr Broadway, Mrs Itsikson
 
 I was seated with my family in my mum's car being driven by my mum to a veterans resort to meet someone. We noticed two connected tennis ball courts beside the complex when we pulled into the parking lot and decided to play a game. However, before entering, a cleaning crew suddenly brought in their equipment to wash the floors, and a ride-on floor scrubber leaked a small white puddle near the entrance.
 

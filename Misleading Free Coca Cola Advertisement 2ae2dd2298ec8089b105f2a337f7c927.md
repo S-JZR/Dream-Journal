@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: July 10, 2020
-updated_at: July 12, 2026 9:18 PM
+updated_at: August 22, 2026 7:06 PM
 emotion: Sad
-characters: Julien C
+people_i_know: Julien C
 
 I was walking through a shopping mall hallway with Julien, my friend from school, when we noticed a stall with a sign reading "Free Coca-Cola!" Eager for a drink, he approached the female vendor.
 

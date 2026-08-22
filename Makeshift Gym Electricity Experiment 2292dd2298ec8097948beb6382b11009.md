@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: July 5, 2025
-updated_at: July 12, 2026 9:27 PM
+updated_at: August 22, 2026 7:15 PM
 emotion: Surprise
-characters: Family
+people_i_know: Family
 
 I was standing outside the front door of my unit when my mother yelled from the upstairs window that the local children’s sports centre needed help so I had to take a duffel bag of sports equipment there and she invited athletes over to turn my upstairs bedroom into a makeshift gym. For the entire dream, I was confused about where the sports centre was since I don’t know any.
 

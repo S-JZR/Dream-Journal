@@ -3,12 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 19, 2025
-updated_at: August 22, 2026 3:15 AM
+updated_at: August 22, 2026 7:11 PM
 emotion: Sad
-characters: Mrs Brown, Sarajah
 influences: I often feel like university is a waste of time.
 symbols:   • Shuffling Feet: The desire to avoid harming animals and insects.
   • Mrs Brown: The feeling that people are too complacent with university.
+people_i_know: Mrs Brown, Sarajah
 
 I was one of many secondary school students on an art excursion to a university lecture. We entered a chicken house through the back in a line:
 

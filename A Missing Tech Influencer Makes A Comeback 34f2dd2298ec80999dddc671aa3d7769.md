@@ -5,7 +5,7 @@ is_nsfw: No
 date: April 27, 2026
 updated_at: June 5, 2026 4:25 AM
 emotion: Surprise
-characters: Gabe Newell
+people_in_the_media: Gabe Newell
 influences: Primary school hygiene film is explained.
 
 <aside>

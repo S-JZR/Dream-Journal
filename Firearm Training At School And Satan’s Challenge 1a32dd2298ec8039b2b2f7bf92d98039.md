@@ -5,7 +5,7 @@ is_nsfw: No
 date: February 11, 2025
 updated_at: August 22, 2026 3:15 AM
 emotion: Fear
-characters: Donald Trump, Satan
+people_in_the_media: Donald Trump, Satan
 influences:   • References the USA debate about arming teachers in schools: https://www.nea.org/nea-today/all-news-articles/arming-teachers-still-terrible-idea.
   • References Poland’s mandatory firearm training for students: https://youtu.be/QO_NRejn6dU?si=5LBOerOAmOdpZvVF.
 symbols:   • War Of The Gods: The fear of everyone playing god.

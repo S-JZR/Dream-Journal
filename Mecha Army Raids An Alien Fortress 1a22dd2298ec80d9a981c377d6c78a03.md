@@ -5,7 +5,7 @@ is_nsfw: No
 date: February 20, 2024
 updated_at: June 5, 2026 1:32 AM
 emotion: Fear
-characters: Leon Kennedy
+people_in_the_media: Leon Kennedy
 influences:   • StarCraft II (2010): References humans vs aliens gameplay.
   • Resident Evil Village (2021): References Leon Kennedy and gameplay.
 

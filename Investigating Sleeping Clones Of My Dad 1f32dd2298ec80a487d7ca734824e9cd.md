@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 11, 2020
-updated_at: August 22, 2026 2:36 AM
+updated_at: August 22, 2026 7:06 PM
 emotion: Surprise
-characters: Family
+people_i_know: Family
 
 I was standing in the upstairs landing of my unit looking at my dad sleeping in the master bedroom. While descending into the lounge room, I found two clones of my dad resting parallel to each other on the couch and floor. Perplexed by this, I questioned how I could have more than one dad.
 

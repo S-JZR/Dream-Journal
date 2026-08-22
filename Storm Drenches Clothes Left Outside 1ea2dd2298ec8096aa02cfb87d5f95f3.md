@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 7, 2025
-updated_at: July 12, 2026 9:25 PM
+updated_at: August 22, 2026 7:13 PM
 emotion: Sad
-characters: Family
+people_i_know: Family
 
 I was standing in the kitchen in my unit with my brother when my mum hung lots of clothes on fold-out metal lines in the backyard and frontyard. She warned us about a storm before leaving.
 

@@ -5,7 +5,7 @@ is_nsfw: No
 date: June 15, 2024
 updated_at: July 12, 2026 9:21 PM
 emotion: Happy
-characters: MrBeast
+people_in_the_media: MrBeast
 influences:   • References MrBeast hosting extreme hide and seek games.
   • References old Roblox games with studs shown.
 

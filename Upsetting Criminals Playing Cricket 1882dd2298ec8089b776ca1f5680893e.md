@@ -3,13 +3,14 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 7, 2021
-updated_at: August 22, 2026 2:39 AM
+updated_at: August 22, 2026 7:07 PM
 emotion: Fear
-characters: Aleksandr Orlov, Family, James Sullivan, Mrs Claus, Santa, Sergei Orlov
+people_in_the_media: Aleksandr Orlov, James Sullivan, Mrs Claus, Santa, Sergei Orlov
 influences:   • Compare The Market (2006): References Aleksandr and Sergei from Compare The Market.
   • Monsters Inc. (2001): References Sullivan.
   • References a song about NSA agents dressed as Santa spying on people: https://youtu.be/8pcWlyUu8U4?si=ARTFhn2dt-7MqtOx.
 symbols: Killing Criminals: The desire to bring justice to evil.
+people_i_know: Family
 
 I was with my family visiting festive attractions located at a riverside promenade to the left of a cantilever bridge with a concrete base during Christmas week. I walked towards Santa, Mrs. Claus, and elves at a sleigh with Aleksandr and Sergei from Compare The Market. Mr. Claus gave us presents, including paintings for Aleksandr and Sergei and a large bottle of wine for me.
 

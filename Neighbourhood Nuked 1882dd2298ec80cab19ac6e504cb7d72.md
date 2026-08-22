@@ -3,12 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 22, 2026 2:30 AM
+updated_at: August 22, 2026 7:05 PM
 sleep_phenomena: Nightmare
 emotion: Fear
-characters: Family
 influences: Indiana Jones And The Kingdom Of The Crystal Skull (2008): References Indiana Jones surviving a nuke by climbing into a lead-lined fridge.
 symbols: Nuke: The fear of nukes destroying the world.
+people_i_know: Family
 
 I was lying on the bunk bed upstairs in my room in my unit, peeking through the blinds, when I noticed a distant fireball descending from the sky and instinctively knew it was a nuclear missile. I turned around to yell at my family dispersed throughout the house.
 

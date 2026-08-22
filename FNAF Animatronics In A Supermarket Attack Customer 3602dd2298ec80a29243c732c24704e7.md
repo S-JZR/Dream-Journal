@@ -5,7 +5,7 @@ is_nsfw: No
 date: May 12, 2026
 updated_at: August 22, 2026 3:30 AM
 emotion: Surprise
-characters: Bonnie, Chica, Foxy, Freddy Fazbear
+people_in_the_media: Bonnie, Chica, Foxy, Freddy Fazbear
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

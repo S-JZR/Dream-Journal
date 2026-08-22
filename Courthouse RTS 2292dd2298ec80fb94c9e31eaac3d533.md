@@ -5,7 +5,7 @@ is_nsfw: No
 date: July 2, 2025
 updated_at: June 5, 2026 3:22 AM
 emotion: Surprise
-characters: Bowler Hat Guy, DOR-15
+people_in_the_media: Bowler Hat Guy, DOR-15
 influences:   • The Conquerors 3 (2009) (Roblox):
       ◦ Starting with a strong naval unit can shutdown the enemy on water maps.
       ◦ During FFA, if you leave your base an enemy will typically try to capture it.

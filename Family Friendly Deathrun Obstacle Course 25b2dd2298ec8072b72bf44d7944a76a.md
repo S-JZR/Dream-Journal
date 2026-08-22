@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: August 26, 2025
-updated_at: June 5, 2026 3:48 AM
+updated_at: August 22, 2026 7:16 PM
 emotion: Surprise
-characters: Family
 influences:   • Team Fortress 2 (2007): References the death run gamemode.
   • Minecraft (2009): References mining blocks.
+people_i_know: Family
 
 I was attending an outdoor family friendly obstacle course with my family as we followed a footpath through a series of obstacles.
 

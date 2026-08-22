@@ -5,7 +5,7 @@ is_nsfw: No
 date: January 15, 2025
 updated_at: August 22, 2026 3:14 AM
 emotion: Surprise
-characters: Saxton Hale
+people_in_the_media: Saxton Hale
 influences: Team Fortress 2 (2007): References Saxton Hale.
 
 I was spectating a man who was in debt to the mafia and stole a train to escape the country for a better life with his girlfriend. While driving along one of five straight tracks in a specialized train capable of performing speed boosts, the mafia got word of it and commanded nearby trains to form a blockade by parking on each track far ahead. However, the last train was running late and as it approached over the horizon there was a gap that led to a turning track that curved to the right of it so he accelerated at full speed. The front wheels sparked vigorously as they started to loosen so he sent her to fix it.

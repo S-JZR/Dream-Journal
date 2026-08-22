@@ -3,10 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: March 6, 2026
-updated_at: August 22, 2026 3:23 AM
+updated_at: August 22, 2026 7:19 PM
 emotion: Fear
-characters: Ruth K, Sheriff Woody
+people_in_the_media: Sheriff Woody
 influences: Doors (2021) (Roblox): Likely references Doors where you loot drawers, some cupboards and drawers are booby trapped, and there’s monsters everywhere.
+people_i_know: Ruth K
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

@@ -5,7 +5,7 @@ is_nsfw: No
 date: December 2, 2022
 updated_at: August 22, 2026 2:40 AM
 emotion: Fear
-characters: MatPat
+people_in_the_media: MatPat
 influences:   • The Game Theorists: References The Film Theorists recently releasing a Rick And Morty episode.
   • Rick And Morty (2013): References Rick doing crazy things like destroying entire universes.
 symbols: Nanobots: The fear of existential risks posed by AI and robots.

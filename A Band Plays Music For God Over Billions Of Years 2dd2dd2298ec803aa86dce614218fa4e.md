@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 3, 2026
-updated_at: June 5, 2026 4:09 AM
+updated_at: August 22, 2026 7:18 PM
 emotion: Surprise
-characters: God (Christianity)
+people_in_the_media: God
 influences: Christianity: References Revelation 4:8.
 notes: I forgot the rest of the dream which was unrelated.
 

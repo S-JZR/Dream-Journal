@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: March 8, 2025
-updated_at: July 12, 2026 9:24 PM
+updated_at: August 22, 2026 7:12 PM
 emotion: Sad
-characters: ? Levi's Brother, Mrs Itsikson
 influences:   • Students in secondary school disliked the new minimalist sports team logos because they replaced the previous intricate indigenous patterns.
   • Before leaving secondary school I made sure to retrieve all my data from my personal drive.
+people_i_know: ? Levi's Brother, Mrs Itsikson
 
 I was one of many students seated in the hall of my secondary school for an assembly as Mrs Itsikson, a staff member, announced new minimalist solid colour sports uniforms.
 

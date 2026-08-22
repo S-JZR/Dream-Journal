@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 28, 2021
-updated_at: July 12, 2026 9:19 PM
+updated_at: August 22, 2026 7:07 PM
 emotion: Fear
-characters: Dejan C
+people_i_know: Dejan C
 
 I was standing in the carpark of my unit complex, witnessing three individuals sharing a firearm self-defence technique to force an aggressor's legs together by ricocheting bullets off the ground and walls into their pelvis that was demonstrated on a dummy.
 

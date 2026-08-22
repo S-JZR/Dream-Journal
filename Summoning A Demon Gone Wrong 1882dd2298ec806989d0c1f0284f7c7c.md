@@ -3,10 +3,10 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: February 6, 2023
-updated_at: August 22, 2026 2:43 AM
+updated_at: August 22, 2026 7:08 PM
 sleep_phenomena: Nightmare
 emotion: Fear
-characters: Dejan C, Julien C, Michael C, Sam And Colby
+people_in_the_media: Sam And Colby
 influences:   • Sam And Colby: References Sam And Colby and the rumour that demons smell like rotting corpses.
   • I believe I've had supernatural experiences where it felt like my heart was vibrating with an energy and telepathic messages told me to do things that aligned with events.
 symbols:   • Reddit: The fear that nobody will believe my supernatural experiences.
@@ -14,6 +14,7 @@ symbols:   • Reddit: The fear that nobody will believe my supernatural experie
   • Wolves: Looming danger and evil.
   • War Planes: Dictators rejecting God’s ways and using knowledge for evil.
   • Inner Voice: God leading me to safety.
+people_i_know: Dejan C, Julien C, Michael C
 
 I was collaborating with Sam and Colby, ghost hunters, to investigate an abandoned tall building and descended a black square metal stairwell into the basement:
 

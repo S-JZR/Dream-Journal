@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: Yes
 date: December 4, 2025
-updated_at: August 22, 2026 3:20 AM
+updated_at: August 22, 2026 7:17 PM
 emotion: Fear
-characters: Jayden M, Mrs Brown, Steven M
 influences: Steven and Jayden bullied many people in primary school, including me.
 symbols: Pushing Down The Stairs: Likely feeling subconscious fear and anger.
+people_i_know: Jayden M, Mrs Brown, Steven M
 
 I was one of many secondary school students wearing swimming clothes on an excursion to a water theme park. Upon arriving, we waited in line at the front counter when Mrs Brown asked everyone whether they were registered and I realized that I forgot to do it. I quickly pulled out my phone to try registering but couldn't do it in time as the line shortened. Steven and Jayden, bullies from primary school, were sitting on the floor to the left and harassing me. I threatened to stab them with a knife if they tried to touch me which provoked them to chase me.
 

@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: March 29, 2026
-updated_at: August 22, 2026 3:24 AM
+updated_at: August 22, 2026 7:19 PM
 emotion: Fear
-characters: Dejan C
+people_i_know: Dejan C
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

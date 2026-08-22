@@ -5,7 +5,7 @@ is_nsfw: Yes
 date: April 26, 2025
 updated_at: August 22, 2026 3:16 AM
 emotion: Sad
-characters: Jesus
+people_in_the_media: Jesus
 symbols:   • Murder: Subconscious anger towards domestic abuse.
   • Banquet: The fear of letting others know my problems and being treated differently.
 

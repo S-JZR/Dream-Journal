@@ -3,15 +3,15 @@
 is_favourite: No
 is_nsfw: No
 date: June 19, 2024
-updated_at: August 22, 2026 3:10 AM
+updated_at: August 22, 2026 7:09 PM
 emotion: Fear
-characters: Family
 symbols:   • Monster: Urges and negative thoughts trying to cause chaos.
   • Failed Emergency Call: Not reaching out for help.
   • Moon/Half-dark Face: Dark night of the soul.
   • Feeling like I'm between between states.
   • Coughing: Feeling like my chest is occasionally full of darkness, weights, or barb wire.
   • Toilet: Failing to purge my problems and creating an unintended mess.
+people_i_know: Family
 
 I was standing at the front fly screen door in my unit at night when a grotesque red-orange monster with claws and thick limbs approached the door to look inside. It poked a miniature elongated head from its shoulder through the screen to investigate the lounge room, prompting my brother to slam the door shut. The monster began pacing in long cycles between the door and a distant location beyond the parking lot, emitting faint growls. Occasionally, we peeked outside to check whether the creature would return.
 

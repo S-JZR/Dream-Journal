@@ -5,7 +5,7 @@ is_nsfw: No
 date: December 17, 2020
 updated_at: August 22, 2026 2:39 AM
 emotion: Happy
-characters: Jimmy Neutron, Tommy Pickles
+people_in_the_media: Jimmy Neutron, Tommy Pickles
 influences:   • Rugrats (1991): References Tommy.
   • The Adventures Of Jimmy Neutron Boy Genius (2002): References Jimmy Neutron.
 symbols: Cartoon Characters: Nostalgia.

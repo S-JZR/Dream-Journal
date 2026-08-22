@@ -3,9 +3,8 @@
 is_favourite: Yes
 is_nsfw: No
 date: July 3, 2025
-updated_at: August 22, 2026 3:17 AM
+updated_at: August 22, 2026 7:15 PM
 emotion: Surprise
-characters: Sarajah
 influences:   • My brother, another church member, and I once attended a youth group event but my brother and I were appalled by its performative nature with a hot dog eating contest on fold-out tables, a few worship songs, and casual calls to give your life to Christ.
   • During religious education in primary school, Carley randomly flipped through the bible and told others about the stories of rape she was repulsed by and implied the book was evil and should be avoided.
   • Christianity:
@@ -21,6 +20,7 @@ symbols:   • Mess/Substitute Teacher: False, bad, and worldly teachings.
   • Confused Child: Feeling conflicted by God’s judgements in the Old Testament.
   • I fear people will reject the bible due to wrongly thinking it endorses sin, being intimidated by God’s judgements, and blindly accepting what society says about it.
   • Fire: The fire of God clears away the old self and false teachings.
+people_i_know: Sarajah
 
 I was standing in the classroom of a Christian school with other students and a female teacher:
 

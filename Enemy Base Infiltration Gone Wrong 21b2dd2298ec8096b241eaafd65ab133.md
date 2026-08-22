@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: Yes
 date: June 20, 2025
-updated_at: June 5, 2026 3:17 AM
+updated_at: August 22, 2026 7:15 PM
 emotion: Fear
-characters: Julien C
 influences: Ratchet And Clank 3 (2004): references floating spinning obstacles with spikes and fire.
+people_i_know: Julien C
 
 I was one of a few spies wearing yellow wetsuits exiting the ocean onto a circular concrete platform to infiltrate an enemy sea base connected to an island. After opening a manhole, we descended into the basement and encountered a deadly obstacle course inside a long tunnel.
 

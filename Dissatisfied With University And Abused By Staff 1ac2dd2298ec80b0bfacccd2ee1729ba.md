@@ -3,9 +3,8 @@
 is_favourite: Yes
 is_nsfw: No
 date: March 4, 2025
-updated_at: August 22, 2026 3:15 AM
+updated_at: August 22, 2026 7:12 PM
 emotion: Anger
-characters: Dejan C, Tom B
 influences:   • I often feel like university is a waste of time.
   • I had female students in a CI class once who were researching how women are oppressed by male dominated industries.
   • I’m trying to finish a double degree and failed my CS capstone because I don’t feel skilled enough, teammates in my CI capstone were awful and made me do most of the work, and other simultaneous problems.
@@ -22,6 +21,7 @@ symbols:   • Convenience Store:
       ◦ Self-criticism about running away from my responsibilities and not achieving enough.
   • Conceptual Art:
       ◦ I feel like most conceptual art is confusing and the message is unclear or trivial.
+people_i_know: Dejan C, Tom B
 
 I was one of many students seated in a university lecture room listening to a middle-aged female staff member give an orientation presentation in front of a projector.
 

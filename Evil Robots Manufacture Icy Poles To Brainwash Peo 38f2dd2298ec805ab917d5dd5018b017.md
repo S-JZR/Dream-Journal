@@ -5,7 +5,7 @@ is_nsfw: No
 date: June 30, 2026
 updated_at: August 22, 2026 3:33 AM
 emotion: Fear
-characters: Donna Noble
+people_in_the_media: Donna Noble
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: October 17, 2024
-updated_at: June 5, 2026 2:02 AM
+updated_at: August 22, 2026 7:10 PM
 emotion: Happy
-characters: Family
 influences: My dad can be a rough driver at times.
 symbols:   • High-speed Chase: Feeling anxious when my dad drives.
+people_i_know: Family
 
 I was seated in my dad's car with my family being driven by my dad to a government office to update his form. While speeding at 300 km/h in a rural area, weaving between cars, a police officer stationed beside a dirt path leading into a forest unexpectedly activated their sirens and began to pursue us. However, they quickly lost track of him as he outpaced them, entering the city before decelerating to navigate various streets and eventually stopping in the parking lot outside the government office. Everyone entered the building as my dad approached the right side of a small dark brown wooden counter, where a woman served him by placing a blank version of his green form beside the current one and instructing him to fill it out.
 

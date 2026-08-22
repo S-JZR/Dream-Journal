@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: February 19, 2026
-updated_at: August 22, 2026 3:23 AM
+updated_at: August 22, 2026 7:19 PM
 emotion: Fear
-characters: Michael C
+people_i_know: Michael C
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

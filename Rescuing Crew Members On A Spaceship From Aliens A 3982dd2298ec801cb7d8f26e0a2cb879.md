@@ -5,7 +5,7 @@ is_nsfw: No
 date: July 9, 2026
 updated_at: July 9, 2026 5:55 PM
 emotion: Surprise
-characters: David Tennant
+people_in_the_media: David Tennant
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

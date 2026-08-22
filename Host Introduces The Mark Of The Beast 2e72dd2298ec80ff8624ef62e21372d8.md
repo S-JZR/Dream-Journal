@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 13, 2026
-updated_at: August 22, 2026 3:21 AM
+updated_at: August 22, 2026 7:18 PM
 emotion: Fear
-characters: Family, IShowSpeed
+people_in_the_media: IShowSpeed
 influences:   • My brother has researched some political conspiracy theories.
   • Christianity: References Revelation 13:16-17.
   • Likely references Unholy by Sam Smith at the Grammy’s with red lights: https://youtu.be/iKkiIqwg15M?si=0tBmYNb16XsMnjX8&t=23.
@@ -13,6 +13,7 @@ influences:   • My brother has researched some political conspiracy theories.
   • References IShowSpeed visiting a witch and leaving halfway through because he felt concerned: https://youtu.be/g7zFNRrXnME?si=sqnr-5P31LtnbpeQ&t=379.
 symbols:   • Red Lights: Evil.
   • Forehead Chip: The mark of the beast.
+people_i_know: Family
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

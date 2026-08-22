@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: October 4, 2025
-updated_at: June 5, 2026 3:55 AM
+updated_at: August 22, 2026 7:17 PM
 emotion: Fear
-characters: Family
+people_i_know: Family
 
 I was walking toward my family who were standing around my mum’s car in the driveway outside the garage in my unit complex about to travel somewhere at night when a strange situation unfolded:
 

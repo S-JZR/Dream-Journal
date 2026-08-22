@@ -5,7 +5,7 @@ is_nsfw: No
 date: June 17, 2026
 updated_at: August 22, 2026 3:33 AM
 emotion: Sad
-characters: Mr Krabs, Spongebob, Squidward
+people_in_the_media: Mr Krabs, Spongebob, Squidward
 influences:   • References Squidward's Suicide creepypasta that was viral at some point: https://creepypasta.fandom.com/wiki/Squidward%27s_Suicide
   • References the liminal space aesthetic: https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)
 

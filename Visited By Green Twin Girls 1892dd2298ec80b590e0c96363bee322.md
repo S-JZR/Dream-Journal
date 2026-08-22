@@ -3,15 +3,15 @@
 is_favourite: No
 is_nsfw: No
 date: March 14, 2024
-updated_at: August 22, 2026 3:07 AM
+updated_at: August 22, 2026 7:08 PM
 emotion: Fear
-characters: Family
 influences:   • The Shining (1980): References the twins murdered by their father.
   • Christianity: Reminds me of 1 Peter 5:8.
 symbols:   • The Twins: Represents how evil can infiltrate and destroy innocence.
   • Devil Biscuits: Humanity is inclined to follow sinful lusts over God.
   • Monsters: God and Satan fighting over people.
 notes: Nothing occurred the same day next year from what i'm aware.
+people_i_know: Family
 
 I was standing on the footpath outside my unit complex when I noticed two small twin girls with green skin nearby starring at me.
 

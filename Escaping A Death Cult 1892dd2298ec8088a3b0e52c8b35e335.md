@@ -3,11 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: April 4, 2024
-updated_at: August 22, 2026 3:08 AM
+updated_at: August 22, 2026 7:18 PM
 emotion: Fear
-characters: Family, God (Christianity)
+people_in_the_media: God
 influences:   • References Adolf Hitler believing he was chosen by providence.
 symbols:   • Death Cult: Retelling of Nazi Germany.
+people_i_know: Family
 
 I was standing beside the front administration building of my secondary school with other students from primary school, arguing over religion. When a boy question how God could exist lighting flashed across the overcast sky. Treating it as a mere coincidence, he continued asking several other questions, only for lightning to consistently strike the ground by our feet, leaving him astonished and unable to comprehend it. Eventually, since God exclusively responded to him, he developed an elitist mentality, considering himself as a chosen messiah. He began assembling a death cult with nearby peers who readily joined after witnessing his strong divine connection.
 

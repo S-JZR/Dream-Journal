@@ -5,7 +5,7 @@ is_nsfw: No
 date: April 1, 2025
 updated_at: July 12, 2026 9:25 PM
 emotion: Happy
-characters: MrBeast
+people_in_the_media: MrBeast
 influences:   • References the final prize negotiation in the MrBeast Games: https://youtu.be/sF5LYGgKbUA?si=0Zu84Woqv-FjDcGF&t=1856.
   • MrBeast has a habit of throwing in surprises to catch people off guard.
 symbols:   • Camera Shy: Introverted and the fear of immortalizing mistakes.

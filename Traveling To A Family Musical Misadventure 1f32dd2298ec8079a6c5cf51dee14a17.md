@@ -3,13 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: January 11, 2020
-updated_at: August 22, 2026 2:34 AM
+updated_at: August 22, 2026 7:06 PM
 emotion: Happy
-characters: Family, Rhiannon C
 influences:   • Rhiannon and other female students often talked about everyday life during art class.
   • My dad can be a rough driver at times.
 symbols:   • Telekinesis: The shadow self being a trickster.
   • 45 Degree Road: Feeling anxious when my dad drives.
+people_i_know: Family, Rhiannon C
 
 I was standing in a local former church after the service finished when my mother explained that she had tickets for a family musical at another church later that day. Before leaving, I mischievously decided to amuse myself by attempting to startle those nearby using telekinesis to tidy up pamphlets on a table near the amphitheatre entrance, but the spectacle went unnoticed.
 

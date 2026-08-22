@@ -3,12 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: August 30, 2025
-updated_at: June 5, 2026 3:50 AM
+updated_at: August 22, 2026 7:16 PM
 emotion: Fear
-characters: Family, MrBeast
+people_in_the_media: MrBeast
 influences:   • References MrBeast hosting crazy challenges.
 symbols:   • MrBeast: Likely the subconscious desire to be in a MrBeast video.
   • Prize: The fear of not getting any share of prize money and losing it to debt.
+people_i_know: Family
 
 I was one of many contestants on a Mr Beast gameshow, including my mum, competing for a $4 million prize. Everyone had to run through a long illuminated yellow cave that periodically flooded and anyone who didn’t seek shelter in areas on the sides were swept back to the start. My mum, others, and I were among the few who made the most progress. In the end, my mum won the game, and MrBeast said he would eventually wire the money to her.
 

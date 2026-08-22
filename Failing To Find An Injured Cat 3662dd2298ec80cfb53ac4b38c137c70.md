@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: May 20, 2026
-updated_at: August 22, 2026 3:30 AM
+updated_at: August 22, 2026 7:20 PM
 emotion: Sad
-characters: Family
+people_i_know: Family
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

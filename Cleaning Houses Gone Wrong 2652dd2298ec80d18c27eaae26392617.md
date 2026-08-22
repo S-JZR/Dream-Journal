@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: September 5, 2025
-updated_at: June 5, 2026 3:50 AM
+updated_at: August 22, 2026 7:16 PM
 emotion: Fear
-characters: Angus, Family
 influences: Personal Experiences
+people_i_know: Angus, Family
 
 I was standing outside my unit with Angus, an old friend from primary school, as we cleared out my garage. We pulled out a trampoline with various items on top as strong gusts of wind lifted it a few centimetres off the ground so we tried to hold it down. However, the wind grew stronger and the trampoline flew into the sky, the items scattered across roofs and the ground, and we clung tightly to its legs. We strategically titled the trampoline forward to descend and jumped to hold onto the branches of a palm tree outside the units in the paddock that lowered down. Angus and I considered ways to retrieve the misplaced items when I equipped a jetpack and told him to hold onto me as I flew onto the roofs to collect items. Atop the units was a giant rectangular tower with items on top and two vertical columns of glowing green LED blocks separated by a narrow gap. I tried wall jumping between the blocks but it didn’t work so instead I climbed one column. Upon reaching the top, I warned Angus not to look down since it would only terrify him.
 

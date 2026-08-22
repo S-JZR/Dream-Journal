@@ -5,7 +5,7 @@ is_nsfw: No
 date: January 1, 2024
 updated_at: August 22, 2026 2:44 AM
 emotion: Sad
-characters: Alexander Armstrong
+people_in_the_media: Alexander Armstrong
 influences:   • During a group assessment in university we proposed the design of a new small public attraction at a local riverside precinct for a government client and I felt like it was a mediocre solution.
   • News: references Australia undergoing a housing crisis: https://www.salvationarmy.org.au/need-help/homelessness-support-services/homelessness-week/homelessness-statistics/australia-housing-crisis/.
 symbols:   • 3D Model: The fear that I’m not skilled enough for a job.

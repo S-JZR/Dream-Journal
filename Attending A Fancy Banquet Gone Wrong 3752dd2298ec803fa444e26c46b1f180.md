@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: June 4, 2026
-updated_at: August 22, 2026 3:33 AM
+updated_at: August 22, 2026 7:20 PM
 emotion: Embarrassment
-characters: Noah ?, Reece ?
+people_i_know: Noah ?, Reece ?
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

@@ -3,9 +3,9 @@
 is_favourite: Yes
 is_nsfw: No
 date: November 15, 2025
-updated_at: August 22, 2026 3:20 AM
+updated_at: August 22, 2026 7:17 PM
 emotion: Fear
-characters: Family
+people_i_know: Family
 
 I was driving alone down a coastal road with a forest to the right at night as I encountered different people standing in the middle of the road who were waving their arms and asking for help. My car windows were down.
 

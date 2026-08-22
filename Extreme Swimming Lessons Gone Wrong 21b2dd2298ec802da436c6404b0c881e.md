@@ -3,13 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: June 18, 2025
-updated_at: July 12, 2026 9:27 PM
+updated_at: August 22, 2026 7:15 PM
 emotion: Fear
-characters: Julien C
 influences: I had a fear of swimming in primary school due to multiple bad experiences.
 symbols:   • Darkness/Baby Crocodile: Fears and difficult challenges requiring discipline to overcome.
   • Hovercraft: Shortcuts with AI.
   • Warning: The fear of not having the skills necessary for a job.
+people_i_know: Julien C
 
 I was one of many secondary school students learning to swim in a rectangular grey concrete room while being supervised by a female teacher:
 

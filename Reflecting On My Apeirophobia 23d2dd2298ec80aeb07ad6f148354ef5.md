@@ -5,7 +5,7 @@ is_nsfw: No
 date: July 18, 2025
 updated_at: July 12, 2026 9:28 PM
 emotion: Happy
-characters: Alan Seawright, CaseOh, Jonathan Decker
+people_in_the_media: Alan Seawright, CaseOh, Jonathan Decker
 influences:   • I used to have a strong fear of infinity about things like:
       ◦ The implications of living forever. Never reaching an end. Being unable to comprehend infinity. Having an expectation to be conscious forever. Trivializing our human identity and what we value. The fear of things falling apart.
       ◦ Does true infinity exist? Can we achieve infinite experiences or are we limited to a finite cycle?

@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: November 26, 2024
-updated_at: July 5, 2026 1:14 AM
+updated_at: August 22, 2026 7:10 PM
 emotion: Fear
-characters: Tabitha
 influences: References the 3AM challenge: https://youtube.fandom.com/wiki/3AM_Challenges.
+people_i_know: Tabitha
 
 I was standing in the paddock beside my unit complex when I met Tabitha, a member of a local former church.
 

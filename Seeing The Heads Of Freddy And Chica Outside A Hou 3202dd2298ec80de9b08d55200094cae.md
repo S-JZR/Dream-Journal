@@ -5,7 +5,7 @@ is_nsfw: No
 date: March 11, 2026
 updated_at: August 22, 2026 3:23 AM
 emotion: Fear
-characters: Chica, Freddy Fazbear
+people_in_the_media: Chica, Freddy Fazbear
 influences: Five Nights At Freddy's (2014): References the hallucinations of animatronic heads randomly appearing during the night.
 
 <aside>

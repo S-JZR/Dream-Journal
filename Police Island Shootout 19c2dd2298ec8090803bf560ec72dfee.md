@@ -5,7 +5,7 @@ is_nsfw: No
 date: February 11, 2025
 updated_at: August 22, 2026 3:15 AM
 emotion: Sad
-characters: Logan Paul, MrBeast
+people_in_the_media: Logan Paul, MrBeast
 symbols:   • MrBeast: Likely the subconscious desire to meet him.
 
 I was one of many police officers dispatched to a distress call on an island with a skyscraper beside coastal cities. Upon arriving at a long textured stone pier with an awning and loose rocks on both sides, a man behind a distant art installation opened fire on us. We took cover behind nearby red metal poles as bullets struck them repeatedly. While taking turns to return fire, I was hit in the shoe, severing my toe, and I accidentally pulled the trigger too early as another bullet ricocheted off the pole into my leg.

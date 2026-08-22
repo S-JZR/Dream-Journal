@@ -5,7 +5,7 @@ is_nsfw: No
 date: February 12, 2014
 updated_at: July 12, 2026 10:19 PM
 emotion: Sad
-characters: Glitch
+people_in_the_media: Glitch
 influences:   • Metal Arms Glitch In The System (2003): References Glitch.
   • Damo And Darren 1 (2014): The walking animation likely references a demo animatic or Damo and Darren 1 (NSFW) that was featured on YouTube’s home page: https://youtu.be/vmL72sgVdAQ?si=4OpKqpNbqSqilyke&t=143.
 

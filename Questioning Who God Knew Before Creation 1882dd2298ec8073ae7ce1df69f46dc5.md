@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: June 5, 2026 12:33 AM
+updated_at: August 22, 2026 7:18 PM
 emotion: Surprise
-characters: God (Christianity)
+people_in_the_media: God
 influences:   • I’ve heard others ask what was God doing before the universe existed.
   • I’ve heard Jesus existed eternally with God and planned to save the world before creation.
 

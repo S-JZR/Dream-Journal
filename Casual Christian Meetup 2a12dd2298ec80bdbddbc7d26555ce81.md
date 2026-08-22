@@ -3,14 +3,14 @@
 is_favourite: No
 is_nsfw: No
 date: November 4, 2025
-updated_at: July 12, 2026 9:29 PM
+updated_at: August 22, 2026 7:17 PM
 emotion: Embarrassment
-characters: Family
 influences:   • My mum is quick to be against anything that is worldly.
   • Christianity: References 1 Peter 3:7.
   • References Bryce being outspoken and getting tattoos after becoming a Christian: https://youtu.be/q806cx4YiVc?si=_5pUFNT5kZbK4RBx&t=1453.
   • Reminds me of various Christians discussing things together in The Christian Avengers.
 symbols: Walking Dead Shirt: Being interested in mainstream media because everyone else is.
+people_i_know: Family
 
 I was standing in the lounge room of my unit with my family when three young Christian adults came over to chat. After hearing a noisy motorbike, I looked out the kitchen window to see Bryce Crawford driving a noisy red motorbike down and up the alleyway behind the units before parking beside the footpath. Everyone moved to unit 7 for a discussion. A woman was wearing a red dress. Bryce was wearing a Walking Dead T-shirt with grey zombies crawling on the ground.
 

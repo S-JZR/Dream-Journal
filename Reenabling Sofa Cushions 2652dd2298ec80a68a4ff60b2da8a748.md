@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: September 5, 2025
-updated_at: June 5, 2026 3:50 AM
+updated_at: August 22, 2026 7:16 PM
 emotion: Surprise
-characters: Family
+people_i_know: Family
 
 I was putting cushions on the sofa in the lounge room in my unit when I briefly walked upstairs and returned to find them missing. I asked my mum if she knew where they went but she said no. After checking the remote control box beside the sofa, I found a paper thin rectangular touchscreen device featuring an options menu with a grid of 2 squares with captions. The squares were green when on and red when off. I kept scrolling down until I found an option stating the cushions were disabled and toggled it on as they immediately reappeared where I had placed them.

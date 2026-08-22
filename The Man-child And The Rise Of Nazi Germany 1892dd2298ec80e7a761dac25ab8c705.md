@@ -3,9 +3,8 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: December 19, 2024
-updated_at: August 22, 2026 3:12 AM
+updated_at: August 22, 2026 7:10 PM
 emotion: Fear
-characters: Julien C
 influences:   • Cool Runnings (1993): References Yul Brenner who has a naïve dream about living in Buckingham Palace if he works hard enough but doesn’t realize it’s exclusive to the royal family: https://youtu.be/RvzpuAa1QVs?si=7_LtXeh2s5QpQ85A.
   • Christianity: References Luke 16:10, 1 Corinthians 13:11, and Romans 16:18.
   • The Philosophy Book: Big Ideas Simply Explained (2017): References reading the book recently.
@@ -27,6 +26,7 @@ symbols:   • 24 Year Old: Self-criticism that I’m a man-child. I’m still d
   • Monster Soldiers/Smiling Parents: Ordinary people can become monsters through radicalization.
 • Dead Teenager: Parallels the 24 year old man who is not providing for himself.
 • Children’s Book/Wicked Ruler: Retelling of Nazi Germany and Adolf Hitler.
+people_i_know: Julien C
 
 I was spectating a 24-year-old man on a remote rural farm who was allowed by his father to live a privileged coddled life without needing to work. He was a pacifist who wore a white robe and was naïve about the world, behaving like a man-child unconcerned about the future and pursued endless pleasures. His father wanting him to mature to get a job drove him into the city to start advertising his labour to others. For some reason, they decided to visit the royal palace first, perhaps at the son’s unrealistic initial request, to see if any jobs were available. However, after parking some distance away behind a large boulder on flat grassy land, a room on the top floor underwent multiple explosions from a terrorist attack as shattered glass from the windows flew outwards, prompting them to drive away in fear.
 

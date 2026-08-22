@@ -3,9 +3,9 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 8, 2026
-updated_at: August 22, 2026 3:29 AM
+updated_at: August 22, 2026 7:19 PM
 emotion: Embarrassment
-characters: Bianca D, Thomas R
+people_i_know: Bianca D, Thomas R
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

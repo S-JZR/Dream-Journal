@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: August 20, 2026
-updated_at: August 20, 2026 5:30 PM
+updated_at: August 22, 2026 7:21 PM
 emotion: Fear
-characters: Dejan C
 influences: I saw Frieda Pilkington in the Animal Farm trailer
+people_i_know: Dejan C
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

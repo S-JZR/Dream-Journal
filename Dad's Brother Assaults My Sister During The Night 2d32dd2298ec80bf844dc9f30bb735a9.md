@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: November 14, 2025
-updated_at: August 22, 2026 3:20 AM
+updated_at: August 22, 2026 7:17 PM
 emotion: Fear
-characters: Family, Jack R
 influences: Jack is a compulsive liar and my dad is hesitant to trust him.
+people_i_know: Family, Jack R
 
 I was spectating my mother, father, and a fictional teenage sister sleeping together in the master bedroom of an elevated log cabin in the woods. My sister was lying between my mum and father and had an orange flying disc cat toy beside her head. Someone quietly broke in by sliding open the left lounge room window and entered the master bedroom to strike my sister in the head with a blunt metal pipe then left. She was knocked unconscious and had amnesia. In the morning, my parents reported the incident to the police who concluded that she was injured by the disc which didn’t make any sense but I started to believe it over time. The story was picked up by the news and went viral.
 

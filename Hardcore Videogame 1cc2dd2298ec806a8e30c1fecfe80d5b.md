@@ -5,7 +5,7 @@ is_nsfw: No
 date: April 4, 2025
 updated_at: June 5, 2026 2:45 AM
 emotion: Happy
-characters: Vanoss Crew
+people_in_the_media: Vanoss Crew
 influences:   • References watching a lot of Vanoss Crew gameplay for a month, specifically R.E.P.O.
   • Team Fortress 2 (2007): References gameplay and rooftop maps.
 

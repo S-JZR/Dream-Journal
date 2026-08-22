@@ -3,12 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: November 25, 2021
-updated_at: August 22, 2026 2:40 AM
+updated_at: August 22, 2026 7:07 PM
 emotion: Anger
-characters: Family
 symbols:   • Impatient Driver: I always feel rushed and don’t have enough time to finish things.
   • Garage: Fear of losing sentimental things and the past.
   • Church Staff: Trying to do everything myself too much.
+people_i_know: Family
 
 I was about to go on a vacation to Hawaii with my family but needed to retrieve valuables from a garage on a rural mountain in Japan. Hitching a ride on a pickup truck with a disgruntled male driver, we ascended halfway up to a vantage point overlooking an ocean bridge connecting the urban and rural regions.
 

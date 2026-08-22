@@ -5,7 +5,7 @@ is_nsfw: No
 date: December 9, 2020
 updated_at: August 22, 2026 2:38 AM
 emotion: Embarrassment
-characters: PewDiePie
+people_in_the_media: PewDiePie
 influences: References watching PewDiePie a lot in the past.
 symbols:   • PewDiePie: I likely had a subconscious desire to meet him.
   • Candy: The fear of being misperceived.

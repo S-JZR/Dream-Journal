@@ -5,7 +5,7 @@ is_nsfw: No
 date: January 1, 2020
 updated_at: August 22, 2026 2:34 AM
 emotion: Fear
-characters: Grim Reaper
+people_in_the_media: Grim Reaper
 influences: Recently my family has been attending the church.
 symbols: Empty Coffin: The fear of death.
 

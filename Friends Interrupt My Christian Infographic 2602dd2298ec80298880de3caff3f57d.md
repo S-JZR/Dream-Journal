@@ -3,13 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: August 29, 2025
-updated_at: July 12, 2026 9:29 PM
+updated_at: August 22, 2026 7:16 PM
 emotion: Sad
-characters: Family
 influences: Personal Thoughts
 symbols:   • Interrupted: I feel like I’m constantly being torn away from deeper thinking.
   • Naïve Woman: Distractions.
   • Mother: I have a practical view of the world.
+people_i_know: Family
 
 I was seated at my desk in my unit working on drawing a high level plan of a bible infographic to efficiently showcase events, themes, and insights like:
 

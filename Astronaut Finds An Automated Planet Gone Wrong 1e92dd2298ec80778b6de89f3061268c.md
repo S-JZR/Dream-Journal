@@ -5,7 +5,7 @@ is_nsfw: No
 date: April 29, 2025
 updated_at: August 22, 2026 3:16 AM
 emotion: Fear
-characters: James Carter
+people_in_the_media: James Carter
 influences:   • Thunderbirds (1965): References Thunderbird 3.
   • Star Wars (1987): References the dark side.
   • Rush Hour (1998): References Carter who is the comedic relief character.

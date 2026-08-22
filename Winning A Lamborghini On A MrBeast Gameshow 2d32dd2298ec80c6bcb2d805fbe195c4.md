@@ -5,7 +5,7 @@ is_nsfw: No
 date: December 12, 2025
 updated_at: July 12, 2026 9:30 PM
 emotion: Surprise
-characters: MrBeast
+people_in_the_media: MrBeast
 influences: References MrBeast often staring at the screen with the vine boom sound effect during awkward moments.
 symbols: MrBeast: Likely the subconscious desire to be on the gameshow.
 

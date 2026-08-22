@@ -5,7 +5,7 @@ is_nsfw: No
 date: January 22, 2024
 updated_at: August 22, 2026 2:46 AM
 emotion: Fear
-characters: Heavy
+people_in_the_media: Heavy
 influences: Team Fortress 2 (2007): References the Heavy.
 symbols: Oval Track: Feeling like I’m stuck in a loop and not making progress.
 
