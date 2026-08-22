@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 19, 2026
-updated_at: August 22, 2026 7:18 PM
+updated_at: August 22, 2026 9:16 PM
 emotion: Fear
-people_i_know: Family
+people_i_know: Dad
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

@@ -3,15 +3,15 @@
 is_favourite: No
 is_nsfw: No
 date: January 11, 2020
-updated_at: August 22, 2026 7:06 PM
+updated_at: August 22, 2026 9:42 PM
 emotion: Happy
 influences:   • Rhiannon and other female students often talked about everyday life during art class.
   • My dad can be a rough driver at times.
 symbols:   • Telekinesis: The shadow self being a trickster.
   • 45 Degree Road: Feeling anxious when my dad drives.
-people_i_know: Family, Rhiannon C
+people_i_know: Dad, Mum, Rhiannon C
 
-I was standing in a local former church after the service finished when my mother explained that she had tickets for a family musical at another church later that day. Before leaving, I mischievously decided to amuse myself by attempting to startle those nearby using telekinesis to tidy up pamphlets on a table near the amphitheatre entrance, but the spectacle went unnoticed.
+I was standing in a local former church after the service finished when my mum explained that she had tickets for a family musical at another church later that day. Before leaving, I mischievously decided to amuse myself by attempting to startle those nearby using telekinesis to tidy up pamphlets on a table near the amphitheatre entrance, but the spectacle went unnoticed.
 
 On the drive with my dad, there were only three teenage girls and me in the back seat, one of whom was Rhiannon from secondary school. We briefly drove to an unknown location for the girls to meet friends. Upon returning, they discussed childhood toys like Bratz dolls. I remained silent, imagining a scenario where the girls acknowledged me, to which I exclaimed, "So you do remember me!"
 

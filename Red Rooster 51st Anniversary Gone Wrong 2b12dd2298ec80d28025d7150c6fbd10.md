@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: November 20, 2025
-updated_at: August 22, 2026 7:17 PM
+updated_at: August 22, 2026 9:11 PM
 emotion: Surprise
-people_i_know: Family
+people_i_know: Brother, Dad, Mum
 
 I was seated in my mum’s car with my family being driven by my mum across the country to a remote southern style Red Rooster. We walked inside to the self-serve machine featuring a ridiculous amount of food items like candy, vegetables, chicken, drinks, etc.
 

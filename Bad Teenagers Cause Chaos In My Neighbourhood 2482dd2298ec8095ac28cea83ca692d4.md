@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: August 7, 2025
-updated_at: August 22, 2026 7:16 PM
+updated_at: August 22, 2026 8:57 PM
 emotion: Fear
 influences: Pauline Hanson's Please Explain (2021): References National Insecurity cancelling National Security by spreading rumours about him to his YouTube subscribers: https://youtu.be/2pUQQx9EIOg?si=_XhP1ou-7hEN5zNJ&t=182.
 notes: May have predicted a car being firebombed in the street near my unit complex about three months later. [Classified for now].
-people_i_know: Family
+people_i_know: Brother, Dad, Mum
 
 I was standing in my unit with my family when troublesome teenagers returned to disturb the peace by doing burnouts in the paddock and building a three storey fortress out of concrete T walls, scrap, and wood in the place of the new units. My parents and I went outside to investigate the commotion when the teenagers threw Molotov cocktails in the paddock and left of my garage beside the fortress to start fires that got the attention of all neighbours in the paddock who worked together to extinguish them. I turned on a tap beside my garage and connected a hose to extinguish fires and made it rain on plants and the wooden fence as a precaution to prevent future attacks. The teenagers claimed the government said they had no business being here so they defiantly started a store in the fortress to sell drinks for $3. My dad and I walked over to explore the fortress. I was afraid they would exit to confront us but he said they only emerge at specific times and handed me a scientific diagram of the sun and moon clock cycle.
 

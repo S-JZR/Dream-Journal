@@ -3,12 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 22, 2026 7:05 PM
+updated_at: August 22, 2026 8:31 PM
 emotion: Surprise
 influences: My parents still buy and collect DVDs.
 Christianity
 symbols:   • Dystopian Heaven: The fear that heaven won’t be desirable.
-people_i_know: Family
+people_i_know: Brother, Dad, Mum
 
 I was standing outside a church with my family and other Christians when we were instantly raptured to a dystopian heaven:
 

@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: June 21, 2025
-updated_at: August 22, 2026 7:15 PM
+updated_at: August 22, 2026 8:55 PM
 emotion: Fear
 influences:   • Lilo And Stitch (2002): Likely references Jumba and Pleakley trying to capture Stitch.
   • Christianity: References biblical angels with many eyes.
-people_i_know: Family
+people_i_know: Brother, Dad, Mum
 
 I was seated in the library beside a window facing the front of my secondary school, with my family roaming nearby, when I saw my dad’s old teal Holden Barina being towed away from the grassy parking lot for illegally parking on a concrete slab around a tree. I asked my dad if he was going to intervene but he remained unfazed and didn’t stop it. Initially we thought the school was responsible, but after my family walked along the left and right footpaths outside the school, we realized multiple cars were being towed away.
 

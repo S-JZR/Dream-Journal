@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 13, 2026
-updated_at: August 22, 2026 7:18 PM
+updated_at: August 22, 2026 9:15 PM
 emotion: Fear
 people_in_the_media: IShowSpeed
 influences:   • My brother has researched some political conspiracy theories.
@@ -13,7 +13,7 @@ influences:   • My brother has researched some political conspiracy theories.
   • References IShowSpeed visiting a witch and leaving halfway through because he felt concerned: https://youtu.be/g7zFNRrXnME?si=sqnr-5P31LtnbpeQ&t=379.
 symbols:   • Red Lights: Evil.
   • Forehead Chip: The mark of the beast.
-people_i_know: Family
+people_i_know: Brother
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

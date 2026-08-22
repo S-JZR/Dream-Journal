@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 7, 2025
-updated_at: August 22, 2026 3:16 AM
+updated_at: August 22, 2026 9:40 PM
 emotion: Fear
 
 I was standing in my unit when a girl approached the front flyscreen door while it was raining.

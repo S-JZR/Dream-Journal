@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: May 21, 2024
-updated_at: August 22, 2026 7:09 PM
+updated_at: August 22, 2026 8:42 PM
 sleep_phenomena: Nightmare
 emotion: Fear
-people_i_know: Family
+people_i_know: Coco
 
-I was standing inside my unit when the sound of my cat chasing something in the backyard prompted me to investigate. Down the stairs beside the water boiler, I witnessed a translucent white bearded dragon lizard without internal organs materializing. Upon re-entering the unit, I instinctively knew I was transported to a parallel dimension called "Cloud 59." In the lounge room, a tall white humanoid figure in black attire with red eyes and a plus symbol covering its forehead charged forward to attack me.
+I was standing inside my unit when the sound of Coco, my cat, chasing something in the backyard prompted me to investigate. Down the stairs beside the water boiler, I witnessed a translucent white bearded dragon lizard without internal organs materializing. Upon re-entering the unit, I instinctively knew I was transported to a parallel dimension called "Cloud 59." In the lounge room, a tall white humanoid figure in black attire with red eyes and a plus symbol covering its forehead charged forward to attack me.
 
 I jolted awake.

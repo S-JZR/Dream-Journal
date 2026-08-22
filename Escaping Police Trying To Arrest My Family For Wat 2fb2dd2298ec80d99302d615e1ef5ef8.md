@@ -3,13 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: February 2, 2026
-updated_at: August 22, 2026 7:18 PM
+updated_at: August 22, 2026 9:17 PM
 emotion: Fear
 influences:   • I have heard that people are being arrested in the UK for posting content on social media that the government deems hate speech.
   • 20 January 2026: Australia recently passed vague hate speech laws to combat antisemitism: https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7422.
   • Some people tried cancelling the A Super Progressive Movie because it was politically incorrect.
   • A Super Progressive Movie (2026): I recently watched the film out of curiosity.
-people_i_know: Family
+people_i_know: Brother, Dad, Mum
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

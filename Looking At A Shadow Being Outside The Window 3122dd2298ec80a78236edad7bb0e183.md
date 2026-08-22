@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: February 25, 2026
-updated_at: August 22, 2026 7:19 PM
+updated_at: August 22, 2026 9:19 PM
 emotion: Surprise
-people_i_know: Family
+people_i_know: Brother
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

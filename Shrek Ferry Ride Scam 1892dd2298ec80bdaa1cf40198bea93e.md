@@ -3,13 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: April 24, 2024
-updated_at: August 22, 2026 7:09 PM
+updated_at: August 22, 2026 8:41 PM
 emotion: Anger
 people_in_the_media: Gordon Ramsay
 influences:   • News: References the Willy's Chocolate Experience scam: https://en.wikipedia.org/wiki/Willy's_Chocolate_Experience.
   • Hell's Kitchen (2005): References Gordan Ramsay.
 symbols: Ski Lift: The fear of heights.
-people_i_know: Family
+people_i_know: Brother, Dad, Mum
 
 I was walking down a street in a seaside city with my family:
 

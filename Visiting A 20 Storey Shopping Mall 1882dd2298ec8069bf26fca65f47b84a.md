@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 25, 2020
-updated_at: August 22, 2026 7:06 PM
+updated_at: August 22, 2026 8:38 PM
 emotion: Fear
-people_i_know: Family
+people_i_know: Brother, Dad, Mum
 
 I was seated in my mum's car, carpooling with my family and another family, and being driven by my mum during the weekend to visit a new 20-story shopping mall. With hardly anyone around, we effortlessly found a parking spot. In the vestibule, we encountered a male middle-aged security guard in a black uniform standing beside two thick sliding steel doors.
 

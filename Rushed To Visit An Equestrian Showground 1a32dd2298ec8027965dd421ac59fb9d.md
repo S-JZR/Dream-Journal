@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: Yes
 date: October 4, 2024
-updated_at: August 22, 2026 7:53 PM
+updated_at: August 22, 2026 8:47 PM
 emotion: Embarrassment
-people_i_know: Family
+people_i_know: Dad
 
 I was sitting on the downstairs toilet with my pants down in my unit when my dad desperately wanted to drive me to see the new Equestrian Showground at the stores down the road. I rushed to leave without finishing and nervously wiped my butt with tissues in the backseat of his car, hoping he wouldn't notice. After arriving, I discarded the tissues in a metal bin and saw different horse riders jumping over a rail. The difficulty gradually increased until the rail was raised to two metres and a rider on a white horse with a pink mane forfeited.

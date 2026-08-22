@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: September 2, 2024
-updated_at: August 22, 2026 3:12 AM
+updated_at: August 22, 2026 10:09 PM
 emotion: Fear
 influences:   • Skibidi Toilet (2023): References the Skibidi Toilet trend that was popular: https://en.wikipedia.org/wiki/Skibidi_Toilet.
   • Doors (2021) (Roblox): References surviving monsters in a hotel. References the timed cupboard event with The Figure.
@@ -58,6 +58,6 @@ During the second night, a male ghost appeared and randomly selected a boy and m
 > **Boy**: ...
 > 
 
-The mother assumed that nobody would harm her son for being young but everyone chose to spare me and the boy died.
+His mother assumed that nobody would harm her son for being young but everyone chose to spare me and the boy died.
 
 Half of the room opened to reveal a giant guru statue monster seated with its legs crossed in shallow water. While everyone fought it, I went into a rage, jumped onto its legs, and repeatedly beat it to death as it fell to pieces.

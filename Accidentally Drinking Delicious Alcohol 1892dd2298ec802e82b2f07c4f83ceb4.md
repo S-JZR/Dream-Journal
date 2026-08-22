@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 19, 2024
-updated_at: August 22, 2026 7:09 PM
+updated_at: August 22, 2026 8:41 PM
 emotion: Surprise
-people_i_know: Family
+people_i_know: Mum
 
 I was standing in the kitchen of my unit when I noticed a tall rectangular glass bottle with a diamond-shaped lid on the counter and began drinking a few shots using the lid. It tasted fantastic, with no hint of it being an alcoholic beverage, so I continued taking sips.
 

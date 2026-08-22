@@ -3,13 +3,13 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 22, 2026 7:05 PM
+updated_at: August 22, 2026 8:31 PM
 sleep_phenomena: Nightmare
 emotion: Fear
 influences:   • I fear that WW3 might unexpectedly start.
   • Christianity: Reminds me of Matthew 24:3-8.
 symbols: Confessing sins: I fear that unresolved sins might send me to hell.
-people_i_know: Family
+people_i_know: Brother, Dad, Mum
 
 I was standing in the lounge room of my unit when my family overheard the low hum of a plane circling in the sky nearby for a long time. We exited to investigate and scattered across the carpark where we looked around to try locating the source of the sound but saw nothing. A WW2-era single-engine plane performed a strafing run in front of us and fired twin nose machine guns that illuminated a parallel strip of ground bisecting us with sparks.
 

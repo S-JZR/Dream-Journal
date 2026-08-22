@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: May 28, 2024
-updated_at: August 22, 2026 7:09 PM
+updated_at: August 22, 2026 8:42 PM
 emotion: Happy
 influences: Cart Ride (2008) (Roblox): Likely references the old ride a cart games.
-people_i_know: Family
+people_i_know: Brother, Dad, Mum
 
 I was seated in my mum's car with my family being driven by my mum to a honey factory and noticed a tree beside it that reminded me of a festival where a minecart carried people around a track. Upon returning home, we planned to go next year, this time opting for a faster train journey.
 

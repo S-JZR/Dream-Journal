@@ -3,19 +3,19 @@
 is_favourite: No
 is_nsfw: No
 date: November 14, 2025
-updated_at: August 22, 2026 7:17 PM
+updated_at: August 22, 2026 9:43 PM
 emotion: Fear
 influences: Jack is a compulsive liar and my dad is hesitant to trust him.
-people_i_know: Family, Jack R
+people_i_know: Dad, Jack R, Mum
 
-I was spectating my mother, father, and a fictional teenage sister sleeping together in the master bedroom of an elevated log cabin in the woods. My sister was lying between my mum and father and had an orange flying disc cat toy beside her head. Someone quietly broke in by sliding open the left lounge room window and entered the master bedroom to strike my sister in the head with a blunt metal pipe then left. She was knocked unconscious and had amnesia. In the morning, my parents reported the incident to the police who concluded that she was injured by the disc which didn’t make any sense but I started to believe it over time. The story was picked up by the news and went viral.
+I was spectating my dad, mum, and a fictional teenage sister sleeping together in the master bedroom of an elevated log cabin in the woods. My sister was lying between my dad and mum and had an orange flying disc cat toy beside her head. Someone quietly broke in by sliding open the left lounge room window and entered the master bedroom to strike my sister in the head with a blunt metal pipe then left. She was knocked unconscious and had amnesia. In the morning, my parents reported the incident to the police who concluded that she was injured by the disc which didn’t make any sense but I started to believe it over time. The story was picked up by the news and went viral.
 
 My dad suspected that Jack, his untrustworthy brother, was responsible. My sister got dressed to go to school that day.
 
 > **Me**: If you don’t feel well then don’t hesitate to reach out for help or call an ambulance.
 > 
 
-While travelling to an underground train station to obtain a letter from a post office box, rumours spread that my mother hit my sister so she hid from the press. I travelled upstairs to the streets and saw Jack lying at the entrance of a nearby garage, covered in blood and surrounded by a crowd. I informed my dad who rushed upstairs to investigate but upon approaching he got up.
+While travelling to an underground train station to obtain a letter from a post office box, rumours spread that my mum hit my sister so she hid from the press. I travelled upstairs to the streets and saw Jack lying at the entrance of a nearby garage, covered in blood and surrounded by a crowd. I informed my dad who rushed upstairs to investigate but upon approaching he got up.
 
 > **Jack**: You’ve been hiding facts and are afraid to admit that you’re the one responsible!
 > 
@@ -29,7 +29,7 @@ While travelling to an underground train station to obtain a letter from a post 
 > **Jack**: You're irresponsible!
 > 
 
-> **Jack**: You didn't even check if the window was shut ... even I did that!
+> **Jack**: You didn't even check if the window was shut... even I did that!
 > 
 
 > **Crowd**: *Gasp*.
