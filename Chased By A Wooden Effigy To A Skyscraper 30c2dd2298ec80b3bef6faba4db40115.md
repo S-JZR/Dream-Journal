@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 19, 2026
-updated_at: August 22, 2026 7:19 PM
+updated_at: August 23, 2026 6:14 PM
 emotion: Fear
 people_i_know: Michael C
 
@@ -29,20 +29,14 @@ I thought that I heard faint footsteps behind us in the distance growing louder.
 
 I turned around and saw a wooden black effigy creature with red eyes emerged from around the corner of a building and power walk towards us. The creature seemed to be worn out with strips of its body hanging down from its arms and chest.
 
-> **Me**: We’re being chased by a monster!
-> 
-
-> **Me**: Follow the straight path out of here!
+> **Me**: We’re being chased by a monster! Follow the straight path out of here!
 > 
 
 We fled to a two-storey grey building outside of the university to try escaping the monster but it was still following us. We travelled to the top floor with our bikes and smashed through the windows to jump over a ten metre gap onto an elevated footpath to escape and sought refugee at a distant skyscraper with 500 floors.
 
 After arriving at the skyscraper we walked up the stairs for 50 levels but thought it was futile.
 
-> **Michael**: This is so much effort.
-> 
-
-> **Michael**: Can’t we just take the elevator to the top?
+> **Michael**: This is so much effort. Can’t we just take the elevator to the top?
 > 
 
 > **Me**: Alright let’s do that.
@@ -50,16 +44,10 @@ After arriving at the skyscraper we walked up the stairs for 50 levels but thoug
 
 We entered the elevator but realized it had a limited range and took it to floor 400. We encountered a woman seated at a reception desk to the left of a locked metal door leading to higher floors and asked for help.
 
-> **Me**: Excuse me we’re being chased by a monster trying to kill us and need somewhere to hide.
+> **Me**: Excuse me we’re being chased by a monster trying to kill us and need somewhere to hide. Can we enter that door to higher floors so we will be unreachable?
 > 
 
-> **Me**: Can we enter that door to higher floors so we will be unreachable?
-> 
-
-> **Woman**: Sorry but that is a restricted area.
-> 
-
-> **Woman**: You can use that side storage room over there though.
+> **Woman**: Sorry but that is a restricted area. You can use that side storage room over there though.
 > 
 
 > **Me**: Ok, thanks.
@@ -67,13 +55,7 @@ We entered the elevator but realized it had a limited range and took it to floor
 
 We entered the large storage room filled with square and rectangle boxes and crates on metal shelves when I got an idea to escape undetected.
 
-> **Me**: We can’t go back downstairs because we don’t know where the monster is.
-> 
-
-> **Me**: Let’s mail ourselves inside of these crates back to our houses.
-> 
-
-> **Me**: We should declare on the postage label that we’re household pets so that the crates are handled properly and not rejected.
+> **Me**: We can’t go back downstairs because we don’t know where the monster is. Let’s mail ourselves inside of these crates back to our houses. We should declare on the postage label that we’re household pets so that the crates are handled properly and not rejected.
 > 
 
 After filling out the postage labels we sat inside the boxes and waited for delivery people who shipped us back to our houses.

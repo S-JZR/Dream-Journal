@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: December 3, 2025
-updated_at: July 13, 2026 2:25 AM
+updated_at: August 23, 2026 2:43 AM
 emotion: Happy
 influences:   • My parents used to take me and my brother to a sports club and put us in the kid’s room when we were younger.
   • My parents used to take me and my brother to arcades when we were younger and sometimes we played modern coin pushers a lot like Fantastic Fever 3 and Medalink (Western Dream). The latter was easy to earn coins from.

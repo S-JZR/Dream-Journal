@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 19, 2026
-updated_at: August 22, 2026 3:30 AM
+updated_at: August 23, 2026 6:36 PM
 emotion: Fear
 
 <aside>
@@ -27,18 +27,12 @@ I was the sidekick of Asian secret agents who knew martial arts tasked with inve
 
 After we finished, I briefly walked away and used a radio to scan for malicious activity when I found something.
 
-> **Man 1**: (Radio) Prepare the men.
-> 
-
-> **Man 1**: (Radio) In one minute we are going to storm the restaurant and capture them.
+> **Man 1** (Radio): Prepare the men. In 1 minute we are going to storm the restaurant and capture them.
 > 
 
 I hurried over to my colleagues to alert them.
 
-> **Me**: You’ve got 30 seconds to get out of here!
-> 
-
-> **Me**: I picked up a radio transmission that a bunch of criminals are on there way.
+> **Me**: You’ve got 30 seconds to get out of here! I heard over the radio that a bunch of criminals are on there way.
 > 
 
 We immediately fled out the back door into the carpark where my colleagues entered a car in a garage with a 10 metre tall suspension lift and started driving down the road but they stopped noticing me running after them to hitch a ride.
@@ -53,10 +47,7 @@ After they drove off, I fled down the street.
 
 I assumed the role of the chef who was a nice timid Asian man when the criminals entered the front door. Three male criminals took a seat at a table directly beside me as I worked at the stove with my back turned to them. The criminals were suspicious of me because they didn’t know whether I had any affiliations with the agents. Another male customer was complaining about something but when I was about to walk over a criminal stopped me.
 
-> **Man 3**: You can deal with him later, we’re customers too.
-> 
-
-> **Man 3**: Let me show you something.
+> **Man 3**: You can deal with him later, we’re customers too. Let me show you something.
 > 
 
 The man lifted up his shirt to reveal a revolver and a stack of bank notes tucked into his pants.
@@ -74,10 +65,7 @@ After the man took one bite he looked annoyed.
 > **Man 3**: It’s horrible, I don’t like it.
 > 
 
-> **Me**: Oh… you don’t like it?
-> 
-
-> **Me**: I can make something else for free if you want.
+> **Me**: Oh… you don’t like it? I can make something else for free if you want.
 > 
 
 > **Man 3**: No, I’m fine.
@@ -85,10 +73,7 @@ After the man took one bite he looked annoyed.
 
 I dished out the rest which were well received. After the men finished, they took everyone in the store hostage.
 
-> **Man 3**: Anyone who leaves the store will be killed.
-> 
-
-> **Man 3**: Sit against the back wall.
+> **Man 3**: Anyone who leaves the store will be killed. Sit against the back wall.
 > 
 
 The criminal pulled out his revolver which he pointed at me to play Russian Roulette and I hid behind customers sitting together against the wall.
@@ -98,10 +83,7 @@ The criminal pulled out his revolver which he pointed at me to play Russian Roul
 
 The gun didn’t go off.
 
-> **Man 3**: Do you want your payment?
-> 
-
-> **Man 3**: Come here.
+> **Man 3**: Do you want your payment? Come here.
 > 
 
 I stayed where I was and the criminal dropped bank notes onto my lap. Eventually, the criminals were busy talking to each other beside the stove when I considered slowly crawling out the back door to escape.

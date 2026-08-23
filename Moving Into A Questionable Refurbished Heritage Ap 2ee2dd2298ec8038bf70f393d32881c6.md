@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 20, 2026
-updated_at: August 22, 2026 3:21 AM
+updated_at: August 23, 2026 6:00 PM
 emotion: Sad
 
 <aside>
@@ -20,10 +20,7 @@ We exited the building and met with a nearby woman working for the city council 
 > **Mum**: Is it possible to have builders adds walls in our room and extend the elevator to the top floor?
 > 
 
-> **Woman**: You would need to contact the city council about that.
-> 
-
-> **Woman**: It probably won’t be possible since it would damage the building.
+> **Woman**: You would need to contact the city council about that. It probably won’t be possible since it would damage the building.
 > 
 
 I considered that the building could have a joint ownership between a private organization and the city council which could further complicate matters.

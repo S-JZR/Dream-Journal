@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 19, 2024
-updated_at: August 22, 2026 9:44 PM
+updated_at: August 23, 2026 1:06 AM
 emotion: Fear
 symbols:   • Monster: Urges and negative thoughts trying to cause chaos.
   • Failed Emergency Call: Not reaching out for help.

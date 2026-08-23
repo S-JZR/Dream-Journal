@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: December 26, 2025
-updated_at: August 22, 2026 9:14 PM
+updated_at: August 23, 2026 5:49 PM
 emotion: Fear
 people_i_know: Mum
 
@@ -11,10 +11,7 @@ I was seated in my mum’s car being driven by my mum with the windows rolled do
 
 After reaching the other side, we travelled left through a curved three metre deep narrow trench and deviated into a descending spiralling path to the right until we encountered the back of a buried car. We reversed back, I placed a caution sign in front of the path, and I wrote the reason why it was dangerous on it with a permanent marker. A male bystander drove past and spoke to me.
 
-> **Man**: Is everything ok?
-> 
-
-> **Man**: Is someone buried alive in that car?
+> **Man**: Is everything ok? Is someone buried alive in that car?
 > 
 
 > **Me**: I don’t know.

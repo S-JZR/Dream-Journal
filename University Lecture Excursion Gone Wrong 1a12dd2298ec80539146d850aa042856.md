@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 19, 2025
-updated_at: August 22, 2026 7:11 PM
+updated_at: August 23, 2026 2:17 AM
 emotion: Sad
 influences: I often feel like university is a waste of time.
 symbols:   • Shuffling Feet: The desire to avoid harming animals and insects.

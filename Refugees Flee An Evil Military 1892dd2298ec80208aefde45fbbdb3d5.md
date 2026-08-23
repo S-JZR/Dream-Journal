@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 19, 2024
-updated_at: August 22, 2026 2:45 AM
+updated_at: August 23, 2026 12:26 AM
 emotion: Fear
 people_in_the_media: Jackie Chan
 

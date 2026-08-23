@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 5, 2025
-updated_at: August 22, 2026 8:51 PM
+updated_at: August 23, 2026 2:20 AM
 emotion: Surprise
 influences: My brother is still learning to drive and sometimes gets too close to cars parked at the curb.
 people_i_know: Brother, Dad, Mum

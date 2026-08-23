@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 6, 2026
-updated_at: August 22, 2026 7:19 PM
+updated_at: August 23, 2026 6:18 PM
 emotion: Fear
 people_in_the_media: Sheriff Woody
 influences: Doors (2021) (Roblox): Likely references Doors where you loot drawers, some cupboards and drawers are booby trapped, and there’s monsters everywhere.
@@ -28,16 +28,7 @@ We played each game as ourselves instead of in-game avatars.
 
 The first game was Scorched Earth and we stood in a concrete type 22 pillbox on a hill looking out the slits at distant players.
 
-> **Me**: Basically you build fortifications to protect yourself and wait for approaching enemies.
-> 
-
-> **Me**: The game is particularly difficult for new players because you don’t start with any scopes and have to aim down sights at distant people you can barely see.
-> 
-
-> **Me**: We don’t have to play this if you want, I was just showing it to you.
-> 
-
-> **Me**: What kinds of games do you play?
+> **Me**: Basically you build fortifications to protect yourself and wait for approaching enemies. The game is particularly difficult for new players because you don’t start with any scopes and have to aim down sights at distant people you can barely see. We don’t have to play this if you want, I was just showing it to you. What kinds of games do you play?
 > 
 
 > **Girls**: We will show you.
@@ -53,13 +44,7 @@ In the second game we entered an L-shaped building to acquired pickaxes and move
 
 In the third game we entered a classical old mansion to loot it but we had to be careful of booby traps and monsters. There was also a random boy with us. We turned left to enter a bedroom when I was about to pull off the white sheets on a bed.
 
-> **Girl**: Stop, don’t pull it off!
-> 
-
-> **Girl**: Since the last update many of the beds and cupboards have been booby trapped and could spawn a monster that will chase us.
-> 
-
-> **Girl**: Stick to the drawers which are safer.
+> **Girl**: Stop, don’t pull it off! Since the last update many of the beds and cupboards have been booby trapped and could spawn a monster that will chase us. Stick to the drawers which are safer.
 > 
 
 I opened a few drawers which contained some valuables but when travelling halfway through the mansion I discovered a set of drawers to the left full of valuable golden jewellery and pulled it out into a sack to take with me. The boy was standing in front of me and looked back surprised.
@@ -72,7 +57,7 @@ We continued walking to a staircase that went up to a new floor and down into a 
 > **Me**: Can you search the top floor for 2 minutes.
 > 
 
-> **Woody**: We should wait for the team to meet back together and not split up.
+> **Woody**: We should wait for everyone to meet back together and not split up.
 > 
 
 > **Me**: It’s alright I can handle it all down here.
@@ -80,10 +65,7 @@ We continued walking to a staircase that went up to a new floor and down into a 
 
 While Woody was exploring I looked down in the basement to see a male Donkey with a deep voice seated at a small wooden table holding a quill on paper whose face was the only thing illuminated by light looking back at me.
 
-> **Donkey**: You’re under a curse.
-> 
-
-> **Donkey**: A giant caterpillar will be released at midnight to attack you.
+> **Donkey**: You’re under a curse. A giant caterpillar will be released at midnight to attack you.
 > 
 
 > **Me**: Can we break the curse?

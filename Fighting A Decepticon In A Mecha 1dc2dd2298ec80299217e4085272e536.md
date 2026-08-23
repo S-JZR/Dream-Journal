@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 14, 2025
-updated_at: June 5, 2026 2:48 AM
+updated_at: August 23, 2026 2:22 AM
 emotion: Anger
 influences:   • Transformers (1986): References the Decepticons.
   • Pacific Rim (2013): References using mechas to fight monsters.

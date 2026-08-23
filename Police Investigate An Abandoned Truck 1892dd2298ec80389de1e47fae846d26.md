@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: October 4, 2024
-updated_at: July 12, 2026 9:22 PM
+updated_at: August 23, 2026 2:11 AM
 emotion: Fear
 symbols:   • Police: Being followed by the police always makes me feel nervous.
   • Neighbours: The fear of being misperceived.

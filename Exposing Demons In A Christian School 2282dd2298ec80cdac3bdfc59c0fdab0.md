@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: July 3, 2025
-updated_at: August 22, 2026 7:15 PM
+updated_at: August 23, 2026 4:51 PM
 emotion: Surprise
 influences:   • My brother, another church member, and I once attended a youth group event but my brother and I were appalled by its performative nature with a hot dog eating contest on fold-out tables, a few worship songs, and casual calls to give your life to Christ.
   • During religious education in primary school, Carley randomly flipped through the bible and told others about the stories of rape she was repulsed by and implied the book was evil and should be avoided.
@@ -40,21 +40,12 @@ The teacher hosted a hotdog eating contest with everyone seated at tables in alp
 > **Teacher**: You’re all deliberately impeding the lesson by making a mess and not sitting down.
 > 
 
-> **Me**: That’s an unjust hasty generalisation.
-> 
-
-> **Me**: I didn’t see anyone cause the mess or participate in it.
+> **Me**: That’s an unjust hasty generalisation. I didn’t see anyone cause the mess or participate in it.
 > 
 
 She had a mental breakdown and burst into tears so I took charge.
 
-> **Me**: Go wash your face.
-> 
-
-> **Me**: We’ll clean the chairs.
-> 
-
-> **Me**: Are there any wipes we can use?
+> **Me**: Go wash your face. We’ll clean the chairs. Are there any wipes we can use?
 > 
 
 She didn't respond and left the room so everyone did their best to clean the seats with tissues but a few students were still disgusted by the leftover traces that were difficult to remove. She never returned and a female substitute entered through the right door to continue the class and I was worried the original teacher quit or was fired. The substitute didn't know the lesson’s previous topic or progress.
@@ -64,10 +55,7 @@ She didn't respond and left the room so everyone did their best to clean the sea
 
 I felt none of the teachers addressed core Christian doctrines like sin or the gospel and instead focused on entertainment, surface-level topics, and non-biblical practical advice.
 
-> **Me**: You’re doing an awful job!
-> 
-
-> **Me**: I can lead the class if you want.
+> **Me**: You’re doing an awful job! I can lead the class if you want.
 > 
 
 > **Substitute**: Alright come on up.
@@ -83,27 +71,15 @@ Loud banging in the attic distracted everyone as a few students, including me, c
 
 The noise stopped and after descending everything seemed fine but the attic temporarily glowed green and white smoke cascaded down. I instinctively knew an invisible demon tried to resist leaving but failed. Time ran out and everyone gathered their bags to leave as a young kid eagerly approached.
 
-> **Boy**: How did you do that?
+> **Boy**: How did you do that? Do you have superpowers?
 > 
 
-> **Boy**: Do you have superpowers?
-> 
-
-> **Me**: It’s not me who has the power to cast out demons but Jesus who has given us the authority to do it in his name.
-> 
-
-> **Me**: I'm merely following his command and imitating him.
-> 
-
-> **Me**: You can read about it in the Bible which is God's word shared with us.
+> **Me**: It’s not me who has the power to cast out demons but Jesus who has given us the authority to do it in his name. I'm merely following his command and imitating him. You can read about it in the Bible which is God's word shared with us.
 > 
 
 I was afraid he might read the Old Testament and stop after being intimidated by the graphic sins and God’s judgements.
 
-> **Me**: God is a holy and just judge who confronts all sins and is not watered down to please us.
-> 
-
-> **Me**: You won’t understand all the mature content in the Old Testament until you’re older.
+> **Me**: God is a holy and just judge who confronts all sins and is not watered down to please us. You won’t understand all the mature content in the Old Testament until you’re older.
 > 
 
 I approached a woman seated at the front reception desk.
@@ -123,10 +99,7 @@ Everyone fled. I released quick burst of fire to ignite everything as flames spr
 
 I returned to the same classroom for another lesson with a different female teacher who was finally discussing biblical topics. However, I was distracted by a whispering disembodied voice.
 
-> **Wolf**: Does God really exist?
-> 
-
-> **Wolf**: This is all so silly.
+> **Wolf**: Does God really exist? This is all so silly.
 > 
 
 I turned around to look through the back ceiling window and saw a white wolf standing on two legs in front of a nearby tree, staring in. I pointed it out to everyone.
@@ -134,5 +107,5 @@ I turned around to look through the back ceiling window and saw a white wolf sta
 > **Me**: Can anyone else see that or am I hallucinating?
 > 
 
-> **Everyone**: We don’t see anything you’re crazy.
+> **Everyone**: We don’t see anything, you’re crazy.
 >

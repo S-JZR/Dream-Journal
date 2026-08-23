@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: March 4, 2025
-updated_at: August 22, 2026 7:12 PM
+updated_at: August 23, 2026 7:28 PM
 emotion: Anger
 influences:   • I often feel like university is a waste of time.
   • I had female students in a CI class once who were researching how women are oppressed by male dominated industries.
@@ -25,10 +25,7 @@ people_i_know: Dejan C, Tom B
 
 I was one of many students seated in a university lecture room listening to a middle-aged female staff member give an orientation presentation in front of a projector.
 
-> **Woman**: Government reports indicate that student performance has declined across schools and a record number are dropping out before finishing their degrees.
-> 
-
-> **Woman**: The government is launching an initiative to address these issues.
+> **Woman**: Government reports indicate that student performance has declined across schools and a record number are dropping out before finishing their degrees. The government is launching an initiative to address these issues.
 > 
 
 We visited an art museum to see large war dioramas built into the wall to build our confidence about the degree:
@@ -64,10 +61,7 @@ I was walking through a supermarket checkout, connected to a restaurant at the u
 
 I messed up something which upset the customers and he brought up a hologram.
 
-> **Cashier**: As you can see, these are the details you formatted incorrectly.
-> 
-
-> **Cashier**: Now go do the other orders.
+> **Cashier**: As you can see, these are the details you formatted incorrectly. Now go do the other orders.
 > 
 
 > **Me**: It’s your job to be the waiter and I’m here as a customer.
@@ -75,31 +69,10 @@ I messed up something which upset the customers and he brought up a hologram.
 
 He was angry that I stood up for myself. While walking away into the underground carpark where my family was getting into my mum’s car I heard the cashier approaching from behind.
 
-> **Cashier**: You’re unemployed!
-> 
-
-> **Cashier**: What do you do with your time at home for ten hours a day?
-> 
-
-> **Cashier**: You could be contributing to the university!
-> 
-
-> **Cashier**: You’re a slacker!
-> 
-
-> **Cashier**: You don’t know what you’re doing with your life!
+> **Cashier**: You’re unemployed! What do you do with your time at home for 10 hours a day You could be contributing to the university! You’re a slacker! You don’t even know what you’re doing with your life!
 > 
 
 After arriving at Subway, I walked behind the counter as staff let me look around while they worked. However, the previous cashier also worked there and entered through the front door carrying a stainless steel tray of meatballs. Upon seeing me, he threw a tantrum by hurling a few at customers and activated the fire alarm behind the counter. He walked towards the customers and yelled as the manager passively confronted him and briefly held his arms but he continued.
 
-> 
-> 
-> 
-> **Manager**: Excuse me sir...
-> 
-
-> **Manager**: Excuse me ...
-> 
-
-> **Manager**: You need to stop!
+> **Manager**: Excuse me sir... Excuse me... You need to stop!
 >

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 9, 2026
-updated_at: July 9, 2026 5:55 PM
+updated_at: August 23, 2026 7:01 PM
 emotion: Surprise
 people_in_the_media: David Tennant
 
@@ -54,10 +54,7 @@ We sprinted towards the back but it entered halfway through a black trigger wall
 
 We landed in the spaceship hub with lines on the floor as robots moving around everywhere. I transformed into a human again and went with Julien, my friend from primary school, to sneak to elevators. One elevator went to the top half of the spaceship and the other went to the bottom half. However, when opening the elevator four hostile humanoid robots resembling David Tennant exited. We lost two by running around in a circle but when we came back two were still standing in front of the elevators. I was able to return them to their default mode by asking for help.
 
-> **Me**: There are crew members trapped in the bridge who are fighting for their lives.
-> 
-
-> **Me**: Can you help us?
+> **Me**: There are crew members trapped in the bridge who are fighting for their lives. Can you help us?
 > 
 
 > **Robots**: Lead the way.
@@ -68,18 +65,12 @@ While we were about to enter the elevator with them I had second thoughts and le
 > **Julien**: What’s wrong?
 > 
 
-> **Me**: I don’t want to ride with defective robots in an elevator that could turn on us again.
-> 
-
-> **Me**: We would be trapped inside with nowhere to go.
+> **Me**: I don’t want to ride with defective robots in an elevator that could turn on us again. We would be trapped inside with nowhere to go.
 > 
 
 We snuck around to find other elevators and found some but other robots saw us and we lost them by running in a circle but I also lost Julien. The elevators didn’t go to the bridge. I snuck around and found a woman.
 
-> **Me**: I’m trying to find a way to safely get to the bridge.
-> 
-
-> **Me**: Can you help me?
+> **Me**: I’m trying to find a way to safely get to the bridge. Can you help me?
 > 
 
 > **Woman**: Sure, follow me.

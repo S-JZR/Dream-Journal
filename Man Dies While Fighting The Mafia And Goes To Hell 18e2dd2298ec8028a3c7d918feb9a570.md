@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 15, 2025
-updated_at: August 22, 2026 3:14 AM
+updated_at: August 23, 2026 4:09 AM
 emotion: Surprise
 people_in_the_media: Saxton Hale
 influences: Team Fortress 2 (2007): References Saxton Hale.
@@ -20,10 +20,7 @@ After passing the other train she succumbed to severe burns and died. At the ori
 
 Upon arriving at the next train station the train broke down, so he stealthily hijacked another one which he didn't realize was owned by the mafia and proceeded to travel somewhere else. Henchmen inside different carriages moved toward the locomotive to engage in a firefight but he hid beside the door and fired shots back to kill some of them but eventually died in the crossfire. The man woke up in hell and was greeted by Saxton Hale from Team Fortress 2.
 
-> **Saxton Hale**: Welcome to hell!
-> 
-
-> **Saxton Hale**: If you've killed the most people in history then you can become the next ruler.
+> **Saxton Hale**: Welcome to hell! If you've killed the most people in history then you can become the next ruler.
 > 
 
 Saxton Hale showcased all the portraits of people the man recently mistreated or killed with a levitating greyscale holographic oval and he felt guilty.
@@ -33,10 +30,7 @@ Saxton Hale showcased all the portraits of people the man recently mistreated or
 
 Saxton Hale then created two portals with text and presented two options.
 
-> **Saxton Hale**: Right I'll make you an offer.
-> 
-
-> **Saxton Hale**: You can either go back in time to change your ways or erase your memories to continue living in Hell without guilt.
+> **Saxton Hale**: Right I'll make you an offer. You can either go back in time to change your ways or erase your memories to continue living in Hell without guilt.
 > 
 
 The man walked through the portal to go back in time.

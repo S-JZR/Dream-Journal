@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: December 16, 2024
-updated_at: August 22, 2026 8:48 PM
+updated_at: August 23, 2026 2:12 AM
 emotion: Fear
 influences:   • References Ameca
   • Likely references stories of children exploited for street begging on behalf of others.

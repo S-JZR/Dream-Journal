@@ -3,16 +3,15 @@
 is_favourite: No
 is_nsfw: No
 date: April 4, 2024
-updated_at: June 5, 2026 1:41 AM
+updated_at: August 23, 2026 3:53 AM
 emotion: Surprise
 
 I was standing at the drop-off zone of my primary school with the fences removed during an era around the 1980s when a group of kids sat on the left side of the seating area on a strip of yellowing cut grass, watching passing cars. I drove a miniature light-green tractor towards them.
 
-> **Black Student**: Stop riding that tractor!
+> **Black Student**: Stop riding that tractor! It reminds me of my ancestors who were forced to work on plantations!
 > 
 
-> **Black Student**: It reminds me of my ancestors who were forced to work on plantations!
-**Me**: I’m sorry.
+> **Me**: Oh, sorry.
 > 
 
 I turned to drive away.
@@ -37,9 +36,6 @@ After purchasing the necklace a student holding a smaller silver one noticed it 
 > 
 
 > **Me**: (Whisper) Don't worry its fine.
-> 
-
-> **Me**: Sure.
 > 
 
 > **Student**: Follow me.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 25, 2026
-updated_at: June 5, 2026 4:27 AM
+updated_at: August 23, 2026 6:41 PM
 emotion: Surprise
 
 <aside>
@@ -22,11 +22,11 @@ We sprinted down a gap on the left side of the planks to jump down onto the grou
 
 I hid at another spot with the other child but we were soon caught again. After everyone was caught we all reunited and I talked to a girl who hid the longest.
 
-> **Me**: How did you hide for so long?
-> 
-
-> **Me**: Where were you hiding?
+> **Me**: How did you hide for so long? Where were you hiding?
 > 
 
 > **Girl**: I was constantly changing my location between a sewer pipe, bushes, and places where the seekers already looked.
+> 
+
+> **Me**: That makes sense why you were so hard to find.
 >

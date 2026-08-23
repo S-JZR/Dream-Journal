@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 22, 2026
-updated_at: August 22, 2026 3:30 AM
+updated_at: August 23, 2026 6:38 PM
 emotion: Surprise
 
 <aside>
@@ -23,13 +23,7 @@ I was one of many people forced into slave labour in an underground desert facil
 
 I instinctively knew that we were located beneath one city which was under her control and the other city was a sanctuary. As her symptoms worsened, she called on a servant.
 
-> **Woman**: *Groan*
-> 
-
-> **Woman**: Start letting in sunlight!
-> 
-
-> **Woman**: Quickly!
+> **Woman**: *Groan* Start letting in sunlight! Quickly!
 > 
 
 They rotated the hand crank which slowly rotated the dome to reveal a slit that allowed sunlight to directly shine on her.
@@ -42,5 +36,5 @@ I was walking through a grey metallic futuristic hallway with glass panels on bo
 > **Me**: Do you have sufficient food and water to make the journey?
 > 
 
-> **Man**: Yeah, that would be good to factor in…
+> **Man**: Yeah, that would be good to consider…
 >

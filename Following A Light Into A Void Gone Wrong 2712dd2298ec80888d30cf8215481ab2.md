@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: September 17, 2025
-updated_at: August 22, 2026 3:19 AM
+updated_at: August 23, 2026 5:38 PM
 sleep_phenomena: Nightmare
 emotion: Fear
 influences:   • Likely references being on Discord servers where everyone always posts stupid memes and are overly obsessed with videogames and vain things.
@@ -39,18 +39,12 @@ Everyone was teleported into an alternative dimension featuring a white void and
 > **Me**: No.
 > 
 
-> **Man 2**: Run kid!
-> 
-
-> **Man 2**: You already have one foot in the fire!
+> **Man 2**: Run kid! You already have one foot in the fire!
 > 
 
 I was overcome with dread and sprinted away into the distance.
 
-> **Crowd**: Wait!
-> 
-
-> **Crowd**: Don’t leave yet!
+> **Crowd**: Wait! Don’t leave yet!
 > 
 
 I ignored them and crossed a boundary that teleported me back to the real world.

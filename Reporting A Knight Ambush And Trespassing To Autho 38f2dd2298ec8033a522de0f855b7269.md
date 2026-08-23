@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 30, 2026
-updated_at: August 22, 2026 3:33 AM
+updated_at: August 23, 2026 6:52 PM
 emotion: Fear
 
 <aside>
@@ -35,10 +35,7 @@ We set the boat to full speed and continued up the river until we evaded them. E
 
 We briefly entered my unit when a male stranger randomly opened the front door and trespassed inside.
 
-> **Me**: Excuse me, who are you?
-> 
-
-> **Me**: Get out!
+> **Me**: Excuse me, who are you? Get out!
 > 
 
 The stranger quickly left.

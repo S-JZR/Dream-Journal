@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 17, 2026
-updated_at: August 22, 2026 3:33 AM
+updated_at: August 23, 2026 6:48 PM
 emotion: Sad
 people_in_the_media: Mr Krabs, Spongebob, Squidward
 influences:   • References Squidward's Suicide creepypasta that was viral at some point: https://creepypasta.fandom.com/wiki/Squidward%27s_Suicide
@@ -23,13 +23,7 @@ I was spectating a black screen as Mr Krabs was talking.
 
 The next shot showed SpongeBob slowly creaking open the door of Squidward’s bathroom to nervously peak inside before entering. A slow reverbed version of “School Rooftop” by Hisohkah played quietly throughout the rest of the dream. He encountered the floating head of Squidward from the Squidwards Suicide creepypasta and the entire background above the floor was TV static.
 
-> **Spongebob**: Hey, Squidward... old pal.
-> 
-
-> **Spongebob**: I was in the neighbourhood so thought I would drop in to say hello.
-> 
-
-> **Spongebob**: Okay. See ya, buddy.
+> **Spongebob**: Hey, Squidward... old pal. I was in the neighbourhood so thought I would drop in to say hello. Okay. See ya, buddy.
 > 
 
 While SpongeBob was exiting the room and quickly shutting the door he burst into tears.

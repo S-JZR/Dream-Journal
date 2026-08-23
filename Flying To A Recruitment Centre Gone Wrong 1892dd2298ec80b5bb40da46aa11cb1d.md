@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 18, 2024
-updated_at: July 12, 2026 9:22 PM
+updated_at: August 23, 2026 3:58 AM
 emotion: Fear
 influences:   • Before excursions in primary school teachers used to say warnings like, “If you don’t behave, I’ll drive you there myself.”
   • References someone saying the US military has 5 year contracts and you can’t freely quit.
@@ -19,10 +19,7 @@ I deployed my parachute to safely land onto the road. As the helicopter managed 
 > **Me**: Can I please have another parachute.
 > 
 
-> **Officer**: Sorry there are no spares.
-> 
-
-> **Officer**: You’re going to have to carpool with Sergeant Ray whose jeep is stuck in low gear.
+> **Officer**: Sorry there are no spares. You’re going to have to carpool with Sergeant Ray whose jeep is stuck in low gear.
 > 
 
 I got in the jeep and we travelled through the backstreets toward a nearby renowned repair shop, we encountered a single-lane road splitting into three directions. We proceeded straight down the middle, marked with yellow chevrons, until parking outside an administration building. Inside the reception area, a white sign with a metal speaker grille stood beside a male staff member at his desk.
@@ -43,10 +40,7 @@ I noticed the volume was low and repeatedly pushed a button to turn it up.
 > **Me**: [Relaying the situation].
 > 
 
-> **Man**: (Radio) No problem, I’m free at the moment so drive up to the entrance and I’ll let you in.
-> 
-
-> **Man**: (Radio) Use the provided car keys for the rental car later.
+> **Man** (Speaker): No problem, I’m free at the moment so drive up to the entrance and I’ll let you in. Use the provided car keys for the rental car later.
 > 
 
 After cars keys were dispensed from the sign we continued to the left entrance of a complex with two slanted towers, each featuring rolling doors made of giant steel plates, and a shallow middle section. The doors automatically opened and we started driving inside to encounter a strange room filled with women:
@@ -61,10 +55,7 @@ After cars keys were dispensed from the sign we continued to the left entrance o
     - Door to the control room.
     - Control room with a giant rectangular window spanning the wall.
 
-> **Man**: (Speaker) My apologies for the confusion.
-> 
-
-> **Man**: (Speaker) This area is utilized as a multipurpose space for local businesses.
+> **Man** (Speaker): My apologies for the confusion. This area is utilized as a multipurpose space for local businesses.
 > 
 
 After the women carried out all the items through the left side doors we entered the control room. The crane picked up the jeep with claws on both sides, the floor burst with steam as it flipped over to a concrete surface, and the crane lowered the jeep. Various mechanics entered the garage to work on the jeep.

@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 29, 2025
-updated_at: August 22, 2026 3:16 AM
+updated_at: August 23, 2026 4:35 PM
 emotion: Fear
 people_in_the_media: James Carter
 influences:   • Thunderbirds (1965): References Thunderbird 3.
@@ -46,19 +46,10 @@ After exiting the facility through a fire exit, they ascending to the roof as ot
 
 Five separate shots, each with a brief pause between them, struck his chest plate and helmet, knocking him back repeatedly but he kept moving back in defiance.
 
-> **Carter**: Is that all you got b***h ass piece of junk!
+> **Carter**: Is that all you got b***h ass piece of junk! Come on hit me again I dare you!
 > 
 
-> **Carter**: Come on hit me again I dare you!
-> 
-
-> **Man 1**: (Radio) What the hell are you doing?!
-> 
-
-> **Man 1**: (Radio) Stop standing in the open!
-> 
-
-> **Man 1**: (Radio) Are you trying to get yourself killed?!
+> **Man 1** (Radio): What the hell are you doing?! Stop standing in the open! Are you trying to get yourself killed?!
 > 
 
 Carter listened and moved out of sight behind roof structures.
@@ -68,8 +59,5 @@ As the astronaut and survivor descended the stairs to cross a large flat outdoor
 > **Man 1**: Please don't kill me!
 > 
 
-> **Dark Jedi**: I sense darkness in you.
-> 
-
-> **Dark Jedi**: Will you join the dark side?
+> **Dark Jedi**: I sense darkness in you. Will you join the dark side?
 >

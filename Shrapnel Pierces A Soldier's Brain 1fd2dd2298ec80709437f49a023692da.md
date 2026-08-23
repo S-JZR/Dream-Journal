@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2016
-updated_at: August 22, 2026 2:28 AM
+updated_at: August 23, 2026 12:10 AM
 sleep_phenomena: Nightmare
 emotion: Fear
 influences: I was learning about WW2 in secondary school and the teacher discussed how soldiers were badly wounded by artillery shrapnel in beach landings that injured their bodies and faces.

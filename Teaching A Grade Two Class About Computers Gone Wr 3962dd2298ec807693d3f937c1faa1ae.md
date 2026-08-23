@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 7, 2026
-updated_at: August 22, 2026 7:21 PM
+updated_at: August 23, 2026 6:59 PM
 emotion: Fear
 people_i_know: Mr Broadway, Mrs Wardle
 
@@ -16,16 +16,7 @@ Needs editing.
 
 I assumed the role of Mrs Wardle in my grade two class with three boys and one girl seated at desks closer to the front while the rest were empty. I was surprised that these students were normal despite gen alpha having learning difficulties because of excessive screen time. I got tired of the curriculum and decided to deviate into teaching about computers.
 
-> **Me**: Okay everyone, today we will be learning about computers!
-> 
-
-> **Me**: Computers are embedded everywhere in the world and shape almost everything we do.
-> 
-
-> **Me**: A desktop is a computer.
-> 
-
-> **Me**: A smartphone is a …
+> **Me**: Okay everyone, today we will be learning about computers! Computers are embedded everywhere in the world and shape almost everything we do. A desktop is a computer. A smartphone is a…
 > 
 
 > **Children**: Computer!

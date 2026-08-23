@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 30, 2026
-updated_at: August 22, 2026 3:33 AM
+updated_at: August 23, 2026 7:35 PM
 emotion: Fear
 people_in_the_media: Donna Noble
 
@@ -18,22 +18,16 @@ I was spectating evil robots manufacturing a new brand of icy pops designed to c
 
 I was an average person investigating the situation with two friends, a man and Donna Noble from Doctor Who. We stood idly in the surface carpark to the side of the shopping mall discussing how to approach the matter. However, things took a turn for the worst when another male friend emerged from the shopping mall and approached us.
 
-> **Man**: Those icy poles are altering the minds of people.
-> 
-
-> **Man 1**: We need to confiscate them so that nobody else can be affected.
+> **Man 1**: Those icy poles are altering the minds of people. We need to confiscate them so that nobody else can be affected.
 > 
 
 > **Man 2**: I… I already ate one of them.
 > 
 
-> **Donna**: You what!?
+> **Donna**: You what?!
 > 
 
-> **Man 2**: I feel fine so far.
-> 
-
-> **Man 2**: Are the effects supposed to be instant or do you have to keep eating them?
+> **Man 2**: I feel fine so far. Are the effects supposed to be instant or do you have to keep eating them?
 > 
 
 > **Man 1**: I don’t know.
@@ -44,10 +38,7 @@ I was an average person investigating the situation with two friends, a man and 
 
 Donna entered the Woolworths and tried warning the female cashier but she already knew that nobody was going to believe such a wild story.
 
-> **Donna**: You need to stop selling those!
-> 
-
-> **Donna: E**vil robots have added chemicals that are brainwashing people!
+> **Donna**: You need to stop selling those! Evil robots have added chemicals that are brainwashing people!
 > 
 
 > **Cashier**: How do you expect me to believe something so insane?

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 7, 2026
-updated_at: August 22, 2026 3:33 AM
+updated_at: August 23, 2026 6:57 PM
 emotion: Fear
 
 <aside>
@@ -15,10 +15,7 @@ Needs editing.
 
 I was searching through my garage when I encountered a super firework and lighter which I took outside. A fictional female neighbour who was backing out with her family in a grey car noticed and when exiting to shut the garage door she scolded me.
 
-> Woman: Have you been storing that in your garage this whole time!?
-> 
-
-> **Woman**: If I were you I wouldn't have that anywhere near here.
+> **Woman**: Have you been storing that in your garage this whole time?! If I were you I wouldn't have that anywhere near here.
 > 
 
 After she left, I was playing with the lighter around the firework visco fuse and accidentally ignited it which caused it to launch into the sky and explode into multiple fireworks three times. I was afraid that I disturbed all of the neighbours and they were going to come outside to try finding who did it.

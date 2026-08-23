@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 19, 2026
-updated_at: August 22, 2026 9:16 PM
+updated_at: August 23, 2026 5:59 PM
 emotion: Fear
 people_i_know: Dad
 
@@ -35,18 +35,12 @@ I was delayed by chores for 20 minutes and riding the bus to campus for 40 minut
 > **Woman**: I’ve been waiting for a while, are you still coming?
 > 
 
-> **Me**: I really wanted to get there earlier but other tasks got in the way.
-> 
-
-> **Me**: I should be arriving soon.
+> **Me**: I really wanted to get there earlier but other tasks got in the way. I should be arriving soon.
 > 
 
 Eventually, I arrived at the campus and met her in front of an elevator to the left of the library that travelled to the roof.
 
-> **Me**: I’m here, sorry for not arriving sooner.
-> 
-
-> **Me**: Do you want to go somewhere more private to talk about things?
+> **Me**: I’m here, sorry for not arriving sooner. Do you want to go somewhere more private to talk about things?
 > 
 
 > **Woman**: Sure but where did you want to go?
@@ -58,7 +52,7 @@ Eventually, I arrived at the campus and met her in front of an elevator to the l
 > **Woman**: Won’t there be people around looking at the view?
 > 
 
-> **Me**: Probably not this early in the day.
+> **Me**: Probably not this early in the morning.
 > 
 
 > **Woman**: Ok, lead the way.

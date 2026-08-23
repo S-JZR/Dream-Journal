@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: November 14, 2025
-updated_at: August 22, 2026 9:43 PM
+updated_at: August 23, 2026 5:45 PM
 emotion: Fear
 influences: Jack is a compulsive liar and my dad is hesitant to trust him.
 people_i_know: Dad, Jack R, Mum
@@ -26,10 +26,7 @@ While travelling to an underground train station to obtain a letter from a post 
 > **Me**: Is that even a real injury or are you faking it just to lure in my dad and slander him?
 > 
 
-> **Jack**: You're irresponsible!
-> 
-
-> **Jack**: You didn't even check if the window was shut... even I did that!
+> **Jack**: You're irresponsible! You didn't even check if the window was shut... even I did that!
 > 
 
 > **Crowd**: *Gasp*.

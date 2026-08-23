@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: November 20, 2025
-updated_at: August 22, 2026 9:11 PM
+updated_at: August 23, 2026 5:46 PM
 emotion: Surprise
 people_i_know: Brother, Dad, Mum
 
@@ -16,13 +16,7 @@ A family of three was angry about something and left.
 
 After ordering, a female Asian staff member emerged.
 
-> **Woman**: Hello everyone!
-> 
-
-> **Woman**: It's the store’s 51st anniversary today!
-> 
-
-> **Woman**: I would like to invite everyone to stand together for a group photo and I will post it on social media.
+> **Woman**: Hello everyone! It's the store’s 51st anniversary today! I would like to invite you for a group photo and I will post it on social media.
 > 
 
 Most customers gathered together but the Wi-Fi dropped out.

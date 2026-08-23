@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 28, 2021
-updated_at: August 22, 2026 7:07 PM
+updated_at: August 23, 2026 3:42 AM
 emotion: Fear
 people_i_know: Dejan C
 
@@ -21,10 +21,7 @@ However, the dread of a deafening gunshot reverberating within the enclosed spac
 
 Eventually, I strolled along the concrete pathway to the right side of the garage, where two garbage bins are normally positioned, now two pits containing various foliage. The area was inhabited by wildlife, including koalas hanging from trees and a Komodo dragon on the ground, eagerly anticipating their descent. I returned to the garage.
 
-> **Me**: Don't shoot!
-> 
-
-> **Me**: You will scare the animals away!
+> **Me**: Don't shoot! You will scare the animals away!
 > 
 
 Everyone walked over to investigate and we took photos of the animals. I was instantly teleported into a science classroom in my secondary school where I presented my findings with a slideshow projected at the front to the class. Dejan, a friend from secondary school, transitioned through the slides on a laptop.

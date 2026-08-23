@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 20, 2024
-updated_at: June 5, 2026 1:32 AM
+updated_at: August 23, 2026 12:27 AM
 emotion: Fear
 people_in_the_media: Leon Kennedy
 influences:   • StarCraft II (2010): References humans vs aliens gameplay.

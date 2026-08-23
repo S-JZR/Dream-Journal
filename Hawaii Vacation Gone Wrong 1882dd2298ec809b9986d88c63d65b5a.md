@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: November 25, 2021
-updated_at: August 22, 2026 8:39 PM
+updated_at: August 23, 2026 3:44 AM
 emotion: Anger
 symbols:   • Impatient Driver: I always feel rushed and don’t have enough time to finish things.
   • Garage: Fear of losing sentimental things and the past.
@@ -12,13 +12,10 @@ people_i_know: Brother, Dad, Mum
 
 I was about to go on a vacation to Hawaii with my family but needed to retrieve valuables from a garage on a rural mountain in Japan. Hitching a ride on a pickup truck with a disgruntled male driver, we ascended halfway up to a vantage point overlooking an ocean bridge connecting the urban and rural regions.
 
-> **Me**: This is our stop.
+> **Me**: This is our stop. Can you wait here while we search the garage to retrieve our possessions?
 > 
 
-> **Me**: Can you wait here while we search the garage to retrieve our possessions?
-> 
-
-> **Driver**: Sure but I’m only going to wait for exactly five minutes then I’m off.
+> **Driver**: Sure but I’m only going to wait for five minutes then I’m off.
 > 
 
 We frantically dismounted and flung open the corrugated garage door before rummaging through the boxes, placing valuable items like paintings and tools into a duffle bag.
@@ -28,13 +25,7 @@ We frantically dismounted and flung open the corrugated garage door before rumma
 
 As we climbed aboard the truck I noticed a slight opening in the garage door.
 
-> **Me**: I didn’t lock the garage door properly.
-> 
-
-> **Me**: I’m worried that strangers might steal whatever is left.
-> 
-
-> **Me**: Can I quickly go lock it?
+> **Me**: I didn’t lock the garage door properly. I’m worried that strangers might steal whatever is left. Can I quickly go lock it?
 > 
 
 > **Driver**: *sigh* If you step off the truck again you will have to find your own way to the airport.
@@ -60,16 +51,10 @@ I was hesitant to trust them but I realized this was my only viable option.
 
 We filled two duffle bags and the welcome team directed me back to the church hallway for additional help. I was offered the same flyer earlier for an international courier service.
 
-> **Man 1**: Don't give them that!
+> **Man 1**: Don't give them that! They already received one!
 > 
 
-> **Man 1**: They already received one!
-> 
-
-> **Me**: Actually I'm still interested.
-> 
-
-> **Me**: Can the post office hold the packages until we return from vacation?
+> **Me**: Actually I'm still interested. Can the post office hold the packages until we return from vacation?
 > 
 
 > **Man 1**: There’s no guarantee it won’t be redirected.

@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 22, 2026 2:30 AM
+updated_at: August 23, 2026 3:26 AM
 emotion: Fear
 influences: I used to have a severe fear of infinity about things like:
   • Is it possible to reach the end of the universe? The expectation of trying to reach something potentially infinite felt impossible and made me feel forever trapped and incomplete. However, I changed my perspective to consider that achieving absolute completion may not involve travelling over space to experience everything natural in-person but instead understand the fundamental workings of reality and achieve all permutations of possibilities within a single point.
@@ -26,12 +26,9 @@ I returned to the city and entered a building with a woman showcasing her latest
 > **Woman**: Sure, here you go.
 > 
 
-I looked at the barcode closely and titled it, noticing that one side was an optically variable device that changed colours. I was overcome with amazement because we could go further into eternity without hitting boundaries and store more data in a single point.
+I looked at the barcode closely and tilted it, noticing that one side was an optically variable device that changed colours. I was overcome with amazement because we could go further into eternity without hitting boundaries and store more data in a single point.
 
-> **Me**: Wow this is incredible!
-> 
-
-> **Me**: This will completely change the world!
+> **Me**: Wow this is incredible! This will completely change the world!
 > 
 
 She showed a subtle smile and the children had confused expressions over why I was obsessed with it.

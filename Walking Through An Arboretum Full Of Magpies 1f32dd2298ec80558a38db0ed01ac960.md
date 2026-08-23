@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 11, 2020
-updated_at: August 22, 2026 2:35 AM
+updated_at: August 23, 2026 2:48 AM
 emotion: Fear
 symbols: Magpies: The fear of things going wrong.
 

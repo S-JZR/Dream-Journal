@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 24, 2025
-updated_at: August 22, 2026 8:54 PM
+updated_at: August 23, 2026 2:26 AM
 emotion: Fear
 influences: References an Omegle prank about someone pretending to be a girl.
 symbols: Parents: The fear of being misperceived.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 3, 2026
-updated_at: June 5, 2026 4:21 AM
+updated_at: August 23, 2026 2:38 AM
 emotion: Surprise
 influences: Terminator (1984): Likely references seeing Terminator arcade games.
 

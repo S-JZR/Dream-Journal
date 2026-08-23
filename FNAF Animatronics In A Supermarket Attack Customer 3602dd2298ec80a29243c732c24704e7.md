@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 12, 2026
-updated_at: August 22, 2026 3:30 AM
+updated_at: August 23, 2026 6:33 PM
 emotion: Surprise
 people_in_the_media: Bonnie, Chica, Foxy, Freddy Fazbear
 
@@ -16,8 +16,5 @@ Needs editing.
 
 I was in a supermarket with various people around when Freddy, Chica, Bonnie, and Foxy animatronics from Five Nights At Freddy’s were lined up beside the front entrance. The animatronics unexpectedly came to life and assaulted nearby people but a few brave individuals intervened to deactivate them as everyone else spectated from a distance.
 
-> **Man**: Who is responsible for manufacturing these animatronics?
-> 
-
-> **Man**: We need to contact them.
+> **Man**: Who is responsible for manufacturing these animatronics? We need to contact them to stop this from happening anywhere else.
 >

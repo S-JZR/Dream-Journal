@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2013
-updated_at: August 22, 2026 9:38 PM
+updated_at: August 22, 2026 11:42 PM
 emotion: Sad
 symbols: Death: The fear of losing my parents.
 people_i_know: Mum

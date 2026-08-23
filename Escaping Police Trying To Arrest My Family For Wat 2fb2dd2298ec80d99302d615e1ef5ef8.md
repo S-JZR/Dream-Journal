@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 2, 2026
-updated_at: August 22, 2026 9:17 PM
+updated_at: August 23, 2026 6:04 PM
 emotion: Fear
 influences:   • I have heard that people are being arrested in the UK for posting content on social media that the government deems hate speech.
   • 20 January 2026: Australia recently passed vague hate speech laws to combat antisemitism: https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7422.
@@ -40,19 +40,13 @@ When the policeman wasn’t looking, I knocked him out and we hid his body somew
 
 Another policeman suspicious of his colleague’s disappearance knocked on the front door.
 
-> **Policeman 2**: Excuse me, have you seen where my colleague went?
-> 
-
-> **Policeman 2**: I believe he came in here earlier.
+> **Policeman 2**: Excuse me, have you seen where my colleague went? I believe he came in here earlier.
 > 
 
 > **Me**: He went outside to the right to the loo.
 > 
 
-> **Policeman 2**: Why would he do that?
-> 
-
-> **Policeman 2**: That seems odd.
+> **Policeman 2**: Why would he do that? That seems odd.
 > 
 
 > **Me**: Yes, it was quite odd.
@@ -60,20 +54,14 @@ Another policeman suspicious of his colleague’s disappearance knocked on the f
 
 The policeman walked down the footpath to the front of my unit complex to look for him. I knew our time was short and turned around to my family.
 
-> **Me**: We need to leave as soon as possible!
-> 
-
-> **Me**: Pack the most valuable things so we can go!
+> **Me**: We need to leave as soon as possible! Pack the most valuable things so we can go!
 > 
 
 I started making a new backup of the data on my computer via an external SSD to take with me but realized it would take about 20 minutes.
 
 The same policeman returned to the front door.
 
-> **Policeman 2**: Hello again.
-> 
-
-> **Policeman 2**: I wasn’t able to find him and I would like to come inside to check.
+> **Policeman 2**: Hello again. I wasn’t able to find him and I would like to come inside to check.
 > 
 
 I quickly exited the front door to knock him out and we hid his body somewhere inside my unit.

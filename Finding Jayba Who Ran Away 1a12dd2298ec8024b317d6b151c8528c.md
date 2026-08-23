@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: August 22, 2026 8:28 PM
+updated_at: August 22, 2026 11:49 PM
 emotion: Surprise
 influences: We often let Jayba outside the front of our unit and she occasionally wandered far away.
 symbols: The fear of losing Jayba.

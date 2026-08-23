@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 25, 2020
-updated_at: August 22, 2026 8:37 PM
+updated_at: August 23, 2026 3:34 AM
 emotion: Fear
 symbols: Waiting In Line/Preacher: Social anxiety.
 people_i_know: Brother, Dad, Mum
@@ -16,13 +16,10 @@ Feeling unsettled, I awkwardly trudged into the church amphitheatre to the furth
 
 A female preacher descended from the stage with a microphone, approaching everyone individually. Everyone had a correct interpretation except me.
 
-> **Preacher**: After you receive a divine interpretation respond with correct or incorrect.
+> **Preacher**: After you receive a divine interpretation respond with correct or incorrect. You were born in the United Kingdom.
 > 
 
-> **Preacher**: You were born in the United Kingdom.
-> 
-
-> **Me**: *cringe* Actually I was born in Australia.
+> **Me**: Actually I was born in Australia.
 > 
 
 > **Preacher**: You act like you’ve seen a ghost.
@@ -40,10 +37,7 @@ A female preacher descended from the stage with a microphone, approaching everyo
 > **Me**: [Recalls the experience].
 > 
 
-> **Preacher**: That mannequin outside?
-> 
-
-> **Preacher**: It’s just an animatronic part of the Christmas display.
+> **Preacher**: That mannequin outside? It’s just an animatronic part of the Christmas display.
 > 
 
 After the service, I examined it, confirming that it cycled through a range of head motions, and I overlooked a Santa Claus animatronic pressed against the wall behind it.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: June 13, 2026
-updated_at: August 22, 2026 7:20 PM
+updated_at: August 23, 2026 2:34 AM
 emotion: Sad
 influences: During my secondary school graduation formal I didn’t feel compelled to dance and stood watching everyone.
 people_i_know: ? Ben

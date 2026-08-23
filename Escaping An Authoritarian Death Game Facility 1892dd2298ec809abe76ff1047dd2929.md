@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: November 26, 2024
-updated_at: August 22, 2026 7:10 PM
+updated_at: August 23, 2026 2:12 AM
 emotion: Fear
 influences:   • Squid Game (2021): References surviving multiple death game challenges.
   • References Matpat renowned for analysing videogame lore.

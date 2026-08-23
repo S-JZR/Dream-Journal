@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: August 13, 2026
-updated_at: August 22, 2026 7:21 PM
+updated_at: August 23, 2026 7:04 PM
 emotion: Fear
 influences: References recently going to a mall in Brisbane City and buying Teriyaki Chicken which they put in a takeaway paper bowl and I thought it tasted amazing
 people_i_know: Gavin W
@@ -30,10 +30,7 @@ I continued walking up the road until I entered a math classroom at secondary sc
 > **Me**: I just got some Teriyaki Chicken down the road and it tasted amazing.
 > 
 
-> **Man 2**: Maybe you should go back and get some for everyone else.
-> 
-
-> **Man 2**: Does anyone want to give $10 dollars for some?
+> **Man 2**: Maybe you should go back and get some for everyone else. Does anyone want to give $10 dollars for some?
 > 
 
 Various students extended bank notes towards me and I collected them. I was worried that something would go wrong and they would be disappointed in me because I didn't explain it was only a small food stall with limited supplied when they were probably expecting a typical restaurant so some people might miss out on getting anything. To avoid forgetting their orders, I recorded everyone’s names, how much money they gave, and what they wanted on a spiral-torn piece of paper.

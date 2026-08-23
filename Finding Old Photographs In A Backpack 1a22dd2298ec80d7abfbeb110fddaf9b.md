@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 19, 2024
-updated_at: July 12, 2026 9:21 PM
+updated_at: August 23, 2026 12:30 AM
 emotion: Fear
 influences: I was digitizing old drawings.
 symbols: Toys/Photos: The fear of losing old family photos.

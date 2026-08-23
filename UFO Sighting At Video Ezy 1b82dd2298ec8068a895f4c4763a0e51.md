@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2005
-updated_at: August 22, 2026 8:26 PM
+updated_at: August 23, 2026 3:15 AM
 emotion: Surprise
 influences:   • During primary school, my family regularly visited Video Ezy to rent DVDs and PS2 videogames.
   • Ratchet And Clank 3 (2004): the spaceship's interior resembles the Galactic Rangers dropship.
@@ -12,10 +12,7 @@ people_i_know: Brother, Dad, Mum
 
 I was seated in my mum's car with my family being driven by my mum to the Video Ezy store at a retail strip down the road to rent films at night. While exiting the side doors, I noticed a rectangular spaceship silently moving down the road above power poles at a steady pace. A square door on the back was open to reveal a sci-fi cream illuminated hallway with a blue rectangular monitor at the end. I felt compelled to walk around the corner of the store to keep watching it move down the road.
 
-> **Me**: Brother come here.
-> 
-
-> **Me**: Do you see it?
+> **Me**: [Brother] come here. Do you see it?
 > 
 
 > **Brother**: Yeah.

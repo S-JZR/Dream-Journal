@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 13, 2025
-updated_at: July 12, 2026 9:23 PM
+updated_at: August 23, 2026 4:05 AM
 emotion: Anger
 influences:   • I feel like so many things in society are trivial and stupid.
   • I fear that as populations, knowledge, and technology grows it will increase the destructive potential of malicious individuals and nations.
@@ -27,10 +27,7 @@ notes: I don’t want to name any dictators because it would probably be conside
 
 I was spectating a military propaganda commercial featuring shots of diverse people performing basic jobs like selling fruit at a marketplace on the footpath beside Brisbane City.
 
-> **Worker 1**: I work to kill dictators overseas.
-> 
-
-> **Worker 1**: [Dictator name]
+> **Worker 1**: I work to kill dictators overseas. [Dictator name]
 > 
 
 > **Worker 2**: [Dictator name]
@@ -40,18 +37,14 @@ I was spectating a military propaganda commercial featuring shots of diverse peo
 > 
 
 > **Narrator**: Society is merely a façade artificially manufactured to comfort the masses from the true reality that everything can be easily destroyed in war.
-> 
 
-> **Narrator**: The greatest underlying objective is always survival by remaining the fittest.
-> 
+The greatest underlying objective is always survival by remaining the fittest.
 
-> **Narrator**: Achieving permanent liberty requires collaborating to overcome international threats that seek to dominate by perpetually scheming against us.
-> 
+Achieving permanent liberty requires collaborating to overcome international threats that seek to dominate by perpetually scheming against us.
 
-> **Narrator**: Every action, including those that seem inconsequential, should be done with the vision of achieving something greater and doing any part to uphold the nation contributes to fighting against the enemy.
-> 
+Every action, including those that seem inconsequential, should be done with the vision of achieving something greater and doing any part to uphold the nation contributes to fighting against the enemy.
 
-> **Narrator**: If you're not highly skilled then serve the public to help the disciplined go on to innovate for the future and profits can be used to invest in worthwhile causes.
+If you're not highly skilled then serve the public to help the disciplined go on to innovate for the future and profits can be used to invest in worthwhile causes.
 > 
 
 A medium full shot of a machine gun rack in a grey room showed three soldiers wearing grey uniforms power walking past it in a line to arm themselves and turning 90 degrees to the right to exit the frame.

@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 22, 2026 7:18 PM
+updated_at: August 23, 2026 12:11 AM
 emotion: Fear
 people_in_the_media: God
 influences: I often hear Atheists accuse God of being evil for annihilating unrepentant locations as a judgement. I’ve always wondered what would happen if God never intervened to stop evil.

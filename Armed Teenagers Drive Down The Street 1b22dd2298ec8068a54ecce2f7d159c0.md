@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 22, 2026 2:33 AM
+updated_at: August 23, 2026 12:16 AM
 emotion: Fear
 influences: We live in a neighbourhood with a lot of government housing and are wary of people.
 symbols:   • Teenagers: Rebelliousness.

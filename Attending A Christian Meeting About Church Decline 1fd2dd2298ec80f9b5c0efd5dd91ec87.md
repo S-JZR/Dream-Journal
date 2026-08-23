@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 23, 2025
-updated_at: July 12, 2026 9:26 PM
+updated_at: August 23, 2026 4:46 PM
 emotion: Anger
 influences:   • I feel like church is divided and could do better.
   • God Has A Wonderful Plan For Your Life (2010): References challenging misconceptions about faith and churches failing to convert sinners.
@@ -19,13 +19,7 @@ I was driving to a Christian meeting when I tuned in the radio and heard a male 
 
 Upon arriving, two long rows of white fold-out tables stood outside on a grassy field separated by a gap with various Christian participants seated on white stackable plastic chairs around the entire perimeter as I sat at the small side. Different people voiced their concerns over a microphone like a bald bearded man.
 
-> **Man 2**: Attendance at my church is declining.
-> 
-
-> **Man 2**: If this continues our faith might cease to exist in the future.
-> 
-
-> **Man 2**: (Sarcasm) Do we need to increase sensory experiences like music to attract more participants?
+> **Man 2**: Attendance at my church is declining. If this continues our faith might cease to exist in the future. I mean what are we supposed to do, put on a light show and loud music to attract more people?
 > 
 
 I thought to myself that these people lacked direction because they:
@@ -39,9 +33,9 @@ I thought to myself that these people lacked direction because they:
 - Don’t document or critically examine denominational differences.
 - Unaware of postmodern, etc criticisms of the faith and don’t challenge them. Christians often assume everyone supports God’s actions without justification.
 
-A fat middle-age female host stood at the centre trying to inspire everyone.
+A fat middle-age female host wearing a pink shirt stood at the centre.
 
 > **Woman**: We desperately need to do things better.
 > 
 
-I thought to myself what does she mean by "better"? Does she have a specific goal in mind or is she merely using vague exhortations to hype people up without a concrete plan and actionable steps to bring change?
+I thought to myself what does she mean by "better"? Does she have a specific goal in mind or is she merely giving empty exhortations without actionable steps to bring change?

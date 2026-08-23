@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 14, 2026
-updated_at: June 5, 2026 4:10 AM
+updated_at: August 23, 2026 5:57 PM
 emotion: Happy
 
 <aside>
@@ -21,10 +21,7 @@ I was following adults and children seated on a tram travelling slowly through a
 
 Speakers mounted to different poles emitted music promoting the new super fast 5G internet which I ignored and repeatedly interrupted with mocking lines:
 
-> **Me**: Be spied on in real-time with the internet.
-> 
-
-> **Me**: Upload your mind to the internet.
+> **Me**: Be spied on in real-time with the internet. Upload your mind to the internet.
 > 
 
 The children were surprised that I was being rebellious and kept looking back at me.

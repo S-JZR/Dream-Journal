@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 22, 2026 7:05 PM
+updated_at: August 23, 2026 3:29 AM
 emotion: Fear
 people_in_the_media: Satan
 influences:   • During religious education I saw Brooke sitting at the row of computer desks to the left of the classroom studying science textbooks because she was probably an atheist.
@@ -40,15 +40,12 @@ people_i_know: Brooke A
 I was standing inside a complex with a crowd walking in a line through a spiral of chain-linked fences around a circular amphitheatre without seats, descending a continuously slanted floor that descended multiple levels. A central circular stage at the bottom featured a 1960s era television broadcasting a male charismatic dictator passionately yelling a message.
 
 > **Dictator**: Humanity has long been oppressed by systems of power.
-> 
 
-> **Dictator**: We’re kept ignorant by primitive traditions that hinder scientific advancements, narrow beliefs about our nature, sexuality, and gender that confine our potential and autonomy, and petty social constructs creating arbitrary distinctions that lead us to other and slaughter one another.
-> 
+We’re kept ignorant by primitive traditions that hinder scientific advancements, narrow beliefs about our nature, sexuality, and gender that confine our potential and autonomy, and petty social constructs creating arbitrary distinctions that lead us to other and slaughter one another.
 
-> **Dictator**: God doesn't consider us good and evolved enough to make our own decisions and withheld knowledge from us, divided us from uniting as one, and imprisoned us in bodies designed to make us weak, stupid, subservient, and doomed to perpetual suffering.
-> 
+God doesn't consider us good and evolved enough to make our own decisions and withheld knowledge from us, divided us from uniting as one, and imprisoned us in bodies designed to make us weak, stupid, subservient, and doomed to perpetual suffering.
 
-> **Dictator**: It’s time to embrace a new era guided by reason, science, and collective will to restore equality, power over our own destinies, and guide evolution to achieve our own salvation.
+It’s time to embrace a new era guided by reason, science, and collective will to restore equality, power over our own destinies, and guide evolution to achieve our own salvation.
 > 
 
 Everyone listened intently to his words and I tried to jokingly discredit him to Brooke beside me, a student who read science textbooks during religious education classes in primary school.

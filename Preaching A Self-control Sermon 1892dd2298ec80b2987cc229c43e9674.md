@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 16, 2024
-updated_at: August 22, 2026 2:45 AM
+updated_at: August 23, 2026 3:49 AM
 emotion: Bold
 influences:   • I have encountered and reported YouTube and Internet Archive accounts mixing porn videos with children’s cartoon videos.
   • Some ASMR creators share SFW content on YouTube and sell NSFW content on external websites to adhere community guidelines. They create topics that can appeal to broad audiences but also subtly advertise it in some way to get customers like:
@@ -23,13 +23,10 @@ During a formal indoor event at a carnival, children were led to a side room for
 While revisiting a local former church various tables of food spanned the bottom and top floor. In the upstairs children's room, adorned with festive Christmas décor, people gathered on white monobloc plastic chairs between two tables of iced biscuits. Eventually, I began delivering a heartfelt sermon to everyone in the room.
 
 > **Me**: Do not be conformed to the world and succumb to fleeting carnal desires.
-> 
 
-> **Me**: People who follow every impulse blind themselves to morality, lose self-control, and drift into animalistic behaviours.
-> 
+People who follow every impulse blind themselves to morality, lose self-control, and drift into animalistic behaviours.
 
-> **Me**: Society often perceives believers as strange for refusing to embrace addictions yet they remain captivated by fleeting pleasures that lack meaning and substance.
-> 
+Society often perceives believers as strange for refusing to embrace addictions yet they remain captivated by fleeting pleasures that lack meaning and substance.
 
-> **Me**: Those who remain steadfast in the spirit focus on what is eternal and discipline themselves to achieve higher standards that contribute value to their communities.
+Those who remain steadfast in the spirit focus on what is eternal and discipline themselves to achieve higher standards that contribute value to their communities.
 >

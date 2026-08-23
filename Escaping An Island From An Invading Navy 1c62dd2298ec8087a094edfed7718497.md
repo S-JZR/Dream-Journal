@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 29, 2025
-updated_at: August 22, 2026 3:15 AM
+updated_at: August 23, 2026 2:21 AM
 emotion: Fear
 influences: The Conquerors 3 (2009) (Roblox): References the gameplay.
 

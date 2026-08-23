@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: October 24, 2023
-updated_at: August 22, 2026 8:39 PM
+updated_at: August 23, 2026 12:25 AM
 emotion: Fear
 influences:   • The Outlast Trials (2023):
       ◦ References scientists studying the player through windows during experiments.

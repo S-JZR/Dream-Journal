@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 29, 2026
-updated_at: August 22, 2026 7:19 PM
+updated_at: August 23, 2026 6:21 PM
 emotion: Fear
 people_i_know: Dejan C
 
@@ -16,10 +16,7 @@ Needs editing.
 
 I was one of many secondary students in a classroom at my secondary school when I noticed melanoma on my leg and pointed it out to Dejan, my friend, who was sitting beside me. He was concerned and brought it to the attention of the male teacher on the opposite side of the room, who was also a first aid officer.
 
-> **Dejan**: My friend has a skin spot that looks really bad.
-> 
-
-> **Dejan**: Can you take a look at it?
+> **Dejan**: My friend has a skin spot that looks really bad. Can you take a look at it?
 > 
 
 The teacher examined me.
@@ -34,16 +31,10 @@ Over time the spot grew into a 3cm tall brown skin nodule and changed to dark re
 
 I pulled up my pant leg to reveal the nodule had fallen off and now resembled a ring worm.
 
-> **Man**: Where did it go?
+> **Man**: Where did it go? I was going to take a sample.
 > 
 
-> **Man**: I was going to take a sample.
-> 
-
-> **Me**: I’m not sure, it could have fallen off on the way here.
-> 
-
-> **Me**: I can try to find it.
+> **Me**: I’m not sure, it could have fallen off on the way here. I can try to find it.
 > 
 
 > **Man**: Yes, please look.

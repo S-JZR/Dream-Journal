@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 29, 2025
-updated_at: August 22, 2026 8:55 PM
+updated_at: August 23, 2026 2:27 AM
 emotion: Fear
 influences: I’m squeamish about seeing the inside of body parts.
 people_i_know: Mum

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 14, 2025
-updated_at: August 22, 2026 3:17 AM
+updated_at: August 23, 2026 4:36 PM
 emotion: Sad
 influences: The Anguished Man (n.d): References a distressed painting that allegedly contains the artist’s blood and is haunted.
 symbols:   • Minimalism:
@@ -39,11 +39,5 @@ A female staff member moved the painting onto a wall in the back storage room an
 > **Female Voice**: *Groan*!
 > 
 
-> **Woman**: This happens all the time.
-> 
-
-> **Woman**: The artist’s soul still resides in the painting because of the blood stain.
-> 
-
-> **Woman**: She will cry out in agony if she doesn't get perpetual attention.
+> **Woman**: This happens all the time. The artist’s soul still resides in the painting because of the blood stain. She will cry out in agony if she doesn't get perpetual attention.
 >

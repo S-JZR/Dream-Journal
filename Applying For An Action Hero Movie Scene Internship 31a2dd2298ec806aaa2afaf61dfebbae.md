@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 5, 2026
-updated_at: July 12, 2026 9:31 PM
+updated_at: August 23, 2026 6:15 PM
 emotion: Surprise
 people_in_the_media: Ben Shapiro
 
@@ -16,18 +16,12 @@ Needs editing.
 
 I was applying for an internship at a company owned by Ben Shapiro and had to perform a difficult action hero movie scene.
 
-> **Ben Shapiro**: Alright everyone you have been slacking off lately but it’s time to get serious.
-> 
-
-> **Ben Shapiro**: Our new intern is here today and will be acting out the scene.
+> **Ben Shapiro**: Alright everyone you have been slacking off lately but it’s time to get serious. Our new intern is here today and will be acting out the scene.
 > 
 
 A man handed me a white cat to hold and I sprinted up a square concrete stairwell to a desert containing empty concrete building frames with smooth exteriors. The frames had various large rectangle holes on different sides to walk through and were filled with one layer of explosive barrels.
 
-> **Ben Shapiro**: The barrels are going to explode in three seconds.
-> 
-
-> **Ben Shapiro**: Take cover behind the sand or you will die.
+> **Ben Shapiro**: The barrels are going to explode in three seconds. Take cover behind the sand or you will die.
 > 
 
 I fled to a sand dune beside the frames and dived behind it just in time as the barrels exploded. I returned to the frames to jump down a deep square pit and passed through a side opening to the next area.

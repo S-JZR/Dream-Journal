@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 1, 2013
-updated_at: August 22, 2026 2:26 AM
+updated_at: August 22, 2026 11:36 PM
 sleep_phenomena: Nightmare
 emotion: Fear
 symbols: UFO: The fear of being helpless.

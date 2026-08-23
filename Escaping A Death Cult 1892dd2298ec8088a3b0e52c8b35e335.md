@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 4, 2024
-updated_at: August 22, 2026 9:35 PM
+updated_at: August 23, 2026 12:29 AM
 emotion: Fear
 people_in_the_media: God
 influences:   • References Adolf Hitler believing he was chosen by providence.

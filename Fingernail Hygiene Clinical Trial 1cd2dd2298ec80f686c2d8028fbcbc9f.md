@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2016
-updated_at: June 5, 2026 12:19 AM
+updated_at: August 23, 2026 12:07 AM
 emotion: Fear
 influences: I trimmed my fingernails and saw gunk that disgusted me.
 

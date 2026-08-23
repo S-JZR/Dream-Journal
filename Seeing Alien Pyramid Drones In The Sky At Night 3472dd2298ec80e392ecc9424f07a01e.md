@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 12, 2026
-updated_at: June 5, 2026 4:24 AM
+updated_at: August 23, 2026 2:37 AM
 emotion: Surprise
 influences:   • About a week ago I looked out the upstairs window in the master bedroom at night to see two motionless white dots in the sky close together which I thought was strange and got my mum to look at. It seemed like one dot merged into the other, then they moved to the right and disappeared.
   • 2020: during the hype surrounding the Pentagon releasing UFO documents I saw:

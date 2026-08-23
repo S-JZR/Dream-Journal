@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 5, 2025
-updated_at: August 22, 2026 7:12 PM
+updated_at: August 23, 2026 2:21 AM
 emotion: Surprise
 influences: During a secondary school Graphics excursion to IKEA we spent too much time exploring and skipped eating hotdogs halfway through to get back on the bus.
 symbols: Overpriced Food: The fear that fast food prices won’t stop rising.

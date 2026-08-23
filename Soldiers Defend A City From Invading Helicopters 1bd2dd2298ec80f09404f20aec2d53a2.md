@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 20, 2025
-updated_at: August 22, 2026 3:15 AM
+updated_at: August 23, 2026 4:21 AM
 emotion: Fear
 influences: News,Gaza–Israel Conflict
 symbols: Army: The desire to stop evil from harming anyone.
@@ -18,10 +18,7 @@ I was one of many soldiers walking along the footpath in the city beside a tall 
 
 However, when it occurred two more times we rushed across a small bridge into the building and ascended to the aircraft hangar as various hostile helicopters flew past. I encountered a futuristic black aircraft with four hover blades mounted on the sides and a woman standing on the back ramp.
 
-> **Woman**: Get in!
-> 
-
-> **Woman**: You’re a good pilot so manage the controls.
+> **Woman**: Get in! You’re a good pilot so manage the controls.
 > 
 
 I entered the cockpit and noticed that the control panel featured a keyboard covering the entire top. We ascended over bluffs to the right as a fortress built on top that was captured by the enemy fired a missile that nearly hit us. An enemy helicopter approached from behind and fired heat-seeking missiles so I pressed the Y key but it deployed a front missile.

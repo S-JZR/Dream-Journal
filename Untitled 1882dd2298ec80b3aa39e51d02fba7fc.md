@@ -2,7 +2,7 @@
 
 is_favourite: No
 is_nsfw: No
-updated_at: July 12, 2026 8:46 PM
+updated_at: August 23, 2026 10:32 PM
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
@@ -11,14 +11,35 @@ Needs editing.
 
 </aside>
 
-**Checklist**
+# **Checklist**
 
-- [ ]  Write the dream (start with “I was X”).
-- [ ]  Split complex location descriptions into multilevel lists.
-- [ ]  Split dialogues into separate lines (censor swearing).
-- [ ]  Don’t use headers.
+**Writing**
+
+- [ ]  Start the dream with “I was x”.
 - [ ]  Split distinct plots into separate entries.
-- [ ]  Anonymize location names.
-- [ ]  Limit private individuals’ names to their first name and last initial (keep my family as dad, mum, and brother).
-- [ ]  Add metadata (keep interpretations minimal).
-- [ ]  Don’t link to other notion pages.
+- [ ]  End abrupt awakenings from nightmares with "I jolted awake.”
+- [ ]  Don’t use headers.
+- [ ]  Don’t link to other Notion pages.
+
+**Locations**
+
+- [ ]  Format complex locations using multilevel lists.
+
+**Dialogue**
+
+- [ ]  Split dialogue by speaker.
+- [ ]  Merge consecutive lines of dialogue from the same speaker.
+- [ ]  Write interrobangs as "?!”.
+- [ ]  Censor swearing.
+
+**Privacy**
+
+- [ ]  Anonymize the names of people I know as first name + last initial.
+- [ ]  Anonymize my family members as “dad”, “mum”, “brother”, and pet names.
+- [ ]  Anonymize private and local location names.
+
+**Metadata**
+
+- [ ]  Add metadata (use distinct fields to organize metadata and not generic "tags”).
+- [ ]  Record approximate dates as 1 January <year>.
+- [ ]  Add interpretations (keep them concise and minimal).

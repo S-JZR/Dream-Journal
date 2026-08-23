@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2010
-updated_at: August 22, 2026 8:27 PM
+updated_at: August 22, 2026 11:54 PM
 sleep_phenomena: Half-asleep
 emotion: Fear
 notes:   • For a month I went through a phase of occasionally panicking in my sleep for no apparent reason and I don’t know why.

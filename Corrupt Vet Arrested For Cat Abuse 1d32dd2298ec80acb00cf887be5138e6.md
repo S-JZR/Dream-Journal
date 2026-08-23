@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: April 11, 2025
-updated_at: August 22, 2026 3:16 AM
+updated_at: August 23, 2026 4:56 AM
 emotion: Anger
 influences: Mad God (2021): Likely references the surgeons’ silhouettes while preparing the assassin for surgery.
 
@@ -22,23 +22,17 @@ As staff covered the entrance with a fold-out Shoji screen, they placed the cat 
 
 Nearby bystanders were concerned and looked at me. I immediately went into the store to complain.
 
-> Me: Why the hell were you thinking?!
+> Me: What were you thinking?!
 > 
 
-> **Man**: All purchases are final.
-> 
-
-> **Man**: I would help you sort out this predicament but I’m late for my flight.
+> **Man**: All purchases are final. I would help you sort out this predicament but I’m late for my flight.
 > 
 
 I looked out the airport windows and saw his private jet moving towards a boarding bridge. Its metal skeleton was built out of many connected metal rings arranged haphazardly.
 
 The vet ascended a nearly pitch-black stairwell to enter a side office filled with various scientific equipment. A few people followed me upstairs behind him and a woman helped me film the entire incident as evidence when it quickly became clear that he was insane.
 
-> **Woman**: Are you serious right now?
-> 
-
-> **Woman**: you can’t just ignore him!
+> **Woman**: Are you serious right now? You can’t just ignore him!
 > 
 
 He frantically rushed around to prepare for his flight and exited his office twice to approach us with a thin plastic tube before returning. We weren't sure it was a knife so we backed away. He opened a deep metal container to the right of his office that emitted a subtle rhythmic beating noise which I instinctively knew contained the hearts of animals he tore out.
@@ -48,16 +42,7 @@ He frantically rushed around to prepare for his flight and exited his office twi
 
 I played the role of a bad cop to try pressuring him into giving a confession.
 
-> **Me**: I know exactly what’s in those containers and how you’ve been torturing helpless animals!
-> 
-
-> **Me**: Just confess, its over!
-> 
-
-> **Me**: You’re a f**king corrupt deranged heartless animal abuser conman!
-> 
-
-> **Me**: A disgusting creature that doesn't belong on this planet!
+> **Me**: I know exactly what’s in those containers and how you’ve been torturing helpless animals! Just confess, its over! You’re a f**king corrupt deranged heartless animal abuser conman! A disgusting creature that doesn't belong on this planet!
 > 
 
 Each word broke him more and he collapsed onto the floor distraught.

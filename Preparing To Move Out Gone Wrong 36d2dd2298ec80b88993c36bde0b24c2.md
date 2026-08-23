@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 27, 2026
-updated_at: August 22, 2026 9:20 PM
+updated_at: August 23, 2026 6:42 PM
 emotion: Sad
 people_i_know: Brother, Dad, Mum
 
@@ -19,10 +19,7 @@ I was one of many neighbours attending a gathering event in the car park of my u
 > **Man**: Why did you say your family were thinking of leaving again?
 > 
 
-> **Me**: We don’t feel safe with all of the strange activity going on lately.
-> 
-
-> **Me**: We’ve lived here for a long time and experienced a lot of things but maybe this is the reason we’ve been needing to move.
+> **Me**: We don’t feel safe with all of the strange activity going on lately. We’ve lived here for a long time and experienced a lot of things but maybe this is the reason we’ve been needing to move.
 > 
 
 All of the neighbours shared my revelation with each other and word spread the next morning that they were also considering leaving. I was walking around the carpark alone when a female representative from Ray White arrived and began spray painting yellow and black rectangles on the closed rolling corrugated garage doors in my row.
@@ -38,10 +35,7 @@ She walked past me and I turned around to see a new diagonal billboard to the ri
 > **Me**: What does this billboard mean?
 > 
 
-> **Woman**: We’re going to visit each unit in-person to grade them against different criteria to estimate how well they will perform on the market.
-> 
-
-> **Woman**: All of the scores will be posted on the billboard for everyone to see.
+> **Woman**: We’re going to visit each unit in-person to grade them against different criteria to estimate how well they will perform on the market. All of the scores will be posted on the billboard for everyone to see.
 > 
 
 I returned to my unit to tell my family about the incident. My mum became nervous and tried to make everything more presentable by pulling back the carpet and floorboards to vacuum hidden dirt. She also travelled to the garage where she vacuumed dirt on the roller doors and ceiling. I looked around at the belongings, keepsakes, containers, and cardboard boxes my mum archived and stacked up to the ceiling against all of the walls. I considered how my parents were constantly making it harder to move by accumulating more belongings and fragile items over time in the unit and garage that we would have to deal with later.

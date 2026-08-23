@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 8, 2026
-updated_at: July 12, 2026 9:31 PM
+updated_at: August 23, 2026 6:19 PM
 emotion: Anger
 
 <aside>
@@ -15,10 +15,7 @@ Needs editing.
 
 I was one of many secondary students walking into a football stadium to attend a school assembly when a male teacher near the front entrance tried to get students to take a survey about about the hall by paying them money and increased the amount out of desperation.
 
-> **Teacher**: Does anyone want to take a survey about the hall?
-> 
-
-> **Teacher**: I will pay you $15!
+> **Teacher**: Does anyone want to take a survey about the hall? I will pay you $15!
 > 
 
 I ignored the teacher and continued moving inside because I thought he was doing it an inappropriate time and I could miss important announcements. I saw the stage in the distance and various students sitting on the floor in front of it. I overheard him talking to a female student behind me.

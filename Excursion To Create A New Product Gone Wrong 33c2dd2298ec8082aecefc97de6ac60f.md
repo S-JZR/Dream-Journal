@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 8, 2026
-updated_at: August 22, 2026 7:19 PM
+updated_at: August 23, 2026 6:26 PM
 emotion: Embarrassment
 people_i_know: Bianca D, Thomas R
 
@@ -34,13 +34,7 @@ Everyone gathered around white fold-out tables with A3 pages and markers on top 
 > **Me**: I think and write down ideas all the time but for some reason nothing is coming to mind.
 > 
 
-> **Bianca**: Same.
-> 
-
-> **Bianca**: I had many ideas that I thought I would remember but forgot them.
-> 
-
-> **Bianca**: I didn’t write them down though.
+> **Bianca**: Same. I had many ideas that I thought I would remember but forgot them. I didn’t write them down though.
 > 
 
 > **Me**: You really have to write ideas down or you will inevitably forget them and it’s a horrible feeling.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 13, 2026
-updated_at: June 13, 2026 6:54 PM
+updated_at: August 23, 2026 6:47 PM
 emotion: Happy
 
 <aside>
@@ -15,10 +15,7 @@ Needs editing.
 
 I was spectating a woman dressed as a mad scientist doing a magic show for children standing in front of a table with a fake chemistry set and a black top hat on top. She had a male controlling a dark grey sock puppet with googly eyes as comic relief. There was a long black flannel wall behind her.
 
-> **Woman**: Everything is incredibly dangerous and would require professional supervision.
-> 
-
-> **Woman**: Fortunately, I happen to be specialized in such a thing.
+> **Woman**: Everything is incredibly dangerous and would require professional supervision. Fortunately, I happen to be specialized in such a thing.
 > 
 
 The puppet emerged from behind the table.
@@ -42,13 +39,7 @@ She pushed the puppet back under the table.
 
 As the child poured the chemicals into the top hat a window opened like saloon doors on the back wall and white smoke poured out.
 
-> **Puppet**: *Cough*
-> 
-
-> **Puppet**: What is going on?
-> 
-
-> **Puppet**: Smoke is filling up everything back here, stop pouring!
+> **Puppet**: *Cough* What is going on? Smoke is filling up everything back here, stop pouring!
 > 
 
 > **Woman**: He did that.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: December 4, 2025
-updated_at: August 22, 2026 7:17 PM
+updated_at: August 23, 2026 2:42 AM
 emotion: Fear
 influences: Steven and Jayden bullied many people in primary school, including me.
 symbols: Pushing Down The Stairs: Likely feeling subconscious fear and anger.

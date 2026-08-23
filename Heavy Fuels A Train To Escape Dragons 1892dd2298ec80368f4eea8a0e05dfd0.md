@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 22, 2024
-updated_at: August 22, 2026 2:46 AM
+updated_at: August 23, 2026 12:27 AM
 emotion: Fear
 people_in_the_media: Heavy
 influences: Team Fortress 2 (2007): References the Heavy.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: December 17, 2020
-updated_at: August 22, 2026 2:39 AM
+updated_at: August 23, 2026 12:21 AM
 emotion: Happy
 people_in_the_media: Jimmy Neutron, Tommy Pickles
 influences:   • Rugrats (1991): References Tommy.

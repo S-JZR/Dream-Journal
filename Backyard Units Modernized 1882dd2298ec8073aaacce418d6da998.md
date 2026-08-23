@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2014
-updated_at: August 22, 2026 2:22 AM
+updated_at: August 22, 2026 11:55 PM
 emotion: Sad
 influences: 2009: a rundown house surrounded by dense shrubbery beside our unit was replaced with modern red brick and white concrete units.
 symbols: Modern Units: Impermanence of the world and memories.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 5, 2024
-updated_at: August 22, 2026 2:44 AM
+updated_at: August 23, 2026 12:26 AM
 emotion: Fear
 people_in_the_media: Mrs Tweedy, Sheriff Woody
 influences:   • Chicken Run (2000): References Mrs Tweedy.

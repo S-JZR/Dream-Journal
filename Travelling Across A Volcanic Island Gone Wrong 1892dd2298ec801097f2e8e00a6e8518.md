@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: August 17, 2024
-updated_at: August 22, 2026 3:12 AM
+updated_at: August 23, 2026 2:10 AM
 emotion: Fear
 influences:   • Lost Rooms (2022) (Roblox):
       ◦ References hunting monsters in the backrooms.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: June 5, 2026 12:42 AM
+updated_at: August 23, 2026 12:16 AM
 emotion: Surprise
 
 I was seated on the sofa in my unit watching TV when an adult male news anchor discussed a viral geography competition in a newspaper, offering an all-expenses-paid trip to a secret location. The competition involved:

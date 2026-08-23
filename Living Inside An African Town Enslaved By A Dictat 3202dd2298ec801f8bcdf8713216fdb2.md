@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 11, 2026
-updated_at: August 22, 2026 3:23 AM
+updated_at: August 23, 2026 6:20 PM
 emotion: Surprise
 
 <aside>
@@ -20,21 +20,12 @@ I was standing above a deep square concrete pit when I jumped down to the bottom
 
 I followed the man left to a grassy hill with barb wire as railings and a few pieces of barb wire were covering the ground so we needed to walk carefully. The hill overlooked surrounding buildings and dark blue metal walls with lookout areas built into the top bordering the entire town.
 
-> **Man 1**: Our country is run by a dictator who has enslaved us.
-> 
-
-> **Man 1**: If we fail to meet our quota of delivering supplies then we will be executed.
-> 
-
-> **Man 1**: Walls were erected around the entire town to keep us trapped inside.
+> **Man 1**: Our country is run by a dictator who has enslaved us. If we fail to meet our quota of delivering supplies then we will be executed. Walls were erected around the entire town to keep us trapped inside.
 > 
 
 Two male police officers yelled at us from behind.
 
-> **Man 2**: Hey, you’re not supposed to be here!
-> 
-
-> **Man 2**: Come back to the town with us immediately!
+> **Man 2**: Hey, you’re not supposed to be here! Come back to the town with us immediately!
 > 
 
 While we started returning to the town I took one of the police officer’s pistols to shoot both of them and we fled as they fell down backwards in pain.

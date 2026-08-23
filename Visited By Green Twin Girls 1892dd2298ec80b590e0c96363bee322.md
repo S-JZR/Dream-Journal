@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 14, 2024
-updated_at: August 22, 2026 8:40 PM
+updated_at: August 23, 2026 3:50 AM
 emotion: Fear
 influences:   • The Shining (1980): References the twins murdered by their father.
   • Christianity: Reminds me of 1 Peter 5:8.
@@ -23,10 +23,7 @@ I was standing on the footpath outside my unit complex when I noticed two small 
 
 As they wandered away down the street I began following them.
 
-> **Me**: What do you mean by that?
-> 
-
-> **Me**: Where are you going?
+> **Me**: What do you mean by that? Where are you going?
 > 
 
 They soon blended into a crowd of adults boarding a mini white bus.
@@ -37,10 +34,7 @@ Suddenly, a sepia horror film was projected onto the right wooden fence surround
 
 As night fell, enveloping surroundings in pitch blackness, I grew paranoid that the girls were luring me outside for something sinister, prompting me to flee into my unit to meet my brother.
 
-> **Me**: You won’t believe what happened.
-> 
-
-> **Me**: [Relaying the situation].
+> **Me**: You won’t believe what happened. [Relaying the situation].
 > 
 
 > **Brother**: (Joking) That sounds like they’re straight out of The Shining.

@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2020
-updated_at: August 22, 2026 2:34 AM
+updated_at: August 23, 2026 12:18 AM
 emotion: Fear
 people_in_the_media: Grim Reaper
 influences: Recently my family has been attending the church.

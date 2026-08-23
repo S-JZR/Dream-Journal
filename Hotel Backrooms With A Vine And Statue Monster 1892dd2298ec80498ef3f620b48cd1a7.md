@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: September 2, 2024
-updated_at: August 22, 2026 10:09 PM
+updated_at: August 23, 2026 4:01 AM
 emotion: Fear
 influences:   • Skibidi Toilet (2023): References the Skibidi Toilet trend that was popular: https://en.wikipedia.org/wiki/Skibidi_Toilet.
   • Doors (2021) (Roblox): References surviving monsters in a hotel. References the timed cupboard event with The Figure.
@@ -13,10 +13,7 @@ I was walking through an arcade with various people when everyone fell through t
 
 I hurriedly slid open the drawers to gather loose scrap, craft a watch, and glance at the time.
 
-> **Me**: Night is almost here!
-> 
-
-> **Me**: Hide!
+> **Me**: Night is almost here! Hide!
 > 
 
 Everyone fled away while I continued scavenging.
@@ -43,16 +40,10 @@ I obeyed and the plants instantly shrivelled up.
 
 During the second night, a male ghost appeared and randomly selected a boy and me to be locked inside adjacent cupboards as the doors slammed shut with a green glow inside.
 
-> **Ghost**: Everyone must vote on which of these individuals to spare from death.
+> **Ghost**: Everyone must vote on which of these individuals to spare from death. But first, let’s hear both of their cases.
 > 
 
-> **Ghost**: But first, let’s hear both of their cases.
-> 
-
-> **Me**: (Joking) Skibidi…
-> 
-
-> **Me**: [Recalling the work I did to help everyone]
+> **Me**: (Joking) Skibidi… [Recalling the work I did to help everyone]
 > 
 
 > **Boy**: ...

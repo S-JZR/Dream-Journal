@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 7, 2024
-updated_at: August 22, 2026 3:12 AM
+updated_at: August 23, 2026 2:09 AM
 emotion: Fear
 influences:   • Likely references the Apple 1984 commercial where a crowd stares blankly at Big Brother.
   • The Library Of Babel (1941): References The Library Of Babel with books containing randomly generated text.

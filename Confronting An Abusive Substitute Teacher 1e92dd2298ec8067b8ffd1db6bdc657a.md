@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 1, 2025
-updated_at: August 22, 2026 3:16 AM
+updated_at: August 23, 2026 2:23 AM
 emotion: Anger
 influences:   • Teachers occasionally asked me to do errands in primary school.
   • Mrs Barnes made me write lines after class for failing quiz questions.

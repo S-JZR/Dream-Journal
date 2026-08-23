@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 18, 2026
-updated_at: August 22, 2026 3:33 AM
+updated_at: August 23, 2026 2:33 AM
 emotion: Fear
 
 <aside>

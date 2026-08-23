@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: October 5, 2024
-updated_at: August 22, 2026 7:10 PM
+updated_at: August 23, 2026 2:11 AM
 emotion: Anger
 influences: In primary school, students often sprayed water everywhere from the water bubblers by blocking the nozzle with their thumbs.
 notes: The Indian student was an old friend from primary school who I had not considered for a long time. I briefly questioned whether they were real but I know they are.

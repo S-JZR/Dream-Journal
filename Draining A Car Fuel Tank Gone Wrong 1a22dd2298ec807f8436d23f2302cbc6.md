@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 28, 2021
-updated_at: August 22, 2026 8:39 PM
+updated_at: August 23, 2026 12:22 AM
 emotion: Fear
 influences: MythBusters (2003): References waiting five minutes to see if a failed explosive will self-detonate.
 people_i_know: Brother, Dad, Mum

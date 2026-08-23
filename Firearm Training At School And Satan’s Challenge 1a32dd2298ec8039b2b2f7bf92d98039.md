@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 11, 2025
-updated_at: August 22, 2026 3:15 AM
+updated_at: August 23, 2026 4:13 AM
 emotion: Fear
 people_in_the_media: Donald Trump, Satan
 influences:   • References the USA debate about arming teachers in schools: https://www.nea.org/nea-today/all-news-articles/arming-teachers-still-terrible-idea.
@@ -28,10 +28,7 @@ During recess I overheard a religious discussion by a few other students in a ro
 
 When walking past a separate building, staff members inside became demon possessed and tried to kill me by shooting from inside or pointing guns out the window. I fled to a bathroom where various individuals were wandering around and Satan emerged from a toilet stall wearing a white smiling horned oni mask with grey sparkly cheeks.
 
-> **Satan**: I challenge you to a game for secret knowledge but you must bet your life.
-> 
-
-> **Satan**: You must spot me moving towards you from different places before I reach you.
+> **Satan**: I challenge you to a game for secret knowledge but you must bet your life. You must spot me moving towards you from different places before I reach you.
 > 
 
 > **Me**: I’m in.

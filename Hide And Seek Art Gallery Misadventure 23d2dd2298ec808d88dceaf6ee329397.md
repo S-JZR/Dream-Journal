@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 19, 2025
-updated_at: August 22, 2026 7:16 PM
+updated_at: August 23, 2026 2:29 AM
 emotion: Surprise
 influences: During secondary school, the art teachers taped decorative black paper borders to our art without asking for the school art gala.
 people_i_know: ? Co Art Teacher, ? Indian Student

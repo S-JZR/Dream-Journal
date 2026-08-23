@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 22, 2026 8:30 PM
+updated_at: August 23, 2026 3:27 AM
 sleep_phenomena: Nightmare
 emotion: Fear
 influences: Indiana Jones And The Kingdom Of The Crystal Skull (2008): References Indiana Jones surviving a nuke by climbing into a lead-lined fridge.
@@ -17,10 +17,7 @@ I was lying on the bunk bed upstairs in my room in my unit, peeking through the 
 
 I thought that the fridge would offer protection with the lead lining like in Indiana Jones. A colossal explosion engulfed everything in a blinding white light and I couldn't see anything. I screamed at the top of my voice but there was a temporary silence until it rapidly increased in volume to become unbearable.
 
-> **Me**: ...
-> 
-
-> **Me**: aaaaaAAAAAH!
+> **Me**: ... aaaaaAAAAAH!
 > 
 
 I jolted awake.

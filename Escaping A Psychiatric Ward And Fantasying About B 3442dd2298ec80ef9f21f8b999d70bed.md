@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 16, 2026
-updated_at: August 22, 2026 3:30 AM
+updated_at: August 23, 2026 6:29 PM
 emotion: Surprise
 
 <aside>
@@ -39,10 +39,7 @@ We travelled to the drop off zone at the front of the school where I waited arou
 
 No busses were going to my home location so I boarded a different bus. We travelled down the school road where an oil truck broke down in the left lane and police were managing traffic. The bus abruptly stopped because a woman was exiting a cropland and moving a wooden crate full of food across the road as an angry man followed her.
 
-> **Man 1**: I recognise you, you’re the thief who stole food from me earlier!
-> 
-
-> **Man 1**: Arrest her!
+> **Man 1**: I recognise you, you’re the thief who stole food from me earlier! Arrest her!
 > 
 
 The police arrested her and we continued moving. We noticed a layer of white frozen meat that was yet be deep fried covering the entire road ahead.
@@ -63,35 +60,20 @@ The bus monitor indicated that we were heading to a destination far away from my
 
 I jumped down to gather some coins but a car was coming so I climbed back up but it was difficult with my heavy bag. I considered taking off my bag but I didn’t want anyone to mess with it while I wasn’t looking. After finishing, I noticed there were no other cars.
 
-> **Me**: It’s strange that no other cars are coming.
-> 
-
-> **Me**: Maybe we should take a look.
+> **Me**: It’s strange that no other cars are coming. Maybe we should take a look.
 > 
 
 We walked down the street to see a cement truck broken down diagonally on the road which held back traffic. Everyone on the bus behind it was forced to get off. I stood in the middle of the road to try taking photos to show my family but three cars approached from behind so I gestured for them to stop so they would slow down to avoid hurting anyone. I held my phone to take photos but the screen displayed a lounge room in an alternative dimension with a TV showing a desert documentary. Three men approached to speak with me when I transformed into a different man.
 
-> **Man 2:** Mr Anderson, we’re here to help you.
-> 
-
-> **Man 2**: You’re lost in a fantasy about your past as a student.
-> 
-
-> **Man 2**: You’re not really there.
-> 
-
-> **Man 2**: You walked out of the psychiatric ward and need to come back into our care.
+> **Man 2:** Mr Anderson, we’re here to help you. You’re lost in a fantasy about your past as a student. You’re not really there. You walked out of the psychiatric ward and need to come back into our care.
 > 
 
 > **Me**: What?
 > 
 
-I looked around to see the location transform into a bushland beside a suburban park as I gained awareness.
+I looked around to see the location transform into a bushland beside a suburban park as I snapped back into reality.
 
-> **Me**: If I hurt anyone, I’m sorry.
-> 
-
-> **Me**: I didn’t mean to do any of it.
+> **Me**: If I hurt anyone, I’m sorry. I didn’t mean to do any of it.
 > 
 
 I sprinted further into the bushland with a fictional female friend who was helping me escape and we climbed a palm tree to hide as the men and police searched for me below.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2013
-updated_at: June 4, 2026 11:56 PM
+updated_at: August 22, 2026 11:41 PM
 emotion: Anticipation
 influences: Christianity: References God's second coming.
 symbols: God’s Second Coming: Feeling the world is in a bad state and wanting God to return and restore order.

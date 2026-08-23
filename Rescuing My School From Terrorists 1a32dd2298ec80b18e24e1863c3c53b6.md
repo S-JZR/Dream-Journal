@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: November 2, 2020
-updated_at: August 22, 2026 2:37 AM
+updated_at: August 23, 2026 3:36 AM
 emotion: Happy
 influences:   • SpongeBob SquarePants (1999): Likely references Baby Prunes who is bad-tempered and going deaf https://spongebob.fandom.com/wiki/Baby_Prunes.
   • Likely references the trope that aliens are evil and shooting monsters in videogames.
@@ -11,10 +11,7 @@ symbols: Terrorists: Desiring to stop injustice before anyone is harmed. The fea
 
 I was wandering the lower field beside the year five block at my primary school when camouflaged soldiers emerged from the forest.
 
-> **Soldiers**: You’re all out of bounds!
-> 
-
-> **Soldiers**: Move to the upper field!
+> **Soldiers**: You’re all out of bounds! Move to the upper field!
 > 
 
 While repeatedly glancing over my shoulder, I accidentally bumped into the tip of a black jousting pole held by a male soldier. He looked bewildered.

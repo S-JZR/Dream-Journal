@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 10, 2023
-updated_at: August 22, 2026 2:43 AM
+updated_at: August 23, 2026 3:45 AM
 emotion: Fear
 influences: Star Wars Battlefront II (2017): References the gameplay.
 symbols:   • Camera Shy: I’m introverted. The fear of everyone remembering my mistakes forever.
@@ -11,13 +11,7 @@ symbols:   • Camera Shy: I’m introverted. The fear of everyone remembering m
 
 I was one of many people running through a city square playing a Star Wars laser tag game. Everyone was armed with lazer machine guns. Michael, a socially introverted autistic teenager who was part of my fictional family, requested a turn before eventually wandering off. After the game ended I travelled to my fictional house in a three-story modern glass building.
 
-> **Mum**: Have you seen Michael?
-> 
-
-> **Mum**: He has been gone since yesterday.
-> 
-
-> **Mum**: He left the lazer gun at home.
+> **Mum**: Have you seen Michael? He has been gone since yesterday. He left the lazer gun at home.
 > 
 
 Aware of his tendency to visit neighbours and special places, I embarked on a quest to find him, knocking on doors along the street and asking questions without success. After finding no sign of him, I returned home, inexplicably gaining the superpower to jump atop two fences simultaneously while effortlessly balancing on them. Deciding to return the laser gun from the previous event, I walked towards the city square using straight stairs nestled between neighbours on the hill. However, upon arriving, I discovered a professional 6v6 tournament taking place in a small grass square. Deciding to postpone the task, perhaps to avoid being on camera, I skilfully navigated over fences on my way back home.

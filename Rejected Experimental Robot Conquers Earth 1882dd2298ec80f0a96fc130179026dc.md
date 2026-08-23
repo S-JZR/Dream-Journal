@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 22, 2026 2:32 AM
+updated_at: August 23, 2026 12:15 AM
 emotion: Fear
 influences: Steam Punks! (2013): References the title sequence where a discarded experimental robot grows underground.
 

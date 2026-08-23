@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: August 16, 2026
-updated_at: August 22, 2026 3:36 AM
+updated_at: August 23, 2026 7:05 PM
 emotion: Fear
 
 <aside>
@@ -20,13 +20,7 @@ I was watching a female live steamer who was filming herself in a shopping mall 
 
 She walked into a small isolated cylinder bathroom in the middle of the top floor of a two-storey atrium and slid the door shut. I was concerned for her safety and sprinted ahead through multiple hallways to her location and frantically knock on the door and warned her. The men didn’t have a direct line of sight.
 
-> **Me**: I overheard two men plotting to rape you and they are coming this way!
-> 
-
-> **Me**: You need to leave now!
-> 
-
-> **Me**: Maybe you can hide in the Woolworths and I can wear your jacket to lead the men away.
+> **Me**: I overheard two men plotting to rape you and they are coming this way! You need to leave now! Maybe you can hide in the Woolworths and I can wear your jacket to lead the men away.
 > 
 
 > **Woman**: Ok, take it and be careful.
@@ -34,10 +28,7 @@ She walked into a small isolated cylinder bathroom in the middle of the top floo
 
 We walked past the Woolworths and she gave me her jacket to put on. As I continued walking ahead the men approached from behind to look at my face but were confused.
 
-> **Man**: That isn’t her.
-> 
-
-> **Man**: Where did you get that jacket, did she give it to you?
+> **Man**: That isn’t her. Where did you get that jacket, did she give it to you?
 > 
 
 > **Me**: What the hell are you talking about?
@@ -45,10 +36,7 @@ We walked past the Woolworths and she gave me her jacket to put on. As I continu
 
 I continued walking but the men were annoyed and forcefully grabbed my shoulder to spin me around. We got into a fight and I fought back by repeatedly kicking one of them in the groin. A muscular male Asian martial artist wearing a red shirt appeared out of nowhere to intervene.
 
-> **Man 2**: Hey!
-> 
-
-> **Man 2**: What is going on here?
+> **Man 2**: Hey! What is going on here?
 > 
 
 > **Me**: [Recalled the situation]

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: Yes
 date: January 7, 2021
-updated_at: August 22, 2026 8:38 PM
+updated_at: August 23, 2026 3:41 AM
 emotion: Fear
 people_in_the_media: Aleksandr Orlov, James Sullivan, Mrs Claus, Santa, Sergei Orlov
 influences:   • Compare The Market (2006): References Aleksandr and Sergei from Compare The Market.
@@ -14,7 +14,7 @@ people_i_know: Brother, Dad, Mum
 
 I was with my family visiting festive attractions located at a riverside promenade to the left of a cantilever bridge with a concrete base during Christmas week. I walked towards Santa, Mrs. Claus, and elves at a sleigh with Aleksandr and Sergei from Compare The Market. Mr. Claus gave us presents, including paintings for Aleksandr and Sergei and a large bottle of wine for me.
 
-> **Me**: (joking) Does the NSA work for Santa?
+> **Me**: (Joking) Does the NSA work for Santa?
 > 
 
 Mrs Clause looked shocked and an Elf intervened.
@@ -29,7 +29,7 @@ I continued walking with my family until we encountered an inappropriate life-si
 
 We walked past a group of men, secretly part of a criminal organization, playing cricket on a platform over the ocean beside a harbour. The bowler stood on a high central pillar, pitching balls sharply downward to players on lower pillars in a ring. Nearby boats travelling opposite directions collided, startling the bowler who released the ball prematurely, which landed on the footpath. He turned around.
 
-> **Bowler**: (To me) Give it back!
+> **Bowler**: Give it back!
 > 
 
 I resentfully pegged it at him, knocking him into the water and gave a salute.
@@ -59,10 +59,7 @@ Determined to uncover the culprits behind the criminal organization, I ventured 
 > **Owner**: Is everything alright?
 > 
 
-> **Me**: [Relaying the situation]
-> 
-
-> **Me**: Can I hide here?
+> **Me**: [Relaying the situation]. Can I hide here?
 > 
 
 > **Owner**: Follow me to the roof.
@@ -78,10 +75,7 @@ Eventually, we glided past a hovering 3D semi-circle quartz structure, revealed 
 > **Me**: Can you land on it so I can put a stop to all of this.
 > 
 
-> **Owner**: No it’s too heavily defended.
-> 
-
-> **Owner**: We need to find another location where they will be exposed.
+> **Owner**: No it’s too heavily defended. We need to find another location where they will be exposed.
 > 
 
 > **Me**: We can go to an abandoned warehouse where they met up earlier.
@@ -92,10 +86,7 @@ We landed beside the warehouse and my family was already outside as a few people
 > **Stranger**: What is that gun for?
 > 
 
-> **Me**: It’s for dealing with criminals.
-> 
-
-> **Me**: I could shoot them all but I won’t because I’m not evil.
+> **Me**: It’s for dealing with criminals. I could shoot them all but I won’t because I’m not evil.
 > 
 
 Unexpectedly, numerous senior military officers, wearing green uniforms adorned with medals, cheerfully escorted my parents away.

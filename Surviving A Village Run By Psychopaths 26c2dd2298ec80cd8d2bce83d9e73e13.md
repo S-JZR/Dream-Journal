@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: September 12, 2025
-updated_at: August 22, 2026 3:18 AM
+updated_at: August 23, 2026 5:37 PM
 emotion: Fear
 influences:   • 99 Nights In The Forest (2025) (Roblox): Likely references seeing a wendigo in the thumbnail standing on two legs with long claws.
   • The Outlast Trials (2023):
@@ -15,10 +15,7 @@ I was standing in a small carpark beside an abandoned white building when a woma
 > **Woman**: Can you recall your experiences in the depraved village?
 > 
 
-> **Me**: It was like The Outlasts Trials run by various psychopaths.
-> 
-
-> **Me**: Nobody was supposed to be outside during the night as they risked being shot by nocturnal mutant deer guards armed with rifles that sluggishly roamed on two legs.
+> **Me**: It was like The Outlasts Trials run by various psychopaths. Nobody was supposed to be outside during the night as they risked being shot by nocturnal mutant deer guards armed with rifles that sluggishly roamed on two legs.
 > 
 
 I went back in time a few months ago when I was a a poor man in the same parking lot at night. I noticed a pink piggy bank on the ground and picked it up with both hands when everything faded to white. I was teleported to one edge of a remote village with rundown modern buildings and a forest surrounding the perimeter. I looked into the top floor of a two-story building that was a dark messy abandoned industrial room with smashed windows and noticed a woman walking right and disappearing.

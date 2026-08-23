@@ -3,8 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: November 4, 2025
-updated_at: August 22, 2026 9:10 PM
+updated_at: August 23, 2026 5:43 PM
 emotion: Fear
+people_in_the_media: Tripod Alien
 influences: War Of The Worlds (2005): References the tripod aliens.
 people_i_know: Mum
 

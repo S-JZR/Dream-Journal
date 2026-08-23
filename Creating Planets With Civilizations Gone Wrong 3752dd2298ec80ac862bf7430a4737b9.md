@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: June 4, 2026
-updated_at: August 22, 2026 3:33 AM
+updated_at: August 23, 2026 6:45 PM
 emotion: Sad
 people_in_the_media: Jordan Peterson
 
@@ -18,13 +18,7 @@ I was the captain of a spaceship seated in the cockpit beside the co-pilot where
 
 I assumed the role of a person living on the planet standing beside a river when I was aware that a blizzard was approaching the planet. I power walked past city streets and café towards a skyscraper and repeatedly warned everyone and made sure to change my messages to ensure they better received by clearly explained the call to action and reason why. However, nobody reacted.
 
-> **Me**: Run!
-> 
-
-> **Me**: Get inside!
-> 
-
-> **Me**: A blizzard is about to hit the planet!
+> **Me**: Run! Get inside! A blizzard is about to hit the planet!
 > 
 
 I hid inside the skyscraper as the blizzard impacted the planet and instantly froze everything outside and covered it in a thin layer of snow. I found 2 tiny thermal purple gel balls in the first aid room inside that were designed to emit a field of heat for one person in such an emergency. I rubbed them once to activate them and held them in my hands which allowed me to comfortably move around outside where I witnessed the carnage first-hand.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: August 22, 2026 10:46 PM
+updated_at: August 23, 2026 12:03 AM
 emotion: Surprise
 people_i_know: ? Mico's Mother, Mico
 

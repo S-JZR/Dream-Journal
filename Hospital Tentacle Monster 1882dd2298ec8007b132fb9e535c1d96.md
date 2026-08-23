@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 7, 2021
-updated_at: August 22, 2026 9:36 PM
+updated_at: August 23, 2026 12:22 AM
 emotion: Fear
 influences:   • Would I Lie To You? (2007): References the gameshow.
   • My mum is sensitive to gore and swearing so I need to be mindful of what I show her.

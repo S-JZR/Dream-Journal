@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 7, 2025
-updated_at: August 22, 2026 9:40 PM
+updated_at: August 23, 2026 4:54 AM
 emotion: Fear
 
 I was standing in my unit when a girl approached the front flyscreen door while it was raining.
@@ -11,12 +11,9 @@ I was standing in my unit when a girl approached the front flyscreen door while 
 > **Girl 1**: Can you help me?
 > 
 
-Thinking it was a serious issue, I exited outside to follow her down the footpath as the rain cleared instantly upon contact, revealing the sun. She led me to a white fold-out table on the footpath beside unit 1 where I sat next to her and across from her adult sister who was closer to the unit.
+Thinking it was a serious issue, I exited outside to follow her down the footpath as the rain cleared instantly upon contact, revealing the sun. She led me to a white fold-out table on the footpath beside unit 1 where I sat next to her and across from her adult sister who was closer to the unit. There was an electronic rectangular cyan pen holder on the table.
 
-> **Girl 1**: Can you help identify my dream boyfriend?
-> 
-
-> **Girl 1**: You just ask this electronic rectangular cyan pen holder a question then insert the pen and it gives the answer.
+> **Girl 1**: Can you help identify my dream boyfriend? You just ask the pen holder a question, insert the pen, and it gives the answer.
 > 
 
 > **Me**: Is he an international student?
@@ -28,10 +25,7 @@ Thinking it was a serious issue, I exited outside to follow her down the footpat
 > **Me**: Is he lonely?
 > 
 
-> **Girl 1**: Yes.
-> 
-
-> **Girl 1**: Would you like to stay at our place for a while.
+> **Girl 1**: Yes. Would you like to stay at our place for a while.
 > 
 
 > Me: Sure.
@@ -65,10 +59,7 @@ I realized she was about to emerge from the hallway so I turned around to warm m
 
 I heard distant footsteps and turned around to see Margaret, a tall pale figure in a light blue dress with long black hair, power walking towards me.
 
-> **Me**: Yes!
-> 
-
-> **Me**: Please send help, I'm being chased!
+> **Me**: Yes! Please send help, I'm being chased!
 > 
 
 > **Operator**: What is your street address?
@@ -97,10 +88,7 @@ I noticed a boy standing on a protruding strip of floor on the other side, curio
 
 I climbed down from the wall, walked back to the narrow strip, but now it was crowded with more children blocking my way. A girl who resembled Margarette’s daughter accidentally bumped someone and began falling into the void.
 
-> **Me**: Margarette, I think your daughter is about to die!
-> 
-
-> **Me**: You better save her!
+> **Me**: Margarette, I think your daughter is about to die! You better save her!
 > 
 
 However, nothing occurred so it must have been someone else. I suddenly remembered that I was still on the phone with the operator.

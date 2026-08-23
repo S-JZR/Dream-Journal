@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 2, 2025
-updated_at: August 22, 2026 8:53 PM
+updated_at: August 23, 2026 4:36 PM
 emotion: Sad
 influences:   • Minecraft (2025): Reference the Chicken Jockey trend that was popular and people threw around food in cinemas: https://simple.wikipedia.org/wiki/A_Minecraft_Movie.
   • Fred Claus (2007): The messy slurpy store reminds me of the scene where Santa and Clyde are shocked that the elves stopped working and restore order: https://youtu.be/nR2MtdrHCEs?si=-tkEbUUoCfTHEclR&t=88.
@@ -22,10 +22,7 @@ I was walking down the street in the city with my brother when we realized we we
 
 It was completely packed with diverse teenagers and adults.
 
-> **Me**: There’s probably not many spare seats left so we need to split up.
-> 
-
-> **Me**: I’ll go along the back left row.
+> **Me**: There’s probably not many spare seats left so we need to split up. I’ll go along the back left row.
 > 
 
 > **Brother**: I’ll try the aisles.
@@ -79,10 +76,7 @@ I approached the male janitor.
 > **Me**: Is there a shower in here?
 > 
 
-> **Man 3**: No showers in this place, I’m afraid.
-> 
-
-> **Man 3**: Can you show me where all of the messes are?
+> **Man 3**: No showers in this place, I’m afraid. Can you show me where all of the messes are?
 > 
 
 > **Me**: Sure, follow me.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2016
-updated_at: August 22, 2026 8:29 PM
+updated_at: August 23, 2026 12:09 AM
 emotion: Fear
 influences: One of our neighbours did suspicious things and we were warry at the time.
 symbols: Shotgun: The fear of hidden dangers.

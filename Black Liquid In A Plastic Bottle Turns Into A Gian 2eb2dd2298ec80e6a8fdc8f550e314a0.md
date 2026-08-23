@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 17, 2026
-updated_at: August 22, 2026 3:21 AM
+updated_at: August 23, 2026 5:58 PM
 emotion: Fear
 
 <aside>
@@ -15,10 +15,7 @@ Needs editing.
 
 I was standing in an arcade with various people and held a plastic bottle with some leftover black liquid. After walking around for some time, the liquid began to violently bubble and expand to the lid. I was afraid of being injured and instinctively threw it under the central rows of arcade cabinets where it exploded and covered the floor. Nearby people looked at me with angry expressions.
 
-> **Man**: Why did you do that?
-> 
-
-> **Man**: You could damage the machines and it’s going to be hard to clean-up.
+> **Man**: Why did you do that? You could damage the machines and it’s going to be hard to clean-up.
 > 
 
 The liquid continued expanding until covering the entire floor and turned into a giant creature that walked outside through the city without harming anyone. Everyone fled in fear and I drove a car over a bridge to exit the city.

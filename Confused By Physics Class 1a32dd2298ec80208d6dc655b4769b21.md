@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 18, 2024
-updated_at: August 22, 2026 7:09 PM
+updated_at: August 23, 2026 12:29 AM
 emotion: Sad
 influences: I used to struggle a lot in physics class because I didn’t study enough.
 people_i_know: Brooke A, Patrick M

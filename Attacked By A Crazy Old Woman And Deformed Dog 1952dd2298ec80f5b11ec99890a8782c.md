@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 8, 2025
-updated_at: August 22, 2026 8:48 PM
+updated_at: August 23, 2026 4:12 AM
 sleep_phenomena: Nightmare
 emotion: Fear
 people_i_know: Brother
@@ -12,22 +12,13 @@ I was walking on the sidewalk into my unit complex when I saw a deformed white f
 
 While travelling towards the front door of my unit, an elderly woman with white hair approached from behind. She knew my brother and I were famous actors in the dream and invited us to a special reunion event.
 
-> **Woman**: Hello dear, I hope I’m not barging in at an inconvenient time after your walk.
-> 
-
-> **Woman**: I’ve been sent to extend an invitation to a special reunion event at the convention centre where actors from various shows, including those you and your brother were featured in, will be there.
-> 
-
-> **Woman**: But it just won’t be complete without you.
+> **Woman**: Hello dear, I hope I’m not barging in at an inconvenient time after your walk. I’ve been sent to extend an invitation to a special reunion event at the convention centre where actors from various shows, including those you and your brother were featured in, will be there. But it just won’t be complete without you.
 > 
 
 > **Me**: Can I ask who sent this request?
 > 
 
-> **Woman**: Your castmates from Friends sent me.
-> 
-
-> **Woman**: They told me they will be thrilled to see you two together again.
+> **Woman**: Your castmates from Friends sent me. They told me they will be thrilled to see you two together again.
 > 
 
 > **Me**: I'm sorry, but I'm not associated with any of these people and this is all a bit strange.
@@ -43,18 +34,12 @@ The creature pinned me down by jumping on me and wrapping its claws around my ar
 
 My brother opened the wooden door to investigate the commotion and looked through the flyscreen door with a bewildered expression.
 
-> **Me**: Both the woman and creature are crazy and assaulting me!
-> 
-
-> **Me**: I need your help!
+> **Me**: Both the woman and creature are crazy and assaulting me! I need your help!
 > 
 
 My brother exited the unit to break me free and we fled inside and locked both doors. Eventually, my brother peaked through the kitchen blinds on the other side of my unit and yelled in terror.
 
-> **Brother**: Holy s**t!
-> 
-
-> **Brother**: She's trying to break in upstairs by using the creature to ascend the wall!
+> **Brother**: Holy s**t! She's trying to break in upstairs by using the creature to ascend the wall!
 > 
 
 I jolted awake.

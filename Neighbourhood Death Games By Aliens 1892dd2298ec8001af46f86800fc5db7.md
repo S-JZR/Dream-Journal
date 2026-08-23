@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 17, 2024
-updated_at: August 22, 2026 3:08 AM
+updated_at: August 23, 2026 3:51 AM
 emotion: Fear
 influences:   • As The Gods Will (2014): References gods hosting death games and The Daruma doll only allowing one student to live.
   • Squid Game (2021): References contestants hiding behind others to avoid being shot in Red Light, Green Light.
@@ -15,17 +15,11 @@ The first challenge involved racing to get inside a building while a hovering dr
 
 The second challenge involved me entering a room to stand on a cylindrical podium beside an arcade machine that combined a basketball hoop with multiple shelves of items to knock over. A female host, presumably held against her will, stood in the room.
 
-> **Woman**: Your challenge is to keep throwing the basketballs until all tasks are satisfied.
-> 
-
-> **Woman**: Everything will reset after a short delay.
+> **Woman**: Your challenge is to keep throwing the basketballs until all tasks are satisfied. Everything will reset after a short delay.
 > 
 
 > **Me**: How long did other contestants take to finish on average?
 > 
 
-> **Woman**: ...
-> 
-
-> **Woman**: 11 years.
+> **Woman**: ... 11 years.
 >

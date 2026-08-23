@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: October 16, 2024
-updated_at: August 22, 2026 7:10 PM
+updated_at: August 23, 2026 2:11 AM
 emotion: Sad
 influences: I heard my brother share a story yesterday about how he failed to cook an unusual international recipe when he was younger called Banana Snow Desert, containing bananas, eggs, and milk.
 people_i_know: Julien C

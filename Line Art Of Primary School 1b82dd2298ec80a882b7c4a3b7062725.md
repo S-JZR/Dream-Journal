@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2023
-updated_at: June 5, 2026 1:13 AM
+updated_at: August 23, 2026 12:23 AM
 emotion: Surprise
 influences: I was recently looking up online images of my primary school.
 symbols: Art: Nostalgia.

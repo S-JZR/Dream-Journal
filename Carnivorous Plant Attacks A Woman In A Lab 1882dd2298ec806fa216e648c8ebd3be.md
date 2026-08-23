@@ -3,16 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2005
-updated_at: August 22, 2026 2:26 AM
+updated_at: August 23, 2026 3:16 AM
 sleep_phenomena: Nightmare
 emotion: Fear
 
 I was spectating the POV of a female lab staff member in an 8-bit first-person point-and-click adventure videogame where she entered a hallway and confronted a giant carnivorous plant swaying in an idle animation.
 
-> **Man**: (Radio) What are you doing?
-> 
-
-> **Man**: (Radio) Get out of there!
+> **Man** (Radio): What are you doing? Get out of there!
 > 
 
 > **Woman**: …

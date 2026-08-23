@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2021
-updated_at: August 22, 2026 2:39 AM
+updated_at: August 23, 2026 12:22 AM
 emotion: Fear
 influences: Christianity: I’ve heard miscellaneous online stories of objects allegedly vanishing in people’s homes. References casting out demons.
 

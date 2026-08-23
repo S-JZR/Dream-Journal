@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 16, 2025
-updated_at: June 5, 2026 3:28 AM
+updated_at: August 23, 2026 2:29 AM
 emotion: Fear
 influences:   • References casuals vs pros in Team Fortress 2: https://youtu.be/EuxyUhwx0oI?si=YBrQDSDeguq_I5Bx.
   • References fighting beside a wall gone wrong in an airsoft battle royale: https://youtu.be/XZB9eG2wYow?si=Zo7p3MdR8yYg1Ee-&t=436.

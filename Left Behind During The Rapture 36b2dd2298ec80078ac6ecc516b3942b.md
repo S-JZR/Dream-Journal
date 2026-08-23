@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 25, 2026
-updated_at: August 22, 2026 9:20 PM
+updated_at: August 23, 2026 6:38 PM
 emotion: Fear
 people_i_know: Brother, Dad, Mum
 
@@ -46,10 +46,10 @@ I noticed that a group of people were systematically going up the street and loo
 
 I returned to the kitchen and brought her a small square plastic container full of fried chicken.
 
-> Me: Take this in case you get stuck out there because you may not find anything to eat.
+> **Me**: Take this in case you get stuck out there because you may not find anything to eat.
 > 
 
-> Mum: Good idea.
+> **Mum**: Good idea.
 > 
 
 The rest of my family returned inside and I locked the front fly screen and wooden door for our protection.

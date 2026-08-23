@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: May 20, 2026
-updated_at: August 22, 2026 9:19 PM
+updated_at: August 23, 2026 6:37 PM
 emotion: Sad
 people_i_know: Dad
 
@@ -21,10 +21,7 @@ I was walking outside of my unit with my dad when we heard a cat meowing in pain
 
 I opened the wooden gate to let ourselves in and we combed through all of the bushes twice to search for the cat but couldn’t find it.
 
-> **Dad**: Maybe it’s in the backyard of the other unit complex.
-> 
-
-> **Dad**: How about we go to the park for a bit.
+> **Dad**: Maybe it’s in the backyard of the other unit complex. How about we go to the park for a bit.
 > 
 
 We walked to the park down the road and my dad expected me to enjoy myself by playing on the playground but I felt too unsettled to do anything.

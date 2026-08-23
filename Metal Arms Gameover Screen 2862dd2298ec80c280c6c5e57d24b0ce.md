@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 12, 2014
-updated_at: July 12, 2026 10:19 PM
+updated_at: August 23, 2026 12:05 AM
 emotion: Sad
 people_in_the_media: Glitch
 influences:   • Metal Arms Glitch In The System (2003): References Glitch.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: October 17, 2024
-updated_at: June 5, 2026 2:03 AM
+updated_at: August 23, 2026 2:11 AM
 emotion: Happy
 influences:   • Battleship Forever (2007): References the spaceship war aspect.
   • Planetoid 3 (2009) (GameMaker): References building on 2D planetoids.

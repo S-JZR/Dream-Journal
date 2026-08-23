@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 13, 2025
-updated_at: August 22, 2026 3:13 AM
+updated_at: August 23, 2026 4:07 AM
 emotion: Sad
 influences:   • Mini Empires (2022) (Roblox): References the tile system and units sharing your team colour.
 
@@ -14,8 +14,5 @@ I was playing an RTS videogame, walking across a world map with my armies, to el
 
 However, as they hurried to form a firing line they began shooting at every white civilian boat in view with any yellow colouring so I corrected them.
 
-> **Me**: (Radio) Hold your fire and wait for the enemy to arrive!
-> 
-
-> **Me**: (Radio) The vessels are completely yellow.
+> **Me** (Radio): Hold your fire and wait for the enemy to arrive! The vessels are completely yellow.
 >

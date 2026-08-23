@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 18, 2025
-updated_at: August 22, 2026 7:15 PM
+updated_at: August 23, 2026 2:28 AM
 emotion: Fear
 influences: I had a fear of swimming in primary school due to multiple bad experiences.
 symbols:   • Darkness/Baby Crocodile: Fears and difficult challenges requiring discipline to overcome.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: August 7, 2025
-updated_at: August 22, 2026 8:57 PM
+updated_at: August 23, 2026 2:30 AM
 emotion: Fear
 influences: Pauline Hanson's Please Explain (2021): References National Insecurity cancelling National Security by spreading rumours about him to his YouTube subscribers: https://youtu.be/2pUQQx9EIOg?si=_XhP1ou-7hEN5zNJ&t=182.
 notes: May have predicted a car being firebombed in the street near my unit complex about three months later. [Classified for now].

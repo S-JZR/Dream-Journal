@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 21, 2025
-updated_at: August 22, 2026 8:55 PM
+updated_at: August 23, 2026 2:28 AM
 emotion: Fear
 influences:   • Lilo And Stitch (2002): Likely references Jumba and Pleakley trying to capture Stitch.
   • Christianity: References biblical angels with many eyes.

@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 11, 2025
-updated_at: August 22, 2026 3:17 AM
+updated_at: August 23, 2026 2:27 AM
 emotion: Fear
 influences: When Coco, my cat, is laying on a blanket she doesn’t react when I move her paws from beneath it.
 

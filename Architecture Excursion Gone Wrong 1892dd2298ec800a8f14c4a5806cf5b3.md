@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2024
-updated_at: August 22, 2026 2:44 AM
+updated_at: August 23, 2026 3:48 AM
 emotion: Sad
 people_in_the_media: Alexander Armstrong
 influences:   • During a group assessment in university we proposed the design of a new small public attraction at a local riverside precinct for a government client and I felt like it was a mediocre solution.
@@ -17,16 +17,10 @@ I was one of many university students on an excursion to design a new building f
 > **Client**: The city’s urban population capacity is diminishing because residential construction is lagging behind.
 > 
 
-> **Me**: Well the city isn’t exactly future proof.
+> **Me**: Well the city isn’t exactly future proof. Does the issue stem from transporting or assembling supplies on-site?
 > 
 
-> **Me**: Does the issue stem from transporting or assembling supplies on-site?
-> 
-
-> **Client**: A bit of both.
-> 
-
-> **Client**: Please feel free to use my side office to work on the plans.
+> **Client**: A bit of both. Please feel free to use my side office to work on the plans.
 > 
 
 We repeatedly failed to create a plan as we lacked skills and didn't understand the design process. We overheard other students in the hallway.
@@ -34,7 +28,7 @@ We repeatedly failed to create a plan as we lacked skills and didn't understand 
 > **Other Students**: Where’s our teaching supervisor?
 > 
 
-> **Other Students**: I think they’re on floor 10.
+> **Me**: I think they’re on floor 10.
 > 
 
 After realizing we were on the wrong floor we moved to the correct room and took a seat.
@@ -61,21 +55,12 @@ She was cheerful and returned to her seat. We ran out of time and everyone regro
 > **Me**: Stop the client is coming!
 > 
 
-> **Client**: I'm disappointed with your efforts today.
-> 
-
-> **Client**: I request that you all leave by walking down the exterior stairs.
+> **Client**: I'm disappointed with your efforts today. I request that you all leave by walking down the exterior stairs.
 > 
 
 The client entered the circular elevator and faced us.
 
-> **Me**: I'm afraid of heights.
-> 
-
-> **Me**: Do you think I could use the elevator with you?
+> **Me**: I'm afraid of heights. Do you think I could use the elevator with you?
 > 
 
 The client stood with a stern expression as the elevator doors closed and he descended.
-
-> **Client**: …
->

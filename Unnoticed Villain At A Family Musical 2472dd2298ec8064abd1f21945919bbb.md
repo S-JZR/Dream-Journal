@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: August 6, 2025
-updated_at: August 22, 2026 8:56 PM
+updated_at: August 23, 2026 2:30 AM
 emotion: Surprise
 influences:   • My family once left halfway through a Christmas church musical because the music focused on Santa and Reindeer over Jesus.
   • I make jokes sometimes about going to IKEA.

@@ -3,16 +3,13 @@
 is_favourite: No
 is_nsfw: No
 date: April 18, 2024
-updated_at: August 22, 2026 3:08 AM
+updated_at: August 23, 2026 3:54 AM
 emotion: Sad
 influences: I once accidentally showed up a day early to secondary school when juniors and seniors were scheduled to start on different days.
 
 I was walking upstairs in a fancy building to a university class banquet where many students sat with their clients at long tables with course codes on A4 paper taped to the side.
 
-> **Woman**: Where are my students?
-> 
-
-> **Woman**: Don’t they know that attendance is mandatory for such an important occasion!?
+> **Woman**: Where are my students? Don’t they know that attendance is mandatory for such an important occasion!?
 > 
 
 I was confused by two tables with unit codes close to mine, one empty and full. I approached a female teacher at the full table.

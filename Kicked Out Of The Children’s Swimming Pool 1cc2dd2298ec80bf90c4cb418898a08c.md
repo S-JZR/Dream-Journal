@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: April 1, 2025
-updated_at: July 12, 2026 9:25 PM
+updated_at: August 23, 2026 4:51 AM
 emotion: Sad
 influences:   • During primary school I was initially afraid to dive underwater and float on my back but learnt how to swim.
   • Mr Bean (1990): Likely references Mr Bean being being told to leave the children’s pool by a lifeguard: https://youtu.be/FZoofVvPUC8?si=J7NteKkNRICHGztm&t=52.
@@ -22,8 +22,5 @@ I was wearing inflatable armbands and struggling to swim in the shallow end of t
 
 I attempted to swim laps across the entire pool by weaving between densely packed rectangular groups of children but the supervisor noticed me.
 
-> **Man**: You are not allowed to be here!
-> 
-
-> **Man**: Move to the adult pool!
+> **Man**: You are not allowed to be here! Move to the adult pool!
 >

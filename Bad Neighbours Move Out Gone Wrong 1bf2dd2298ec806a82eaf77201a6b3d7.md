@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: March 22, 2025
-updated_at: August 22, 2026 8:52 PM
+updated_at: August 23, 2026 4:22 AM
 emotion: Fear
 influences:   • Since last year we had bad neighbours move in that were the worst we’ve ever had to deal with that never accepted advice, constantly yelled at each other with poor family relationships, had no regard for noise, and manipulated to get their way.
   • When learning to drive in the past, my dad would tell me to switch off the lights and engine when returning to the carpark in the unit complex to avoid disturbing the neighbours.
@@ -18,10 +18,7 @@ people_i_know: ? Neighbour 2, Brother, Dad, Mum
 
 I was wandering through the streets in front of my unit complex at night with my family looking for something. I peaked back at their unit from a distance and noticed them seated outside on sofas watching a movie on a TV. Not wanting to be seen coming back late, we waited for hours until they went returned inside. After randomly falling asleep I dreamt about being in bed inside my unit but a small insect bothered me by flying ovals around me.
 
-> **Dad**: Don't fret it's just a paper light which is harmless.
-> 
-
-> **Dad**: Let Coco (my cat) try to catch it.
+> **Dad**: Don't fret it's just a paper light which is harmless. Let Coco try to catch it.
 > 
 
 Coco, my cat, ran around chasing it.
@@ -68,10 +65,7 @@ My parents got into a fight with staff at the reception desk.
 > **Mum**: I just want to let you know the neighbours are untrustworthy and dangerous.
 > 
 
-> **Staff**: There’s nothing wrong with them.
-> 
-
-> **Staff**: They helped make the restaurant food taste good.
+> **Staff**: There’s nothing wrong with them. They helped make the restaurant food taste good.
 > 
 
 After being rebuked, my parents repeatedly walked in an oval to think of an argument and return to say something until giving up.

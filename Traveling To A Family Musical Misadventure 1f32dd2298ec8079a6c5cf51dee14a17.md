@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 11, 2020
-updated_at: August 22, 2026 9:42 PM
+updated_at: August 23, 2026 2:48 AM
 emotion: Happy
 influences:   • Rhiannon and other female students often talked about everyday life during art class.
   • My dad can be a rough driver at times.

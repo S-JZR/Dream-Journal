@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 3, 2025
-updated_at: August 22, 2026 3:17 AM
+updated_at: August 23, 2026 2:28 AM
 emotion: Fear
 influences:   • The Thing (1982): References Dr Blair possibly infecting himself by touching an alien corpse and his lip with a pencil: https://youtu.be/wrozyKXjaNc?si=ZbnzPtUB0qWPaHPH.
   • References the pale faces of female ghosts often hidden in paranormal videos.

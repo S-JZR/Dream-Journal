@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 21, 2026
-updated_at: August 22, 2026 3:21 AM
+updated_at: August 23, 2026 6:01 PM
 emotion: Fear
 
 <aside>
@@ -39,10 +39,10 @@ I was one of many secondary students seated at a desk in a remote classroom when
 
 The man placed sheets of paper on everyone’s desk containing various bizarre questions with a few potential spelling mistakes but we weren’t sure and nobody could answer a single one. The students got rowdy and started mocking the teacher’s accent.
 
-> **Students**: Why you want tu make us du da math?
+> **Student 1**: Why you want tu make us du da math?
 > 
 
-> **Students**: How tu du this?
+> **Student 2**: How tu du this?
 > 
 
 The teacher pulled out a black rifle and loaded it with a magazine.
@@ -50,7 +50,7 @@ The teacher pulled out a black rifle and loaded it with a magazine.
 > **Students**: *Gasp*
 > 
 
-> **Students**: He’s got a gun.
+> **Student 3**: He’s got a gun.
 > 
 
 A male student continued mocking his accent and the teacher pointed the rifle at his head and cocked it.
@@ -75,10 +75,7 @@ I fled out the left side door up the hill and when halfway up I turned around to
 
 The teacher lowered the stick.
 
-> **Teacher**: Did you not hear my warning the first time?
-> 
-
-> **Teacher**: Follow me up the hill to the carpark and we can discuss what you’re concerned about.
+> **Teacher**: Did you not hear my warning the first time? Follow me up the hill to the carpark and we can discuss what you’re concerned about.
 > 
 
 We moved to the carpark.

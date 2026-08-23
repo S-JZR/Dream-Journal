@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2010
-updated_at: August 22, 2026 2:26 AM
+updated_at: August 22, 2026 11:54 PM
 sleep_phenomena: Nightmare
 emotion: Fear
 symbols: Spider: The fear of spiders.

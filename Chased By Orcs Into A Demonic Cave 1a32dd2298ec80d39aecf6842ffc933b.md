@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: November 2, 2020
-updated_at: August 22, 2026 2:38 AM
+updated_at: August 23, 2026 12:20 AM
 emotion: Fear
 influences:   • World Of Warcraft (2004): References orcs.
   • TY The Tasmanian Tiger 2 (2004): References TY and gameplay.

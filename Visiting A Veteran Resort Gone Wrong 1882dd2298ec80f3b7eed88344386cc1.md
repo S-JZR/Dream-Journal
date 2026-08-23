@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 10, 2020
-updated_at: August 22, 2026 8:36 PM
+updated_at: August 23, 2026 3:33 AM
 emotion: Fear
 influences:   • The toilets at my secondary school were always dirty and unpleasant.
   • Seventh graders often did silly things to amuse themselves.
@@ -29,19 +29,16 @@ He entered the L-shaped hallway in the toilet block in the science courtyard.
 
 My voice echoing off the walls prompted three seventh graders in the stalls to yell random phrases for their amusement.
 
-> **Students**: Wooooo!
+> **Student 1**: Wooooo!
 > 
 
-> **Students**: I'm the best Minecrafter ever!
+> **Student 2**: I'm the best Minecrafter ever!
 > 
 
-> **Students**: Bananas!
+> **Student 3**: Bananas!
 > 
 
-> **General**: *groan* these toilets are absolutely repulsive and covered in grime.
-> 
-
-> **General**: How much does the school spend to maintain it?
+> **General**: *groan* these toilets are absolutely repulsive and covered in grime. How much does the school spend to maintain it?
 > 
 
 Mrs Itsikson and Mr Broadway, staff members, emerged from the bathroom hallway and I opened the door for them out of courtesy.

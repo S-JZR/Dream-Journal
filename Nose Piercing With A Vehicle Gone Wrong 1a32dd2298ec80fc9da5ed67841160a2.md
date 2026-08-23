@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 15, 2025
-updated_at: August 22, 2026 3:14 AM
+updated_at: August 23, 2026 4:09 AM
 sleep_phenomena: Nightmare
 emotion: Anger
 
@@ -22,10 +22,7 @@ After parking in a nearby shed with other workers he was approached by a female 
 
 I overheard the conversation from a distance and sought to reprimand him.
 
-> **Me**: Hey, stop!
-> 
-
-> **Me**: You will get injured doing something stupid like that!
+> **Me**: Hey, stop! You will get injured doing something stupid like that!
 > 
 
 > **Man**: Would you be quiet and maybe attend your own business.

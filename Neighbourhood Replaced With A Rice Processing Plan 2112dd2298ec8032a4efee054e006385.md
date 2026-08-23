@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: July 12, 2026 9:10 PM
+updated_at: August 22, 2026 11:47 PM
 emotion: Sad
 people_in_the_media: Owen Wilson
 

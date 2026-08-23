@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 11, 2020
-updated_at: August 22, 2026 2:35 AM
+updated_at: August 23, 2026 12:18 AM
 emotion: Embarrassment
 
 I was roaming my neighbourhood with three fictional friends as we passed the time by peeking through garage windows to find anything interesting but to no avail. We returned to the road, where a clean-up crew was sweeping with a machine resembling a fan with brushes for blades.

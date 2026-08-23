@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: June 3, 2026
-updated_at: June 5, 2026 4:27 AM
+updated_at: August 23, 2026 6:45 PM
 emotion: Fear
 
 <aside>
@@ -67,10 +67,7 @@ In level two, we stood on the bottom floor of a two storey apartment building fu
 
 While everyone was busy looking at different objects I walked over to the staircase and noticed the head of someone peaking down wearing the Friday 13th mask as they quickly moved away to the right out of sight. I warned everyone and we hid in the cupboard.
 
-> **Me**: There’s a killer upstairs!
-> 
-
-> **Me**: We need to hide now!
+> **Me**: There’s a killer upstairs! We need to hide now!
 > 
 
 > **Man 1**: Let’s get inside the cupboard.

@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 15, 2025
-updated_at: August 22, 2026 9:41 PM
+updated_at: August 23, 2026 2:17 AM
 emotion: Sad
 influences: My mum’s hair is turning grey and I worry about my parents dying all the time.
 symbols: Grey Hair: The fear of losing my parents.

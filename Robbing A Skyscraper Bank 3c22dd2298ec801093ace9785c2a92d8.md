@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: August 20, 2026
-updated_at: August 22, 2026 7:21 PM
+updated_at: August 23, 2026 7:06 PM
 emotion: Fear
 influences: I saw Frieda Pilkington in the Animal Farm trailer
 people_i_know: Dejan C
@@ -46,19 +46,13 @@ We went downstairs to a gold vault with a circular door and opened it to reveal 
 
 While running up the stairs, Dejan opened the first helicopter chauffeur company website he found online and frantically tapped through the form to order three helicopters for immediate pickup without worrying about the cost. A male dispatcher rang him for a security check and he improvised.
 
-> **Man**: I noticed you made a booking on short notice.
-> 
-
-> **Man**: Can I ask what this is for?
+> **Man**: I noticed you made a booking on short notice. Can I ask what this is for?
 > 
 
 > **Dejan**: We are travelling to a special birthday party event held by our company.
 > 
 
-> **Man**: Alright, I’ll send them over right away.
-> 
-
-> **Man**: Enjoy the celebration.
+> **Man**: Alright, I’ll send them over right away. Enjoy the celebration.
 > 
 
 We waited on the roof until the helicopters landed, loaded the duffle bags onboard, and flew away.

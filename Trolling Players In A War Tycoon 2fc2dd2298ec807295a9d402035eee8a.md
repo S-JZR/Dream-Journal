@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: February 3, 2026
-updated_at: July 12, 2026 9:31 PM
+updated_at: August 23, 2026 2:40 AM
 emotion: Happy
 influences: Military Tycoon (2021): Likely references seeing many military tycoons commonly on the front page of Roblox.
 
