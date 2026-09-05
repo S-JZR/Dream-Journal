@@ -1,9 +1,9 @@
 # Evil Talking Dog Tortures A Cat
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: February 16, 2024
-updated_at: August 23, 2026 12:27 AM
+updated_at: September 6, 2026 1:32 AM
 emotion: Fear
 symbols: Dog: The shadow self being a trickster.
 

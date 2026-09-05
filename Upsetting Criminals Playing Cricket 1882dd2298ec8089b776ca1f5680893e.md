@@ -1,9 +1,9 @@
 # Upsetting Criminals Playing Cricket
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: January 7, 2021
-updated_at: August 23, 2026 3:41 AM
+updated_at: September 6, 2026 1:31 AM
 emotion: Fear
 people_in_the_media: Aleksandr Orlov, James Sullivan, Mrs Claus, Santa, Sergei Orlov
 influences:   • Compare The Market (2006): References Aleksandr and Sergei from Compare The Market.

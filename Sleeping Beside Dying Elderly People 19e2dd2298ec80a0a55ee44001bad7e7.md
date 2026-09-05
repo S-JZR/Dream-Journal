@@ -1,9 +1,9 @@
 # Sleeping Beside Dying Elderly People
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: January 1, 2014
-updated_at: August 22, 2026 11:51 PM
+updated_at: September 6, 2026 1:29 AM
 emotion: Fear
 influences:   • The Goodies (1970): Likely references “The End” episode where Tim, Graeme, and Bill are trapped in their office for decades and Bill lies under an orange blanket beside their skeletons.
   • I constantly worry about not reaching my full potential. I dislike people who accept living mundane lives.

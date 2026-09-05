@@ -1,9 +1,9 @@
 # Rushed To Visit An Equestrian Showground
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: October 4, 2024
-updated_at: August 22, 2026 8:47 PM
+updated_at: September 6, 2026 1:34 AM
 emotion: Embarrassment
 people_i_know: Dad
 

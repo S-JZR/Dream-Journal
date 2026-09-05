@@ -1,9 +1,9 @@
 # Water Park Excursion Gone Wrong
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: December 4, 2025
-updated_at: August 23, 2026 2:42 AM
+updated_at: September 6, 2026 1:37 AM
 emotion: Fear
 influences: Steven and Jayden bullied many people in primary school, including me.
 symbols: Pushing Down The Stairs: Likely feeling subconscious fear and anger.

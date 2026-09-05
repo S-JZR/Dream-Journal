@@ -1,9 +1,9 @@
 # Enemy Base Infiltration Gone Wrong
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: June 20, 2025
-updated_at: August 22, 2026 7:15 PM
+updated_at: September 6, 2026 1:36 AM
 emotion: Fear
 influences: Ratchet And Clank 3 (2004): references floating spinning obstacles with spikes and fire.
 people_i_know: Julien C

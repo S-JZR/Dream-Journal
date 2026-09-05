@@ -1,9 +1,9 @@
 # Dad Makes A Cake Out Of Honeycomb
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: September 16, 2025
-updated_at: August 22, 2026 9:07 PM
+updated_at: September 6, 2026 1:37 AM
 emotion: Disgust
 symbols: Bees Boiled: I try to avoid harming insects.
 people_i_know: Brother, Dad, Mum

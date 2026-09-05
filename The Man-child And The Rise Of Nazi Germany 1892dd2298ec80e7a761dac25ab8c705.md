@@ -1,9 +1,9 @@
 # The Man-child And The Rise Of Nazi Germany
 
 is_favourite: Yes
-is_nsfw: Yes
+is_nsfw: No
 date: December 19, 2024
-updated_at: August 23, 2026 4:04 AM
+updated_at: September 6, 2026 1:35 AM
 emotion: Fear
 influences:   • Cool Runnings (1993): References Yul Brenner who has a naïve dream about living in Buckingham Palace if he works hard enough but doesn’t realize it’s exclusive to the royal family: https://youtu.be/RvzpuAa1QVs?si=7_LtXeh2s5QpQ85A.
   • Christianity: References Luke 16:10, 1 Corinthians 13:11, and Romans 16:18.

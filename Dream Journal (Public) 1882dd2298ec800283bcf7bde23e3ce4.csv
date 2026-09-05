@@ -1,6 +1,6 @@
 ﻿is_favourite,is_nsfw,title,date,sleep_phenomena,emotion
 No,No,UFO Sighting At Video Ezy,"January 1, 2005",,Surprise
-No,Yes,Shrunken Woman Falls Down A Shower Drain,"January 1, 2005",,Fear
+No,No,Shrunken Woman Falls Down A Shower Drain,"January 1, 2005",,Fear
 No,No,Trapped With Gromit In My Bedroom,"January 1, 2005",Trapped In A Dream,Fear
 No,No,Woman Journeys Through A Cave System-like Organism,"January 1, 2005",Nightmare,Fear
 No,No,Carnivorous Plant Attacks A Woman In A Lab,"January 1, 2005",Nightmare,Fear
@@ -15,7 +15,7 @@ No,No,Giant Spider Under A Rock,"January 1, 2010",Nightmare,Fear
 No,No,Magic Soda Bottle Creates Money,"January 1, 2010",,Happy
 No,No,Crawling Across A Skyscraper Skywalk,"January 1, 2013",,Fear
 No,No,Lost In The Ocean And Following Stars Back To Land,"January 1, 2013",,Surprise
-No,Yes,Violent Alien Abduction,"January 1, 2013",Nightmare,Fear
+No,No,Violent Alien Abduction,"January 1, 2013",Nightmare,Fear
 No,No,Hiding From Slenderman On The Sofa,"January 1, 2013",,Fear
 No,No,Mum Killed In An Earthquake,"January 1, 2013",,Sad
 No,No,Angel Shields Me From Soldiers,"January 1, 2013",,Fear
@@ -31,7 +31,7 @@ No,No,Neighbourhood Replaced With A Rice Processing Plant,"January 1, 2014",,Sad
 Yes,No,Disembodied Voice Gives Bad Prophecies,"January 1, 2014",,Fear
 No,No,Escaping A Kidnapping,"January 1, 2014",,Fear
 No,No,Finding Jayba Who Ran Away,"January 1, 2014",,Surprise
-No,Yes,Sleeping Beside Dying Elderly People,"January 1, 2014",,Fear
+No,No,Sleeping Beside Dying Elderly People,"January 1, 2014",,Fear
 No,No,Entering A Portal And Becoming Someone Else,"January 1, 2014",,Sad
 Yes,Yes,Women Escape A Kidnapping,"January 1, 2014",,Fear
 No,No,Deranged Man At The Front Door,"January 1, 2014",,Fear
@@ -49,7 +49,7 @@ No,No,Fingernail Hygiene Clinical Trial,"January 1, 2016",,Fear
 No,No,Soldiers Defend A Desert Fortress,"January 1, 2016",,Fear
 No,No,Flying With A Solar Surfer,"January 1, 2016",,Happy
 No,No,Neighbour Shoots My Brother With A Shotgun,"January 1, 2016",,Fear
-No,Yes,Standing Beside Naked People,"January 1, 2016",,Embarrassment
+No,No,Standing Beside Naked People,"January 1, 2016",,Embarrassment
 No,No,Jayba’s Educational Journey On An Island,"January 12, 2016",,Happy
 No,No,Videogame About Disabling A Security System To Enable PVP,"January 1, 2017",,Happy
 No,No,Newspaper Geography Competition,"January 1, 2017",,Surprise
@@ -88,7 +88,7 @@ No,No,Alien Spider Survival,"July 10, 2020",,Happy
 No,No,McDonald's Free Food Exploit Gone Wrong,"September 19, 2020",,Sad
 No,No,Driving A Car With An Xbox Kinect Gone Wrong,"September 19, 2020",,Embarrassment
 No,No,Held Hostage In A Remote Foster Home,"September 19, 2020",,Fear
-Yes,Yes,Rescuing My School From Terrorists,"November 2, 2020",,Happy
+Yes,No,Rescuing My School From Terrorists,"November 2, 2020",,Happy
 No,No,Chased By Orcs Into A Demonic Cave,"November 2, 2020",,Fear
 No,No,Aliens Infiltrate Area 51,"November 2, 2020",,Fear
 No,No,School Award Ceremony Heist,"November 23, 2020",,Happy
@@ -103,7 +103,7 @@ No,No,Managing An Amusement Park Gone Wrong,"December 17, 2020",,Happy
 No,No,Commercial Airliner Crashes Outside,"January 1, 2021",,Fear
 No,No,Demons Hide Objects,"January 1, 2021",,Fear
 No,No,Hiding In A Safehouse From Prehistoric Creatures,"January 1, 2021",,Fear
-No,Yes,Upsetting Criminals Playing Cricket,"January 7, 2021",,Fear
+No,No,Upsetting Criminals Playing Cricket,"January 7, 2021",,Fear
 No,No,Draining A Car Fuel Tank Gone Wrong,"January 28, 2021",,Fear
 No,No,Squad Assaults Futuristic Fortress,"January 28, 2021",,Happy
 No,No,Bullet Ricochet Self-Defence Training,"January 28, 2021",,Fear
@@ -114,7 +114,7 @@ No,No,Military Jets Attack Civilians During A Blackout,"December 2, 2022",,Fear
 No,No,Line Art Of Primary School,"January 1, 2023",,Surprise
 No,No,Spies Playground Heist Gone Wrong,"January 10, 2023",,Happy
 No,No,Autistic Brother Runs Away From Home,"January 10, 2023",,Fear
-Yes,Yes,Summoning A Demon Gone Wrong,"February 6, 2023",Nightmare,Fear
+Yes,No,Summoning A Demon Gone Wrong,"February 6, 2023",Nightmare,Fear
 No,No,Filming A Burger King Commercial Gone Wrong,"September 19, 2023",,Happy
 No,No,Demonic Fortune-telling For World Leaders,"September 19, 2023",,Fear
 No,No,Attacked By Strangers During A Walk,"September 19, 2023",,Fear
@@ -126,10 +126,10 @@ No,No,Infiltrating A Terminator Lair With A Hot Air Balloon,"January 3, 2024",,F
 No,No,Woody Is Framed And Hides In A Zoo,"January 5, 2024",,Fear
 No,No,Shrunken Submarine Inside A Human Body,"January 16, 2024",,Fear
 Yes,No,Preaching A Self-control Sermon,"January 16, 2024",,Bold
-No,Yes,Refugees Flee An Evil Military,"January 19, 2024",,Fear
+No,No,Refugees Flee An Evil Military,"January 19, 2024",,Fear
 No,No,Heavy Fuels A Train To Escape Dragons,"January 22, 2024",,Fear
 No,No,Poltergeist Scares A Baby,"February 16, 2024",,Anger
-No,Yes,Evil Talking Dog Tortures A Cat,"February 16, 2024",,Fear
+No,No,Evil Talking Dog Tortures A Cat,"February 16, 2024",,Fear
 No,No,Mecha Army Raids An Alien Fortress,"February 20, 2024",,Fear
 No,No,Stopping A Runaway Parked Coca-Cola Truck,"February 20, 2024",,Surprise
 Yes,No,Universe's Fate Songs,"March 14, 2024",,Sad
@@ -171,7 +171,7 @@ No,No,Hotel Backrooms With A Vine And Statue Monster,"September 2, 2024",,Fear
 No,No,Hall Seating Construction Gone Wrong,"September 6, 2024",,Fear
 No,No,Occult Meeting Gone Wrong,"September 25, 2024",,Fear
 No,No,Magical Teacher Saves Remote Students,"September 30, 2024",,Anger
-No,Yes,Rushed To Visit An Equestrian Showground,"October 4, 2024",,Embarrassment
+No,No,Rushed To Visit An Equestrian Showground,"October 4, 2024",,Embarrassment
 No,No,Police Investigate An Abandoned Truck,"October 4, 2024",,Fear
 No,No,Squirting A Water Bubbler Back At Rude Girls,"October 5, 2024",,Anger
 No,No,Exposing Plane Fuel Scam,"October 16, 2024",,Surprise
@@ -185,7 +185,7 @@ No,No,Swamp Construction Workshop,"December 11, 2024",,Happy
 No,No,Good Mafia Vs Bad Mafia,"December 11, 2024",,Surprise
 No,No,Kids Compete In An AI Image Generation Challenge,"December 16, 2024",,Happy
 No,No,A Robot Sends A Child To Spy On Me,"December 16, 2024",,Fear
-Yes,Yes,The Man-child And The Rise Of Nazi Germany,"December 19, 2024",,Fear
+Yes,No,The Man-child And The Rise Of Nazi Germany,"December 19, 2024",,Fear
 Yes,No,The Heart's Desire,"December 29, 2024",,Surprise
 No,No,Discovering A Hole In My Forehead,"January 1, 2025",,Fear
 No,No,Mistakenly Thinking There Was A Demon In An Apartment,"January 1, 2025",,Fear
@@ -234,7 +234,7 @@ No,No,Fighting A Decepticon In A Mecha,"April 14, 2025",,Anger
 No,No,Fighting Aliens On A Cruise Ship,"April 14, 2025",,Fear
 No,No,Rescuing A Sinking Cruise Ship,"April 16, 2025",,Surprise
 No,No,Fleeing Zombies Outside A Shopping Mall,"April 16, 2025",,Fear
-No,Yes,Murdering A Friend Over Beating Their Wife,"April 26, 2025",,Sad
+No,No,Murdering A Friend Over Beating Their Wife,"April 26, 2025",,Sad
 Yes,No,Engineering Class Orientation Gone Wrong,"April 28, 2025",,Sad
 Yes,No,Cooking Class Orientation Gone Wrong,"April 28, 2025",,Fear
 Yes,No,Astronaut Finds An Automated Planet Gone Wrong,"April 29, 2025",,Fear
@@ -255,7 +255,7 @@ No,No,Delegating A Generator Efficiency Task,"June 5, 2025",,Happy
 No,No,Considering Switching To An Engineering Degree,"June 11, 2025",,Sad
 No,No,Haunted Mansion Investigation Gone Wrong,"June 11, 2025",,Fear
 No,No,Extreme Swimming Lessons Gone Wrong,"June 18, 2025",,Fear
-No,Yes,Enemy Base Infiltration Gone Wrong,"June 20, 2025",,Fear
+No,No,Enemy Base Infiltration Gone Wrong,"June 20, 2025",,Fear
 No,No,Cars Towed Away By A Homicidal Alien,"June 21, 2025",,Fear
 No,No,Winning Art Competition,"June 21, 2025",,Sad
 No,No,Delivering Food To Charity By Boat,"June 26, 2025",,Happy
@@ -289,7 +289,7 @@ No,No,Mum Wins A MrBeast Gameshow,"August 30, 2025",,Fear
 No,No,Cleaning Houses Gone Wrong,"September 5, 2025",,Fear
 No,No,Reenabling Sofa Cushions,"September 5, 2025",,Surprise
 No,No,Surviving A Village Run By Psychopaths,"September 12, 2025",,Fear
-No,Yes,Dad Makes A Cake Out Of Honeycomb,"September 16, 2025",,Disgust
+No,No,Dad Makes A Cake Out Of Honeycomb,"September 16, 2025",,Disgust
 Yes,No,Confronting Marijuana Addicts,"September 17, 2025",,Sad
 Yes,No,Following A Light Into A Void Gone Wrong,"September 17, 2025",Nightmare,Fear
 No,No,Chinese Market Gone Wrong,"September 22, 2025",,Anger
@@ -310,7 +310,7 @@ No,No,Red Rooster 51st Anniversary Gone Wrong,"November 20, 2025",,Surprise
 No,No,Training To Become A Submariner,"November 21, 2025",,Surprise
 No,No,Late For Exams,"November 29, 2025",,Fear
 No,No,Winning Big On A Coin Pusher,"December 3, 2025",,Happy
-No,Yes,Water Park Excursion Gone Wrong,"December 4, 2025",,Fear
+No,No,Water Park Excursion Gone Wrong,"December 4, 2025",,Fear
 Yes,No,Winning A Lamborghini On A MrBeast Gameshow,"December 12, 2025",,Surprise
 No,No,Driving Along Narrow Paths Gone Wrong,"December 26, 2025",,Fear
 Yes,No,Group Assessment About Doomscrolling Gone Wrong,"December 31, 2025",,Fear
@@ -374,7 +374,7 @@ No,No,Attending A Fancy Banquet Gone Wrong,"June 4, 2026",,Embarrassment
 Yes,No,Creating Planets With Civilizations Gone Wrong,"June 4, 2026",,Sad
 No,No,Slapstick Magic Show With A Mad Scientist And Sock Puppet,"June 13, 2026",,Happy
 No,No,Attending An Awful Magic Show,"June 13, 2026",,Bored
-No,Yes,Not Feeling Compelled To Dance At My Graduation Formal,"June 13, 2026",,Sad
+No,No,Not Feeling Compelled To Dance At My Graduation Formal,"June 13, 2026",,Sad
 No,No,SpongeBob Visiting Squidward After His Suicide,"June 17, 2026",,Sad
 No,No,Crossing An Underpass With Spiders On It,"June 18, 2026",,Fear
 No,No,Chased By An Alien Into A Shopping Centre,"June 18, 2026",,Fear

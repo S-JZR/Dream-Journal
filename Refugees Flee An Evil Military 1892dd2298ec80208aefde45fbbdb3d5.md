@@ -1,9 +1,9 @@
 # Refugees Flee An Evil Military
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: January 19, 2024
-updated_at: August 23, 2026 12:26 AM
+updated_at: September 6, 2026 1:32 AM
 emotion: Fear
 people_in_the_media: Jackie Chan
 

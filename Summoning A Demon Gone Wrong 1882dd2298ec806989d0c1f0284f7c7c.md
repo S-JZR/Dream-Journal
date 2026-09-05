@@ -1,9 +1,9 @@
 # Summoning A Demon Gone Wrong
 
 is_favourite: Yes
-is_nsfw: Yes
+is_nsfw: No
 date: February 6, 2023
-updated_at: August 22, 2026 7:08 PM
+updated_at: September 6, 2026 1:32 AM
 sleep_phenomena: Nightmare
 emotion: Fear
 people_in_the_media: Sam And Colby

@@ -1,9 +1,9 @@
 # Not Feeling Compelled To Dance At My Graduation Formal
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: June 13, 2026
-updated_at: August 23, 2026 2:34 AM
+updated_at: September 6, 2026 1:38 AM
 emotion: Sad
 influences: During my secondary school graduation formal I didn’t feel compelled to dance and stood watching everyone.
 people_i_know: ? Ben

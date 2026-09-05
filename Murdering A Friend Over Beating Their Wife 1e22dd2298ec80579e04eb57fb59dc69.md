@@ -1,9 +1,9 @@
 # Murdering A Friend Over Beating Their Wife
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: April 26, 2025
-updated_at: August 23, 2026 4:28 PM
+updated_at: September 6, 2026 1:35 AM
 emotion: Sad
 people_in_the_media: Jesus
 symbols:   • Murder: Subconscious anger towards domestic abuse.

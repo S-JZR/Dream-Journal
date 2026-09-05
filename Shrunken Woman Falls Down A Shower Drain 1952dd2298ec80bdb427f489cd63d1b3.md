@@ -1,9 +1,9 @@
 # Shrunken Woman Falls Down A Shower Drain
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: January 1, 2005
-updated_at: September 2, 2026 4:45 AM
+updated_at: September 6, 2026 1:25 AM
 emotion: Fear
 influences: The Incredible Shrinking Man (1957): I think I remember seeing snippets of the main character fighting off a giant spider as a child when someone was flicking through TV channels which made me feel unsettled and worried about his safety.
 symbols: Shrinking: The fear of being helpless.

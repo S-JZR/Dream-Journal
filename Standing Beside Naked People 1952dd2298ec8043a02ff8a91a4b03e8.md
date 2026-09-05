@@ -1,9 +1,9 @@
 # Standing Beside Naked People
 
 is_favourite: No
-is_nsfw: Yes
+is_nsfw: No
 date: January 1, 2016
-updated_at: August 23, 2026 12:10 AM
+updated_at: September 6, 2026 1:30 AM
 emotion: Embarrassment
 influences: I think we were learning about sexual education in secondary school.
 symbols: Nudity: Feeling vulnerable and uncomfortable discussing sex.
