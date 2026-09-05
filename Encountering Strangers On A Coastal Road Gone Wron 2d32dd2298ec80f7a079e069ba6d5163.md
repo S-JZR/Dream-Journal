@@ -1,9 +1,9 @@
 # Encountering Strangers On A Coastal Road Gone Wrong
 
-is_favourite: Yes
+is_favourite: No
 is_nsfw: No
 date: November 15, 2025
-updated_at: August 22, 2026 9:11 PM
+updated_at: September 6, 2026 2:15 AM
 emotion: Fear
 people_i_know: Dad
 

@@ -1,9 +1,9 @@
 # Host Introduces The Mark Of The Beast
 
-is_favourite: No
+is_favourite: Yes
 is_nsfw: No
 date: January 13, 2026
-updated_at: August 23, 2026 5:56 PM
+updated_at: September 6, 2026 2:39 AM
 emotion: Fear
 people_in_the_media: IShowSpeed
 influences:   • My brother has researched some political conspiracy theories.

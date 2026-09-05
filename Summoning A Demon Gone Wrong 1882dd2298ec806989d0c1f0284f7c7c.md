@@ -3,7 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 6, 2023
-updated_at: September 6, 2026 1:32 AM
+updated_at: September 6, 2026 2:02 AM
 sleep_phenomena: Nightmare
 emotion: Fear
 people_in_the_media: Sam And Colby

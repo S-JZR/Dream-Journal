@@ -1,9 +1,9 @@
 # Entering A Portal And Becoming Someone Else
 
-is_favourite: No
+is_favourite: Yes
 is_nsfw: No
 date: January 1, 2014
-updated_at: August 22, 2026 11:53 PM
+updated_at: September 6, 2026 2:22 AM
 emotion: Sad
 symbols: Identity Shift: The fear of being someone else who lives a mundane life, bad life, or avoids deep thoughts.
 

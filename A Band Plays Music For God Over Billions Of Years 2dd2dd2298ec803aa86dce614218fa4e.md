@@ -1,9 +1,9 @@
 # A Band Plays Music For God Over Billions Of Years
 
-is_favourite: No
+is_favourite: Yes
 is_nsfw: No
 date: January 3, 2026
-updated_at: August 23, 2026 2:42 AM
+updated_at: September 6, 2026 2:40 AM
 emotion: Surprise
 people_in_the_media: God
 influences: Christianity: References Revelation 4:8.

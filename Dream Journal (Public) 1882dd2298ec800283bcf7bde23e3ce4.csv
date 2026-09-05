@@ -32,7 +32,7 @@ Yes,No,Disembodied Voice Gives Bad Prophecies,"January 1, 2014",,Fear
 No,No,Escaping A Kidnapping,"January 1, 2014",,Fear
 No,No,Finding Jayba Who Ran Away,"January 1, 2014",,Surprise
 No,No,Sleeping Beside Dying Elderly People,"January 1, 2014",,Fear
-No,No,Entering A Portal And Becoming Someone Else,"January 1, 2014",,Sad
+Yes,No,Entering A Portal And Becoming Someone Else,"January 1, 2014",,Sad
 Yes,Yes,Women Escape A Kidnapping,"January 1, 2014",,Fear
 No,No,Deranged Man At The Front Door,"January 1, 2014",,Fear
 Yes,No,Backyard Units Modernized,"January 1, 2014",,Sad
@@ -68,7 +68,7 @@ Yes,No,Rescuing God From A Demonic Obelisk,"January 1, 2017",,Fear
 Yes,No,Hesitant To Leave The Only Known City In Existence,"January 1, 2017",,Fear
 No,No,Neighbourhood Nuked,"January 1, 2017",Nightmare,Fear
 No,No,Cube UFOs Hover In The Sky,"January 1, 2017",,Surprise
-No,No,Therapist Discusses Jayba’s Death,"March 24, 2017",,Sad
+Yes,No,Therapist Discusses Jayba’s Death,"March 24, 2017",,Sad
 No,No,Escaping A Strict School Gone Wrong,"January 1, 2018",,Fear
 No,No,Levitating By Tensing My Ankle Muscles,"January 1, 2018",,Surprise
 No,No,Escaping A Witch In The Sewers,"January 1, 2018",,Fear
@@ -88,7 +88,7 @@ No,No,Alien Spider Survival,"July 10, 2020",,Happy
 No,No,McDonald's Free Food Exploit Gone Wrong,"September 19, 2020",,Sad
 No,No,Driving A Car With An Xbox Kinect Gone Wrong,"September 19, 2020",,Embarrassment
 No,No,Held Hostage In A Remote Foster Home,"September 19, 2020",,Fear
-Yes,No,Rescuing My School From Terrorists,"November 2, 2020",,Happy
+No,No,Rescuing My School From Terrorists,"November 2, 2020",,Happy
 No,No,Chased By Orcs Into A Demonic Cave,"November 2, 2020",,Fear
 No,No,Aliens Infiltrate Area 51,"November 2, 2020",,Fear
 No,No,School Award Ceremony Heist,"November 23, 2020",,Happy
@@ -108,7 +108,7 @@ No,No,Draining A Car Fuel Tank Gone Wrong,"January 28, 2021",,Fear
 No,No,Squad Assaults Futuristic Fortress,"January 28, 2021",,Happy
 No,No,Bullet Ricochet Self-Defence Training,"January 28, 2021",,Fear
 No,No,Hospital Tentacle Monster,"May 7, 2021",,Fear
-Yes,No,Hawaii Vacation Gone Wrong,"November 25, 2021",,Anger
+No,No,Hawaii Vacation Gone Wrong,"November 25, 2021",,Anger
 Yes,No,Attacked By A Werewolf And Self-Replicating Nanobots,"December 2, 2022",,Fear
 No,No,Military Jets Attack Civilians During A Blackout,"December 2, 2022",,Fear
 No,No,Line Art Of Primary School,"January 1, 2023",,Surprise
@@ -159,7 +159,7 @@ No,No,Winning A MrBeast Gameshow,"June 15, 2024",,Happy
 No,No,Deformed Monster At The Front Door,"June 19, 2024",,Fear
 Yes,Yes,Father Turns A Miscarriage Into A Cyborg,"June 19, 2024",,Fear
 No,No,Solving Hotel Puzzles To Reach “Heaven”,"July 5, 2024",,Happy
-Yes,No,Ignoring A Roadside Fire,"July 6, 2024",,Sad
+No,No,Ignoring A Roadside Fire,"July 6, 2024",,Sad
 No,No,Tuxedoed Crowd Hypnotized By A Presentation,"July 7, 2024",,Fear
 No,No,Scary Sushi Impossible Difficulty,"July 9, 2024",,Happy
 No,No,Flying To A Recruitment Centre Gone Wrong,"July 18, 2024",,Fear
@@ -207,7 +207,7 @@ Yes,No,Stranger Questions My Mum’s Old Age,"February 15, 2025",,Sad
 No,No,Teenager Ski Jump Gone Wrong,"February 17, 2025",,Sad
 No,No,Lazer Tag At A Floating Obstacle Course And Castle,"February 18, 2025",,Happy
 Yes,No,University Lecture Excursion Gone Wrong,"February 19, 2025",,Sad
-Yes,No,Discovering A Fake Parade Audience,"February 20, 2025",,Surprise
+No,No,Discovering A Fake Parade Audience,"February 20, 2025",,Surprise
 No,No,Minecraft Pyramid Obstacle Course,"February 21, 2025",,Happy
 No,No,Storm Drenches Clothes Left In The Backyard,"February 21, 2025",,Surprise
 No,No,Art Museum Excursion Gone Wrong,"February 28, 2025",,Happy
@@ -229,7 +229,7 @@ No,No,Storm Drenches Clothes Left Outside,"April 7, 2025",,Sad
 No,No,Staying At A Girl’s House Gone Wrong,"April 7, 2025",,Fear
 No,No,School Sports Captain Becomes An Engineer,"April 11, 2025",,Sad
 No,Yes,Corrupt Vet Arrested For Cat Abuse,"April 11, 2025",,Anger
-Yes,No,Questioning God During A Cavalry Ambush,"April 12, 2025",,Sad
+No,No,Questioning God During A Cavalry Ambush,"April 12, 2025",,Sad
 No,No,Fighting A Decepticon In A Mecha,"April 14, 2025",,Anger
 No,No,Fighting Aliens On A Cruise Ship,"April 14, 2025",,Fear
 No,No,Rescuing A Sinking Cruise Ship,"April 16, 2025",,Surprise
@@ -241,7 +241,7 @@ Yes,No,Astronaut Finds An Automated Planet Gone Wrong,"April 29, 2025",,Fear
 No,No,Evacuating A Super Tornado,"May 1, 2025",,Fear
 Yes,No,Confronting An Abusive Substitute Teacher,"May 1, 2025",,Anger
 No,No,Watching The Minecraft Movie Gone Wrong,"May 2, 2025",,Sad
-Yes,No,Simultaneous Church Services Disrupt Each Other,"May 7, 2025",,Anger
+No,No,Simultaneous Church Services Disrupt Each Other,"May 7, 2025",,Anger
 No,No,Moving A Haunted Painting Gone Wrong,"May 14, 2025",,Sad
 No,No,Zombie Prop Hunt Gone Wrong,"May 22, 2025",,Fear
 Yes,No,Attending A Christian Meeting About Church Decline,"May 23, 2025",,Anger
@@ -278,7 +278,7 @@ No,No,Avoiding Gunmen In A Carpark,"August 6, 2025",,Fear
 No,No,Workers Enslaved By AI Carry Pipes To Germany,"August 6, 2025",,Surprise
 No,No,Unnoticed Villain At A Family Musical,"August 6, 2025",,Surprise
 No,No,Bad Teenagers Cause Chaos In My Neighbourhood,"August 7, 2025",,Fear
-No,No,"Revisiting The Studio In Sheep, Dog 'n' Wolf","August 8, 2025",,Sad
+Yes,No,"Revisiting The Studio In Sheep, Dog 'n' Wolf","August 8, 2025",,Sad
 No,No,Russia Invades Australia,"August 12, 2025",,Fear
 No,No,Playing With Bricks Gone Wrong,"August 20, 2025",,Surprise
 No,No,Waiting For A Swimming Assessment,"August 23, 2025",,Sad
@@ -296,7 +296,7 @@ No,No,Chinese Market Gone Wrong,"September 22, 2025",,Anger
 No,No,Racing In A Car At Night,"October 4, 2025",,Fear
 No,No,Building A Bunker To Survive Bombers,"October 6, 2025",,Fear
 No,No,Reunion With Julien Gone Wrong,"October 13, 2025",,Sad
-No,No,Building A Stone Shoe Statue,"October 23, 2025",,Anger
+Yes,No,Building A Stone Shoe Statue,"October 23, 2025",,Anger
 No,No,Regretting Music Classes,"November 1, 2025",,Sad
 No,No,Confronting Child Thieves,"November 4, 2025",,Anger
 No,No,Casual Christian Meetup,"November 4, 2025",,Embarrassment
@@ -304,18 +304,18 @@ No,No,Chased By A Tripod Alien,"November 4, 2025",,Fear
 No,No,Sushi Warehouse Buffet Excursion,"November 6, 2025",,Fear
 No,No,Repelling Trespassers With Water,"November 8, 2025",,Anger
 No,No,Dad's Brother Assaults My Sister During The Night,"November 14, 2025",,Fear
-Yes,No,Encountering Strangers On A Coastal Road Gone Wrong,"November 15, 2025",,Fear
+No,No,Encountering Strangers On A Coastal Road Gone Wrong,"November 15, 2025",,Fear
 No,No,The Flintstones During The Great Depression,"November 20, 2025",,Surprise
 No,No,Red Rooster 51st Anniversary Gone Wrong,"November 20, 2025",,Surprise
 No,No,Training To Become A Submariner,"November 21, 2025",,Surprise
 No,No,Late For Exams,"November 29, 2025",,Fear
 No,No,Winning Big On A Coin Pusher,"December 3, 2025",,Happy
 No,No,Water Park Excursion Gone Wrong,"December 4, 2025",,Fear
-Yes,No,Winning A Lamborghini On A MrBeast Gameshow,"December 12, 2025",,Surprise
+No,No,Winning A Lamborghini On A MrBeast Gameshow,"December 12, 2025",,Surprise
 No,No,Driving Along Narrow Paths Gone Wrong,"December 26, 2025",,Fear
 Yes,No,Group Assessment About Doomscrolling Gone Wrong,"December 31, 2025",,Fear
-No,No,A Band Plays Music For God Over Billions Of Years,"January 3, 2026",,Surprise
-No,No,Host Introduces The Mark Of The Beast,"January 13, 2026",,Fear
+Yes,No,A Band Plays Music For God Over Billions Of Years,"January 3, 2026",,Surprise
+Yes,No,Host Introduces The Mark Of The Beast,"January 13, 2026",,Fear
 No,No,Mocking The 5G Internet Tram,"January 14, 2026",,Happy
 No,No,Children Electrocuted By Balloons Touching Power Lines,"January 14, 2026",,Fear
 No,No,Erika Kirk Debates Charlie Kirk's Assassination,"January 15, 2026",,Sad
@@ -375,7 +375,7 @@ Yes,No,Creating Planets With Civilizations Gone Wrong,"June 4, 2026",,Sad
 No,No,Slapstick Magic Show With A Mad Scientist And Sock Puppet,"June 13, 2026",,Happy
 No,No,Attending An Awful Magic Show,"June 13, 2026",,Bored
 No,No,Not Feeling Compelled To Dance At My Graduation Formal,"June 13, 2026",,Sad
-No,No,SpongeBob Visiting Squidward After His Suicide,"June 17, 2026",,Sad
+Yes,No,SpongeBob Visiting Squidward After His Suicide,"June 17, 2026",,Sad
 No,No,Crossing An Underpass With Spiders On It,"June 18, 2026",,Fear
 No,No,Chased By An Alien Into A Shopping Centre,"June 18, 2026",,Fear
 No,No,A Ghost Attempts To Injure Patients With Nails,"June 18, 2026",,Fear
@@ -389,7 +389,7 @@ No,No,Accidentally Launching A Super Firework,"July 7, 2026",,Fear
 No,No,Teaching A Grade Two Class About Computers Gone Wrong,"July 7, 2026",,Fear
 No,No,Playing A Videogame PVP Duel Around Concrete Blocks,"July 8, 2026",Microdream,Fear
 No,No,Rescuing Crew Members On A Spaceship From Aliens And Rogue Robots,"July 9, 2026",,Surprise
-No,No,Discovering Elderly People Learning Computer Science In A Shopping Mall,"July 13, 2026",,Fear
+Yes,No,Discovering Elderly People Learning Computer Science In A Shopping Mall,"July 13, 2026",,Fear
 No,No,Escaping A Tornado Forming Beside My Unit Complex,"July 13, 2026",,Fear
 No,No,Robbed By A Notorious Criminal While Staying At A Motel,"July 17, 2026",,Fear
 No,No,Man Saves Crew In A Helicopter Crash,"July 18, 2026",,Fear

@@ -1,9 +1,9 @@
 # Revisiting The Studio In Sheep, Dog 'n' Wolf
 
-is_favourite: No
+is_favourite: Yes
 is_nsfw: No
 date: August 8, 2025
-updated_at: July 12, 2026 9:29 PM
+updated_at: September 6, 2026 2:33 AM
 emotion: Sad
 influences:   • Sheep Dog 'n' Wolf (2001): References gameplay.
   • Godzilla (1954): References Godzilla.

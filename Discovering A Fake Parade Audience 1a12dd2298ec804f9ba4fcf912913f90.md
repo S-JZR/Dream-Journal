@@ -1,9 +1,9 @@
 # Discovering A Fake Parade Audience
 
-is_favourite: Yes
+is_favourite: No
 is_nsfw: No
 date: February 20, 2025
-updated_at: August 23, 2026 4:16 AM
+updated_at: September 6, 2026 2:11 AM
 emotion: Surprise
 influences: References someone claiming that an individual was a paid protestor which is something I’ve never heard of before.
 symbols: Sewers: Exploring things hidden from the light.

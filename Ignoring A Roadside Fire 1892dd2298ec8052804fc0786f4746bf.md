@@ -1,9 +1,9 @@
 # Ignoring A Roadside Fire
 
-is_favourite: Yes
+is_favourite: No
 is_nsfw: No
 date: July 6, 2024
-updated_at: August 22, 2026 8:46 PM
+updated_at: September 6, 2026 2:03 AM
 emotion: Sad
 symbols: Fire: A problem in life.
 people_i_know: Brother, Dad, Mum

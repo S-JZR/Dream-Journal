@@ -1,9 +1,9 @@
 # Winning A Lamborghini On A MrBeast Gameshow
 
-is_favourite: Yes
+is_favourite: No
 is_nsfw: No
 date: December 12, 2025
-updated_at: August 23, 2026 5:49 PM
+updated_at: September 6, 2026 2:15 AM
 emotion: Surprise
 people_in_the_media: MrBeast
 influences: References MrBeast often staring at the screen with the vine boom sound effect during awkward moments.

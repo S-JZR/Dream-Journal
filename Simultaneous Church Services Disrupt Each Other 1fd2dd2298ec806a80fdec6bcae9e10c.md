@@ -1,9 +1,9 @@
 # Simultaneous Church Services Disrupt Each Other
 
-is_favourite: Yes
+is_favourite: No
 is_nsfw: No
 date: May 7, 2025
-updated_at: August 23, 2026 2:24 AM
+updated_at: September 6, 2026 2:14 AM
 emotion: Anger
 
 I was spectating two church groups sharing attendance in a large modern church building located in a semi-remote wooded area beside a road to simultaneously perform services:

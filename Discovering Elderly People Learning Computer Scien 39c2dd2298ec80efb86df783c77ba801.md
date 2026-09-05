@@ -1,9 +1,9 @@
 # Discovering Elderly People Learning Computer Science In A Shopping Mall
 
-is_favourite: No
+is_favourite: Yes
 is_nsfw: No
 date: July 13, 2026
-updated_at: August 22, 2026 3:34 AM
+updated_at: September 6, 2026 2:18 AM
 emotion: Fear
 influences:   • I was recently watching a few lectures about databases that I got earlier in my CS course which I somewhat felt weren’t as good as I remember.
   • I studied online because of Covid-19 and I voluntarily chose it to avoid wasting time travelling to university classes which I thought weren’t worthwhile anyway. I watched most of my lectures live or as recordings through a computer. Some lecture videos were recycled from previous years.

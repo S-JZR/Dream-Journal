@@ -1,9 +1,9 @@
 # Questioning God During A Cavalry Ambush
 
-is_favourite: Yes
+is_favourite: No
 is_nsfw: No
 date: April 12, 2025
-updated_at: August 23, 2026 4:58 AM
+updated_at: September 6, 2026 2:13 AM
 emotion: Sad
 influences: I question why God allows us to endure suffering.
 symbols: War: The fear of going to war.

@@ -1,9 +1,9 @@
 # Therapist Discusses Jayba’s Death
 
-is_favourite: No
+is_favourite: Yes
 is_nsfw: No
 date: March 24, 2017
-updated_at: August 23, 2026 3:31 AM
+updated_at: September 6, 2026 2:27 AM
 emotion: Sad
 influences: Jayba died recently and I was still getting over it: [details too sensitive to share].
 people_i_know: Jayba

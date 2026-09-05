@@ -1,9 +1,9 @@
 # Hawaii Vacation Gone Wrong
 
-is_favourite: Yes
+is_favourite: No
 is_nsfw: No
 date: November 25, 2021
-updated_at: August 23, 2026 3:44 AM
+updated_at: September 6, 2026 1:58 AM
 emotion: Anger
 symbols:   • Impatient Driver: I always feel rushed and don’t have enough time to finish things.
   • Garage: Fear of losing sentimental things and the past.

@@ -1,9 +1,9 @@
 # Building A Stone Shoe Statue
 
-is_favourite: No
+is_favourite: Yes
 is_nsfw: No
 date: October 23, 2025
-updated_at: August 22, 2026 3:19 AM
+updated_at: September 6, 2026 2:36 AM
 emotion: Anger
 influences: I feel like so many things in society are trivial and stupid.
 symbols: World War 3: The fear of going to war.

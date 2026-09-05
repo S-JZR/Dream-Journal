@@ -1,9 +1,9 @@
 # SpongeBob Visiting Squidward After His Suicide
 
-is_favourite: No
+is_favourite: Yes
 is_nsfw: No
 date: June 17, 2026
-updated_at: August 23, 2026 6:48 PM
+updated_at: September 6, 2026 2:17 AM
 emotion: Sad
 people_in_the_media: Mr Krabs, Spongebob, Squidward
 influences:   • References Squidward's Suicide creepypasta that was viral at some point: https://creepypasta.fandom.com/wiki/Squidward%27s_Suicide
