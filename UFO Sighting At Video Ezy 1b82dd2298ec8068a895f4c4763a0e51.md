@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2005
-updated_at: August 23, 2026 3:15 AM
+updated_at: September 2, 2026 4:47 AM
 emotion: Surprise
 influences:   • During primary school, my family regularly visited Video Ezy to rent DVDs and PS2 videogames.
   • Ratchet And Clank 3 (2004): the spaceship's interior resembles the Galactic Rangers dropship.
