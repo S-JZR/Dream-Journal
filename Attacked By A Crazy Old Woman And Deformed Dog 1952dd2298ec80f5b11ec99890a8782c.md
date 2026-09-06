@@ -3,9 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: February 8, 2025
-updated_at: August 23, 2026 4:12 AM
+updated_at: September 6, 2026 4:27 PM
 sleep_phenomena: Nightmare
 emotion: Fear
+notes: I don't remember the exact dialogue and this is a recreation.
 people_i_know: Brother
 
 I was walking on the sidewalk into my unit complex when I saw a deformed white fluffy creature resembling a camel lying on its belly in front of my garage with its legs crossed and slid under the floor gutters. Upon noticing me, it stood up and morphed into a dog with an abnormally long and wide black nose. It walked towards me and tried to sniff my leg but I pushed it away with my foot.
