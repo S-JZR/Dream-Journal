@@ -3,7 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: March 22, 2025
-updated_at: August 23, 2026 4:22 AM
+updated_at: September 6, 2026 4:36 PM
+sleep_phenomena: Precognitive
 emotion: Fear
 influences:   • Since last year we had bad neighbours move in that were the worst we’ve ever had to deal with that never accepted advice, constantly yelled at each other with poor family relationships, had no regard for noise, and manipulated to get their way.
   • When learning to drive in the past, my dad would tell me to switch off the lights and engine when returning to the carpark in the unit complex to avoid disturbing the neighbours.
@@ -13,7 +14,7 @@ symbols:   • Insect: My mum got overly upset by the neighbours but I didn’t 
   • Cycle Arguments: I dislike people who engage in endless petty arguments just to prove they’re right.
   • Idol: My mum occasionally says foolish things or sweeping statements that make me cringe or unsure what to think about it.
 notes:   • Before the dream, my mum said the neighbours were officially moving out and put their property on the market.
-  • Possibly predicted the neighbours demanding money from another neighbour over suspicious circumstances about seven months later. [Classified for now].
+  • Possibly predicted the neighbours demanding money from another neighbour over suspicious circumstances about seven months later. The dream was probably following the trend of them being untrustworthy. [Classified for now].
 people_i_know: ? Neighbour 2, Brother, Dad, Mum
 
 I was wandering through the streets in front of my unit complex at night with my family looking for something. I peaked back at their unit from a distance and noticed them seated outside on sofas watching a movie on a TV. Not wanting to be seen coming back late, we waited for hours until they went returned inside. After randomly falling asleep I dreamt about being in bed inside my unit but a small insect bothered me by flying ovals around me.
