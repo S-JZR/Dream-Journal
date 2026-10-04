@@ -3,8 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: July 18, 2025
-updated_at: June 5, 2026 3:28 AM
+updated_at: September 19, 2026 11:34 PM
 emotion: Happy
-influences: I’ve been thinking about ways robots could have a positive impact on the world.
+influences:   • I’ve been thinking about ways robots could improve the world (not this though).
 
 I was standing on a grassy field beside the road to my primary school, with cow dung pellets scattered everywhere. A small white cylindrical robot with a camera mounted on the side rolled over them to collect them through a rectangular slit in its rotating exterior.

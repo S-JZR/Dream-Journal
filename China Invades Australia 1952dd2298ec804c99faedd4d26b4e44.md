@@ -3,9 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: February 4, 2025
-updated_at: August 23, 2026 4:10 AM
+updated_at: September 20, 2026 4:03 AM
 emotion: Fear
-symbols:   • Invasion: The fear of going to war.
 
 I was walking along a mowed dirt path in a grassy paddock, between houses, towards a shopping mall when a blackout occurred and a fictional male friend called me.
 

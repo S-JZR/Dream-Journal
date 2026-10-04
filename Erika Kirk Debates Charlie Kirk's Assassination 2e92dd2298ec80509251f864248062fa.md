@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 15, 2026
-updated_at: August 23, 2026 5:57 PM
+updated_at: October 4, 2026 10:26 PM
 emotion: Sad
 people_in_the_media: Erika Kirk
-influences: References Charlie Kirk’s assassination on the 10th of September 2025: https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk.
+influences:   • Charlie Kirk’s assassination: https://en.wikipedia.org/wiki/Assassination_of_Charlie_Kirk.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 28, 2021
-updated_at: August 23, 2026 12:22 AM
+updated_at: September 26, 2026 3:55 PM
 emotion: Happy
-influences:   • Team Fortress 2 (2007): References the Brass Beast and Gloves of Running Urgently.
-  • Overwatch (2016): References Reinhardt with a giant hammer.
+influences:   • The Brass Beast and Gloves of Running Urgently from Team Fortress 2.
+  • Reinhardt from Overwatch.
 
 I was one of many soldiers infiltrating a futuristic fortress. I was armed with the Brass Beast and the Gloves of Running Urgently from Team Fortress 2. After breaching, we navigated through an elevated white hallway to a square room. Enemy personnel emerged from a square-shaped hole in the ceiling, initiating a firefight we eventually overcame. Progressing through three sloped 90-degree hallways to the second floor, I grew frustrated with our slow pace. Sprinting ahead using the gloves dwindled my health, leading to an unfortunate demise as powerful guardians ambushed me around the corner.
 

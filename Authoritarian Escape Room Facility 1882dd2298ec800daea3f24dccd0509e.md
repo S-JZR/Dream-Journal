@@ -3,15 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: October 24, 2023
-updated_at: August 23, 2026 12:25 AM
+updated_at: October 4, 2026 10:39 PM
 emotion: Fear
-influences:   • The Outlast Trials (2023):
-      ◦ References scientists studying the player through windows during experiments.
-      ◦ References doing crazy trials to escape.
-  • People Playground (2019): References creepy ambient sounds coming through walls.
-  • Christianity: References Genesis 4:15 but it’s distorted here as a mark for death.
-symbols:   • Prisoners: The fear of being held against my will.
-  • Programming Book: The fear of being a bad programmer and forgetting things.
+influences:   • Undergoing psychological trials and being observed by scientists behind windows in The Outlast Trials.
+  • Creepy ambient sounds come from the walls in People Playground.
+  • Genesis 4:15 (distorts the Mark of Cain).
 people_i_know: Brother, Dad, Mum
 
 I was one of many prisoners wearing orange jumpsuits standing in columns in the waiting area of a towering concrete facility established by a dictatorship. Different configurations of prisoners were sent to solve cryptic puzzles in themed escape rooms within five minutes otherwise a mentally unstable mutant monster would be released to kill them. It was possible to defeat each monster by discovering their weakness. The prisoners spread rumours that a fictional man I knew had achieved the rare feat of defeating a monster by uncovering their weakness and beating them to death over the back of the head with a baseball bat.

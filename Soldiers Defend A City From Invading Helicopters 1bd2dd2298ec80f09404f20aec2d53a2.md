@@ -3,10 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: March 20, 2025
-updated_at: August 23, 2026 4:21 AM
+updated_at: September 20, 2026 4:05 AM
 emotion: Fear
-influences: News,Gaza–Israel Conflict
-symbols: Army: The desire to stop evil from harming anyone.
 
 I was one of many soldiers walking along the footpath in the city beside a tall rectangular building standing in the river with an aircraft hangar cut out of the top when there was a brief earthquake.
 

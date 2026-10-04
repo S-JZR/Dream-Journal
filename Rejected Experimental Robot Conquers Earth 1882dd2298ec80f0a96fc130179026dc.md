@@ -3,9 +3,9 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 23, 2026 12:15 AM
+updated_at: September 19, 2026 5:52 PM
 emotion: Fear
-influences: Steam Punks! (2013): References the title sequence where a discarded experimental robot grows underground.
+influences:   • "The Machine", an experimental robot, is discarded underground and grows into a monster in Steam Punks!
 
 I was spectating two scientists in a white robotics lab performing experiments on a half-finished robot without a casing and legs. After months of frustration, they deemed it worthless and placed it in a trash chute.
 

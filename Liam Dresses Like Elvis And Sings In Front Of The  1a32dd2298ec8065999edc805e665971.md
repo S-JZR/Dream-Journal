@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: February 7, 2025
-updated_at: August 23, 2026 4:11 AM
+updated_at: October 4, 2026 10:11 PM
 emotion: Happy
-influences: References Kamilla Harris inviting Beyoncé for a celebrity endorsement and it was rumoured she would perform but didn’t and guests got upset: https://www.yahoo.com/entertainment/kamala-harris-mocked-beyonc-fails-200958782.html.
+influences:   • Kamala Harris mocked after Beyoncé fails to perform at her Texas rally: https://www.yahoo.com/entertainment/kamala-harris-mocked-beyonc-fails-200958782.html.
 people_i_know: Liam B
 
 I was one of many students moving into the hall at my secondary school for a special assembly where Liam dressed as Elvis held onto the side of a central giant disco ball suspended by a chain.

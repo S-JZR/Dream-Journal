@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: September 22, 2025
-updated_at: August 22, 2026 9:32 PM
+updated_at: September 27, 2026 6:40 PM
 emotion: Anger
-influences: We planned to visit the Taiwan Night Market at UQ on the 27th of September.
+influences:   • We planned to visit the Taiwan Night Market at UQ on the 27th of September.
 people_i_know: Brother, Dad, Mum
 
 I was standing amongst Chinese market stalls setup on a closed road beside my local shopping mall with my family and a large crowd. While walking through the markets my mum bought us fried chicken covered in a white sauce in a transparent plastic container. I took a few bites and could taste the sauce which was delicious. After getting multiple fruit boxes, we walked over to the checkouts in a concrete area where the roads previously were. My mum recognised the male cashier who was the only one present and he prioritized us first.

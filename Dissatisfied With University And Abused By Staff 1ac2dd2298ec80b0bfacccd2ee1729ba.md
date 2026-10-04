@@ -3,24 +3,15 @@
 is_favourite: Yes
 is_nsfw: No
 date: March 4, 2025
-updated_at: August 23, 2026 7:28 PM
+updated_at: October 4, 2026 10:13 PM
 emotion: Anger
 influences:   • I often feel like university is a waste of time.
-  • I had female students in a CI class once who were researching how women are oppressed by male dominated industries.
-  • I’m trying to finish a double degree and failed my CS capstone because I don’t feel skilled enough, teammates in my CI capstone were awful and made me do most of the work, and other simultaneous problems.
-  • My brother shared a story about how a university teacher emailed his class saying that nobody will hire them because they’re lazy and entitled.
-
-  • News:
-      ◦ Student performance is declining: https://www.theguardian.com/australia-news/2023/nov/27/australian-education-in-long-term-decline-due-to-poor-curriculum-report-says.
-      ◦ More students are dropping out of university: https://ipa.org.au/read/fees-for-no-degrees.
-      ◦ Warnings were issued about Cyclone Alfred approaching the coast: https://en.wikipedia.org/wiki/Cyclone_Alfred.
-symbols:   • Convenience Store:
-      ◦ I feel like university and charities are purposefully trying to get money out of us even though we’re in debt.
-  • Cashier:
-      ◦ Feeling like I’m trapped in university and can’t do what I want.
-      ◦ Self-criticism about running away from my responsibilities and not achieving enough.
-  • Conceptual Art:
-      ◦ I feel like most conceptual art is confusing and the message is unclear or trivial.
+  • I was in a creative industries class where female students researched how women are oppressed by male dominated industries.
+  • I’m still trying to finish a double degree. I failed my computer science capstone because I don’t feel skilled enough, teammates in my creative industries capstone made me do most of the work, and other problems.
+  • My brother shared a story about how a university teacher emailed his entire class, saying that a degree is not enough and nobody will hire them because they’re lazy and entitled.
+  • One in three children not meeting reading or writing standards: https://www.theguardian.com/australia-news/article/2024/aug/14/disappointing-numeracy-and-students-falling-through-cracks-latest-naplan-results-in-six-graphs.
+  • More students are dropping out of university: https://ipa.org.au/read/fees-for-no-degrees.
+  • Warnings were issued about Cyclone Alfred approaching the coast: https://knowledge.aidr.org.au/resources/cyclone-tropical-cyclone-alfred-queensland-2023.
 people_i_know: Dejan C, Tom B
 
 I was one of many students seated in a university lecture room listening to a middle-aged female staff member give an orientation presentation in front of a projector.

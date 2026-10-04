@@ -3,13 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: July 10, 2020
-updated_at: July 12, 2026 9:18 PM
+updated_at: September 20, 2026 3:53 AM
 emotion: Happy
-influences:   • Spiderman (2002): References swinging between buildings.
-  • Team Fortress 2 (2007):
-      ◦ References grappling hooks.
-      ◦ References the zombie gamemode where players defend different positions.
-symbols: Alien Spiders: The fear of spiders.
+influences:   • Spiderman swings between buildings.
+  • Grappling hooks and the zombie gamemode in Team Fortress 2.
 
 I was one of many survivors in a team-based survival videogame that involved defending against alien spiders until the timer ran out.
 

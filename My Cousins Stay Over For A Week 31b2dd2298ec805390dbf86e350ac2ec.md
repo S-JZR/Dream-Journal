@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: March 6, 2026
-updated_at: August 23, 2026 6:18 PM
+updated_at: September 26, 2026 4:09 PM
 emotion: Fear
-people_in_the_media: Sheriff Woody
-influences: Doors (2021) (Roblox): Likely references Doors where you loot drawers, some cupboards and drawers are booby trapped, and there’s monsters everywhere.
+people_in_the_media: Woody
+influences:   • Survive monsters in a hotel and loot drawers in Doors (Roblox). Some drawers and cupboards are booby trapped with monsters.
 people_i_know: Ruth K
 
 <aside>

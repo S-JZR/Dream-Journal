@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 28, 2021
-updated_at: August 23, 2026 12:22 AM
+updated_at: September 19, 2026 7:21 PM
 emotion: Fear
-influences: MythBusters (2003): References waiting five minutes to see if a failed explosive will self-detonate.
+influences:   • Waiting 5 minutes for a failed explosive to self-detonate in MythBusters.
 people_i_know: Brother, Dad, Mum
 
 I was standing in the lounge room of my unit with a light brown car suspended by chains and began cutting the fuel line with a circular saw to try draining the fuel into a cyan ice cream tub on a dark blue circular tarp. Sparks leapt erratically around the room as drops of fuel ignited. Fearing the fire would travel through the piping and trigger an explosion, I desperately grabbed a nearby fire extinguisher, smothering it with smog. Yet as the clouds dissipated, the car rattled deep within, prompting me to continue squeezing the handle to no avail.

@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: August 24, 2025
-updated_at: June 5, 2026 3:48 AM
+updated_at: September 27, 2026 3:18 AM
 emotion: Fear
-influences:   • Team Fortress 2 (2007): References upgrading engineer buildings by hitting them with a wrench.
-  • Fortnite (2017): References the purple fog and cube monsters.
+influences:   • Upgrading engineer buildings by hitting them with a wrench in Team Fortress 2.
+  • The purple fog and cube monsters in Fortnite.
 
 I was one of many survivors in a hardcore wave-based zombie survival videogame. Everyone could choose to level up different skillsets and many structures could be upgraded by hitting them multiple times with wrenches.
 

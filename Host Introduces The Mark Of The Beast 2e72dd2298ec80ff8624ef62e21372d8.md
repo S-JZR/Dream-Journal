@@ -3,16 +3,14 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 13, 2026
-updated_at: September 6, 2026 2:39 AM
+updated_at: October 4, 2026 10:25 PM
 emotion: Fear
 people_in_the_media: IShowSpeed
 influences:   • My brother has researched some political conspiracy theories.
-  • Christianity: References Revelation 13:16-17.
-  • Likely references Unholy by Sam Smith at the Grammy’s with red lights: https://youtu.be/iKkiIqwg15M?si=0tBmYNb16XsMnjX8&t=23.
-  • Likely references Jim Carrey’s secret hand signal skit: https://youtu.be/eG9i7d8yfKQ?si=ZhT4J1pLwfLyuMij&t=50.
-  • References IShowSpeed visiting a witch and leaving halfway through because he felt concerned: https://youtu.be/g7zFNRrXnME?si=sqnr-5P31LtnbpeQ&t=379.
-symbols:   • Red Lights: Evil.
-  • Forehead Chip: The mark of the beast.
+  • Revelation 13:16-17.
+  • [Likely] Unholy at the Grammy’s: https://youtu.be/iKkiIqwg15M?si=0tBmYNb16XsMnjX8&t=23.
+  • [Likely] Jimmy Kimmel Live: Jim Carrey’s secret hand signal skit: https://youtu.be/eG9i7d8yfKQ?si=ZhT4J1pLwfLyuMij&t=50.
+  • IShowSpeed left a witch because he felt concerned: https://youtu.be/g7zFNRrXnME?si=sqnr-5P31LtnbpeQ&t=379.
 people_i_know: Brother
 
 <aside>

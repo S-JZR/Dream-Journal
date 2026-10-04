@@ -3,14 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2024
-updated_at: August 23, 2026 3:48 AM
+updated_at: October 4, 2026 10:05 PM
 emotion: Sad
 people_in_the_media: Alexander Armstrong
-influences:   • During a group assessment in university we proposed the design of a new small public attraction at a local riverside precinct for a government client and I felt like it was a mediocre solution.
-  • News: references Australia undergoing a housing crisis: https://www.salvationarmy.org.au/need-help/homelessness-support-services/homelessness-week/homelessness-statistics/australia-housing-crisis/.
-symbols:   • 3D Model: The fear that I’m not skilled enough for a job.
-  • Forgetting Theory: At the end of university I was worried that I forget almost everything I learnt. Team members in group assessments often never read the prescribed reading.
-  • Crazy Student: Feeling trapped in university and unable to work on my side projects.
+influences:   • I had a horrible experience in a university group assessment where we proposed a flawed solution for a new small public attraction for a government client. I did most of the work with prototyping, logistics, and 3D modelling.
+  • Australia’s housing crisis to worsen with ‘significant shortfall in supply’: https://www.theguardian.com/australia-news/article/2024/may/03/australias-housing-crisis-to-worsen-with-significant-shortfall-in-supply-labors-expert-council-says.
+  • I feel trapped in university and unable to work on my side projects.
 
 I was one of many university students on an excursion to design a new building for Alexander Armstrong, the client. During the initial site visit beside an elevated riverside promenade, we examined a fish monument made from multiple layers of sheet metal. As we began conceptualizing a digital architectural model in thin air, it became apparent that we lacked the necessary skills. We travelled further downtown to the client's headquarters in a skyscraper with stairs spiralling down the exterior. We ascended a circular elevator to a fancy office on floor nine where we met the client who debriefed us on the project.
 

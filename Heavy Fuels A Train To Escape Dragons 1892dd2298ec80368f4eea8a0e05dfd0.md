@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 22, 2024
-updated_at: August 23, 2026 12:27 AM
+updated_at: September 20, 2026 3:58 AM
 emotion: Fear
 people_in_the_media: Heavy
-influences: Team Fortress 2 (2007): References the Heavy.
-symbols: Oval Track: Feeling like I’m stuck in a loop and not making progress.
+influences:   • The Heavy from Team Fortress 2.
 
 I was the Heavy from Team Fortress 2 standing in a cave when I heard the echoes of dragons talking. I sought refuge by boarding a train outside on an oval track. The back compartment served as the pilot room featuring machines resembling toaster ovens with pull-down drawers. The top one harnessed the energy of two cylindrical power cells to propel the train forward, whereas the bottom one cooked a plate of lettuce and vegetables already inside.
 

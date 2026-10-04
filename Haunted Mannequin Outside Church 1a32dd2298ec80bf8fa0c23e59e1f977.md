@@ -3,9 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: January 25, 2020
-updated_at: August 23, 2026 3:34 AM
+updated_at: September 20, 2026 3:53 AM
 emotion: Fear
-symbols: Waiting In Line/Preacher: Social anxiety.
 people_i_know: Brother, Dad, Mum
 
 I was seated in my mum's car with my family being driven by my mum to a church service in the city during Christmas time. After parking beside the sidewalk, we descended a courtyard staircase with wide steps. To the right was a narrow alleyway with various restaurants built into the wall, followed by the church at the end.

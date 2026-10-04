@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: June 11, 2024
-updated_at: August 23, 2026 12:31 AM
+updated_at: September 20, 2026 5:22 PM
 emotion: Happy
-influences: I formed a bad habit of sleeping in during the final years of secondary school.
-symbols: Beard Falling Out: Acknowledging that I need to shave.
+influences:   • I formed a bad habit of sleeping in during the final years of secondary school.
+  • I need to shave.
 people_i_know: Mum
 
 I was sleeping in my unit when my mum woke me up at 10:00 am for sleeping in and being late for the end-of-year sports day at my secondary school. She asked what time I needed to be dropped off, so I pulled out a multi-coloured schedule indicating that various student groups were asked to arrive at different times. I suddenly realized that the Year 12 slot was the only one running throughout the entire day, meaning I should have arrived earlier.

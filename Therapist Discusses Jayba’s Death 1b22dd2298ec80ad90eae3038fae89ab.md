@@ -3,9 +3,10 @@
 is_favourite: Yes
 is_nsfw: No
 date: March 24, 2017
-updated_at: September 6, 2026 2:27 AM
+updated_at: October 4, 2026 10:37 PM
 emotion: Sad
-influences: Jayba died recently and I was still getting over it: [details too sensitive to share].
+influences:   • Jayba died recently and I'm still getting over it.
+notes:   • I never went to therapy and this is just general advice.
 people_i_know: Jayba
 
 I was in a black void, talking to the disembodied voice of a female therapist.

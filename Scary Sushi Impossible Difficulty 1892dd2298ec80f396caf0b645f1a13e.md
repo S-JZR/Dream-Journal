@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: July 9, 2024
-updated_at: June 5, 2026 1:53 AM
+updated_at: September 26, 2026 4:34 PM
 emotion: Happy
 people_in_the_media: Hiroshi Kimura, Norman
-influences: Scary Sushi (2024) (Roblox): I played it recently and didn’t attempt the hard difficulty but wondered what it would be like.
+influences:   • I recently played Scary Sushi and didn’t try the hard difficulty but wondered what it would be like.
 
 I was in the Scary Sushi videogame on a fictional impossible difficulty with the following changes:
 

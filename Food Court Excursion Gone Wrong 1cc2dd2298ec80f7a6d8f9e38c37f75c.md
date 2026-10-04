@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 5, 2025
-updated_at: August 23, 2026 2:21 AM
+updated_at: September 20, 2026 4:06 AM
 emotion: Surprise
-influences: During a secondary school Graphics excursion to IKEA we spent too much time exploring and skipped eating hotdogs halfway through to get back on the bus.
-symbols: Overpriced Food: The fear that fast food prices won’t stop rising.
+influences:   • During a secondary school Graphics excursion to IKEA we spent too much time exploring and were forced to stop eating hotdogs early to get back on the bus.
 people_i_know: Rhiannon C
 
 I was one of many secondary school students on an excursion that detoured to a shopping mall to buy lunch. I thought the prices at a Subway on the first level in the food court were too expensive at $18 per person. However, when I went to another one on the top floor they charged up to $80 person so I returned to the initial one.

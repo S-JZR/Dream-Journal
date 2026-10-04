@@ -3,14 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: November 4, 2025
-updated_at: August 22, 2026 9:09 PM
+updated_at: October 4, 2026 10:24 PM
 emotion: Embarrassment
 people_in_the_media: Bryce Crawford
-influences:   • My mum is quick to be against anything that is worldly.
-  • Christianity: References 1 Peter 3:7.
-  • References Bryce being outspoken and getting tattoos after becoming a Christian: https://youtu.be/q806cx4YiVc?si=_5pUFNT5kZbK4RBx&t=1453.
-  • Reminds me of various Christians discussing things together in The Christian Avengers.
-symbols: Walking Dead Shirt: Being interested in mainstream media because everyone else is.
+influences:   • My mum is against media featuring witchcraft and horror.
+  • 1 Peter 3:7.
+  • Bryce Crawford claimed it's fine to get tattoos after becoming a Christian: https://youtu.be/q806cx4YiVc?si=_5pUFNT5kZbK4RBx&t=1453. When I initially saw Bryce, I was wary that he could be trendy and a bit too worldly.
 people_i_know: Brother, Dad, Mum
 
 I was standing in the lounge room of my unit with my family when three young Christian adults came over to chat. After hearing a noisy motorbike, I looked out the kitchen window to see Bryce Crawford driving a noisy red motorbike down and up the alleyway behind the units before parking beside the footpath. Everyone moved to unit 7 for a discussion. A woman was wearing a red dress. Bryce was wearing a Walking Dead T-shirt with grey zombies crawling on the ground.

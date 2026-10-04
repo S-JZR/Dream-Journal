@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 18, 2024
-updated_at: August 23, 2026 3:54 AM
+updated_at: September 26, 2026 4:26 PM
 emotion: Sad
-influences: I once accidentally showed up a day early to secondary school when juniors and seniors were scheduled to start on different days.
+influences:   • I accidentally showed up a day early to school when juniors and seniors started on different days.
 
 I was walking upstairs in a fancy building to a university class banquet where many students sat with their clients at long tables with course codes on A4 paper taped to the side.
 

@@ -3,9 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: December 2, 2022
-updated_at: August 22, 2026 2:40 AM
+updated_at: September 20, 2026 3:56 AM
 emotion: Fear
-symbols: Jets: The fear of being helpless.
 
 I was waiting in line at the checkouts in a Coles supermarket within a retail strip when an unexpected blackout occurred.
 

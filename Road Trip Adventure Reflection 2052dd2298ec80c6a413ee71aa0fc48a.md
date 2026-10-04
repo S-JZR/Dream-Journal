@@ -3,13 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 27, 2025
-updated_at: August 23, 2026 2:27 AM
+updated_at: September 27, 2026 12:11 AM
 emotion: Sad
-influences:   • I took candid photos of TVs/Monitors as a child because I didn’t know the proper way.
+influences:   • I took candid photos of monitors as a child because I didn't know how to take screenshots.
   • I’ve started working on Fandom wikis again this year.
-  • I’ve grown to dislike videogames because I feel like they’re a waste of time and hinder skill development.
-  • Road Trip Adventure (2002): references the gameplay.
-symbols:   • Gameplay: Nostalgia.
+  • I’ve grown to hate videogames because I feel like they’re a waste of time.
+  • Road Trip Adventure.
 notes:   • Road Trip Adventures featured Quick-Pic Shops everywhere not treasure chests.
   • I added a brain dump of thoughts I've been having lately.
 

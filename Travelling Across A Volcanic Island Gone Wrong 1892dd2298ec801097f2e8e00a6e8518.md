@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: August 17, 2024
-updated_at: August 23, 2026 2:10 AM
+updated_at: September 26, 2026 4:45 PM
 emotion: Fear
-influences:   • Lost Rooms (2022) (Roblox):
-      ◦ References hunting monsters in the backrooms.
-      ◦ References AI pathfinding in Roblox being bad at times.
+influences:   • Hunting monsters in the Lost Rooms (Roblox).
+  • Roblox’s AI pathfinding can be bad.
 
 I was one of four explorers dispatched at night to travel across a long strip of grassy and volcanic land without being caught by a monster. We travelled on a weathered ship covered in corrugated metal sheets to a harbour already filled with similar vessels.
 

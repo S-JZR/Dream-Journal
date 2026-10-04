@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: April 16, 2025
-updated_at: August 23, 2026 4:24 PM
+updated_at: September 20, 2026 3:30 AM
 emotion: Surprise
 people_in_the_media: MacGyver
-influences: MacGyver (1985): References MacGyver.
+influences:   • MacGyver.
 
 I was one of five rescue workers from an international rescue agency, including MacGyver, dispatched in a black helicopter on a rescue mission. We were responding to a distress call about a cruise ship slowly sinking in the middle of the ocean that was already 70% submerged and had to save remaining survivors. After landing, we noticed everything was desolate and navigated through floors overlooking flooded staircases and rooms below. After travelling through a large metal sewage pipe to a T-intersection, we overheard two crew members on the left talking to each other as they stood beside an illuminated camping lantern on the floor. We realized most passengers had resorted to cannibalism and joined different factions to hunt others down.
 

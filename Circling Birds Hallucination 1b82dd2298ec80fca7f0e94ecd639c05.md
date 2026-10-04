@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2008
-updated_at: August 22, 2026 11:54 PM
+updated_at: September 19, 2026 4:34 PM
 sleep_phenomena: Hallucination
 emotion: Surprise
-influences: Looney Toons (1930): References characters seeing birds circling above their head after being hit in the head.
+influences:   • "Circling Birdies" concussion gag in Looney Tunes.
 
 I was trying to fall asleep in real life when I hallucinated 2D cartoon bluebirds flying in a circle which moved to wherever I was looking.

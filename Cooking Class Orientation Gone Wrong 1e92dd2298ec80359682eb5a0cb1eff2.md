@@ -3,13 +3,9 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 28, 2025
-updated_at: August 23, 2026 4:33 PM
+updated_at: September 20, 2026 4:08 AM
 emotion: Fear
-influences: Hell's Kitchen (2005): References Gordan Ramsay being strict and yelling at chefs to leave.
-symbols:   • Skiing: Avoiding growth by being afraid to waste time and take risks.
-  • Doughnuts: The joy of success.
-  • Cacti: The fear of failure.
-  • Expelled: The fear of being unqualified to get a job.
+influences:   • Gordan Ramsay being strict and yelling at chefs to leave in Hell's Kitchen.
 
 I was one of many apprentice chefs in a cooking class when we were approached by a female instructor holding lots of aprons.
 

@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 14, 2025
-updated_at: August 23, 2026 2:22 AM
+updated_at: September 26, 2026 11:37 PM
 emotion: Anger
-influences:   • Transformers (1986): References the Decepticons.
-  • Pacific Rim (2013): References using mechas to fight monsters.
-symbols: Mecha: The desire to stop evil from harming anyone.
+people_in_the_media: Decepticons
+influences:   • Decepticons in Transformers.
 
 I was seated in a large mecha at a harbour punching a Decepticon.

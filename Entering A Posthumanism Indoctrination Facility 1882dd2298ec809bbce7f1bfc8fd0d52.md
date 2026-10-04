@@ -3,38 +3,30 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 23, 2026 3:29 AM
+updated_at: October 4, 2026 4:55 PM
 emotion: Fear
 people_in_the_media: Satan
-influences:   • During religious education I saw Brooke sitting at the row of computer desks to the left of the classroom studying science textbooks because she was probably an atheist.
-  • I’ve heard people claim Lucifer as a hero who rebelled against the perceived totalitarian rule of God who withheld knowledge and our true potential, and that we should question authority, be self-worshipers, and embrace complete autonomy.
-  • I’ve heard people claim religion and traditions are outdated, oppressive, and hold us back from utopia and scientific progress so we should embrace a new era of science, reason, philosophy, progressivism, and humanism.
-  • I see a lot of hatred in some people who push progressive ideologies.
-  • I’ve wrestled and been afraid for a long time about:
-  • Technology:
-  • People playing god via technology.
-  • People trying to create a new race of people.
-  • Replacing the image of God via technology.
-  • People trying to create a robot god to manage society.
-  • Everyone rejecting the consequences of sin via technology.
-  • Information monopolies normalizing sin.
-  • Identity:
-  • The stupidity of racism, war, and division, and considering a transcendent identity.
-  • Religion:
-  • Were humans made weak by God?
-  • Is God trustworthy?
-  • Politics:
-  • The fear of an evil figure manipulating humanity’s desire for freedom, equality and lusts to promote a personal agenda.
-
-Christianity:
-  • Reminds me of Romans 12:2, John 15:18–19, Ephesians 6:12, Matthew 7:13-14, and James 4:7.
-  • References the Tower of Babel.
-symbols:   • Amphitheatre: Upside down Tower of Babel. The world.
-  • Fences: False freedom, security, and enlightenment. Descending further into deception and corruption.
-  • Brooke: The fear of being blinded by society and pride. don't think science itself is bad.
-  • 1960’s TV: The start of the sexual revolution.
-  • Dictator: Rebelliousness and hatred against God, his followers, and the natural order. The desire to be like god.
-notes: I don't remember the exact dialogue and this is a recreation.
+influences:   • During religious education in primary school Brooke read science textbooks to the side.
+  • I’ve heard people claim religion and traditions are outdated, oppressive, and hold us back from achieving a utopia and scientific progress.
+  • I'm worried about people playing god via technology leading to:
+      ◦ Replacing humans and altering them beyond recognition.
+      ◦ Altering reality to suit how we want things to work.
+      ◦ Achieving immortality.
+      ◦ Creating a robot god to enforce a surveillance state.
+      ◦ A war of “the gods”.
+  • I’ve wrestled with personal doubts like:
+      ◦ Do we have a transcendent identity above our species, sex, gender, race, and culture?
+      ◦ Is God trustworthy?
+      ◦ Is God oppressing us by forcing us to be weak and vulnerable?
+      ◦ If we keep learning over an eternity will we inevitably become gods?
+  • I fear people being lured into evil via their desires and noble-sounding causes.
+  • Tower of Babel (inverted).
+  • Romans 12:2.
+  • John 15:18–19.
+  • Ephesians 6:12.
+  • Matthew 7:13-14.
+  • James 4:7.
+notes:   • I don't remember the exact dialogue and this is a recreation. The vibe was that the dictator spoke progressive and anti-religious rhetoric that appealed to the crowd but masked an evil posthuman agenda.
 people_i_know: Brooke A
 
 I was standing inside a complex with a crowd walking in a line through a spiral of chain-linked fences around a circular amphitheatre without seats, descending a continuously slanted floor that descended multiple levels. A central circular stage at the bottom featured a 1960s era television broadcasting a male charismatic dictator passionately yelling a message.

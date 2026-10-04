@@ -3,12 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: August 29, 2025
-updated_at: August 22, 2026 9:36 PM
+updated_at: September 27, 2026 3:19 AM
 emotion: Sad
-influences: Personal Thoughts
-symbols:   • Interrupted: I feel like I’m constantly being torn away from deeper thinking.
-  • Naïve Woman: Distractions.
-  • Mum: I have a practical view of the world.
+influences:   • I feel like I constantly can't pursue what I want and give into worthless distractions.
 people_i_know: Dad, Mum
 
 I was seated at my desk in my unit working on drawing a high level plan of a bible infographic to efficiently showcase events, themes, and insights like:

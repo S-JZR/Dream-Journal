@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: December 3, 2025
-updated_at: August 23, 2026 2:43 AM
+updated_at: September 28, 2026 1:20 AM
 emotion: Happy
-influences:   • My parents used to take me and my brother to a sports club and put us in the kid’s room when we were younger.
-  • My parents used to take me and my brother to arcades when we were younger and sometimes we played modern coin pushers a lot like Fantastic Fever 3 and Medalink (Western Dream). The latter was easy to earn coins from.
-  • References an ABC radio host asking an electric car question during my morning alarm.
+influences:   • As children, my parents took my brother and I to a sports club and put us in the kid’s room.
+  • As children, my parents took my brother and I to arcades and sometimes we played coin pushers like Fantastic Fever 3 and Medalink. I once found 2 tokens on the carpet and turned them into an ongoing streak in Medalink Western Dream because it paid out easily as all you had to do was line up the shots twice.
+  • An ABC radio host discussed electric cars on my morning alarm.
 
 I was dropped off at a sports club with my brother by my parents:
 

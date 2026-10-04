@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: April 1, 2025
-updated_at: August 23, 2026 4:51 AM
+updated_at: October 4, 2026 10:13 PM
 emotion: Sad
-influences:   • During primary school I was initially afraid to dive underwater and float on my back but learnt how to swim.
-  • Mr Bean (1990): Likely references Mr Bean being being told to leave the children’s pool by a lifeguard: https://youtu.be/FZoofVvPUC8?si=J7NteKkNRICHGztm&t=52.
-symbols: Breathing In Water: The fear of drowning.
+influences:   • I used to be afraid to swim in primary school.
+  • Mr Bean is kicked out of the children’s pool by a lifeguard: https://youtu.be/FZoofVvPUC8?si=J7NteKkNRICHGztm&t=52.
 
 I was wearing inflatable armbands and struggling to swim in the shallow end of the pool at my primary school with various children and a male teacher supervisor sitting on a foldout chair on the other side. I was casually practicing floating on my back and front without submerging my face while two boys stood beside me.
 

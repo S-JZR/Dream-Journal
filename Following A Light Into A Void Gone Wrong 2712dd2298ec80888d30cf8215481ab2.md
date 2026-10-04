@@ -3,23 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: September 17, 2025
-updated_at: August 23, 2026 5:38 PM
+updated_at: September 27, 2026 6:33 PM
 sleep_phenomena: Nightmare
 emotion: Fear
-influences:   • Likely references being on Discord servers where everyone always posts stupid memes and are overly obsessed with videogames and vain things.
-  • I'm constantly worried that I'm letting myself go and wasting my life on videogames and other distractions.
-symbols:   • Weary:
-      ◦ Losing the willpower to resist temptations and addictions.
-      ◦ Not reaching out for help.
-  • Blinded By The Light:
-      ◦ Surrendering to the spectacle and giving it full attention.
-  • Crowd:
-      ◦ Feeling like most people mindlessly waste their time on videogames, porn, and other vain things.
-  • Pink Goo:
-      ◦ Being consumed by distractions and vain things.
-      ◦ Loss of self, time, and potential.
-      ◦ The fear of dying without reaching my true potential.
-  • One Foot In The Fire: I'm complacently behaving like everyone else and doing what I hate.
+influences:   • People on Discord and Fandom post stupid memes, obsess over everything, engage in petty arguments, and do other vain things.
+  • I'm worried that I'm letting myself go and wasting my life on worthless distractions.
+  • I keep doing what my conscience warns me to stop and let urges pull me back to waste time whenever I feel worn out, particularly at the end of the week.
 
 I was one of many passengers seated in a train carriage with a red interior and black carpet when we were captivated by a supernatural flashing light above distant mountains that illuminated the entire sky. I pulled out a thick polaroid camera and tried looking through the view finder but I could barely see anything because I couldn’t get my eye close enough for some reason.
 

@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: December 17, 2020
-updated_at: August 23, 2026 12:21 AM
+updated_at: September 20, 2026 3:55 AM
 emotion: Happy
 people_in_the_media: Jimmy Neutron, Tommy Pickles
-influences:   • Rugrats (1991): References Tommy.
-  • The Adventures Of Jimmy Neutron Boy Genius (2002): References Jimmy Neutron.
-symbols: Cartoon Characters: Nostalgia.
+influences:   • Tommy from Rugrats.
+  • Jimmy Neutron from The Adventures of Jimmy Neutron, Boy Genius.
 
 I was standing outside an amusement park in a city with the ability to add and remove buildings. Satisfied with the result, I decided to stroll through the area overseeing everything I had created. Starting at the front gate, I noticed a rock band performing on a stage. The music was extremely loud, echoing throughout buildings in the city. I felt concerned that residents in neighbouring apartments might complain about the attraction, leading authorities to impose fines or restrictions. Traveling alongside the fence interior, I encountered the bizarre sight of a giant version of Tommy Pickles from Rugrats bouncing around in a diaper and ground slamming a villain. Additionally, Jimmy Neutron was swiftly climbing a tall building with an axe. Unexpectedly, my clothes transformed into an orange prison uniform and police swarmed the location searching for me.
 

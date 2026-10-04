@@ -3,14 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: July 10, 2020
-updated_at: August 23, 2026 12:19 AM
+updated_at: September 26, 2026 3:45 PM
 emotion: Surprise
-influences:   • I’ve been afraid that people will try to create a new race of people and a robot god.
-  • Christianity:
-      ◦ I’ve heard some people say we need God’s eternal vigilance to maintain peace.
-      ◦ References that God and his laws are eternal.
-      ◦ References humanity trying to be like god and exist without him.
-symbols: Technology: Counterfeit to the divine. Playing god.
+influences:   • I’ve heard people say we need God’s eternal vigilance to maintain moral order.
 people_i_know: Julien C
 
 I was walking on the sidewalk with Julien, my friend from school, when two elderly men seated outside a café overheard us. We talked to them about God, morality, and humanity's inclination to replace the divine with technology. I realized that everyone needs an eternal and unchanging moral law guided by someone who genuinely loves us.

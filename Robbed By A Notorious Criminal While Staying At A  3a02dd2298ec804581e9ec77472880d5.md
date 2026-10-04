@@ -3,9 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: July 17, 2026
-updated_at: August 22, 2026 9:22 PM
+updated_at: September 20, 2026 3:04 AM
 emotion: Fear
-influences:   • References El Macho from Despicable Me 2.
+people_in_the_media: El Macho
+influences:   • El Macho from Despicable Me 2.
 people_i_know: Brother, Dad, Mum
 
 <aside>

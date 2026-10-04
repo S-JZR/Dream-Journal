@@ -3,9 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: February 5, 2025
-updated_at: July 13, 2026 1:50 AM
+updated_at: September 20, 2026 3:28 AM
 emotion: Happy
-influences: Fantastic Planet (1973): References the Draag.
+people_in_the_media: Draag
+influences:   • Draag from Fantastic Planet.
 
 I was spectating blue humanoid aliens visiting Earth to showcase their ability to control their minds and emit lasers from their eyes but they couldn't do it for long since it would drain all their body's energy. In the city an individual closely observed an alien's eyes which resembled a flower stigma that opened as the entire eye emitted light like a torch but they abruptly stopped before completing the process to avoid causing harm.
 

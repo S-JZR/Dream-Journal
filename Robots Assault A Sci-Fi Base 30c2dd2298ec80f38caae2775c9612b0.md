@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2015
-updated_at: August 23, 2026 12:08 AM
+updated_at: September 21, 2026 12:03 AM
 emotion: Surprise
-influences: The wall robot was a purposefully absurd idea that I once drew in class.
-notes: I was considering making a videogame and drew other robots designs but I scrapped the idea because it felt generic and unoriginal, I didn’t know what I wanted, it would take too much time, and I planned more than executing. I’m glad that I didn’t pursue it.
+influences:   • I drew the wall robot in class once as a purposefully absurd idea.
+notes:   • I was considering making a videogame with robots but scrapped the idea because it felt unoriginal, lacked direction, and was too complex.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

@@ -3,19 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: May 14, 2025
-updated_at: August 23, 2026 4:36 PM
+updated_at: September 20, 2026 4:10 AM
 emotion: Sad
-influences: The Anguished Man (n.d): References a distressed painting that allegedly contains the artist’s blood and is haunted.
-symbols:   • Minimalism:
-      ◦ Preferring minimalism over clutter.
-      ◦ Preferring functionality over aesthetics.
-  • Muted Colours:
-      ◦ Feeling emotionally numb and detached at times.
-      ◦ Afraid to express myself.
-  • Safe: Secrets that I don’t want anyone to know.
-  • Ferns: Resilience and growth.
-  • Blood: Internal struggles and past wounds.
-  • Upset/Fire: Anger over being misunderstood and ignored.
+influences:   • I watched a video about The Anguished Man haunted painting.
 
 I was walking through a small art gallery room with huge rectangular portrait-oriented paintings while two staff members roamed around when I encountered an extremely haunted portrait of a woman:
 

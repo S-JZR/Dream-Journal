@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: March 8, 2025
-updated_at: August 23, 2026 4:20 AM
+updated_at: September 26, 2026 10:50 PM
 emotion: Sad
-influences:   • Students in secondary school disliked the new minimalist sports team logos because they replaced the previous intricate indigenous patterns.
-  • Before leaving secondary school I made sure to retrieve all my data from my personal drive.
+influences:   • Students in secondary school disliked the new minimalist sports uniforms and banners, the latter of which replaced Indigenous patterns.
 people_i_know: ? Levi's Brother, Mrs Itsikson
 
 I was one of many students seated in the hall of my secondary school for an assembly as Mrs Itsikson, a staff member, announced new minimalist solid colour sports uniforms.

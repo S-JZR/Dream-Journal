@@ -3,18 +3,10 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 16, 2024
-updated_at: August 23, 2026 3:49 AM
+updated_at: September 26, 2026 4:18 PM
 emotion: Bold
-influences:   • I have encountered and reported YouTube and Internet Archive accounts mixing porn videos with children’s cartoon videos.
-  • Some ASMR creators share SFW content on YouTube and sell NSFW content on external websites to adhere community guidelines. They create topics that can appeal to broad audiences but also subtly advertise it in some way to get customers like:
-  • Hidden offsite links.
-  • Suggestive thumbnails without content in the video.
-  • Wearing suggestive clothing.
-  • Having sexual undertones to intimate gestures.
-  • Incorporating soft BDSM like mommy doms and praise.
-symbols:   • Gang: Rebellion against authority and the law.
-  • Suggestive Women: Content made to seem innocent and caring but with a hidden sexual agenda.
-  • Sermon: Feeling like people mindlessly waste their time on distractions and vain things.
+influences:   • I’ve reported YouTube and Internet Archive accounts hosting both porn and children’s cartoons.
+  • Some ASMR creators share SFW content on YouTube and sell NSFW content off-site.
 
 I was one of many police officers walking back to our police cars when we encountered a hostile gang, equipped with bats and knives, blocking them. As they taunted us and charged forward, we were forced to shoot them in self-defence.
 

@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: July 3, 2025
-updated_at: August 23, 2026 2:28 AM
+updated_at: October 4, 2026 10:18 PM
 emotion: Fear
-influences:   • The Thing (1982): References Dr Blair possibly infecting himself by touching an alien corpse and his lip with a pencil: https://youtu.be/wrozyKXjaNc?si=ZbnzPtUB0qWPaHPH.
-  • References the pale faces of female ghosts often hidden in paranormal videos.
-  • Technology is evolving so rapidly that it feels like it won’t be long before it can do anything.
-symbols:   • Washing Machine: Feeling like technology is mysterious and almost magical.
+influences:   • Blair possibly infected himself by touching his lip with a pencil in The Thing: https://youtu.be/wrozyKXjaNc?si=ZbnzPtUB0qWPaHPH.
+  • Pale faces of female ghosts are often hidden in paranormal videos.
+  • Technology is evolving so rapidly that it feels like it will soon do anything.
 
 I was one of many people trapped in a shopping mall during a zombie outbreak and all entrances were sealed with rolling corrugated metal doors. Food was running low and everyone was starting to get worried. A slightly open metal door at one entrance revealed a skybridge where an infected man, wearing only underwear, lay on his side, facing the opposite direction, subtly jolted uncontrollably, with scratches and a rash covering his back. A woman’s pale face peered through the bent section on the left side of the door. I stuck a pencil on her lip, prompting her to react as I pulled it away, leaving a small flake of her skin on the tip.
 

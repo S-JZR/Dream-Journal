@@ -3,12 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: November 1, 2025
-updated_at: August 22, 2026 3:20 AM
+updated_at: September 27, 2026 7:21 PM
 emotion: Sad
-influences:   • References semaphores from my university lecture in Systems Design.
-  • During group assessments in university most students didn’t read the prescribed readings.
-symbols:   • Irrelevant: I feel like a few university classes are irrelevant to my career and won’t help me as a beginner.
-  • Forgetting Theory: The fear that I have forgotten most things at the end of university.
+influences:   • Semaphores from my university lecture in Systems Design.
+  • During university group assessments, most students don't read the prescribed readings.
 
 I was standing outside my unit complex, boarding a small white school bus full of mostly female students heading to music class. The bus driver got lost, drove into the city, looped back to my house, and turned down a fictional dirt path near the park to pass a horse carriage moving in the opposite direction.
 

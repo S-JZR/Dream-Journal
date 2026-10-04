@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: April 18, 2024
-updated_at: August 23, 2026 12:30 AM
+updated_at: September 19, 2026 9:57 PM
 emotion: Happy
-influences:   • I used to be afraid of swimming in primary school due to having a few bad experiences.
-  • I tend to find ways to break videogames.
+influences:   • I used to be afraid of swimming in primary school.
+  • I tend to find glitches in videogames.
 
 I was in a sandbox videogame standing in a construction zone:
 

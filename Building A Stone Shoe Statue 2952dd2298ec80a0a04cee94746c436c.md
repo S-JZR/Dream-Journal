@@ -3,10 +3,11 @@
 is_favourite: Yes
 is_nsfw: No
 date: October 23, 2025
-updated_at: September 6, 2026 2:36 AM
+updated_at: September 27, 2026 6:52 PM
 emotion: Anger
-influences: I feel like so many things in society are trivial and stupid.
-symbols: World War 3: The fear of going to war.
+people_in_the_media: Mrs Sheil
+influences:   • I feel like my university is more interested in superficial branding than improving the teaching quality.
+  • I worry that society is making no effort to protect itself against a potential WW3.
 
 I was standing on the lawn in my university with five students when Mrs Sheil, a staff member, privately spoke to us. She remarked how World War 3 was imminent and asked us to dismantle old meaningless stone cube statues around the campus which she felt were outdated with the university’s image and transform them into a new stone shoe statue.
 

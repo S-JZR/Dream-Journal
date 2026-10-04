@@ -3,13 +3,11 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 23, 2025
-updated_at: August 23, 2026 4:46 PM
+updated_at: October 4, 2026 10:16 PM
 emotion: Anger
-influences:   • I feel like church is divided and could do better.
-  • God Has A Wonderful Plan For Your Life (2010): References challenging misconceptions about faith and churches failing to convert sinners.
-  • References religious affiliation declining: https://www.abs.gov.au/articles/religious-affiliation-australia.
-  • References church attendance declining since Covid-19: https://theothercheek.com.au/church-attendance-continues-to-recover-after-covid-baptists-and-pentecostals-rise/.
-symbols:   • Radio: Awareness that some people think religion is outdated and stupid.
+influences:   • I feel like the church could do a lot better.
+  • I read God Has A Wonderful Plan For Your Life.
+  • Decline in religious affiliation: https://www.abs.gov.au/articles/religious-affiliation-australia.
 notes: I added a brain dump of thoughts I've been having lately.
 
 I was driving to a Christian meeting when I tuned in the radio and heard a male commentator.

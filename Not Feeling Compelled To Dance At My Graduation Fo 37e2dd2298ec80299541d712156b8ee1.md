@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: June 13, 2026
-updated_at: September 6, 2026 1:38 AM
+updated_at: September 20, 2026 3:00 AM
 emotion: Sad
-influences: During my secondary school graduation formal I didn’t feel compelled to dance and stood watching everyone.
+influences:   • During my secondary school graduation formal I didn’t feel compelled to dance and stood watching everyone.
 people_i_know: ? Ben
 
 <aside>

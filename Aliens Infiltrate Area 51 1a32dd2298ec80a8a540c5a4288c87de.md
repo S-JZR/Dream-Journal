@@ -3,9 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: November 2, 2020
-updated_at: August 23, 2026 12:20 AM
+updated_at: September 26, 2026 3:46 PM
 emotion: Fear
-influences: Metal Arms Glitch In The System (2003): References Titans.
+people_in_the_media: Titans
+influences:   • Titans from Metal Arms Glitch In The System.
 
 I was one of many soldiers working the night shift at Area 51 when aliens infiltrated. They brainwashed some staff members and assaulted the control room by teleporting a malicious robot resembling Robby from Forbidden Planet inside. Panic ensued as everyone rushed to the front doors, only to find them jammed. The doors suddenly opened, revealing pale, mind-controlled individuals with sinister smirks.
 

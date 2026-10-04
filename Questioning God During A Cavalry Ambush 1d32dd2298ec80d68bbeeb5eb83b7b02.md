@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 12, 2025
-updated_at: September 6, 2026 2:13 AM
+updated_at: September 20, 2026 4:06 AM
 emotion: Sad
-influences: I question why God allows us to endure suffering.
-symbols: War: The fear of going to war.
+influences:   • I question why God allows suffering in the world.
 
 I was one of many soldiers crossing a mostly flat grassy field towards a forest when distant enemy gunfire erupted, prompting everyone to sprint forward and drop into a prone position behind small mounds of dirt. Incoming bullets struck the ground nearby, kicking up puffs of dust into the air as I feared being shot in the head. I couldn't believe that God allowed our lives to be like this and I was forced to fight in combat. A wave of cavalry charged at us from the trees 100 meters ahead.
 

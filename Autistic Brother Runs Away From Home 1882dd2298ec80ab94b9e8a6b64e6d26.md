@@ -3,11 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 10, 2023
-updated_at: August 23, 2026 3:45 AM
+updated_at: September 20, 2026 3:57 AM
 emotion: Fear
-influences: Star Wars Battlefront II (2017): References the gameplay.
-symbols:   • Camera Shy: I’m introverted. The fear of everyone remembering my mistakes forever.
-  • Crumbling Clock Tower: Overcoming death.
+influences:   • I watched some gameplay videos of Star Wars Battlefront II.
 
 I was one of many people running through a city square playing a Star Wars laser tag game. Everyone was armed with lazer machine guns. Michael, a socially introverted autistic teenager who was part of my fictional family, requested a turn before eventually wandering off. After the game ended I travelled to my fictional house in a three-story modern glass building.
 

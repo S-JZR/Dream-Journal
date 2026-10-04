@@ -3,13 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: April 1, 2025
-updated_at: July 12, 2026 9:25 PM
+updated_at: October 4, 2026 10:14 PM
 emotion: Happy
 people_in_the_media: MrBeast
-influences:   • References the final prize negotiation in the MrBeast Games: https://youtu.be/sF5LYGgKbUA?si=0Zu84Woqv-FjDcGF&t=1856.
-  • MrBeast has a habit of throwing in surprises to catch people off guard.
-symbols:   • Camera Shy: Introverted and the fear of immortalizing mistakes.
-notes:   • Splitting the prize money was prohibited so this scenario wouldn’t work: https://www.justjared.com/2025/03/14/beast-games-winner-reveals-contestants-were-banned-from-splitting-prize-money-or-making-deals-with-other-players/.
+influences:   • The final prize negotiation in MrBeast Games: https://youtu.be/sF5LYGgKbUA?si=0Zu84Woqv-FjDcGF&t=1856.
+  • MrBeast tends to throw in surprises to catch people off guard.
+notes:   • Splitting the prize money was not allowed so this wouldn’t work: https://www.justjared.com/2025/03/14/beast-games-winner-reveals-contestants-were-banned-from-splitting-prize-money-or-making-deals-with-other-players/.
 
 I was one of many contestants on a MrBeast gameshow competing in a series of challenges to win $5 million but I was progressing by sheer luck. While being filmed, I felt nervous about making a mistake or doing something that would make me seem foolish so I remained quiet out of shyness.
 

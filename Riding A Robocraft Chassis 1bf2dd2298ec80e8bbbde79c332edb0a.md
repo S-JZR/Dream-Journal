@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: March 23, 2025
-updated_at: July 12, 2026 9:25 PM
+updated_at: September 20, 2026 4:05 AM
 emotion: Happy
-influences: Robocraft (2017): References building combat vehicles. The developers shut it down recently.
-symbols: Driving: Nostalgia.
+influences:   • The developers recently shutdown Robocraft.
 
 I was standing in a room with a group of male teenagers who built a flat rectangular blocky white chassis with four monster truck wheels in Robocraft. Initially they drove in on a widescreen TV in a room but it transitioned into being entirely in the real world. We were all seated on it as someone steered across suburban roads with wacky markings. One road had a combination of chevron markings, dotted and solid lines, and a narrow pedestrian strip on the left. Another road had two pedestrian strips in the middle.
 

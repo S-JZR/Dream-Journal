@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: Yes
 date: April 11, 2025
-updated_at: August 23, 2026 4:56 AM
+updated_at: September 20, 2026 5:31 PM
 emotion: Anger
-influences: Mad God (2021): Likely references the surgeons’ silhouettes while preparing the assassin for surgery.
+influences:   • The surgeons’ silhouettes in Mad God.
 
 I was traveling across a levitating obstacle course made of cubes, with a black cat by my side hopping over everything, heading toward an airport in the distance. Upon entering, I noticed it had an eerie dark grey metallic interior with a few people sitting on benches and walking around. I took the cat to a two metre wide veterinary clinic built into a wall. The male vet was a corrupt conman, working with five nurses to fabricate illnesses for profit.
 

@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: April 14, 2025
-updated_at: August 23, 2026 2:22 AM
+updated_at: September 19, 2026 11:02 PM
 emotion: Fear
-influences:   • Left 4 Dead 2 (2009): References surviving different classes of zombies.
-  • Shadow The Hedgehog (2005): References the Black Arms and Death Leeches.
+influences:   • Surviving different types of zombies in Left 4 Dead 2.
+  • The Black Arms and Death Leeches in Shadow The Hedgehog.
 
 I was one of four survivors fleeing from different types of dark grey aliens including a:
 

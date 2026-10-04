@@ -3,9 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: February 16, 2024
-updated_at: September 6, 2026 1:32 AM
+updated_at: September 20, 2026 3:58 AM
 emotion: Fear
-symbols: Dog: The shadow self being a trickster.
 
 I was walking on the footpath outside the drop-off zone fence of my secondary school when a depraved white dog placed an unconscious cat with a ticking timebomb in its chest in front of a car parked at the exit.
 

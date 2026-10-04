@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 4, 2026
-updated_at: August 23, 2026 7:18 PM
+updated_at: October 4, 2026 10:30 PM
 emotion: Sad
-influences: I once had a group assessment in university where we had three members instead of the expected five and struggled to come up with ideas so we resorted to one that a different team member suggested a week earlier.
+influences:   • I once had a university group assessment with 3 members instead of the expected 5 and struggled to come up with ideas so we resorted to one that a team member suggested a week earlier.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

@@ -3,11 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: November 25, 2021
-updated_at: September 6, 2026 1:58 AM
+updated_at: September 20, 2026 3:56 AM
 emotion: Anger
-symbols:   • Impatient Driver: I always feel rushed and don’t have enough time to finish things.
-  • Garage: Fear of losing sentimental things and the past.
-  • Church Staff: Trying to do everything myself too much.
 people_i_know: Brother, Dad, Mum
 
 I was about to go on a vacation to Hawaii with my family but needed to retrieve valuables from a garage on a rural mountain in Japan. Hitching a ride on a pickup truck with a disgruntled male driver, we ascended halfway up to a vantage point overlooking an ocean bridge connecting the urban and rural regions.

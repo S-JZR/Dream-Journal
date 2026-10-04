@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: August 16, 2026
-updated_at: August 17, 2026 12:25 AM
+updated_at: September 28, 2026 1:42 AM
 emotion: Fear
-influences: References Anomalous Activities: Sierra Protocol gameplay and the I.A.T.D Armor Plate that grants +40hp to absorb at least 1 hit from the monster
+influences:   • The I.A.T.D Armor Plate only absorbs 1 hit from the monster in Anomalous Activities: Sierra Protocol. I feel like it’s useless.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

@@ -3,12 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 23, 2026 12:15 AM
+updated_at: September 20, 2026 11:46 PM
 emotion: Sad
-influences: Personal Experiences: I attended churches and didn’t understand why Christians felt happy.
-Christianity: Likely references Psalm 34:8 and Matthew 7:21.
-symbols:   • Cake: Tasting good because it’s well made.
-  • God's Work: Doing good. Higher principles.
+influences:   • I couldn't understand why Christians felt joyful in church.
+  • Matthew 7:21.
 
 I was standing in a church as a cheerful crowd surrounded a cake on a white circular table with the word joy written on it.
 

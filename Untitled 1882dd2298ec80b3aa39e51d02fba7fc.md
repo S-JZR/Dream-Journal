@@ -2,7 +2,7 @@
 
 is_favourite: No
 is_nsfw: No
-updated_at: August 23, 2026 10:32 PM
+updated_at: September 20, 2026 11:58 PM
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />
@@ -43,3 +43,4 @@ Needs editing.
 - [ ]  Add metadata (use distinct fields to organize metadata and not generic "tags”).
 - [ ]  Record approximate dates as 1 January <year>.
 - [ ]  Add interpretations (keep them concise and minimal).
+- [ ]  Prefix influences with [Likely] when it's possible but not confirmed.

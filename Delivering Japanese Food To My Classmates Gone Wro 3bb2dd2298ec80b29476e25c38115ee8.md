@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: August 13, 2026
-updated_at: August 23, 2026 7:04 PM
+updated_at: September 20, 2026 3:05 AM
 emotion: Fear
-influences: References recently going to a mall in Brisbane City and buying Teriyaki Chicken which they put in a takeaway paper bowl and I thought it tasted amazing
+influences:   • Recently going to a mall in Brisbane City and buying Teriyaki Chicken which they put in a takeaway paper bowl and I thought it tasted amazing.
 people_i_know: Gavin W
 
 <aside>

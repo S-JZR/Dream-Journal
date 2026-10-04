@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2016
-updated_at: August 23, 2026 3:22 AM
+updated_at: September 19, 2026 5:29 PM
 emotion: Fear
-influences: Team Fortress 2 (2007): References the Mann Vs Machine gamemode where a robot tank rams through the front gate.
+influences:   • A robot tank rams through barricades and the front gate on specific maps in the Team Fortress 2 Mann Vs Machine gamemode.
 
 I was one of many soldiers lying prone in the desert in front of a fortress engaged in a firefight with distant soldiers. Everyone was equipped with rifles. We gradually adjusted our aim after each shot and puffs of sand erupted nearby from incoming bullets.
 

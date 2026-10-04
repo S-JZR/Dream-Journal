@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 10, 2023
-updated_at: August 22, 2026 2:43 AM
+updated_at: September 19, 2026 7:30 PM
 emotion: Happy
-influences: The Bad Guys (2022): References the characters.
+influences:   • I saw the trailer for The Bad Guys.
 
 I was one of five spies in a gang navigating through environments. Engaged in a free-for-all gamemode, our task involved locating simple slick cartoonish vehicles scattered across the map like a dirt bike, car, tank, and plane. Unfortunately, others reached them first, prompting me to retreat to the back of the map where I eventually met my demise. After respawning, I encountered the peculiar sight of a kid's train ride within a children's workshop and play area. Activating the mechanism, I embarked on a whimsical journey along a designated route, weaving through a series of tunnels that led to a playground.
 

@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: November 2, 2020
-updated_at: September 6, 2026 1:57 AM
+updated_at: September 28, 2026 2:50 AM
 emotion: Happy
-influences:   • SpongeBob SquarePants (1999): Likely references Baby Prunes who is bad-tempered and going deaf https://spongebob.fandom.com/wiki/Baby_Prunes.
-  • Likely references the trope that aliens are evil and shooting monsters in videogames.
-symbols: Terrorists: Desiring to stop injustice before anyone is harmed. The fear of experiencing a tragedy in a familiar location.
+influences:   • [Likely] Baby Prunes who is deaf and bad-tempered from SpongeBob SquarePants.
+  • [Likely] Videogame trope of shooting evil aliens and monsters.
 
 I was wandering the lower field beside the year five block at my primary school when camouflaged soldiers emerged from the forest.
 

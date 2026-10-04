@@ -3,23 +3,15 @@
 is_favourite: Yes
 is_nsfw: No
 date: July 3, 2025
-updated_at: August 23, 2026 4:51 PM
+updated_at: October 4, 2026 10:17 PM
 emotion: Surprise
-influences:   • My brother, another church member, and I once attended a youth group event but my brother and I were appalled by its performative nature with a hot dog eating contest on fold-out tables, a few worship songs, and casual calls to give your life to Christ.
-  • During religious education in primary school, Carley randomly flipped through the bible and told others about the stories of rape she was repulsed by and implied the book was evil and should be avoided.
-  • Christianity:
-      ◦ References casting out demons.
-      ◦ References Mark 16:17, Luke 13:3, Hebrews 12:29, and Acts 20:29-31.
-  • References that during exorcisms demons are often hesitant to leave people.
-  • References Ray Comfort saying God is loving but also a holy judge who punishes sin and warns against turning him into a watered-down idol to please ourselves: https://youtu.be/iE-P7KGZi_o?si=25qWN0HWSj_llFzs&t=548.
-symbols:   • Mess/Substitute Teacher: False, bad, and worldly teachings.
-  • Angry Teacher: My mum often questions us about problems we didn’t cause and I feel like she’s implying we’re to blame.
-  • Teaching The Class: I feel like I could teach things better than most people.
-  • Demon/Wolf: Demons and evil.
-  • Doubts about God’s existence and temptations.
-  • Confused Child: Feeling conflicted by God’s judgements in the Old Testament.
-  • I fear people will reject the bible due to wrongly thinking it endorses sin, being intimidated by God’s judgements, and blindly accepting what society says about it.
-  • Fire: The fire of God clears away the old self and false teachings.
+influences:   • My brother, another church member, and I attended a youth group event featuring a hot dog eating contest on fold-out tables with green silk cloths, a few worship songs, and casual alter calls. My brother and I were appalled by its performative nature.
+  • My mum often questions my brother and I about problems we didn’t cause, making it feel like she's blaming us.
+  • During religious education in primary school, Carley randomly flipped through the bible and was shocked by a story about rape which she told others about with the attitude that the bible should be avoided.
+  • Hebrews 12:29.
+  • Acts 20:29-30.
+  • I've watched videos of exorcisms and the demons are often hesitant to leave.
+  • Ray Comfort said God is loving but also a holy judge who punishes sin. He also warns against turning him into a watered-down idol to please ourselves: https://youtu.be/iE-P7KGZi_o?si=25qWN0HWSj_llFzs&t=548.
 people_i_know: Sarajah
 
 I was standing in the classroom of a Christian school with other students and a female teacher:

@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: July 16, 2025
-updated_at: August 23, 2026 2:29 AM
+updated_at: October 4, 2026 10:19 PM
 emotion: Fear
-influences:   • References casuals vs pros in Team Fortress 2: https://youtu.be/EuxyUhwx0oI?si=YBrQDSDeguq_I5Bx.
-  • References fighting beside a wall gone wrong in an airsoft battle royale: https://youtu.be/XZB9eG2wYow?si=Zo7p3MdR8yYg1Ee-&t=436.
+influences:   • Team Fortress 2 casuals vs pros: https://youtu.be/EuxyUhwx0oI?si=YBrQDSDeguq_I5Bx.
+  • Airsoft battle royale fighting beside a wall gone wrong: https://youtu.be/XZB9eG2wYow?si=Zo7p3MdR8yYg1Ee-&t=436.
 
 I was one of six casual players preparing to fight two elite players in a deathmatch inside an empty industrial square room. Everyone was equipped with machine guns.
 

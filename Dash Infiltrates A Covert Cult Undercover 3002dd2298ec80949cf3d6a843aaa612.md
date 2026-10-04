@@ -3,11 +3,11 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 8, 2026
-updated_at: August 23, 2026 6:13 PM
+updated_at: October 4, 2026 10:29 PM
 sleep_phenomena: Nightmare
 emotion: Fear
-influences:   • Metal Arms Glitch In The System (2003): References the images of Grunts, fascist robots, T-posing with L-shaped arms that I recently uploaded to the Fandom: https://metalarms.fandom.com/wiki/File:Grunt-Red-Model.png.
-  • The Incredibles 2 (2018): Likely references the Screenslaver who wore a full body black uniform with cyan eyes.
+influences:   • I uploaded Grunts T-posing with L-shaped arms to the Metal Arms Glitch In The System Fandom: https://metalarms.fandom.com/wiki/File:Grunt-Red-Model.png.
+  • [Likely] The Screenslaver wearing all black with cyan eyes in The Incredibles 2.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

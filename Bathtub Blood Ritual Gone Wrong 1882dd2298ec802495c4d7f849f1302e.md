@@ -3,9 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: August 22, 2026 11:56 PM
+updated_at: September 20, 2026 10:55 PM
 emotion: Fear
-influences: Freemasonry: References the obelisk and reflection in water that represents “as above, so below”. I’ve heard that during the initiation there is an oath of secrecy with a symbolic death penalty.
+influences:   • Conspiracy theory that the Washington Monument means “as above, so below”.
+  • Conspiracy theory that the Masonic initiation oath death penalty is literal not symbolic.
 
 I was standing in a dimly lit bathroom with a fictional teenage friend as we performed a ritual by:
 

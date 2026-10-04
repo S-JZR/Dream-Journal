@@ -3,12 +3,12 @@
 is_favourite: No
 is_nsfw: No
 date: February 2, 2026
-updated_at: August 23, 2026 6:04 PM
+updated_at: October 4, 2026 10:27 PM
 emotion: Fear
-influences:   • I have heard that people are being arrested in the UK for posting content on social media that the government deems hate speech.
-  • 20 January 2026: Australia recently passed vague hate speech laws to combat antisemitism: https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7422.
-  • Some people tried cancelling the A Super Progressive Movie because it was politically incorrect.
-  • A Super Progressive Movie (2026): I recently watched the film out of curiosity.
+influences:   • People are being arrested in the UK for posting content deemed hate speech.
+  • New bill to stop antisemitism and hate speech: https://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r7422.
+  • Some people tried cancelling “A Super Progressive Movie”.
+  • I recently watched A Super Progressive Movie.
 people_i_know: Brother, Dad, Mum
 
 <aside>

@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: April 4, 2025
-updated_at: June 5, 2026 2:45 AM
+updated_at: September 19, 2026 10:52 PM
 emotion: Happy
 people_in_the_media: Vanoss Crew
-influences:   • References watching a lot of Vanoss Crew gameplay for a month, specifically R.E.P.O.
-  • Team Fortress 2 (2007): References gameplay and rooftop maps.
+influences:   • I watched Vanoss Crew gameplay videos over the span of a month.
+  • Rooftop maps in Team Fortress 2.
 
 I was in a hardcore videogame with the Vanoss Crew, featuring multiple levels with content from diverse videogames.
 

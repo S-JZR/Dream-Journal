@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: September 12, 2025
-updated_at: August 23, 2026 5:37 PM
+updated_at: September 27, 2026 5:39 PM
 emotion: Fear
-influences:   • 99 Nights In The Forest (2025) (Roblox): Likely references seeing a wendigo in the thumbnail standing on two legs with long claws.
-  • The Outlast Trials (2023):
-      ◦ References a poor individual undergoing government experimentation.
-      ◦ References various psychopaths as obstacles in different trials.
+influences:   • [Likely] I saw a thumbnail of The Deer from 99 Nights In The Forest on the Roblox home page.
+  • Poor individuals are preyed upon to undergo government experiments and psychopaths roam the trials in The Outlast Trials.
+  • Psychopaths create pig and cow monsters in The Butchery (Roblox).
 
 I was standing in a small carpark beside an abandoned white building when a woman approached me.
 

@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: May 29, 2025
-updated_at: August 23, 2026 2:27 AM
+updated_at: September 19, 2026 11:23 PM
 emotion: Fear
-influences: I’m squeamish about seeing the inside of body parts.
+influences:   • I’m squeamish about seeing the inside of body parts.
 people_i_know: Mum
 
 I was one of many passengers seated on a white tour bus ascending a somewhat abandoned ten-storey carpark with an elevator, graffiti, and trash piled in a few spots. Upon arriving at the top, we dismounted into a hotel where I went into a room with my mum. The room featured a warm industrial theme with earth colours, a brown table with a rectangular dental kit on it, creamy walls, and a brick wall at the front with a black plasma TV mounted on it.

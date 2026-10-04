@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: August 1, 2025
-updated_at: August 23, 2026 5:33 PM
+updated_at: October 4, 2026 10:19 PM
 emotion: Sad
 people_in_the_media: Alex Jones
-influences: References his recent involvement in the Sandy Hook defamation lawsuit: https://en.wikipedia.org/wiki/Sandy_Hook_Elementary_School_shooting_conspiracy_theories.
-symbols:   • Death: The subconscious fear that he might die young due to his drinking and smoking habits.
+influences:   • Alex Jones Sandy Hook defamation lawsuit: https://www.theguardian.com/us-news/2025/oct/14/alex-jones-supreme-court-appeal-rejected.
 
 I was seated on the sofa in the lounge room watching a male news anchor on TV.
 

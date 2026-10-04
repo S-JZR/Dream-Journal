@@ -3,12 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: February 11, 2025
-updated_at: August 23, 2026 4:13 AM
+updated_at: October 4, 2026 10:11 PM
 emotion: Fear
 people_in_the_media: Donald Trump, Satan
-influences:   • References the USA debate about arming teachers in schools: https://www.nea.org/nea-today/all-news-articles/arming-teachers-still-terrible-idea.
-  • References Poland’s mandatory firearm training for students: https://youtu.be/QO_NRejn6dU?si=5LBOerOAmOdpZvVF.
-symbols:   • War Of The Gods: The fear of everyone playing god.
+influences:   • USA debate about arming teachers in schools: https://www.nea.org/nea-today/all-news-articles/arming-teachers-still-terrible-idea.
+  • Poland makes firearms training mandatory for schoolchildren: https://youtu.be/QO_NRejn6dU?si=5LBOerOAmOdpZvVF.
 
 I was one of many primary school students seated at their desk in a classroom. I instinctively knew that Donald Trump launched an initiative to increase national defences and prevent school shootings, and trialled a program to exclusively teach our school how to operate firearms. Each student received an empty Glock pistol on their desk which I was unsure where to point with others so close together. The instructor asked everyone what four key things someone should know about handling firearms.
 

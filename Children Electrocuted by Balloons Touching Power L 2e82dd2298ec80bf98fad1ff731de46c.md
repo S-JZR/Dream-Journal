@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 14, 2026
-updated_at: August 22, 2026 3:21 AM
+updated_at: October 4, 2026 10:26 PM
 emotion: Fear
-influences: References seeing an experiment like this: https://youtu.be/Fpz13fgZYU4?si=n4cHtXbpbtyuJnF9&t=151.
+influences:   • Electrifying a candle flame: https://youtu.be/Fpz13fgZYU4?si=n4cHtXbpbtyuJnF9&t=151.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

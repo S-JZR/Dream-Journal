@@ -3,14 +3,11 @@
 is_favourite: Yes
 is_nsfw: No
 date: May 1, 2025
-updated_at: August 23, 2026 2:23 AM
+updated_at: September 28, 2026 3:08 AM
 emotion: Anger
 influences:   • Teachers occasionally asked me to do errands in primary school.
-  • Mrs Barnes made me write lines after class for failing quiz questions.
-  • I’ve reported students in secondary school and been immediately targeted as the suspect.
-symbols:   • Abusive Teacher:
-      ◦ Inner critic accusing me of not being good enough and lazy.
-      ◦ Embodies the worst traits of different teachers.
+  • I’ve reported students in secondary school and immediately been the suspect.
+  • Either aggressive cynical thoughts that I can have or a caricature of bad teachers I've had.
 
 I arrived 15 minutes late to my year 7 classroom at my primary school and encountered a super abusive blond female substitute teacher seated behind a desk.
 

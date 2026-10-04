@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 22, 2026
-updated_at: August 23, 2026 2:40 AM
+updated_at: September 20, 2026 4:22 AM
 emotion: Happy
 influences:   • I have been recently working on the Metal Arms Fandom.
-  • Likely references developing Minecraft maps and encountering bugs in my scripts.
-symbols: Grunts And Predators: Nostalgia.
+  • [Likely] Developing Minecraft maps and encountering bugs in my scripts.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

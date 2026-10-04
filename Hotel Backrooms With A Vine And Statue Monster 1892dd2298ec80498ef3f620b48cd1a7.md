@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: September 2, 2024
-updated_at: August 23, 2026 4:01 AM
+updated_at: September 26, 2026 4:46 PM
 emotion: Fear
-influences:   • Skibidi Toilet (2023): References the Skibidi Toilet trend that was popular: https://en.wikipedia.org/wiki/Skibidi_Toilet.
-  • Doors (2021) (Roblox): References surviving monsters in a hotel. References the timed cupboard event with The Figure.
-  • Lost Rooms (2022) (Roblox): References fighting monsters in the backrooms who come out at night. I craft the watch early to know when it will change to night.
+influences:   • Surviving monsters in a hotel and The Figure’s timed cupboard event in Doors (Roblox).
+  • Hunting monsters that appear at night and I craft the watch first as an early warning in Lost Rooms (Roblox).
+  • The Skibidi Toilet trend.
 
 I was walking through an arcade with various people when everyone fell through the floor into a large central hall of a fancy hotel. It had wooden walls with wainscoting, a red carpet with a golden pattern, drawers in a square formation, and a glass dome. Each night the lights deactivated and we had to survive different types of monsters.
 

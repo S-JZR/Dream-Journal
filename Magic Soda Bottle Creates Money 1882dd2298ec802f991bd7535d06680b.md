@@ -3,8 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2010
-updated_at: August 22, 2026 11:36 PM
+updated_at: September 20, 2026 3:38 AM
 emotion: Happy
-symbols: Money: I likely wanted more money to buy things.
 
 I was walking through a bank and picked up an empty 1.25-litre plastic soda bottle lying on the carpet. Whenever I shook it, banknotes instantly appeared inside it.

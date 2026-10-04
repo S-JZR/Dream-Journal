@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: May 2, 2025
-updated_at: August 23, 2026 4:36 PM
+updated_at: October 4, 2026 10:16 PM
 emotion: Sad
-influences:   • Minecraft (2025): Reference the Chicken Jockey trend that was popular and people threw around food in cinemas: https://simple.wikipedia.org/wiki/A_Minecraft_Movie.
-  • Fred Claus (2007): The messy slurpy store reminds me of the scene where Santa and Clyde are shocked that the elves stopped working and restore order: https://youtu.be/nR2MtdrHCEs?si=-tkEbUUoCfTHEclR&t=88.
+influences:   • Minecraft mayhem: 'Chicken jockey' chaos reaches Australian cinemas: https://www.abc.net.au/news/2025-04-17/a-minecraft-movie-chicken-jockey-cinema-/105177846.
+  • Santa is shocked to find dancing elves cause a mess instead of working in Fred Claus: https://youtu.be/nR2MtdrHCEs?si=-tkEbUUoCfTHEclR&t=88.
 people_i_know: Brother
 
 I was walking down the street in the city with my brother when we realized we were near the cinema and decided to sneak into an auditorium to see if we could catch a glimpse of people doing the Chicken Jockey trend for the Minecraft movie:

@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: December 16, 2024
-updated_at: August 23, 2026 2:12 AM
+updated_at: September 20, 2026 4:01 AM
 emotion: Fear
-influences:   • References Ameca
-  • Likely references stories of children exploited for street begging on behalf of others.
-symbols: Robot: The subconscious fear of humanlike robots.
+people_in_the_media: Ameca
+influences:   • I watched videos of Ameca a long time ago.
 people_i_know: Dad
 
 I was standing at the front flyscreen door of my unit when Ameca, a humanoid robot, was standing motionless on the footpath outside and starred at me with a subtle smile. The simple toggle lock transformed into a large green rotary dial overlaid with a smaller pink one in the centre. Both dials were divided into quarters by a red line and marked with alien symbols in the gap near the perimeter beside the finger indents. Locking the door involved aligning the correct green and pink indent at the top, causing the robot to walk away when releasing it couldn’t get in.

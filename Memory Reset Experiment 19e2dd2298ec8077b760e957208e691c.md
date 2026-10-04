@@ -3,8 +3,7 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2013
-updated_at: August 22, 2026 11:42 PM
+updated_at: September 20, 2026 3:40 AM
 emotion: Sad
-symbols: Memory Reset: The fear of death, impermanence, and being forgotten.
 
 I was spectating various people seated in a room with long rectangular windows undergoing a memory reset experiment. Scientists in another observation room looked through a large glass panel and pushed a red button at the end of the testing period to erase the subject's memories. After being away for a few months, I returned to speak with a middle-aged female test subject whom I had some relationship with. However, I was too late and she claimed to have never known me which was upsetting. The resets gradually increased in frequency, shortening from a year to a day. Seeing a timelapse of those individuals trapped in a loop, unable to grow, made me feel even worse.

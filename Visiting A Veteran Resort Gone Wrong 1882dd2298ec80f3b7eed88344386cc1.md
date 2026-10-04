@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: January 10, 2020
-updated_at: August 23, 2026 3:33 AM
+updated_at: September 26, 2026 3:41 PM
 emotion: Fear
-influences:   • The toilets at my secondary school were always dirty and unpleasant.
-  • Seventh graders often did silly things to amuse themselves.
+influences:   • The male toilets at school were always dirty and unpleasant.
 people_i_know: Brother, Dad, Mr Broadway, Mrs Itsikson, Mum
 
 I was seated with my family in my mum's car being driven by my mum to a veterans resort to meet someone. We noticed two connected tennis ball courts beside the complex when we pulled into the parking lot and decided to play a game. However, before entering, a cleaning crew suddenly brought in their equipment to wash the floors, and a ride-on floor scrubber leaked a small white puddle near the entrance.

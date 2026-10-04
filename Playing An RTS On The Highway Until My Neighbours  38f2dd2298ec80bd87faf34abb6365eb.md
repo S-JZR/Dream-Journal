@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: June 23, 2026
-updated_at: August 23, 2026 2:32 AM
+updated_at: September 20, 2026 3:03 AM
 emotion: Surprise
-influences: I was playing Warzone 2100 recently and built Ripple Rocket Batteries in beta 7 missions onward to destroy enemy batteries and stop approaching units. The terrain in alpha missions resemble grand canyons
+influences:   • The terrain in alpha missions resemble grand canyons in Warzone 2100. I built Ripple Rocket Batteries in beta 7 missions onward to destroy enemy batteries and stop approaching units.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

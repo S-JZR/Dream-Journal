@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2005
-updated_at: August 23, 2026 12:26 AM
+updated_at: September 20, 2026 7:31 PM
 sleep_phenomena: Nightmare
 emotion: Fear
-notes: Before the dream, I fell asleep in the computer room of a sports club because my mum was taking a long time transferring data to a floppy disk.
+notes:   • Before the dream, I fell asleep in the computer room of a sports club because my mum was taking a long time transferring data to a floppy disk.
 
 I was spectating a female explorer in an 8-bit 2D platformer videogame travelling right through a grey cave system resembling an organism without a background until encountering a C-shaped junction.
 

@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: March 29, 2025
-updated_at: August 23, 2026 2:21 AM
+updated_at: September 26, 2026 11:35 PM
 emotion: Fear
-influences: The Conquerors 3 (2009) (Roblox): References the gameplay.
+influences:   • The Conquerors 3 (Roblox).
 
 I was in The Conquerors 3 on a long island when I produced juggernauts and sent them to a shipyard to board a transport ship accompanied by a destroyer. However, the enemy dominated overseas and sent their navy to destroy ours while my team struggled to do anything. With few options left, I built a shipyard on the island’s left side, prompting the enemy to concentrate there. Hundreds of my units resembling people wearing casual clothes were gathered in front of the beach.
 

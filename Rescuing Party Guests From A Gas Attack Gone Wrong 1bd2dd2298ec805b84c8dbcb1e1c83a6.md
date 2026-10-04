@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: March 20, 2025
-updated_at: August 22, 2026 3:15 AM
+updated_at: September 19, 2026 10:46 PM
 emotion: Fear
-influences: Batman (1989): References the Joker’s laughing gas.
+influences:   • The Joker’s laughing gas in Batman.
 
 I was one of many guests dressed in fancy clothing descending stairs at night to attend a party in a building below the street. Later criminals emerged to spray green sleeping gas everywhere and assaulted guests. I tried rescuing everyone by shooting the criminals with a pistol but was knocked unconscious on the back of the head.
 

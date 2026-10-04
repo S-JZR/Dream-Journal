@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: June 18, 2026
-updated_at: August 23, 2026 6:51 PM
+updated_at: October 4, 2026 10:32 PM
 emotion: Fear
-influences:   • Possibly references the Ian Holm’s android in Alien with no legs and white liquid inside that I saw yesterday: https://youtu.be/LCpF7z4JszE?si=aPDORLNkgHmL1cFz&t=1930
+influences:   • Ian Holm’s android with no legs and white liquid inside in Alien: https://youtu.be/LCpF7z4JszE?si=aPDORLNkgHmL1cFz&t=1930.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

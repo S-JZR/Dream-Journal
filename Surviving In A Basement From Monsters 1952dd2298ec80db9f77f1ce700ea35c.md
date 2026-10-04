@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: February 7, 2025
-updated_at: August 23, 2026 2:16 AM
+updated_at: September 26, 2026 8:31 PM
 emotion: Fear
-influences:   • Zathura (2005): References being attacked by Zorgons and escaping to the basement in a dumbwaiter.
-  • Monsterum (2015): References escaping monsters on a cargo ship and hallway designs.
-  • Five Nights At Freddy's (2014): References watching monsters roam hallways and vents via security cameras and only being able to close a few at a time.
+influences:   • Attacked by Zorgons and escaping to the basement in a dumbwaiter in Zathura.
+  • Escaping monsters on a cargo ship and hallway designs in Monsterum.
+  • Watching security cameras and closing vents in Five Nights At Freddy's.
 
 I was standing in the upstairs room of a random house with many fictional children and a middle-aged woman when a Zorgon spaceship from Zathura flew past the window and revealed cannons primed to fire. We quickly huddled into the dumbwaiter and slowly descended into the basement to avoid being harmed.
 

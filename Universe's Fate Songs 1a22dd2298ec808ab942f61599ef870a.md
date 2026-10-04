@@ -3,10 +3,9 @@
 is_favourite: Yes
 is_nsfw: No
 date: March 14, 2024
-updated_at: August 23, 2026 12:28 AM
+updated_at: September 26, 2026 4:22 PM
 emotion: Sad
-influences: I have thought about whether technology in the future could keep the universe alive forever.
-symbols: Eternal Universe: Staying optimistic and challenging the limits of reality.
+influences:   • I've thought about if it's possible to keep the universe alive forever.
 
 I was spectating existential music videos about the universe’s fate sung by women.
 

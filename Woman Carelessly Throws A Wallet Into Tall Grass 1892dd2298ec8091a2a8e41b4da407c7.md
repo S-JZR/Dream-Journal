@@ -3,9 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: August 3, 2024
-updated_at: August 23, 2026 3:59 AM
+updated_at: September 20, 2026 4:01 AM
 emotion: Anger
-symbols: Maze: Navigating complexity in life.
 
 I was walking through a rural area and ascended stairs to enter the second floor of a two-storey brick building. I navigated to an exit on the other side through a maze comprising three layers of interwoven grille catwalks in a grid suspended by chains with ladders to move between platforms. After exiting I approached two teenage women in the distance as one teen pretended to throw a wallet.
 

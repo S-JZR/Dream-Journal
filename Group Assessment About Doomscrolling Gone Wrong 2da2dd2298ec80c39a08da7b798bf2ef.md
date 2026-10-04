@@ -3,11 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: December 31, 2025
-updated_at: August 23, 2026 5:53 PM
+updated_at: October 4, 2026 5:29 PM
 emotion: Fear
-influences:   • For a creative industries group assessment at university, my team members were overly optimistic that we had similar personality types from the test at https://www.16personalities.com/ and we were going to do well and get a seven. By the end of the semester, they struggled to contribute due to other assessments. In the same class, women in another team were researching how women were oppressed by a male dominated industry.
-  • For a solo creative industries assessment at university, I drew a simple 2D storyboard for a zine because I wasn’t skilled enough and was running out of time.
-  • The storyboard was based on one of my real art ideas about being in barb wire and feeling trapped by simultaneous problems and constant upsetting media, all consuming me.
+influences:   • During a university creative industries group assessment, my teammates naively assumed that since they had matching 16Personalities types, we would do well and get a 7. They struggled to contribute at the end of the semester due to other assessments.
+  • In the same class, another team of women researched how women were oppressed in a male-dominated industry.
+  • During a solo university creative industries assessment, I drew a simple 2D storyboard for a zine because I was running out of time.
+  • The dream was inspired by my art idea of being trapped in barbed wire by distressing media and life problems.
 
 I was one of many university students seated in a creative industries classroom when my entire team was absent. We had a presentation due tomorrow that we didn’t start which involved showcasing a storyboard about a real world problem. Earlier in the semester, I proposed some vague ideas to my team about someone being addicted to their phone and a female team member claimed they would work hard on it later but didn’t. I messaged my team on social media:
 

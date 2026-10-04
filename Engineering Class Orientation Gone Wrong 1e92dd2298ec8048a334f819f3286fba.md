@@ -3,14 +3,11 @@
 is_favourite: Yes
 is_nsfw: No
 date: April 28, 2025
-updated_at: August 23, 2026 7:30 PM
+updated_at: September 26, 2026 11:47 PM
 emotion: Sad
-influences:   • I only learnt maths A in secondary school and worry that I’ve limited my future success.
-  • I’m still uncertain of where I want to end up in my career and haven't explored it too deeply.
-  • The “Role Call” is too embarrassing to share.
-symbols:   • Engineering Class: The fear that I should have become an engineer to make a long-term impact.
-  • No Specialization: Uncertain about my career.
-  • Role Call: Still adjusting to the independence expected by university.
+influences:   • I only learnt maths A and worry that I’ve limited my future opportunities.
+  • I’m still uncertain of my career direction.
+  • The [role call] mistake is too embarrassing to share.
 
 I was one of many university students waiting in a line outside my primary school to attend an engineering orientation class. I personally wanted to evaluate how difficult the career path was and the extent of my knowledge gap. A female teacher approached the front of the line.
 

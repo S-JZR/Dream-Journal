@@ -3,16 +3,14 @@
 is_favourite: No
 is_nsfw: No
 date: July 2, 2025
-updated_at: June 5, 2026 3:22 AM
+updated_at: September 27, 2026 12:32 AM
 emotion: Surprise
-people_in_the_media: Bowler Hat Guy, DOR-15
-influences:   • The Conquerors 3 (2009) (Roblox):
-      ◦ Starting with a strong naval unit can shutdown the enemy on water maps.
-      ◦ During FFA, if you leave your base an enemy will typically try to capture it.
-  • Five Nights At Freddy's: Secret Of The Mimic (2025): References Nurse Dollie following random paths on the hospital floor.
-  • Minecraft (2009): References slimes.
-  • Meet The Robinsons (2007): References Goob and DOR-15.
-  • Mad God (2021): References some characters or threats are highlighted in red.
+people_in_the_media: Bowler Hat Guy, DOR-15, Slimes
+influences:   • In The Conquerors 3 (Roblox), starting with a strong naval unit can shutdown the enemy on water maps. During FFA, enemies will typically try to capture your base if you leave it.
+  • Nurse Dollie follows predefined paths in Five Nights At Freddy's: Secret Of The Mimic.
+  • Slimes in Minecraft.
+  • Goob and DOR-15 in Meet The Robinsons.
+  • Some characters or threats are highlighted in red in Mad God.
 
 I was in an RTS videogame loosely resembling The Conquerors 3, where four players were in courthouses with shallow staircase, all facing each other in a square area. Inside each building was a square pool of water that killed on contact, surrounded by two paths that led into side mazes. A trail of levitating candy would periodically spawn on the paths which players could collect and return to the centre of their base for money. There were two types of red glowing NPC enemies that killed on contact:
 

@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: November 29, 2023
-updated_at: August 22, 2026 2:44 AM
+updated_at: September 26, 2026 4:06 PM
 emotion: Fear
-influences: Lethal Company (2023): References various types of monsters and purchasing decorations for the cargo ship.
+influences:   • Looting monster-infested facilities and decorating the ship in Lethal Company.
 
 I was one of five scavengers on a square cargo spaceship with a flat top:
 

@@ -3,9 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2017
-updated_at: August 23, 2026 12:16 AM
+updated_at: September 20, 2026 3:51 AM
 emotion: Fear
-influences: We live in a neighbourhood with a lot of government housing and are wary of people.
-symbols:   • Teenagers: Rebelliousness.
 
 I was standing on the footpath outside of my unit complex at night when a group of mischievous teenagers in a brown-red Toyota drove past. They leaned outside all four side door windows, holding raised machine guns and yelling like lunatics to amuse themselves, so I fled back inside.

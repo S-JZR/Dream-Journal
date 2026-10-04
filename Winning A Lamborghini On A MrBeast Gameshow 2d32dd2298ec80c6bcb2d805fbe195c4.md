@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: December 12, 2025
-updated_at: September 6, 2026 2:15 AM
+updated_at: September 28, 2026 1:21 AM
 emotion: Surprise
 people_in_the_media: MrBeast
-influences: References MrBeast often staring at the screen with the vine boom sound effect during awkward moments.
-symbols: MrBeast: Likely the subconscious desire to be on the gameshow.
+influences:   • MrBeast often stares at the screen with the vine boom sound effect during awkward moments.
 
 I was one of many contestants on a MrBeast gameshow in a warehouse standing in front of a wooden post-and-panel sign listing many prizes. Everyone was assigned into teams of two to compete. I was paired with a man competing against two women. MrBeast spoke to us via a microphone.
 

@@ -3,11 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: August 12, 2025
-updated_at: August 22, 2026 3:18 AM
+updated_at: September 20, 2026 4:16 AM
 emotion: Fear
-influences: The Russia-Ukraine war is still going: https://en.wikipedia.org/wiki/Russo-Ukrainian_war. Russia has rejected all Western peace treaty proposals.
-symbols:   • Bombing: The fear of going to war.
-  • Colosseum: Authoritarianism.
+influences:   • Russia consistently rejects Western peace terms in the Russo-Ukrainian war.
 
 I was walking through Brisbane City when word spread that Russia was invading Australia. Multiple illuminated missiles flew through the sky and exploded as they were intercepted by aerial defences. The missiles temporarily stopped as both countries discussed a peace treaty but they failed to reach an agreement as the attacks continued. The defences weren’t strong enough to eliminate all missiles and some struck buildings. Concerned for my safety, I fled deeper into the city and entered a smaller side building to the left of a central skyscraper that was being targeted to cause maximum casualties as rubble fell from various holes.
 

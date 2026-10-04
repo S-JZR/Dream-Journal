@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: June 11, 2025
-updated_at: August 23, 2026 2:27 AM
+updated_at: September 19, 2026 11:26 PM
 emotion: Fear
-influences: When Coco, my cat, is laying on a blanket she doesn’t react when I move her paws from beneath it.
+influences:   • Coco doesn’t react when I move her paws from under blankets.
 
 I was walking into an abandoned black gothic haunted mansion to document any paranormal activity on a handheld camcorder:
 

@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: May 7, 2021
-updated_at: August 23, 2026 12:22 AM
+updated_at: September 26, 2026 3:56 PM
 emotion: Fear
-influences:   • Would I Lie To You? (2007): References the gameshow.
-  • My mum is sensitive to gore and swearing so I need to be mindful of what I show her.
+influences:   • Would I Lie To You?
+  • My mum is sensitive to gore and swearing so I'm mindful of what I show her.
 
 I was one of many contestants on a game show resembling "Would I Lie To You?" sharing a personal story as other participants guessed whether it was real or fake. I shared a tale about getting shot in the leg while working on a farm but realized I'd strayed far from the host's recommended scenario card received earlier, so I stuck with it to seem authentic.
 

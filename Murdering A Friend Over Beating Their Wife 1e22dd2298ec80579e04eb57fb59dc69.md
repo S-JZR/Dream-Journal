@@ -3,11 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 26, 2025
-updated_at: September 6, 2026 1:35 AM
+updated_at: September 20, 2026 4:06 AM
 emotion: Sad
 people_in_the_media: Jesus
-symbols:   • Murder: Subconscious anger towards domestic abuse.
-  • Banquet: The fear of letting others know my problems and being treated differently.
 
 I was standing in a house in a remote suburb when Fredrick Peterson, a fictional black man I had known for years, came to dine with my fictional family and would use a signature plate we kept on the shelf. Afterwards, we travelled together onto a lake in a canoe.
 

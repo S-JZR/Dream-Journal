@@ -3,10 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: October 6, 2025
-updated_at: August 22, 2026 9:08 PM
+updated_at: September 20, 2026 4:19 AM
 emotion: Fear
-symbols:   • Bombings: The fear of going to war.
-  • Alone: The fear that nobody worries about the same things I do.
 people_i_know: Brother, Dad, Mum
 
 I was standing in the lounge room with my family when I overhead bomber planes carpet bombing outside as each explosion gradually got closer until it became deafeningly loud. I saw the units in the backyard explode and knew we were about to be hit next. I considered hiding beneath the stairs and other places but realized there was nowhere suitable as all the walls would be too thin and soft to offer protection.

@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: June 11, 2025
-updated_at: August 23, 2026 2:28 AM
+updated_at: September 27, 2026 12:15 AM
 emotion: Sad
-influences: I’ve worried about my career choices a bit.
-symbols: Career Change: The fear that I choose the wrong career and won't make a lasting impact if I don't become an engineer.
+influences:   • I fear that I chose the wrong career and won't make a lasting impact if I don't become an engineer.
 
 I was in a black void worried that not pursuing an engineering degree would prevent me from making a lasting impact in the world and I considered switching to it. However, I realized:
 

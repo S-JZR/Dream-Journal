@@ -3,29 +3,17 @@
 is_favourite: Yes
 is_nsfw: No
 date: December 19, 2024
-updated_at: September 6, 2026 1:35 AM
+updated_at: October 4, 2026 10:08 PM
 emotion: Fear
-influences:   • Cool Runnings (1993): References Yul Brenner who has a naïve dream about living in Buckingham Palace if he works hard enough but doesn’t realize it’s exclusive to the royal family: https://youtu.be/RvzpuAa1QVs?si=7_LtXeh2s5QpQ85A.
-  • Christianity: References Luke 16:10, 1 Corinthians 13:11, and Romans 16:18.
-  • The Philosophy Book: Big Ideas Simply Explained (2017): References reading the book recently.
-  • News:
-      ◦ “The Science” guidelines were presented as absolute but evolved over time.
-      ◦ Those expressing concerns, scepticism, and curiosity about the vaccines were often labelled selfish, ignorant, and associated with conspiracy theories due to polarization [https://projekter.aau.dk/projekter/files/485692974/Master_Thesis_FINAL_PDF.pdf, p.2]
-symbols:   • 24 Year Old: Self-criticism that I’m a man-child. I’m still doing a double degree full time in university. I often wear a white singlet indoors because it’s hot in Australia.
-  • No Work: I feel guilty like I’m freeloading off my father who works nightshift to provide for my family while I can indulge in videogames, social media, etc and I’m not contributing anything.
-  • Job Seeking: I have been unconcerned with looking for a job and where I will end up in my career.
-  • Explosion: Feeling distressed about the reality of suffering in the world and the fear of being harmed.
-  • Trampled Insects:
-      ◦ The desire to avoid harming insects.
-      ◦ Dehumanization of others.
-  • Wasted Life:
-      ◦ I fear I have wasted too much time on videogames, social media, etc and could have used that time for better things.
-      ◦ I fear that I have not fully utilized my time in university and studied enough.
-  • The Science:
-      ◦ Mixing science with rhetoric
-  • Monster Soldiers/Smiling Parents: Ordinary people can become monsters through radicalization.
-• Dead Teenager: Parallels the 24 year old man who is not providing for himself.
-• Children’s Book/Wicked Ruler: Retelling of Nazi Germany and Adolf Hitler.
+influences:   • Yul has a naive dream about living in Buckingham Palace in Cool Runnings: https://youtu.be/RvzpuAa1QVs?si=7_LtXeh2s5QpQ85A.
+  • Proverbs 6:10-11.
+  • 1 Corinthians 13:11.
+  • Romans 16:18.
+  • Matthew 12:34.
+  • I feel guilty that I’m living a privileged life freeloading off my father who constantly works nightshift while I can indulge in videogames, social media, etc without contributing anything (I'm still studying at university full-time which limits what i can do).
+  • I often wear a white singlet indoors because it’s hot in Australia.
+  • I recently read The Philosophy Book: Big Ideas Simply Explained.
+  • During Covid people were told to “follow the science” which was framed as absolute despite constantly evolving. Anyone questioning the new types of vaccines was quickly dismissed as selfish, ignorant, or a conspiratorial anti-vaxxer. Tech platforms often censored people citing doctors and experts who questioned official policies.
 people_i_know: Julien C
 
 I was spectating a 24-year-old man on a remote rural farm who was allowed by his father to live a privileged coddled life without needing to work. He was a pacifist who wore a white robe and was naïve about the world, behaving like a man-child unconcerned about the future and pursued endless pleasures. His father wanting him to mature to get a job drove him into the city to start advertising his labour to others. For some reason, they decided to visit the royal palace first, perhaps at the son’s unrealistic initial request, to see if any jobs were available. However, after parking some distance away behind a large boulder on flat grassy land, a room on the top floor underwent multiple explosions from a terrorist attack as shattered glass from the windows flew outwards, prompting them to drive away in fear.

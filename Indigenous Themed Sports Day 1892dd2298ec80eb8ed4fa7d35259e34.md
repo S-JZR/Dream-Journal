@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: October 16, 2024
-updated_at: August 23, 2026 2:11 AM
+updated_at: September 19, 2026 10:16 PM
 emotion: Sad
-influences: I heard my brother share a story yesterday about how he failed to cook an unusual international recipe when he was younger called Banana Snow Desert, containing bananas, eggs, and milk.
+influences:   • My brother shared a story yesterday about how he failed to cook Banana Snow when he was younger, an unusual dessert containing bananas, eggs, and milk.
 people_i_know: Julien C
 
 I was standing in the hallway of the administration building in my secondary school with Julien, my friend, when I asked a female staff member seated behind a desk where we were supposed to go as most students seemed absent. She was annoyed and informed us it was school sports day then directed us towards a side room to pick an activity for the day.

@@ -3,10 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: April 27, 2026
-updated_at: August 23, 2026 6:31 PM
+updated_at: October 4, 2026 5:39 PM
 emotion: Surprise
 people_in_the_media: Gabe Newell
-influences: Primary school hygiene film is explained.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

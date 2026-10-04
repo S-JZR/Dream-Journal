@@ -3,10 +3,10 @@
 is_favourite: Yes
 is_nsfw: Yes
 date: June 19, 2024
-updated_at: August 22, 2026 3:10 AM
+updated_at: September 19, 2026 10:04 PM
 emotion: Fear
-influences:   • Astro Boy (1963): References Astro Boy, a robot, created to replace Tobio who died in a tragic accident.
-  • Robots (2005): Likely references Rodney receiving new body parts for each stage of puberty so he can grow up.
+influences:   • Astro Boy was created to replace Tobio who died in a tragic accident.
+  • [Likely] Rodney receives new body parts for each stage of puberty in Robots.
 
 I was spectating a father who went insane following the miscarriage of his son. Refusing to accept death, he performed graphic surgeries, embedding metallic components and rods beneath the skin by lifting flaps of flesh, transforming his son into a cyborg. Various blueprints showed the required wiring and sensory devices for the transformation. Standing on the concrete outside a shed beside someone's house, he proudly introduced the cyborg baby as his latest invention to his friends who watched intently as it crawled around in the centre of the area. A conveyor system, shaped like a quarter oval with a straight path leading back to the centre, temporarily detached half of its body containing the power source, rendering it lifeless until the parts slid around to reconnect. His goal was to enhance both of their bodies over time by gradually introducing new components to facilitate different stages of life to ultimately achieve immortality together.
 

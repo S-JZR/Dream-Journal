@@ -3,17 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 6, 2023
-updated_at: September 6, 2026 2:02 AM
+updated_at: September 26, 2026 3:59 PM
 sleep_phenomena: Nightmare
 emotion: Fear
 people_in_the_media: Sam And Colby
-influences:   • Sam And Colby: References Sam And Colby and the rumour that demons smell like rotting corpses.
-  • I believe I've had supernatural experiences where it felt like my heart was vibrating with an energy and telepathic messages told me to do things that aligned with events.
-symbols:   • Reddit: The fear that nobody will believe my supernatural experiences.
-  • Satanist, Feminist, and Goth: Can have beliefs or cultures that encourage rebellion against God and having full autonomy.
-  • Wolves: Looming danger and evil.
-  • War Planes: Dictators rejecting God’s ways and using knowledge for evil.
-  • Inner Voice: God leading me to safety.
+influences:   • I used to watch Sam And Colby's videos. They mentioned that demons smell like rotting corpses.
+  • I believe that I’ve had supernatural experiences where my heart felt like it was vibrating with an energy and telepathic messages told me to do things that aligned with events.
 people_i_know: Dejan C, Julien C, Michael C
 
 I was collaborating with Sam and Colby, ghost hunters, to investigate an abandoned tall building and descended a black square metal stairwell into the basement:

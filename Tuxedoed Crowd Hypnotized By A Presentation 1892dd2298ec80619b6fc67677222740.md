@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: July 7, 2024
-updated_at: August 23, 2026 2:09 AM
+updated_at: September 19, 2026 10:07 PM
 emotion: Fear
-influences:   • Likely references the Apple 1984 commercial where a crowd stares blankly at Big Brother.
-  • The Library Of Babel (1941): References The Library Of Babel with books containing randomly generated text.
+influences:   • [Likely] A crowd stares blankly at Big Brother in the Apple 1984 Commercial.
+  • A library full of books with randomly generated text in The Library of Babel.
 
 I was contemplating the concept of total combinations for ideas and choices when I realized that only legible and practical permutations would prove significant.
 

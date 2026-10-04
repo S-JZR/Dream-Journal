@@ -3,12 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: December 9, 2020
-updated_at: August 23, 2026 12:20 AM
+updated_at: September 20, 2026 3:54 AM
 emotion: Embarrassment
 people_in_the_media: PewDiePie
-influences: References watching PewDiePie a lot in the past.
-symbols:   • PewDiePie: I likely had a subconscious desire to meet him.
-  • Candy: The fear of being misperceived.
+influences:   • I used to watch PewDiePie a lot.
 
 I was standing in my unit when word spread that PewDiePie moved into the neighbourhood. Perplexed by the decision to be in my Australian suburb, I figured it was for cheaper rent. I knocked multiple times next door, and a senior man with short grey hair answered. Upon inquiring where PewDiePie lived, he gestured to look across the road at the large house with disco lights and a lively crowd. I rushed over to discover that PewDiePie was hosting a birthday party for the entire neighbourhood.
 

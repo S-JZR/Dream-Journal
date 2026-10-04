@@ -3,11 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: November 26, 2024
-updated_at: August 23, 2026 2:12 AM
+updated_at: September 26, 2026 5:14 PM
 emotion: Fear
-influences:   • Squid Game (2021): References surviving multiple death game challenges.
-  • References Matpat renowned for analysing videogame lore.
-symbols: Facility: The fear of being held against my will.
+influences:   • I watched videos of Squid Game.
 people_i_know: Dejan C
 
 I was one of many prisoners in a facility competing in a series of death games for freedom. Prisoners who completed challenges waited in holding bays beside each room for everyone else to finish. Various facilitators wearing casual clothing stood in each room and ensured everyone followed orders.

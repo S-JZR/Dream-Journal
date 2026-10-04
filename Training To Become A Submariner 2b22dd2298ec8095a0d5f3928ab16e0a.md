@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: November 21, 2025
-updated_at: July 12, 2026 9:30 PM
+updated_at: September 28, 2026 12:28 AM
 emotion: Surprise
 influences:   • During IT class in secondary school, a few students occasionally messed around by playing loud strange audio clips.
-  • During recess in secondary school, Reilly once flashed people with two gorillas having sex on his phone to see their reaction.
-symbols: Brooke: High achievement as a top student.
+  • During recess in secondary school, Reilly flashed a video of gorillas mating on his phone to see how people would react.
 
 I was one of many secondary students training to become submariners in the Australian army.
 

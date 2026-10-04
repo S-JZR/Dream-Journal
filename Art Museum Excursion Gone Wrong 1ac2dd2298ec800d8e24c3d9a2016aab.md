@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: February 28, 2025
-updated_at: August 23, 2026 2:19 AM
+updated_at: September 26, 2026 8:33 PM
 emotion: Happy
-influences: I always had spare tissues in secondary school and sometimes students asked me for some.
+influences:   • I became the "tissue guy" in secondary school because I always had spare tissues and occasionally students asked me for some.
 
 I was one of many secondary school students from art class on an excursion to tour an art museum in France that was divided between two isolated buildings. Everyone lined up to enter through metal detectors at the reception when seven of us at the back without white gloves realized only those wearing them were allowed to enter. A male student approached me to my left.
 

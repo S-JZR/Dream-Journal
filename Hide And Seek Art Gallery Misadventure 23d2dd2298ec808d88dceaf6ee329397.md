@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: July 19, 2025
-updated_at: August 23, 2026 2:29 AM
+updated_at: September 19, 2026 11:35 PM
 emotion: Surprise
-influences: During secondary school, the art teachers taped decorative black paper borders to our art without asking for the school art gala.
+influences:   • During secondary school, the art teachers taped decorative black paper borders to our art without asking for the school art gala.
 people_i_know: ? Co Art Teacher, ? Indian Student
 
 I was one of many secondary students playing hide and seek in the school when I considered hiding on a roof since it would be less obvious due to being inaccessible. However, I skipped the roof of a major building since it would attract too much attention and proceeded further to a metal staircase leading to a higher floor with an awning. I didn’t climb the exterior since there was a long drop. I kept searching upstairs and encountered a spacious art gallery with grey walls, a wooden floor, and a few paintings on the walls.

@@ -3,18 +3,16 @@
 is_favourite: No
 is_nsfw: No
 date: March 22, 2025
-updated_at: September 6, 2026 4:36 PM
+updated_at: September 26, 2026 11:33 PM
 sleep_phenomena: Precognitive
 emotion: Fear
-influences:   • Since last year we had bad neighbours move in that were the worst we’ve ever had to deal with that never accepted advice, constantly yelled at each other with poor family relationships, had no regard for noise, and manipulated to get their way.
-  • When learning to drive in the past, my dad would tell me to switch off the lights and engine when returning to the carpark in the unit complex to avoid disturbing the neighbours.
-  • I constantly struggle to park between the lines.
-symbols:   • Insect: My mum got overly upset by the neighbours but I didn’t let it bother me.
-  • Paint: Problems that others are trying to force upon me.
-  • Cycle Arguments: I dislike people who engage in endless petty arguments just to prove they’re right.
-  • Idol: My mum occasionally says foolish things or sweeping statements that make me cringe or unsure what to think about it.
-notes:   • Before the dream, my mum said the neighbours were officially moving out and put their property on the market.
-  • Possibly predicted the neighbours demanding money from another neighbour over suspicious circumstances about seven months later. The dream was probably following the trend of them being untrustworthy. [Classified for now].
+influences:   • Since 2024, we've dealt with the worst neighbours we’ve ever had. They were arrogant, manipulative, constantly yelling at each other, didn't care about noise, and left dog poo all over their backyard.
+  • My mum said the neighbours put their unit on the market and were moving out.
+  • When learning to drive, Dad made me turn off the engine and lights when parking in the unit complex to avoid disturbing the neighbours.
+  • I struggle to park between the lines.
+  • My mum got overly upset by the neighbours but I didn’t let it bother me.
+  • My mum occasionally says foolish things or hasty generalizations that make me cringe or unsure what to think.
+notes:   • Possibly predicted the neighbours demanding money from another neighbour under [suspicious circumstances] about seven months later. It likely followed the trend of their untrustworthy nature.
 people_i_know: ? Neighbour 2, Brother, Dad, Mum
 
 I was wandering through the streets in front of my unit complex at night with my family looking for something. I peaked back at their unit from a distance and noticed them seated outside on sofas watching a movie on a TV. Not wanting to be seen coming back late, we waited for hours until they went returned inside. After randomly falling asleep I dreamt about being in bed inside my unit but a small insect bothered me by flying ovals around me.

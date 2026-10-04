@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: October 17, 2024
-updated_at: June 5, 2026 2:01 AM
+updated_at: September 26, 2026 4:54 PM
 emotion: Happy
-influences: Mythology (2011) (Sakisa): I’ve been wanting to play Mythology for a while which likely influenced the Greek theme.
-notes: I stayed up late playing old GameMaker Sandbox games like Battleship Forever and lji.
+influences:   • I’ve been wanting to play Mythology (GameMaker; Sakisa) for a while.
+notes:   • I stayed up late playing old GameMaker games like Battleship Forever and lji.
 
 I was in a PS1-style videogame playing as a Greek warrior in a square environment:
 

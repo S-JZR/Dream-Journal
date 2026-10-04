@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: October 16, 2024
-updated_at: August 23, 2026 2:11 AM
+updated_at: October 4, 2026 10:08 PM
 emotion: Surprise
-influences: Shark Tank (2009): References a pitch from the owner of Minus Cal who claimed they had an advanced scientific process to block fat and the data to back it up: https://youtu.be/pwf1UmbjQho?si=vQgT651dJwAqruW6&t=252.
+influences:   • Minus Cal claimed to have an advanced scientific process to block fat: https://youtu.be/pwf1UmbjQho?si=vQgT651dJwAqruW6&t=252.
 
 I was one of many students at my secondary school that attended an assembly in a small canyon-themed seating area:
 

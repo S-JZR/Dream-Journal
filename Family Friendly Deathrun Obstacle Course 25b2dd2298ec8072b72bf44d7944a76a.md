@@ -3,10 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: August 26, 2025
-updated_at: August 22, 2026 8:59 PM
+updated_at: September 27, 2026 3:18 AM
 emotion: Surprise
-influences:   • Team Fortress 2 (2007): References the death run gamemode.
-  • Minecraft (2009): References mining blocks.
+influences:   • The deathrun gamemode in Team Fortress 2.
+  • Mining blocks in Minecraft.
 people_i_know: Brother, Dad, Mum
 
 I was attending an outdoor family friendly obstacle course with my family as we followed a footpath through a series of obstacles.

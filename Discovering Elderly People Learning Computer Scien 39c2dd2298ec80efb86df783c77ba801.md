@@ -3,12 +3,12 @@
 is_favourite: Yes
 is_nsfw: No
 date: July 13, 2026
-updated_at: September 6, 2026 2:18 AM
+updated_at: October 4, 2026 5:32 PM
 emotion: Fear
-influences:   • I was recently watching a few lectures about databases that I got earlier in my CS course which I somewhat felt weren’t as good as I remember.
-  • I studied online because of Covid-19 and I voluntarily chose it to avoid wasting time travelling to university classes which I thought weren’t worthwhile anyway. I watched most of my lectures live or as recordings through a computer. Some lecture videos were recycled from previous years.
-symbols:   • TV Cart: I feel that my university is old, outdated, and an impersonal automated system.
-  • Elderly people: I fear that I put too much trust in university and didn’t challenge whether it was worthwhile continuing enough only to spend my life there.
+influences:   • I recently watched a few old database lectures from my university.
+  • I chose to study online from Covid onwards to avoid wasting time travelling to university, especially since I felt like classes weren’t worth attending in-person. I watched lectures live or as pre-recordings. Some lectures were recycled from previous years.
+  • I feel like my university is old, outdated, and an impersonal automated system.
+  • I feel like I’ve been at university for too long.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

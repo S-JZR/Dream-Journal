@@ -3,15 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: June 15, 2024
-updated_at: July 12, 2026 9:21 PM
+updated_at: September 26, 2026 4:31 PM
 emotion: Happy
 people_in_the_media: MrBeast
-influences:   • References MrBeast hosting extreme hide and seek games.
-  • References old Roblox games with studs shown.
-
-
-Online Videos,MrBeast Videos,Roblox (2006)
-symbols: MrBeast: Likely the subconscious desire to be in a MrBeast video.
+influences:   • I watched MrBeast videos.
+  • Studs displayed in classic Roblox.
 
 I was invited to a Mr Beast competition in Roblox where I designed the map that other contestants would compete in. Eventually, I created a basic blocky plane interior, featuring stud surfaces, multiple sections, and four columns of seats with aisles on both sides of the middle two. All contestants tried sitting down, but I forgot to add the seating parts, causing them to fall over, so I quickly copied them in.
 

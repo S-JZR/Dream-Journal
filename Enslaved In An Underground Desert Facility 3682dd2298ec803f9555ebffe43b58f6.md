@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: May 22, 2026
-updated_at: September 6, 2026 4:23 PM
+updated_at: September 28, 2026 1:39 AM
 emotion: Surprise
-influences:   • Likely references Lady Cassandra from Doctor Who that needs to be constantly moisturized
+influences:   • Lady Cassandra needs to be constantly moisturized in Doctor Who.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

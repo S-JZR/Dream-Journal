@@ -3,11 +3,8 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2014
-updated_at: August 23, 2026 3:21 AM
+updated_at: September 20, 2026 7:56 PM
 emotion: Fear
-influences: I constantly criticise my shortcomings.
-symbols:   • Trenches: Battlefield of the mind.
-  • Bad Prophecies: Feeling like I won’t be successful because I’m too stupid, too cautious, and not good enough.
 
 I was standing inside trenches with a middle-age man and woman when a disembodied male voice started giving bad prophecies over us and we each feared what it would say.
 

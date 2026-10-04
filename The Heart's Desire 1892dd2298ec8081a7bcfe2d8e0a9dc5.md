@@ -3,11 +3,9 @@
 is_favourite: Yes
 is_nsfw: No
 date: December 29, 2024
-updated_at: August 23, 2026 2:13 AM
+updated_at: September 20, 2026 4:02 AM
 emotion: Surprise
-influences: Christianity: Reminds me of Proverbs 4:23.
-symbols:   • Heart: The inner self.
-  • Homeless Man: Jealously and anger for what others have that you don’t.
+influences:   • Proverbs 4:23.
 
 I was ascending the stairs of a skyscraper without windows except for the top floor which led into an empty room with a giant red 3D love heart at the centre. During the journey, a disembodied voice explained that many people are distracted by the symptoms of societal problems, overlooking the root cause which lies in the desires of one's heart.
 

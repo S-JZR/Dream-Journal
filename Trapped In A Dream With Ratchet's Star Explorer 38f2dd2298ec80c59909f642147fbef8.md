@@ -3,11 +3,11 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2008
-updated_at: August 22, 2026 11:33 PM
+updated_at: October 4, 2026 9:58 PM
 sleep_phenomena: Trapped In A Dream
 emotion: Fear
-influences: Likely references playing Ratchet And Clank 3 at the time.
-notes: I forgot the rest of the dream.
+influences:   • Ratchet’s Star Explorer from Ratchet And Clank 3: https://ratchetandclank.fandom.com/wiki/Star_Explorer.
+notes:   • I forgot the rest of the dream.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

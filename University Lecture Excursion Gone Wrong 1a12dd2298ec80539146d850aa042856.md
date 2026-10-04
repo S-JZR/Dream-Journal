@@ -3,11 +3,9 @@
 is_favourite: Yes
 is_nsfw: No
 date: February 19, 2025
-updated_at: August 23, 2026 2:17 AM
+updated_at: September 20, 2026 4:04 AM
 emotion: Sad
-influences: I often feel like university is a waste of time.
-symbols:   • Shuffling Feet: The desire to avoid harming animals and insects.
-  • Mrs Brown: The feeling that people are too complacent with university.
+influences:   • I often feel like university is a waste of time.
 people_i_know: Mrs Brown, Sarajah
 
 I was one of many secondary school students on an art excursion to a university lecture. We entered a chicken house through the back in a line:

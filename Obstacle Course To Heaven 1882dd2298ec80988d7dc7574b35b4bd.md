@@ -3,11 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: August 23, 2026 2:45 AM
+updated_at: September 28, 2026 3:22 AM
 emotion: Sad
-influences:   • I’ve always struggled with believing in God.
-  • Christianity: Betting limbs sounds like a morbid parody of Matthew 5:30.
-symbols: Obstacle Course: Heaven feels impossible to reach and I don’t know where to begin.
+influences:   • I’ve always struggled to believe that God exists.
+  • [Likely] Matthew 5:30 (distorted).
 
 I was standing on a rectangular platform in a black void in the afterlife with other people in front of a vertical obstacle course leading to heaven comprising a series of levitating cubes. The cubes measured two metres on all sides, were dark grey, had glowing rainbow outlines, and rotated periodically. Everyone could freely swap between these choices:
 

@@ -3,11 +3,11 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 3, 2026
-updated_at: September 6, 2026 2:40 AM
+updated_at: September 28, 2026 1:46 AM
 emotion: Surprise
 people_in_the_media: God
-influences: Christianity: References Revelation 4:8.
-notes: I forgot the rest of the dream which was unrelated.
+influences:   • Revelation 4:8.
+notes:   • I forgot the rest of the dream which was unrelated.
 
 <aside>
 <img src="https://app.notion.com/icons/warning_gray.svg" alt="https://app.notion.com/icons/warning_gray.svg" width="40px" />

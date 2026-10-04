@@ -3,11 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: May 22, 2025
-updated_at: July 12, 2026 9:26 PM
+updated_at: September 20, 2026 3:31 AM
 emotion: Fear
-influences:   • Team Fortress 2 (2007):
-      ◦ References the Medic Vs Engineer zombie gamemode.
-      ◦ References Demoman sticky jumping.
+influences:   • The Medic Vs Engineer zombie gamemode and Demoman sticky jumping in Team Fortress 2.
 
 I was one of many players in a prop hunt videogame where the hunters were zombies that instantly infected players. The map featured a large rectangular spaceship hangar with one long side open to grassy mountains and the ocean, a rectangular two-storey sci-fi facility on the right, and a network of interconnected back hallways.
 

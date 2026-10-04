@@ -3,9 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: September 19, 2020
-updated_at: August 22, 2026 2:37 AM
+updated_at: September 20, 2026 3:53 AM
 emotion: Fear
-symbols: Held Hostage: The fear of being held against my will.
 
 I was being held against my will in remote foster homes resembling rows of British Terrace brick houses. Determined to escape, I ventured towards the distant hill, only to stumble upon an ongoing firefight between an unidentified individual and soldiers. Seeking cover behind a rock, I eventually raised my hands in surrender as the soldiers closed in to capture me.
 

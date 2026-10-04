@@ -3,12 +3,10 @@
 is_favourite: No
 is_nsfw: No
 date: January 11, 2020
-updated_at: August 23, 2026 2:48 AM
+updated_at: September 20, 2026 3:53 AM
 emotion: Happy
-influences:   • Rhiannon and other female students often talked about everyday life during art class.
-  • My dad can be a rough driver at times.
-symbols:   • Telekinesis: The shadow self being a trickster.
-  • 45 Degree Road: Feeling anxious when my dad drives.
+influences:   • In art class, Rhiannon and other female students often discussed everyday life.
+  • My dad can be a rough driver and it makes me feel uncomfortable.
 people_i_know: Dad, Mum, Rhiannon C
 
 I was standing in a local former church after the service finished when my mum explained that she had tickets for a family musical at another church later that day. Before leaving, I mischievously decided to amuse myself by attempting to startle those nearby using telekinesis to tidy up pamphlets on a table near the amphitheatre entrance, but the spectacle went unnoticed.

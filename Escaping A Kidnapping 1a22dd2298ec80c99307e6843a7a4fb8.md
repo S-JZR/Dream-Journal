@@ -3,9 +3,8 @@
 is_favourite: No
 is_nsfw: No
 date: January 1, 2014
-updated_at: August 22, 2026 11:48 PM
+updated_at: September 20, 2026 3:42 AM
 emotion: Fear
-symbols: Criminal: The fear of being held against my will.
 
 I was being held hostage by an armed male criminal who broke into a one-storey office beside an urban river with a small dock and forced me to help extract documents about another escaped individual from the file cabinets. While he was distracted, I seized the opportunity to flee outside onto an outboard motorboat floating on the water. It remained stubbornly unresponsive despite repeated attempts to start the engine by pulling the cord.
 

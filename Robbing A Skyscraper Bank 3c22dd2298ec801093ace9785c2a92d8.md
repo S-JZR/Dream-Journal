@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: August 20, 2026
-updated_at: August 23, 2026 7:06 PM
+updated_at: September 20, 2026 3:06 AM
 emotion: Fear
-influences: I saw Frieda Pilkington in the Animal Farm trailer
+influences:   • I saw Frieda Pilkington in the Animal Farm trailer.
 people_i_know: Dejan C
 
 <aside>

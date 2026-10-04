@@ -3,11 +3,10 @@
 is_favourite: Yes
 is_nsfw: No
 date: January 1, 2020
-updated_at: August 23, 2026 12:18 AM
+updated_at: September 20, 2026 3:52 AM
 emotion: Fear
 people_in_the_media: Grim Reaper
-influences: Recently my family has been attending the church.
-symbols: Empty Coffin: The fear of death.
+influences:   • I have been attending the church with my family for a month.
 
 I was attending a funeral service in a small former church at night:
 

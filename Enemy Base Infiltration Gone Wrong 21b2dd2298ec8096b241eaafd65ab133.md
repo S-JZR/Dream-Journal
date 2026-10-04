@@ -3,9 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: June 20, 2025
-updated_at: September 6, 2026 1:36 AM
+updated_at: September 19, 2026 11:27 PM
 emotion: Fear
-influences: Ratchet And Clank 3 (2004): references floating spinning obstacles with spikes and fire.
+influences:   • Floating spinning platform obstacles with spikes and fire in Ratchet And Clank 3.
 people_i_know: Julien C
 
 I was one of a few spies wearing yellow wetsuits exiting the ocean onto a circular concrete platform to infiltrate an enemy sea base connected to an island. After opening a manhole, we descended into the basement and encountered a deadly obstacle course inside a long tunnel.

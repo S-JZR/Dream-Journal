@@ -3,11 +3,9 @@
 is_favourite: No
 is_nsfw: No
 date: May 27, 2025
-updated_at: August 23, 2026 2:26 AM
+updated_at: October 4, 2026 10:17 PM
 emotion: Fear
-influences: The agent reminds me of the case of John Lang: https://youtu.be/wsFBeetiYMs?si=Vs1sqtWgHBt2aZcI&t=410.
-symbols:   • AI: The fear of the truth being drowned out by AI.
-  • Female Agent: The fear of losing privacy to invasive technologies.
+influences:   • Allegedly agents scanned John Lang's home: https://youtu.be/wsFBeetiYMs?si=Vs1sqtWgHBt2aZcI&t=410.
 
 I was spectating a superstorm passing over Queensland during the night, causing various wild animals to move into populated areas. I walked onto the grass oval at my secondary school the next day and saw three thick 10 meter long crocodiles lying idle on their bellies beside each other. Red and white hazard tape formed a rectangular perimeter around them with padding inside. One had wandered slightly outside the taped area.
 
