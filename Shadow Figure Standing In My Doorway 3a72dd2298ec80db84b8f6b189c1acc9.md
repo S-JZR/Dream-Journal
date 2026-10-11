@@ -3,7 +3,7 @@
 is_favourite: No
 is_nsfw: No
 date: July 24, 2026
-updated_at: September 20, 2026 3:04 AM
+updated_at: October 6, 2026 3:25 AM
 sleep_phenomena: False Awakening, Nightmare
 emotion: Fear
 influences:   • I recently generated AI images of the sword pose and a geometric monster that both represented dictatorships.
